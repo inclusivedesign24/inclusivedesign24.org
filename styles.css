@@ -5,7 +5,7 @@ body {
     color: #FCFCFC;
 }
 
-main, footer div {
+header, main, footer div {
     max-width: 45em;
     margin: 0 auto;
 }
