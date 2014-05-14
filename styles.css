@@ -48,7 +48,7 @@ button {
     font-weight: bold;
 }
 
-#signup {
+#signup, #connect {
     display: block;
     width: 9em;
     text-align: center;
