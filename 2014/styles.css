@@ -48,7 +48,7 @@ button {
     font-weight: bold;
 }
 
-#signup, #connect {
+#signup, #connect, #archive {
     display: block;
     width: 9em;
     text-align: center;
@@ -64,6 +64,8 @@ button {
     text-decoration: none;
     clear: both;
 }
+
+#archive { width: 15em; }
 
 #signup:focus, #signup:hover {
     background: #0B3160;
