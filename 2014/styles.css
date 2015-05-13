@@ -5,9 +5,28 @@ body {
     color: #FCFCFC;
 }
 
-header, main, footer div {
+nav, header, main, footer div {
     max-width: 45em;
     margin: 0 auto;
+}
+
+nav {
+  border-bottom: 1px #444 solid;
+  padding-bottom: 1em;
+}
+
+nav * {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul {
+  padding-left: 2em;
+}
+
+nav ul li {
+  padding-right: 0.5em;
 }
 
 #intro {
