@@ -69,7 +69,7 @@ button {
 
 #signup, #connect, #archive {
     display: block;
-    width: 9em;
+    width: 14em;
     text-align: center;
     font-family: Roboto Slab, Helvetica, Arial, sans-serif;
     font-size: 1em;
@@ -82,6 +82,14 @@ button {
     margin: 1em auto;
     text-decoration: none;
     clear: both;
+}
+
+aside {
+    background-color: #333;
+    border: 2px #444 solid;
+    border-radius: 5px;
+    padding: 1em;
+    font-size: 0.75em;
 }
 
 #archive { width: 15em; }
@@ -100,6 +108,11 @@ button {
 
 section h2 {
     border-bottom: 1px solid #777;
+}
+
+
+section { 
+    margin-bottom: 2em;
 }
 
 .session {
