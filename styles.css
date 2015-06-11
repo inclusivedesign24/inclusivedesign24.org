@@ -214,6 +214,10 @@ a.youtube {
     text-decoration: none;
 }
 
+a.slides { 
+    text-decoration: none;
+}
+
 .hidden {
     display: none !important;
 }
