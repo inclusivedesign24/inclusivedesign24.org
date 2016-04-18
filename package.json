@@ -31,7 +31,6 @@
     "grunt": "^1.0.1",
     "grunt-contrib-jshint": "^1.0.0",
     "grunt-contrib-watch": "^1.0.0",
-    "grunt-ftp-deploy": "^0.1.10",
     "jshint-stylish": "^2.1.0",
     "load-grunt-tasks": "^3.5.0"
   }
