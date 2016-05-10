@@ -155,6 +155,10 @@ section {
     font-size: 2em;
 }
 
+.session_time .session_time_local_ampm {
+    font-size: 0.3em;
+}
+
 .session_time .session_day_local,
 .session_time .session_time_offset {
     font-size: 0.45em;
