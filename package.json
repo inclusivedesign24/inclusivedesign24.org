@@ -1,0 +1,37 @@
+{
+  "name": "id24",
+  "version": "0.0.1",
+  "description": "Website for InclusiveDesign24.org",
+  "keywords": [
+    "GAAD, ID24"
+  ],
+  "homepage": "http://InclusiveDesign24.org",
+  "bugs": "https://github.com/ThePacielloGroup/inclusivedesign24.org/issues",
+  "author": {
+    "name": "Patrick Lauke",
+    "email": "plauke@paciellogroup.com",
+    "url": "http://www.paciellogroup.com"
+  },
+  "contributors": [
+    {
+      "name": "Karl Groves",
+      "email": "kgroves@paciellogroup.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ThePacielloGroup/inclusivedesign24.org.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "jshint-stylish": "^2.1.0",
+    "load-grunt-tasks": "^3.5.0"
+  }
+}

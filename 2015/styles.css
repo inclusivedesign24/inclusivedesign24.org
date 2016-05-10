@@ -11,6 +11,7 @@ nav, header, main, footer div {
 }
 
 nav {
+  border-bottom: 1px #444 solid;
   padding-bottom: 1em;
 }
 
@@ -21,7 +22,7 @@ nav * {
 }
 
 nav ul {
-  padding-left: 0.25em;
+  padding-left: 2em;
 }
 
 nav ul li {
@@ -134,8 +135,7 @@ section {
     background: transparent;
     font-size: 0.75em;
     margin: 0;
-    padding: 0.5em;
-    width: 9em;
+    padding: 0.25em;
     background: #3D7CAC;
     border: 1px #357EBD solid;
     color: #fff;
