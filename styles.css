@@ -141,7 +141,7 @@ section {
     padding: 0.5em;
     width: 9em;
     background: #3D7CAC;
-    border: 1px #357EBD solid;
+    border: 0.25em #357EBD solid;
     color: #fff;
     border-radius: 0.25em;
     display: block;
