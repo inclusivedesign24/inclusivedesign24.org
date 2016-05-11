@@ -248,6 +248,7 @@ a.slides {
 
 /* Adaptations for smaller screens */
 
+@media (max-width: 25em) {
     body {
         font-size: 0.95em;
         padding: 0 0.5em;
