@@ -129,6 +129,10 @@ section {
     margin: 0 0 0.25em 0;
 }
 
+.session h4 {
+    color: #999;
+}
+
 .session button {
     border: none;
     background: transparent;
