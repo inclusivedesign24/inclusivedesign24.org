@@ -28,6 +28,11 @@ nav ul li {
   padding-right: 0.5em;
 }
 
+header p {
+    color: #999;
+    margin: 0;
+}
+
 #intro {
     width: 69%;
     float: left;
@@ -45,7 +50,6 @@ button {
 footer {
     margin-top: 2em;
     padding: 2em 0;
-    background: #151515;
 }
 
 a, a:link, a:visited {
@@ -240,4 +244,51 @@ a.slides {
     overflow:hidden;
     clip:rect(0,0,0,0);
     border:0;
+}
+
+/* Adaptations for smaller screens */
+
+    body {
+        font-size: 0.95em;
+        padding: 0 0.5em;
+    }
+
+    h1 {
+        font-size: 1.25em;
+    }
+
+    h2 {
+        line-height: 1;
+    }
+
+    #intro {
+        width: auto;
+        float: none;
+    }
+
+    #twitter {
+        width: auto;
+        float: none;
+    }
+
+    .session {
+        padding-top: 0.5em;
+        padding-left: 0.5em;
+    }
+
+    .session_time {
+        position: initial;
+        top: 0;
+        left: 0;
+    }
+
+    .session_time .session_time_local_ampm {
+        font-size: 0.4em;
+    }
+
+    .session_time .session_day_local,
+    .session_time .session_time_offset {
+        display: inline;
+        margin-top: 0;
+    }
 }
