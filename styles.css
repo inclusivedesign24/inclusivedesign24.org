@@ -141,19 +141,13 @@ section {
     border: none;
     background: transparent;
     font-size: 0.75em;
-    margin: 0;
-    padding: 0.5em;
-    width: 9em;
-    background: #3D7CAC;
-    border: 0.25em #357EBD solid;
-    color: #fff;
+    color: #55ACEE;
     border-radius: 0.25em;
     display: block;
 }
 
 .session button:focus, .session button:hover {
-    background: #0B3160;
-    outline: none;
+    outline: 2px #55ACEE solid;
 }
 
 .session_time {
