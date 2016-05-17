@@ -10,17 +10,19 @@ function pad(num, size) {
     $('.session_details').each(function (index) {
         var id = 'session_details_' + index;
         $(this).attr('id', id);
-        var b = $('<button>Show details</button>');
+        var b = $('<button><i class="fa fa-chevron-right" aria-hidden="true"></i> <span>Show details</span></button>');
         b.attr('aria-controls', id).attr('aria-expanded', 'false');
         b.bind('click', function () {
             if ($(this).attr('aria-expanded') === 'false') {
                 $("#" + $(this).attr('aria-controls')).show();
                 $(this).attr('aria-expanded', 'true');
-                $(this).text('Hide details');
+                 $(this).find('i').attr('class','fa fa-chevron-down');
+                $(this).find('span').text('Hide details');
             } else {
                 $("#" + $(this).attr('aria-controls')).hide();
                 $(this).attr('aria-expanded', 'false');
-                $(this).text('Show details');
+                $(this).find('i').attr('class','fa fa-chevron-right');
+                $(this).find('span').text('Show details');
             }
         });
         b.insertBefore($(this));
