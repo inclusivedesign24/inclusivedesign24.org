@@ -64,10 +64,20 @@ a:focus, a:hover, a:active {
     border-radius: 0.1em;
 }
 
-button {
+button, .session .videostream {
     font-family: Roboto Slab, Helvetica, Arial, sans-serif;
     font-size: 1em;
     font-weight: bold;
+    text-decoration: none;
+    display: inline;
+    padding: 0 0.25em;
+}
+
+.session .videostream:focus,
+.session .videostream:hover,
+.session .videostream:active {
+    padding: 0 0.25em;
+    margin: 0;
 }
 
 #signup, #connect, #archive {
@@ -137,16 +147,15 @@ section {
     color: #999;
 }
 
-.session button {
+.session button, .session .videostream {
     border: none;
     background: transparent;
-    font-size: 0.75em;
+    font-size: 0.8em;
     color: #55ACEE;
-    border-radius: 0.25em;
-    display: block;
 }
 
-.session button:focus, .session button:hover {
+.session button:focus, .session button:hover,
+.session .videostream:focus, .session .videostream:hover {
     outline: 2px #55ACEE solid;
 }
 
