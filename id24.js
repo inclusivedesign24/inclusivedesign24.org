@@ -8,10 +8,11 @@ function pad(num, size) {
     // Expand/collapse session details
     $('.session_details').hide();
     $('.session_details').each(function (index) {
-        var id = 'session_details_' + index;
+        var id = 'session_details_' + (index+1);
         $(this).attr('id', id);
         var b = $('<button><i class="fa fa-chevron-right" aria-hidden="true"></i> <span>Show details</span></button>');
         b.attr('aria-controls', id).attr('aria-expanded', 'false');
+        b.attr('aria-describedby', 'talk' + (index+1));
         b.bind('click', function () {
             if ($(this).attr('aria-expanded') === 'false') {
                 $("#" + $(this).attr('aria-controls')).show();
