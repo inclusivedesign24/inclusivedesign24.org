@@ -63,8 +63,8 @@ a, a:link, a:visited {
 a:focus, a:hover, a:active {
     background: #3D7CAC;
     color: #fff;
-    padding: 0 0.25em;
-    margin: 0 -0.25em;
+    padding: 0 5px; /* using px rather than em, as 0.25em / -0.25em seems to have rounding issues leading to subtle sub-pixel dancing */
+    margin: 0 -5px;
     border-radius: 0.1em;
 }
 
