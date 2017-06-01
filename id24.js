@@ -43,7 +43,7 @@ function pad(num, size) {
     }
 
     $('.session').each(function () {
-        var local = new Date(parseInt($(this).attr('data-time-gmt')));
+        var local = new Date(parseInt($(this).attr('data-time-utc')));
         $(this).find('span.session_time_local').text((local.getHours() == 0 ? "12" : local.getHours() > 12 ? local.getHours() - 12 : local.getHours()) + ':' + pad(local.getMinutes(), 2));
         $(this).find('span.session_time_local_ampm').text(local.getHours() < 12 ? "AM" : "PM");
         $(this).find('span.session_time_utc').text(local.getUTCHours() + ':' + pad(local.getUTCMinutes(), 2));

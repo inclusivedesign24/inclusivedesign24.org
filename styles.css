@@ -181,6 +181,10 @@ section {
     font-size: 0.3em;
 }
 
+.session_time_offset {
+    font-size: 0.3em !important;
+}
+
 .session_time .session_day_local,
 .session_time .session_time_offset {
     font-size: 0.45em;
@@ -193,9 +197,12 @@ section {
     padding-left: 0.1em;
 }
 
-.session_time .session_time_offset,
-#time_machine {
+.session_time .session_time_offset {
     color: #888;
+}
+
+#time_machine {
+    color: #FDC301;
 }
 
 .session_time .now {
