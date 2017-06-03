@@ -39,7 +39,6 @@ function pad(num, size) {
             offset = '+' + offset;
         }
         $('.time_offset').text(offset);
-        $('#time_machine').removeClass('hidden');
     }
 
     $('.session').each(function () {
