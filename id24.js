@@ -31,7 +31,8 @@ function pad(num, size) {
 
     // Adjust sessions times to be local
     var now = new Date();
-    var offset = now.getTimezoneOffset() / -60;
+    var local = new Date(parseInt($('.session').first().attr('data-time-utc')));
+    var offset = local.getTimezoneOffset() / -60;
     var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
     if (offset !== 0) {
