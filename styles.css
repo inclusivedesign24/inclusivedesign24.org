@@ -134,7 +134,7 @@ section h2 {
 }
 
 
-section { 
+section {
     margin-bottom: 2em;
 }
 
@@ -246,13 +246,14 @@ ul.pres_info li {
 
 ul.pres_info li a {
     text-decoration: none;
+    white-space: nowrap;
 }
 
 a.youtube {
     text-decoration: none;
 }
 
-a.slides { 
+a.slides {
     text-decoration: none;
 }
 
