@@ -195,6 +195,13 @@ section {
 .session_time .session_day_local {
     margin-bottom: 0.5em;
     padding-left: 0.1em;
+    font-size: 0.3em !important;
+    color: #888;
+}
+
+.session_time .session_day_local.datechange {
+    color: #fff;
+    font-size: 0.45em !important;
 }
 
 .session_time .session_time_offset {

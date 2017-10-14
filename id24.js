@@ -33,6 +33,7 @@ function pad(num, size) {
     var now = new Date();
     var local = new Date(parseInt($('.session').first().attr('data-time-utc')));
     var offset = local.getTimezoneOffset() / -60;
+    var lastdateshown = null;
     var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
     if (offset !== 0) {
@@ -47,8 +48,10 @@ function pad(num, size) {
         $(this).find('span.session_time_local').text((local.getHours() == 0 ? "12" : local.getHours() > 12 ? local.getHours() - 12 : local.getHours()) + ':' + pad(local.getMinutes(), 2));
         $(this).find('span.session_time_local_ampm').text(local.getHours() < 12 ? "AM" : "PM");
         $(this).find('span.session_time_utc').text(local.getUTCHours() + ':' + pad(local.getUTCMinutes(), 2));
-        if (local.getUTCDate() !== local.getDate()) {
-            $(this).find('span.session_day_local').text(local.getDate() + ' ' + months[local.getMonth()]).removeClass('hidden');
+        $(this).find('span.session_day_local').text(local.getDate() + ' ' + months[local.getMonth()])
+        if ( (lastdateshown === null) || ((local.getDate() !== lastdateshown) && (local.getUTCDate() !== local.getDate()))) {
+            $(this).find('span.session_day_local').addClass('datechange');
+            lastdateshown = local.getDate();
         }
 
         // FOR PRODUCTION, ALSO ADD A CHECK FOR THE ACTUAL DAY &&(local.getDate() == now.getDate())
