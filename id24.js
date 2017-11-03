@@ -49,7 +49,7 @@ function pad(num, size) {
         $(this).find('span.session_time_local_ampm').text(local.getHours() < 12 ? "AM" : "PM");
         $(this).find('span.session_time_utc').text(local.getUTCHours() + ':' + pad(local.getUTCMinutes(), 2));
         $(this).find('span.session_day_local').text(local.getDate() + ' ' + months[local.getMonth()])
-        if ( (lastdateshown === null) || ((local.getDate() !== lastdateshown) && (local.getUTCDate() !== local.getDate()))) {
+        if ( (lastdateshown === null) || ((local.getDate() !== lastdateshown) )) {
             $(this).find('span.session_day_local').addClass('datechange');
             lastdateshown = local.getDate();
         }
