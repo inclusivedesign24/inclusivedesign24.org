@@ -5,6 +5,9 @@ body {
     color: #FCFCFC;
 }
 
+/* IE11 patch */
+header, footer, section, nav, main { display: block; }
+
 nav, header, main, footer div {
     max-width: 45em;
     margin: 0 auto;

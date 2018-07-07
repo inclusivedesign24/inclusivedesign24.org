@@ -5,12 +5,19 @@ body {
     color: #FCFCFC;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
 abbr[title], acronym[title] {
     text-decoration: none;
 }
 
+/* IE11 patch */
+header, footer, section, nav, main { display: block; }
+
 header, main {
-    max-width: 45em;
+    max-width: 55rem;
     margin: 0 auto;
 }
 
@@ -41,6 +48,16 @@ main li {
   margin-bottom: 1em;
 }
 
+svg#id24full {
+    width: 50%;
+}
+
+svg#id24hashtag {
+    width: 15%;
+    float: left;
+    margin: -0.5em 1em 0 0;
+}
+
 #intro {
     width: 69%;
     float: left;
@@ -59,20 +76,19 @@ footer {
     margin-top: 2.4em;
     padding: 2.4em 0;
     font-size: 0.8em;
-    max-width: 54em; /* 45*1.2 */
+    max-width: 55rem;
     margin: 0 auto;
 }
 
 a, a:link, a:visited {
-    color: #55ACEE;
+    color: #ffe400;
 }
 
 a:focus, a:hover, a:active {
-    background: #3D7CAC;
-    color: #fff;
-    padding: 0 5px; /* using px rather than em, as 0.25em / -0.25em seems to have rounding issues leading to subtle sub-pixel dancing */
-    margin: 0 -5px;
-    border-radius: 0.1em;
+    background: #ffe400;
+    color: #282828;
+    padding: 0 2px; /* using px rather than em, as 0.25em / -0.25em seems to have rounding issues leading to subtle sub-pixel dancing */
+    margin: 0 -2px;
 }
 
 button, .session .videostream {
@@ -95,21 +111,30 @@ button, .session .videostream {
     display: block;
     width: 14em;
     text-align: center;
-    font-family: Roboto Slab, Helvetica, Arial, sans-serif;
-    font-size: 1em;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.5em;
     font-weight: bold;
-    padding: 1em;
-    background: #3D7CAC;
-    border: 1px #357EBD solid;
-    color: #fff;
+    padding: 0.5em;
+    background: #ffe400;
+    border: 3px #ffe400 solid;
+    color: #282828;
     border-radius: 0.25em;
     margin: 1em auto;
     text-decoration: none;
     clear: both;
 }
 
+#signup:focus, #connect:focus, #archive:focus,
+#signup:hover, #connect:hover, #archive:hover,
+#signup:active, #connect:active, #archive:active {
+    background: #282828;
+    color: #ffe400;
+    text-decoration: underline;
+    outline: none;
+}
+
 aside {
-    background-color: #333;
+    background-color: #282828;
     border: 2px #444 solid;
     border-radius: 5px;
     padding: 1em;
@@ -153,7 +178,7 @@ section {
 }
 
 .session.now {
-    background: #333;
+    background: #282828;
 }
 
 .session h3 {
@@ -168,12 +193,12 @@ section {
     border: none;
     background: transparent;
     font-size: 0.8em;
-    color: #55ACEE;
+    color: #ffe400;
 }
 
 .session button:focus, .session button:hover,
 .session .videostream:focus, .session .videostream:hover {
-    outline: 2px #55ACEE solid;
+    outline: 2px #ffe400 solid;
 }
 
 .session_time {
@@ -216,13 +241,13 @@ section {
 }
 
 #time_machine {
-    color: #FDC301;
+    color: #ffe400;
 }
 
 .session_time .now {
     display: block;
     font-size: 0.3em;
-    color: #FDC301;
+    color: #ffe400;
     font-weight: bold;
     margin: 0.85em 0 -0.55em 0;
 }
@@ -317,10 +342,14 @@ a.slides {
 
 /* Adaptations for smaller screens */
 
-@media (max-width: 25em) {
+@media (max-width: 500px) {
     body {
         font-size: 0.95em;
         padding: 0 0.5em;
+    }
+
+    svg#id24full {
+        width: auto;
     }
 
     h1 {
