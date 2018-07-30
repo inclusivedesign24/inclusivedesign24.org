@@ -18,7 +18,7 @@ abbr[title], acronym[title] {
 /* IE11 patch */
 header, footer, section, nav, main { display: block; }
 
-header, main {
+header, main, footer {
     max-width: 55rem;
     margin: 0 auto;
 }
@@ -78,8 +78,6 @@ footer {
     margin-top: 2.4em;
     padding: 2.4em 0;
     font-size: 0.8em;
-    max-width: 55rem;
-    margin: 0 auto;
 }
 
 a, a:link, a:visited {
