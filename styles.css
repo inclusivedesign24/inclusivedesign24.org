@@ -1,12 +1,14 @@
 body {
     font-family: Roboto Slab, Helvetica, Arial, sans-serif;
+    font-weight: 300;
     font-size: 1.25em;
     background: #242424;
-    color: #FCFCFC;
+    color: #ddd;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Nunito Sans', sans-serif;
+    color: #fff;
 }
 
 abbr[title], acronym[title] {
@@ -186,7 +188,7 @@ section {
 }
 
 .session h4 {
-    color: #FCFCFC;
+    color: #fcfcfc;
 }
 
 .session button, .session .videostream {
