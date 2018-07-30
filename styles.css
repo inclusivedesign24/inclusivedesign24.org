@@ -82,9 +82,6 @@ main li {
   margin-bottom: 1em;
 }
 
-button {
-    clear: both;
-}
 
 footer {
     font-size: 0.8em;
@@ -131,7 +128,6 @@ button, .session .videostream {
     border-radius: 0.25em;
     margin: 1em auto;
     text-decoration: none;
-    clear: both;
 }
 
 #signup:focus, #connect:focus, #archive:focus,
