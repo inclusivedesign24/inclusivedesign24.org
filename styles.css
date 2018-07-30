@@ -1,3 +1,5 @@
+/* generic styles */
+
 body {
     font-family: Roboto Slab, Helvetica, Arial, sans-serif;
     font-weight: 300;
@@ -18,10 +20,40 @@ abbr[title], acronym[title] {
 /* IE11 patch */
 header, footer, section, nav, main { display: block; }
 
+/* grid layout */
+
 header, main, footer {
-    max-width: 55rem;
-    margin: 0 auto;
+    margin: 0;
+    display: grid;
+    grid-template-columns: [edge-start] minmax(1rem, 1fr) [content-start] repeat(12, 4.25rem) [content-end] minmax(1rem, 1fr) [edge-end];
+    grid-column-gap: 0.5rem;
 }
+
+header > *, main > *, footer > * {
+    grid-column: 2/14;
+}
+
+header #logo {
+    grid-column: 2/7;
+}
+
+main #intro {
+    grid-column: 2/10;
+}
+
+main #twitter {
+    grid-column: 10/14;
+}
+
+footer #logo_hashtag {
+    grid-column: 2/4;
+}
+
+footer nav {
+    grid-column: 4/14;
+}
+
+/* specific styles */
 
 nav {
   padding-bottom: 1em;
@@ -50,33 +82,11 @@ main li {
   margin-bottom: 1em;
 }
 
-svg#id24full {
-    width: 50%;
-}
-
-svg#id24hashtag {
-    width: 15%;
-    float: left;
-    margin: -0.5em 1em 0 0;
-}
-
-#intro {
-    width: 69%;
-    float: left;
-}
-
-#twitter {
-    width: 30%;
-    float: right;
-}
-
 button {
     clear: both;
 }
 
 footer {
-    margin-top: 2.4em;
-    padding: 2.4em 0;
     font-size: 0.8em;
 }
 
@@ -164,7 +174,6 @@ aside {
 section h2 {
     border-bottom: 1px solid #777;
 }
-
 
 section {
     margin-bottom: 2em;
@@ -340,16 +349,20 @@ a.slides {
     border:0;
 }
 
-/* Adaptations for smaller screens */
+/* adaptations for smaller screens */
 
-@media (max-width: 500px) {
+@media (max-width: 55rem) {
     body {
         font-size: 0.95em;
         padding: 0 0.5em;
     }
 
-    svg#id24full {
-        width: auto;
+    header, main, footer {
+        grid-template-columns: [edge-start] minmax(1rem, 1fr) [content-start] repeat(12, 1fr) [content-end] minmax(1rem, 1fr) [edge-end];
+    }
+
+    header #logo {
+        grid-column: 2/14;
     }
 
     h1 {
@@ -360,14 +373,20 @@ a.slides {
         line-height: 1;
     }
 
-    #intro {
-        width: auto;
-        float: none;
+    main #intro {
+        grid-column: 2/14;
     }
 
-    #twitter {
-        width: auto;
-        float: none;
+    main #twitter {
+        grid-column: 2/14;
+    }
+
+    footer #logo_hashtag {
+        grid-column: 2/6;
+    }
+    
+    footer nav {
+        grid-column: 2/14;
     }
 
     .session {
