@@ -403,6 +403,5 @@ a.slides {
     .session_time .session_day_local,
     .session_time .session_time_offset {
         display: inline;
-        margin-top: 0;
     }
 }
