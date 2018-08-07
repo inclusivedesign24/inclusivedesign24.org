@@ -151,7 +151,7 @@ button, .session .videostream {
 
 #signup, #connect, #archive {
     display: block;
-    width: 14em;
+    max-width: 14em;
     text-align: center;
     font-family: 'Nunito Sans', sans-serif;
     font-size: 1.5em;
