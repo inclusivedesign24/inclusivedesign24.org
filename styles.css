@@ -1,12 +1,16 @@
+/* generic styles */
+
 body {
     font-family: Roboto Slab, Helvetica, Arial, sans-serif;
+    font-weight: 300;
     font-size: 1.25em;
     background: #242424;
-    color: #FCFCFC;
+    color: #ddd;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Nunito Sans', sans-serif;
+    color: #fff;
 }
 
 abbr[title], acronym[title] {
@@ -16,10 +20,75 @@ abbr[title], acronym[title] {
 /* IE11 patch */
 header, footer, section, nav, main { display: block; }
 
-header, main {
-    max-width: 55rem;
-    margin: 0 auto;
+/* grid layout */
+
+header, main, footer {
+    margin: 0;
+    display: -ms-grid;
+    -ms-grid-columns: minmax(1rem, 1fr) (4.25rem)[12] minmax(1rem, 1fr);
+    display: grid;
+    grid-template-columns: minmax(1rem, 1fr) repeat(12, 4.25rem) minmax(1rem, 1fr);
+    grid-column-gap: 0.5rem;
 }
+
+header > *, main > *, footer > * {
+    -ms-grid-column: 2;
+    -ms-grid-column-span: 12;
+    grid-column: 2/14;
+}
+
+header #logo {
+    -ms-grid-column: 2;
+    -ms-grid-column-span: 5;
+    -ms-grid-row: 1;
+    grid-column: 2/7;
+}
+
+main > h2 {
+    -ms-grid-row: 1;
+}
+
+main #intro {
+    -ms-grid-column: 2;
+    -ms-grid-column-span: 8;
+    -ms-grid-row: 2;
+    grid-column: 2/10;
+}
+
+main #twitter {
+    -ms-grid-column: 10;
+    -ms-grid-column-span: 4;
+    -ms-grid-row: 2;
+    grid-column: 10/14;
+}
+
+main #cfp {
+    -ms-grid-row: 3;
+}
+
+footer #logo_hashtag {
+    -ms-grid-column: 2;
+    -ms-grid-column-span: 2;
+    -ms-grid-row: 1;
+    grid-column: 2/4;
+}
+
+footer nav {
+    -ms-grid-column: 4;
+    -ms-grid-column-span: 10;
+    -ms-grid-row: 1;
+    grid-column: 4/14;
+}
+
+/* ugly IE hack for SVG sizing */
+
+@media screen and (min-width:0\0) {
+    footer #logo_hashtag svg {
+        height: 55px; 
+    }
+}
+
+/* specific styles */
 
 nav {
   padding-bottom: 1em;
@@ -48,36 +117,9 @@ main li {
   margin-bottom: 1em;
 }
 
-svg#id24full {
-    width: 50%;
-}
-
-svg#id24hashtag {
-    width: 15%;
-    float: left;
-    margin: -0.5em 1em 0 0;
-}
-
-#intro {
-    width: 69%;
-    float: left;
-}
-
-#twitter {
-    width: 30%;
-    float: right;
-}
-
-button {
-    clear: both;
-}
 
 footer {
-    margin-top: 2.4em;
-    padding: 2.4em 0;
     font-size: 0.8em;
-    max-width: 55rem;
-    margin: 0 auto;
 }
 
 a, a:link, a:visited {
@@ -109,7 +151,7 @@ button, .session .videostream {
 
 #signup, #connect, #archive {
     display: block;
-    width: 14em;
+    max-width: 14em;
     text-align: center;
     font-family: 'Nunito Sans', sans-serif;
     font-size: 1.5em;
@@ -121,7 +163,6 @@ button, .session .videostream {
     border-radius: 0.25em;
     margin: 1em auto;
     text-decoration: none;
-    clear: both;
 }
 
 #signup:focus, #connect:focus, #archive:focus,
@@ -165,7 +206,6 @@ section h2 {
     border-bottom: 1px solid #777;
 }
 
-
 section {
     margin-bottom: 2em;
 }
@@ -186,7 +226,7 @@ section {
 }
 
 .session h4 {
-    color: #FCFCFC;
+    color: #fcfcfc;
 }
 
 .session button, .session .videostream {
@@ -340,16 +380,56 @@ a.slides {
     border:0;
 }
 
-/* Adaptations for smaller screens */
+/* adaptations for smaller screens */
 
-@media (max-width: 500px) {
+@media (max-width: 55rem) {
     body {
         font-size: 0.95em;
         padding: 0 0.5em;
     }
 
-    svg#id24full {
-        width: auto;
+    header, main, footer {
+        -ms-grid-columns: minmax(1rem, 1fr) (1fr)[12] minmax(1rem, 1fr);
+        grid-template-columns: minmax(1rem, 1fr) repeat(12, 1fr) minmax(1rem, 1fr);
+    }
+
+    header #logo {
+        -ms-grid-column: 2;
+        -ms-grid-column-span: 12;
+        -ms-grid-row: 1;
+        grid-column: 2/14;
+    }
+
+    main #intro {
+        -ms-grid-column: 2;
+        -ms-grid-column-span: 12;
+        -ms-grid-row: 2;
+        grid-column: 2/14;
+    }
+
+    main #twitter {
+        -ms-grid-column: 2;
+        -ms-grid-column-span: 12;
+        -ms-grid-row: 3;
+        grid-column: 2/14;
+    }
+
+    main #cfp {
+        -ms-grid-row: 4;
+    }
+
+    footer #logo_hashtag {
+        -ms-grid-column: 2;
+        -ms-grid-column-span: 4;
+        -ms-grid-row: 6;
+        grid-column: 2/6;
+    }
+    
+    footer nav {
+        -ms-grid-column: 2;
+        -ms-grid-column-span: 12;
+        -ms-grid-row: 7;
+        grid-column: 2/14;
     }
 
     h1 {
@@ -358,16 +438,6 @@ a.slides {
 
     h2 {
         line-height: 1;
-    }
-
-    #intro {
-        width: auto;
-        float: none;
-    }
-
-    #twitter {
-        width: auto;
-        float: none;
     }
 
     .session {
@@ -388,6 +458,5 @@ a.slides {
     .session_time .session_day_local,
     .session_time .session_time_offset {
         display: inline;
-        margin-top: 0;
     }
 }
