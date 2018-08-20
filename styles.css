@@ -62,7 +62,7 @@ main #twitter {
     grid-column: 10/14;
 }
 
-main #cfp {
+main #cfp, main #schedule {
     -ms-grid-row: 3;
 }
 
@@ -414,7 +414,7 @@ a.slides {
         grid-column: 2/14;
     }
 
-    main #cfp {
+    main #cfp, main #schedule {
         -ms-grid-row: 4;
     }
 
