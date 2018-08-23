@@ -10,19 +10,19 @@ function pad(num, size) {
     $('.session_details').each(function (index) {
         var id = 'session_details_' + (index);
         $(this).attr('id', id);
-        var b = $('<button><i class="fa fa-chevron-right" aria-hidden="true"></i> <span>Show details</span></button>');
+        var b = $('<button><svg viewBox="0 0 24 24" class="icon" aria-hidden="true"><use xlink:href="#icon-arrow-right"></use></svg> <span>Show details</span></button>');
         b.attr('aria-controls', id).attr('aria-expanded', 'false');
         b.attr('aria-describedby', 'talk' + (index));
         b.bind('click', function () {
             if ($(this).attr('aria-expanded') === 'false') {
                 $("#" + $(this).attr('aria-controls')).show();
                 $(this).attr('aria-expanded', 'true');
-                 $(this).find('i').attr('class','fa fa-chevron-down');
+                 $(this).find('use').attr('xlink:href','#icon-arrow-down');
                 $(this).find('span').text('Hide details');
             } else {
                 $("#" + $(this).attr('aria-controls')).hide();
                 $(this).attr('aria-expanded', 'false');
-                $(this).find('i').attr('class','fa fa-chevron-right');
+                $(this).find('use').attr('xlink:href','#icon-arrow-right');
                 $(this).find('span').text('Show details');
             }
         });

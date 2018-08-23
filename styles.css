@@ -17,7 +17,17 @@ abbr[title], acronym[title] {
     text-decoration: none;
 }
 
+/* inline SVG icons */
+
+svg.icon {
+    fill:currentColor; /* for outlined SVGs (otherwise use stroke) */
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.1em; /* tweaks vertical alignment next to text */
+}
+
 /* IE11 patch */
+
 header, footer, section, nav, main { display: block; }
 
 /* grid layout */
