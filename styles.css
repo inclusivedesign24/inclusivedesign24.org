@@ -1,6 +1,8 @@
 /* generic styles */
 
 body {
+    padding: 0;
+    margin: 0;
     font-family: Roboto Slab, Helvetica, Arial, sans-serif;
     font-weight: 300;
     font-size: 1.25em;
@@ -47,11 +49,31 @@ header > *, main > *, footer > * {
     grid-column: 2/14;
 }
 
+header {
+    background: #ffe400;
+    padding-top: 2rem;
+}
+
 header #logo {
     -ms-grid-column: 2;
     -ms-grid-column-span: 5;
     -ms-grid-row: 1;
     grid-column: 2/7;
+}
+
+header #mainnav {
+    -ms-grid-column: 7;
+    -ms-grid-column-span: 14;
+    -ms-grid-row: 1;
+    grid-column: 7/14;
+    padding-top: 4em;
+    padding-left: 1em;
+}
+
+header #mainnav a {
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 main > h2 {
@@ -72,8 +94,13 @@ main #twitter {
     grid-column: 10/14;
 }
 
-main #cfp, main #schedule {
+main #cfp, main #info {
     -ms-grid-row: 3;
+}
+
+footer {
+    background: #111;
+    padding: 2rem 0;
 }
 
 footer #logo_hashtag {
@@ -309,7 +336,7 @@ section {
 
 .session_presenter {
     font-weight: normal;
-    color: #999;
+    color: #ffe400;
 }
 
 .session_abstract {
@@ -379,7 +406,7 @@ a.slides {
     display: none !important;
 }
 
-.sr-only {
+.visually-hidden {
     position:absolute;
     width:1px;
     height:1px;
@@ -395,7 +422,6 @@ a.slides {
 @media (max-width: 55rem) {
     body {
         font-size: 0.95em;
-        padding: 0 0.5em;
     }
 
     header, main, footer {
@@ -410,22 +436,29 @@ a.slides {
         grid-column: 2/14;
     }
 
-    main #intro {
+    header #mainnav {
         -ms-grid-column: 2;
         -ms-grid-column-span: 12;
         -ms-grid-row: 2;
-        grid-column: 2/14;
+        grid-column: 2/14;        
     }
 
-    main #twitter {
+    main #intro {
         -ms-grid-column: 2;
         -ms-grid-column-span: 12;
         -ms-grid-row: 3;
         grid-column: 2/14;
     }
 
-    main #cfp, main #schedule {
+    main #twitter {
+        -ms-grid-column: 2;
+        -ms-grid-column-span: 12;
         -ms-grid-row: 4;
+        grid-column: 2/14;
+    }
+
+    main #cfp, main #info {
+        -ms-grid-row: 5;
     }
 
     footer #logo_hashtag {
