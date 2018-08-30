@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Inclusive Design 24 (#id24) 11 October 2018</title>
+    <meta charset=utf-8>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="application-name" content="Inclusive Design 24">
+    <!-- https://realfavicongenerator.net -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/2018/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/2018/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/2018/images/favicon-16x16.png">
+    <link rel="manifest" href="/2018/images/site.webmanifest">
+    <link rel="mask-icon" href="/2018/images/safari-pinned-tab.svg" color="#282828">
+    <link rel="shortcut icon" href="./favicon.ico">
+    <meta name="msapplication-TileColor" content="#ffe400">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffe400">
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:700" rel="stylesheet">
+    <link href="/2018/styles.css" type="text/css" rel="stylesheet">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="https://www.inclusivedesign24.org/">
+    <meta name="twitter:title" content="Inclusive Design 24 (#id24)">
+    <meta name="twitter:description" content="A Free 24-Hour Online Community Event On Accessibility.">
+    <meta name="twitter:image" content="https://www.inclusivedesign24.org/images/android-chrome-512x512.png">
+    <meta name="twitter:site" content="@id24conf">
+    <meta name="twitter:creator" content="@id24conf">
+
+    <!-- Facebook Open Graph -->
+    <meta property="og:title" content="Inclusive Design 24 (#id24)">
+    <meta property="og:image" content="https://www.inclusivedesign24.org/images/android-chrome-512x512.png">
+    <meta property="og:site_name" content="Inclusive Design 24 (#id24)">
+    <meta property="og:description" content="A Free 24-Hour Online Community Event On Accessibility.">
+
+    <script src="/2018/scripts/jquery.min.js"></script>
+</head>
+<body>
+
+<!-- Inlined SVG icon definitions, referenced through <use xlink:href="..."> later on -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display: none;">
+    <defs>
+        <g id="icon-twitter">
+            <path d="M8.937 22.032c-2.523 0-5.261-.649-8.14-1.928a.502.502 0 0 1-.285-.567.504.504 0 0 1 .488-.39l.253.003c1.65 0 3.272-.4 4.735-1.162-1.776-.273-3.073-.89-3.936-2.617a.5.5 0 0 1 .261-.687l1.066-.426c-2.016-.829-2.605-2.656-2.87-4.014a.503.503 0 0 1 .575-.59l1.645.274c-.888-1.376-1.13-3.18-.719-5.373a.505.505 0 0 1 .49-.408c.145 0 .283.063.378.172C5.495 7.333 8 8.799 10.536 8.799c.319 0 .642-.024.964-.071v-.581a4.956 4.956 0 0 1 1.338-3.421 4.944 4.944 0 0 1 3.649-1.583 4.96 4.96 0 0 1 3.174 1.149l2.202-.626a.499.499 0 0 1 .584.704l-.721 1.443 1.395.349a.497.497 0 0 1 .366.373.496.496 0 0 1-.167.495L21.5 8.553v1.094c0 4.17-2.144 8.153-5.595 10.396-2.031 1.32-4.375 1.989-6.966 1.989h-.002zm-5.743-2.053c2.016.698 3.944 1.052 5.743 1.052 2.397 0 4.558-.615 6.423-1.826 3.171-2.06 5.14-5.722 5.14-9.557V8.319c0-.149.065-.289.179-.384l1.246-1.042-1.046-.262a.5.5 0 0 1-.326-.709l.493-.985-1.373.39a.501.501 0 0 1-.477-.115 3.954 3.954 0 0 0-2.853-1.067 3.953 3.953 0 0 0-2.773 1.263 3.968 3.968 0 0 0-1.07 2.736v1.003a.503.503 0 0 1-.399.49 7.837 7.837 0 0 1-1.575.163c-2.594 0-5.11-1.318-7.678-4.025-.17 1.96.329 3.471 1.485 4.499.165.147.214.39.119.589a.503.503 0 0 1-.535.277l-2.254-.376c.524 1.785 1.583 2.68 3.394 2.886a.5.5 0 0 1 .129.961l-1.966.787c.918 1.383 2.324 1.595 4.319 1.751a.502.502 0 0 1 .443.365.503.503 0 0 1-.191.541 11.287 11.287 0 0 1-4.597 1.924z"/>
+        </g>
+        <g id="icon-earth">
+            <path d="M12 24a12.02 12.02 0 0 1-2.936-.366 11.959 11.959 0 0 1-7.153-5.149.751.751 0 0 1-.109-.171A11.952 11.952 0 0 1 0 12c0-2.234.623-4.416 1.801-6.313a.804.804 0 0 1 .11-.173A11.976 11.976 0 0 1 14.831.34a11.978 11.978 0 0 1 7.257 5.174.75.75 0 0 1 .111.173A11.955 11.955 0 0 1 24 12c0 2.234-.623 4.416-1.801 6.313a.744.744 0 0 1-.111.172A11.974 11.974 0 0 1 12 24zm-2.246-1.745c.742.162 1.496.245 2.246.245s1.504-.083 2.246-.245c.563-.9 1.052-2.102 1.427-3.505H8.327c.375 1.404.864 2.605 1.427 3.505zm7.478-3.505a17.432 17.432 0 0 1-.945 2.832 10.476 10.476 0 0 0 3.747-2.832h-2.802zm-13.266 0a10.473 10.473 0 0 0 3.746 2.832 17.432 17.432 0 0 1-.945-2.832H3.966zm17.124-1.5a10.471 10.471 0 0 0 1.38-4.5h-4.481a29.288 29.288 0 0 1-.438 4.5h3.539zm-5.074 0c.271-1.409.433-2.951.472-4.5H7.512c.039 1.55.201 3.092.472 4.5h8.032zm-9.567 0a29.288 29.288 0 0 1-.438-4.5H1.53c.113 1.586.586 3.13 1.38 4.5h3.539zm16.021-6a10.471 10.471 0 0 0-1.38-4.5h-3.539c.255 1.418.402 2.928.438 4.5h4.481zm-5.982 0a27.852 27.852 0 0 0-.472-4.5H7.984a27.965 27.965 0 0 0-.472 4.5h8.976zm-10.477 0c.036-1.572.183-3.082.438-4.5H2.91a10.471 10.471 0 0 0-1.38 4.5h4.481zm14.023-6a10.467 10.467 0 0 0-3.747-2.832c.37.842.687 1.789.945 2.832h2.802zm-4.361 0c-.375-1.403-.864-2.605-1.427-3.505A10.482 10.482 0 0 0 12 1.5c-.749 0-1.504.083-2.246.245-.563.9-1.052 2.101-1.427 3.505h7.346zm-8.905 0c.258-1.042.574-1.99.945-2.832A10.467 10.467 0 0 0 3.966 5.25h2.802z"/>
+        </g>
+        <g id="icon-player">
+            <path d="M2.25 24A2.252 2.252 0 0 1 0 21.75V2.25A2.252 2.252 0 0 1 2.25 0h19.5A2.252 2.252 0 0 1 24 2.25v19.5A2.252 2.252 0 0 1 21.75 24H2.25zm0-22.5a.75.75 0 0 0-.75.75v19.5c0 .414.336.75.75.75h19.5a.75.75 0 0 0 .75-.75V2.25a.75.75 0 0 0-.75-.75H2.25z"/><path d="M9.857 16.5c-.173 0-.345-.028-.511-.084a1.59 1.59 0 0 1-.927-.806 1.617 1.617 0 0 1-.169-.716V9.106a1.607 1.607 0 0 1 2.322-1.437l5.79 2.896a1.607 1.607 0 0 1 0 2.872l-5.788 2.895a1.613 1.613 0 0 1-.717.168zM9.856 9a.106.106 0 0 0-.106.106v5.788a.108.108 0 0 0 .072.101.112.112 0 0 0 .081-.006l5.788-2.895a.105.105 0 0 0 0-.188l-5.79-2.895A.094.094 0 0 0 9.856 9z"/>
+        </g>
+        <g id="icon-arrow-right">
+            <path d="M8.527 24a1.474 1.474 0 0 1-1.037-.455l-2.686-2.763a1.533 1.533 0 0 1-.003-2.133L11.265 12 4.804 5.355a1.532 1.532 0 0 1-.003-2.133l2.723-2.8a1.481 1.481 0 0 1 2.108.034l10.186 10.476c.577.6.578 1.536.002 2.133L9.602 23.574A1.488 1.488 0 0 1 8.561 24h-.034zM5.879 4.265c-.012.012-.011.033.003.047l6.967 7.165a.747.747 0 0 1 0 1.046l-6.97 7.168c-.011.012-.011.033.003.047l2.679 2.756 10.182-10.472c.012-.012.011-.032-.003-.047L8.56 1.505l-2.681 2.76z"/>
+        </g>
+        <g id="icon-arrow-down">
+            <path d="M12 20.13c-.398 0-.776-.153-1.065-.43L.422 9.476A1.477 1.477 0 0 1 .001 8.41c.008-.397.17-.767.455-1.041L3.22 4.682a1.533 1.533 0 0 1 2.132-.003L12 11.143l6.656-6.471a1.532 1.532 0 0 1 2.122.007l2.795 2.718a1.49 1.49 0 0 1-.029 2.114L13.068 19.697c-.29.279-.669.433-1.068.433zm-.022-1.509a.031.031 0 0 0 .022.008c.01 0 .018-.003.025-.01l10.469-10.18-2.759-2.682a.128.128 0 0 0-.028-.005c-.01 0-.015.003-.019.007l-7.165 6.966a.747.747 0 0 1-1.046 0L4.31 5.758l-.022-.008a.034.034 0 0 0-.025.011L1.507 8.439l10.471 10.182z"/>
+        </g>
+    </defs>
+</svg>
+
+<header>
+    <div id="logo">
+        <img src="/2018/images/Inclusive_Design24_logo_black.svg" alt="Inclusive Design 24">
+    </div>
+    <nav id="mainnav">
+        <ul>
+            <li><a href="/2018/">Home</a></li>
+            <li><a href="/2018/schedule/" aria-current="page">Sessions</a></li>
+            <li><a href="/2018/supporters/">Supporters</a></li>
+            <li><a href="/2018/id24u/">#id24u</a></li>
+        </ul>
+    </nav>
+</header>
+<main role="main">
+
+
+<section id="schedule">
+<h2>Sessions</h2>
+    
+<div id="time_machine">
+    All times shown for your local time (
+    <abbr title="Coordinated Universal Time">UTC</abbr>
+    <span class="time_offset"></span>
+    )
+</div>
+
+<!-- ************************************************ -->
+
+<!-- generate UTC: new Date(Date.UTC(year,month,day,hour,0,0)).getTime() - note month is 0 based -->
+
+<div class="session" data-time-utc=1539215100000>
+    <h3 id="preshow"><span class="session_time">
+    <span class="session_time_local">23:45</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">23:45</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_title">The pre-show</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk1"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>Meet your hosts for the next 24 hours. We'll be talking about the webinars we are most looking forward to and details of a giveaway that we will be running throughout the event.</p>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539216000000>
+    <h3 id="talk1"><span class="session_time">
+    <span class="session_time_local">0:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">0:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Bruce Lawson and Seren Davies</span>
+        <span class="session_title">This is for everyone</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk1"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>As Timbo said, the web is supposed to be for everyone. So why isn't it, and how can we get the web to more people? Seren Davies and Bruce Lawson, the web's very own Harry and Meghan, will reveal more.</p>
+        </div>
+        <h4>About the speakers</h4>
+        <div class="session_presenter_bio">
+            <p>Bruce is a web standards consultant, most recently for Wix Engineering. He’s been involved in web standards since 2002 (which is why he looks that bad). He was in the Web Standards Project’s Accessibility Task Force, was a member of the W3C Mobile Best Practices Working Group and co-authored the first full-length book on HTML5</p>
+            <p>Seren is a Software Engineer at Elsevier. In between working and promoting accessibility she can be found doing the occasional bit of nail art.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/brucel"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @brucel</a></li>
+                <li><a href="https://www.brucelawson.co.uk/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> brucelawson.co.uk</a></li>
+                <li><a href="https://www.twitter.com/ninjanails"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @ninjanails</a></li>
+                <li><a href="http://www.serendavies.me/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> serendavies.me</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539219600000>
+    <h3 id="talk2"><span class="session_time">
+    <span class="session_time_local">1:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">1:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Jared Smith</span>
+        <span class="session_title">The Geeky Gang Signs of Web Accessibility</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk2"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>When presenting on web accessibility, hand gestures can provide a helpful visual representation of web accessibility concepts and techniques. This session will give participants insight into some of the most commonly misunderstood accessibility techniques based on these "geeky gang signs".</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>Jared Smith is the Associate Director of WebAIM. He is a highly demanded presenter and trainer and has provided web accessibility training to thousands of developers throughout the world. With a degree in Marketing/Business Education, a Master's Degree in Instructional Technology, and over 20 years experience working in the web design, development, and accessibility field, he brings a wealth of knowledge and experience that is used to help others create and maintain highly accessible web content. Much of his written work, including a broad range of tutorials, articles, and other materials, is featured on the WebAIM site.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/jared_w_smith"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @jared_w_smith</a></li>
+                <li><a href="https://webaim.org/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> webaim.org</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539223200000>
+    <h3 id="talk3"><span class="session_time">
+    <span class="session_time_local">2:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">2:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Peter Grucza</span>
+        <span class="session_title">Considering Accessible HTML Forms, JavaScript &amp; WAI-ARIA</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk3"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>This session will focus on common challenges that we need to consider when presenting HTML forms to our users. We’ll explore a multistep web form and present different solutions that can create an accessible experience.</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>Peter is a digital accessibility and systems develop specialist working at the City of Toronto. He can often be found in a kayak, usually the right way up.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/pgrucza"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @pgrucza</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539226800000>
+    <h3 id="talk4"><span class="session_time">
+    <span class="session_time_local">3:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">3:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Marcos Caceres</span>
+        <span class="session_title">How Web Payments will make paying for things more accessible on the web</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk4"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">[SESSION ABSTRACT]
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">[PRESENTER BIO]
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/marcosc"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @marcosc</a></li>
+                <li><a href="[PRESENTER URL]"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> [PRESENTER URL]</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539230400000>
+    <h3 id="talk5"><span class="session_time">
+    <span class="session_time_local">4:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">4:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Thaddeus Cambron</span>
+        <span class="session_title">Addressing Anxiety Disorders - Accessibility</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk5"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>Addressing Anxiety Disorders within the context of Accessibility</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>Background in CS and accessibility. Former member of COGA Task Force. Present member of Personalization Task Force.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/[PRESENTER TWITTER]"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @[PRESENTER TWITTER]</a></li>
+                <li><a href="[PRESENTER URL]"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> [PRESENTER URL]</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539234000000>
+    <h3 id="talk6"><span class="session_time">
+    <span class="session_time_local">5:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">5:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Sarah Pulis and Andrew Arch</span>
+        <span class="session_title">Using cognitive walkthroughs to better review designs for accessibility</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk6"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>Cognitive walkthroughs is a task-oriented technique that helps you understand how well users with access requirements can complete important tasks using your product.</p>
+        </div>
+        <h4>About the speakers</h4>
+        <div class="session_presenter_bio">
+            <p>Sarah is a Director with Intopia and has 8+ years experience with digital accessibility. Andrew is a Senior Consultant with Intopia and has 18+ years experience with digital accessibility.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/sarahtp"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @sarahtp</a></li>
+                <li><a href="https://www.twitter.com/amja"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @amja</a></li>
+                <li><a href="http://intopia.digital/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> intopia.digital</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539237600000>
+    <h3 id="talk7"><span class="session_time">
+    <span class="session_time_local">6:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">6:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Srinivasu Chakravarthula</span>
+        <span class="session_title">Accessible Websites with Wordpress</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk7"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>Will discuss tips and tricks while building websites using Wordpress</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>Srinivasu is a Lead Accessibility Consultant at Informatica &amp; Creator of ServeOM Inclusion. Srinivasu believes that accessibility is not just his profession but something that is close to his heart. Firm believer in that considering accessibility at an early stage makes a great business sense.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/CSrinivasu"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @CSrinivasu</a></li>
+                <li><a href="https://srinivasu.org/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> srinivasu.org</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539241200000>
+    <h3 id="talk8"><span class="session_time">
+    <span class="session_time_local">7:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">7:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Sergei Kriger</span>
+        <span class="session_title">Accessible Charts Done Right</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk8"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>What can be better than beautiful, descriptive and interactive charts for presenting complex data? We like charts because we tend to perceive graphical information faster than plain text. But what about people with visual impairments? How do they get information from charts? Is it even possible to make charts for everybody? Definitely yes! In this presentation I will guide you through real world examples and identify solutions and best practices for making charts accessible.</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>Sergei fell in love with web development at the high school level. He got a degree in Information Technologies from the University in Helsinki and spent professional career working for web design studios in Helsinki and Munich. Sergei's focus areas are JavaScript development, UX and accessibility.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/_sergeikriger"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @_sergeikriger</a></li>
+                <li><a href="http://sergeikriger.com/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> sergeikriger.com</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539244800000>
+    <h3 id="talk9"><span class="session_time">
+    <span class="session_time_local">8:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">8:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Damien Senger</span>
+        <span class="session_title">Readability &amp; Web: Let's build great inclusive projects</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk9"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>Reading is not an easy thing. It is complicated for people with reading or cognitive impairments but also for everybody depending of the context. Luckily for our all our users, there is a lot of small improvements and tips every designer, content-writer and developer can do in a project to improve the life all our users.</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>Damien is a queer user-centered designer focusing on accessibility and fighting for a more inclusive web. Occasionally speaker in Europe, they talk in web conferences about accessibility, inclusive design and autism. Product Designer for Castor EDC in Amsterdam, their inner self is a wild raccoon.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/iamhiwelo"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @iamhiwelo</a></li>
+                <li><a href="https://raccoon.studio/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> raccoon.studio</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539248400000>
+    <h3 id="talk10"><span class="session_time">
+    <span class="session_time_local">9:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">9:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Eriol Fox</span>
+        <span class="session_title">Diverse representations in design and awkward conversations with colleagues</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk10"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>Even if inclusion is at the front of your mind, it’s difficult to feed that into creative work, especially if you’re the only one advocating for diverse representation and doubly so if you have to convince your users as well as your colleagues.</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>Eriol is a product designer at a global non-profit organisation Ushahidi working on the end-to end process of design practice for digital products. From research, ideation through to visual execution. He focuses on user centred design and research that is inclusive of marginalised folks by default. With 10 years of experience as a professional designer Eriol has worked in-house at large corporates that have dealt in Electronics, Insurance, Risk Management, Housing and start-up applications. They have provided freelance work for non-profits and community groups and is actively involved in various non-profits from environmental the arts to LGBTQ+ issues. They also sit on the advisory board for a local Women’s Tech Hub. Eriol is a queer, non-binary, trans person who uses they/them pronouns.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/erioldoesdesign"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @erioldoesdesign</a></li>
+                <li><a href="http://erioldoesdesign.com/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> erioldoesdesign.com</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539252000000>
+    <h3 id="talk11"><span class="session_time">
+    <span class="session_time_local">10:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">10:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Almero Steyn</span>
+        <span class="session_title">Killing accessibility with five words</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk11"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>This is the story of a developer who loved JavaScript tools that streamlined their day to day development work and made them super productive. One day this developer heard about accessibility and started looking for some information. There were many examples, but none in their framework. There were many opinions, often conflicting each other. There were many documents, most very long and complicated. And then there was a five word message on Twitter one day: “Your framework is not accessible!”. Jaded, this developer closed the chapter on accessibility and kept building websites the only way they knew how, telling everyone in their team how expensive an accessibility conversion will be. In this talk we will imagine a different future. One where they find powerful accessible examples, clear references and a welcoming accessibility community. One where they see how accessibility benefits everyone, including them. One we can work towards.</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>Almero Steyn is front-end engineer, speaker and accessibility specialist and has years of experience building Single Page Applications, most recently using React. He advocates for a11y in design, development and testing and has authored the page on accessibility for the official React documentation. Currently Almero works on projects for Tenon.io</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/kryptos_rsa"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @kryptos_rsa</a></li>
+                <li><a href="https://almerosteyn.com/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> almerosteyn.com</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539255600000>
+    <h3 id="talk12"><span class="session_time">
+    <span class="session_time_local">11:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">11:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Bindu Upadhyay</span>
+        <span class="session_title">Understanding cultural differences and their impact on design</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk12"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>In the current times, we work globally and are often creating products for an international audience. In this process, we also need to communicate with people from different cultures. However, we might not be embracing the cultural differences fully. We as designers, as organisations, as people have a lot to think about and act upon - How can we be naturally more inclusive? How do we get past the stereotypes? How do we build awareness about differences? How do we embrace the rich diversity that we have around us?</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>Bindu Upadhyay is an engineer turned UX designer who believes that product development is most successful when approached holistically, starting with the why. As a UX Designer at <cite>We Are Reasonable People</cite>, she works in a multicultural team and focuses on enabling the team and the client to work together smoothly so that technology can have an even stronger impact. She confesses that leveraging the knowledge of a multidisciplinary team has led to successful projects. Bindu organised UX Camp NL 2017 and also spoke at UX Camp Amsterdam. At UX Camp Nordic her talk was voted the most favourite by the audience.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/UpadhyayBindu"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @UpadhyayBindu</a></li>
+                <li><a href="https://www.wearereasonablepeople.nl"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> wearereasonablepeople.nl</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539259200000>
+    <h3 id="talk13"><span class="session_time">
+    <span class="session_time_local">12:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">12:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Alastair Campbell</span>
+        <span class="session_title">WCAG 2.1 What's new and what to do with it</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk13"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>The Web Content Acessibility Guidelines (WCAG) have been updated after 10 years of use. Using the new requirements from verison 2.1, Alastair walks through the new guidelines, and provides advice on how to use them in your  organisation.</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>With a background in psychology and an expert in human–computer interaction, Alastair Campbell is a leading light in the understanding of where human meets machines. He is driven by a desire to make the digital world accessible through the best possible user experience. In 2018 Alastair became Co-Chair of the Accessibility Guidelines Working Group so has been deeply involved in the development of the new guidelines.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/alastc"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @alastc</a></li>
+                <li><a href="https://alastairc.ac/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> alastairc.ac</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539262800000>
+    <h3 id="talk14"><span class="session_time">
+    <span class="session_time_local">13:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">13:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Dafydd Henke-Reed</span>
+        <span class="session_title">Elegant Accessibility</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk14"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>Elegant accessibility through minimalistic development practices.</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>Dafydd is a Principal Accessibility & Usability Consultant for AbilityNet. He leads a team of consultants who provide consultancy for client's such as Microsoft, HSBC, and NHS — ensuring accessible and usable apps, websites, and more.</p>
+            <ul class="pres_info">
+                <li><a href="https://abilitynet.org.uk/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> abilitynet.org.uk</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539266400000>
+    <h3 id="talk15"><span class="session_time">
+    <span class="session_time_local">14:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">14:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">David Caldwell</span>
+        <span class="session_title">Building inclusive products for vulnerable circumstance</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk15"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>Vulnerability is something we can all relate to - whether it's losing our jobs, fluctuating mental health issues or the loss of a loved one. When vulnerable we may need a different experience, different support or  restrictions in how we use a product. In this talk we'll explore what we mean by vulnerable circumstances, look at how we could build in friction for those who find themselves vulnerable and look at examples of good practice in this space.</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>David Caldwell is a Senior Digital Accessibility Consultant at Barclays. In his role he works alongside technology product teams across the organisation to help them to build better, more accessible products and services for Barclays customers and colleagues. David is also responsible for the Accessibility Academy - a training, development and communications programme focused on transforming the accessibility landscape at Barclays. Outside of Barclays, David is a Founding Ambassador for PurpleSpace - the worlds leading disability network leadership development organisations.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/Cfunn"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @Cfunn</a></li>
+                <li><a href="https://purplestarfishthrower.co.uk/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> purplestarfishthrower.co.uk</a></li>
+                <li><a href="https://www.twitter.com/barclaysaccess"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @barclaysaccess</a></li>
+                <li><a href="https://www.barclays.co.uk/accessibility/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> barclays.co.uk/accessibility</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539270000000>
+    <h3 id="talk16"><span class="session_time">
+    <span class="session_time_local">15:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">15:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Brendan Roach and Lucy Ruck</span>
+        <span class="session_title">Tackling disability as a global business issue</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk16"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>The Business Disability Forum have developed a Global Business Disability Framework to help global businesses measure and improve their approach to disability inclusion. The Framework enables global businesses to understand how disability impacts on key areas of their operations including  leadership, learning and development, retention and development, the built environment and digital technology. Working alongside this, we have a Technology Taskforce, that have also developed a number of tools, including the Accessibility Maturity Model. During this session we shall talk you through the tools we have developed and how you could use them within your organisation.</p>
+        </div>
+        <h4>About the speakers</h4>
+        <div class="session_presenter_bio">
+            <p>Brendan is a Senior Disability Consultant at Business Disability Forum (BDF), he has 10 years experience supporting organisations on all aspects of improving disability confidence including:</p>
+            <ul>
+                <li>Providing high-level consultancy support to business and government leading reviews and improvement processes for organisations including Office for National Statistics, Telefónica UK, TD Bank Financial Group and the Nursing and Midwifery Council.</li>
+                <li>Working with business and government in the Kingdom of Saudi Arabia to improve business disability confidence</li>
+                <li>Disability Advisor to Mayor of London’s 2012 Olympic and Paralympics volunteer programme.</li>
+                <li>Advisory board member on Kate Nash OBE's Secrets & Big News research project.</li>
+                <li>Helped the British Consular Network in Spain to measure and improve its disability confidence as both an employer and service provider.</li>
+            </ul>
+            <p>Brendan works closely with BDF Partners in the financial and retail sectors and advises on a variety of subjects ranging from making reasonable adjustments to guidance on policies.  He has a background in education and has delivered training on a range of topics from a disability perspective.</p>
+            <p>Lucy joined Business Disability Forum in 2014 as the Technology Taskforce Manager. Since joining the organisation, she has been responsible for developing the resources available as part of the Technology Taskforce’s toolkit of information. This includes a large selection of Best Practice Guides and Case Studies, about how our Members and Partners have become more Disability Smart by using technology. To find out more about the Technology Taskforce please visit the website. Lucy has previous experience of working within the private, public and 3rd sector organisations, predominantly within their ICT departments. Her background knowledge brings an excellent mix of technical understanding, with communication and customer service skills. Whilst working at a Local Authority, Lucy was also the Chair of the Staff Disability Network. In 2015 she supported Scope with their DDA 20 campaign and was involved in a short film that they made, marking the 20th anniversary of the Disability Discrimination Act. Lucy is a Lifetime member of the Limbless Association and has a special interest in prosthetics.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/BDFBrendan"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @BDFBrendan</a></li>
+                <li><a href="https://www.twitter.com/LucyRuck"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @LucyRuck</a></li>
+                <li><a href="https://businessdisabilityforum.org.uk"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> businessdisabilityforum.org.uk</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539273600000>
+    <h3 id="talk17">
+    <span class="session_time">
+    <span class="session_time_local">16:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">16:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Sarah Boland and Damon Barry</span>
+        <span class="session_title">A Co-Design approach for automated cooking appliances. Applying Domain Specific Languages for an interactive personal cooking assistance</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk17"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>This project seeks to enable people with an intellectual disability and physical impairments, to perform cooking tasks in a safe and controlled environment. This co-design research project, seeks to provide additional interactivity and safety during cooking tasks, by developing (primarily through consultation with service users and support staff) additional autonomous sensors that can provide valuable additional context information (such as the weight of the product, the presence of smoke or fumes in the cooking area) that would not otherwise be available to a cooking appliance. The intention of this project titled "Sensor+" is an evolution of components that could be used in "smart" cooking appliances. The aim is to ensure safe and successful outcomes for service users -who use the appliance, and therefore increase their confidence in cooking independently.</p>
+            <p>By including these additional external support sensors in the context of "interactive recipes" it will facilitate "fading" of assistance feature of the smart cooking appliance while also raising awareness among service users about the possible effect of cooking parameters.</p>
+            <p>We worked with service users and Staff from Saint John of God Community Services to develop autonomous external sensors that will provide additional "eyes and ears" for the smart cooking appliance, to ensure that the correct path is being followed by a service user who is using the appliance. This work required a modest number of face-to-face interactions with service users and support staff.</p>
+            <p>The target group include different people who experience different levels of difficulties in using various cooking systems, with a particularly low grade of autonomy in preparing foods and meals. The group provided information on current challenges, share current technology solutions that work affectively in other areas. They were involved in the co-design of the product and asked for feedback at regular intervals throughout the project lifecycle.</p>
+        </div>
+        <h4>About the speakers</h4>
+        <div class="session_presenter_bio">
+            <p>Sarah Gavra Boland is an Assistive Technology (AT) Facilitator and has worked with Saint John of God Community Services since 2013. Her role is to support and enhance independence, communication & learning opportunities for men and women with intellectual disability by building capacity and educating individuals, families and support staff, on the use of a variety of accessible digital and assistive technologies. She has been working on various local and international projects focusing on the use of mobile technology to bridge the digital divide. Her area of interests include, co-design, multimedia advocacy, participatory research and smart home technology.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/SarahGBoland"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @SarahGBoland</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539277200000>
+    <h3 id="talk18"><span class="session_time">
+    <span class="session_time_local">17:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">17:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Thomas Logan</span>
+        <span class="session_title">Let's Make Maps Widely Accessible</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk18"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>Over the last two decades there have been numerous demonstrations of accessible digital map interfaces for people with disabilities. However, these implementations typically only support a small number of specific map visualizations. This talk will focus on how accessibility can be implemented at the authoring layer of mapping APIs to accelerate access to spatial information in 2018.</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>Thomas Logan has spent the past sixteen years assisting organizations to create technology solutions that work for people with disabilities. Over his career Thomas has worked on project deliverables for numerous federal, state, and local government agencies as well as private organizations from startups to Fortune 500s. He is the owner of Equal Entry, whose mission is: “contribute to a more accessible world.” He is also co-organizer of Accessibility New York a monthly Meetup for people interested in topics related to accessibility and people with disabilities. Thomas lives in New York City.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/techthomas"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @techthomas</a></li>
+                <li><a href="https://equalentry.com/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> equalentry.com</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539280800000>
+    <h3 id="talk19"><span class="session_time">
+        <span class="session_time_local">18:00</span><span class="session_time_local_ampm"></span>
+        <span class="session_day_local hidden"></span>
+        <span class="session_time_offset">
+            (<span class="session_time_utc">18:00</span>
+            <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+            <span class="session_presenter">Reinaldo Ferraz</span>
+        <span class="session_title">The power of alt and lang attributes</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk19"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>This talk will show you the importance of these two attributes. They are not only very significant for accessibility but also for internationalization, semantic content organization, SEO and more!</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>Web Development specialist at Ceweb.br/W3C Brazil Office, holds a degree in design and computer graphics and a graduate degree in Hypermedia Design in São Paulo. Specialist in web standards and web accessibility involved with web development and design since 1998. Taught lectures and tutorials about webaccessibility and web standards in several events in Brazil and abroad. He is in charge of web accessibility and open web plataform projects in the office.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/reinaldoferraz"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @reinaldoferraz</a></li>
+                <li><a href="http://www.reinaldoferraz.com.br/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> reinaldoferraz.com.br</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539284400000>
+    <h3 id="talk20"><span class="session_time">
+        <span class="session_time_local">19:00</span><span class="session_time_local_ampm"></span>
+        <span class="session_day_local hidden"></span>
+        <span class="session_time_offset">
+            (<span class="session_time_utc">19:00</span>
+            <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+            <span class="session_presenter">Glenda Sims and Wilco Fiers</span>
+        <span class="session_title">A11Y Wars: The Accessibility Interpretation Problem</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk20"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>It is time to stop the accessibility interpretation wars. There is no "one best way" of interpreting accessibility standards.  By using the Accessibility Peace Model, together we can use the energy of our community for good.</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>Glenda Sims is the Team A11Y (Accessibility) Lead at Deque, where she shares her expertise and passion for the open web with government organizations, educational institutions, and companies that range from small business to Fortune 50. Glenda is an advisor and co-founder of AIR-University (Accessibility Internet Rally) and AccessU. She serves as an accessibility judge, and trainer for Knowbility, whose mission is to support the independence of children and adults with disabilities by promoting the availability of accessibility information technology—barrier free IT. She spent over a decade as a Web Analyst at the University of Texas at Austin, where she helped support the university’s central web site and worked as an accessibility expert and web standards evangelist along with her mentor and hero, Dr. John Slatin. She co-authored the book InterACT with Web Standards: A holistic approach to Web Design. Glenda gives back to the web by volunteering on the Low Vision Task Force and the Accessibility Guidelines Working Group at the W3C.</p>
+            <p>Wilco Fiers is product manager and accessibility engineer of the aXe and WorldSpace Attest product lines at Deque Systems. Based in The Netherlands, Wilco helped set up Deque Research, the European arm of Deque. Wilco is co-facilitator of the Accessibility Conformance Testing Task Force in the Accessibility Guidelines Working Group (AGWG) for the W3C, in which he works on standardisation in accessibility testing. This work is put into practice in the Auto-WCAG Community Group; a group that Wilco helped found and is currently the chair of. Wilco is a member of the Web Accessibility Directive Experts Group, in which he advises the European Commission about the implementation of the Web Accessibility Directive.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/goodwitch"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @goodwitch</a></li>
+                <li><a href="https://www.twitter.com/wilcofiers"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @wilcofiers</a></li>
+                <li><a href="https://www.deque.com/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> deque.com</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539288000000>
+    <h3 id="talk21"><span class="session_time">
+        <span class="session_time_local">20:00</span><span class="session_time_local_ampm"></span>
+        <span class="session_day_local hidden"></span>
+        <span class="session_time_offset">
+            (<span class="session_time_utc">20:00</span>
+            <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+            <span class="session_presenter">Eric Bailey</span>
+        <span class="session_title">Working with High Contrast Mode</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk21"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>Accessibility is more than just making things work in a screen reader. This talk discusses Windows High Contrast Mode's capabilities and limitations, and how to best design and develop for it.</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>Eric is a Boston-based user experience designer who helps create straightforward solutions that address a person’s practical, physical, cognitive, and emotional needs using accessible, performant, device-agnostic technology.</p>
+            <ul class="pres_info">
+                <li><a href="https://mastodon.social/@ericwbailey"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> mastodon.social/@ericwbailey</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539291600000>
+    <h3 id="talk22"><span class="session_time">
+        <span class="session_time_local">21:00</span><span class="session_time_local_ampm"></span>
+        <span class="session_day_local hidden"></span>
+        <span class="session_time_offset">
+            (<span class="session_time_utc">21:00</span>
+            <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+            <span class="session_presenter">Andy Bell</span>
+        <span class="session_title">The power of progressive enhancement </span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk22"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>We'll dive into why progressive enhancement is important and how we can leverage the power of Vanilla JavaScript, Web Components and modern CSS to deliver a hack-free, lightweight and progressive experience for our users.</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>Andy is a front-end developer & designer who's focused on progressive enhancement, lightweight JavaScript and accessibility. He's using all of this to try and make the web a better place for everyone.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/hankchizljaw"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @hankchizljaw</a></li>
+                <li><a href="https://hankchizljaw.io/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> hankchizljaw.io</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539295200000>
+    <h3 id="talk23"><span class="session_time">
+        <span class="session_time_local">22:00</span><span class="session_time_local_ampm"></span>
+        <span class="session_day_local hidden"></span>
+        <span class="session_time_offset">
+            (<span class="session_time_utc">22:00</span>
+            <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+            <span class="session_presenter">Kathleen McMahon</span>
+        <span class="session_title">Accessibility-flavored React components make your design system delicious!</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk23"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>Design systems are a popular way for teams to flavor their design and development workflow. However, an often-missing ingredient in many design systems is a focus on accessibility best practices — especially when component libraries are involved. In this talk, we’ll take a look at how you can season some commonly-used components with accessibility. Pair this with accessibility guidance in your documentation, and you’ll have the recipe for a delectably inclusive design system.</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>Kathleen works at O’Reilly Media as a Frontend Engineer, where she leads the accessibility initiative for the design system. Her deep industry experience as both a designer and developer fuels her passion for making apps beautifully accessible. In her spare time, she is the Creative Director for the CXsisters network, and the best lanterne rouge cyclocrosser you’ll ever meet.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/resource11"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @resource11</a></li>
+                <li><a href="http://kathleenmcmahon.me/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> kathleenmcmahon.me</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539298800000>
+    <h3 id="talk24"><span class="session_time">
+    <span class="session_time_local">23:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">23:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_presenter">Aaron Gustafson</span>
+        <span class="session_title">Better performance === greater accessibility</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk24"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>Design is problem solving. Each and every day, we are tasked with finding ways to reduce the friction our users experience on the Web. That means streamlining flows, reducing cognitive load, writing more appropriate copy, and (of course) building accessible experience. But experience is about more than just interface. Our users’ experiences begin with their first request to our servers. In this intensely practical session, Aaron will explore the ins and outs of page load performance by showing how he made the web site of the 10K Apart meet its own contest rules, by having a site that was functional and attractive even without JavaScript, and was less than ten kilobytes at initial load. You’ll walk away with a better understanding of the page load process as well as numerous ways you can improve the projects you are working on right now.</p>
+        </div>
+        <h4>About the speaker</h4>
+        <div class="session_presenter_bio">
+            <p>As would be expected from a former manager of the Web Standards Project, Aaron Gustafson is passionate about web standards and accessibility. He has been working on the Web for two decades now and is a web standards advocate at Microsoft, working closely with their browser team. He penned the seminal book on progressive enhancement, <cite>Adaptive Web Design</cite>, and writes about whatever's on his mind at <a href="https://www.aaron-gustafson.com">aaron-gustafson.com</a>.</p>
+            <ul class="pres_info">
+                <li><a href="https://www.twitter.com/aarongustafson"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @aarongustafson</a></li>
+                <li><a href="https://www.aaron-gustafson.com/"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg> aaron-gustafson.com</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="session" data-time-utc=1539302400000>
+    <h3 id="postshow"><span class="session_time">
+    <span class="session_time_local">0:00</span><span class="session_time_local_ampm"></span>
+    <span class="session_day_local hidden"></span>
+    <span class="session_time_offset">
+        (<span class="session_time_utc">0:00</span>
+        <abbr title="Coordinated Universal Time">UTC</abbr>)</span></span>
+        <span class="session_title">The after party</span></h3>
+    <!--<a class="videostream" target="_blank" href="" aria-describedby="talk1"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>-->
+    <div class="session_details">
+        <div class="session_abstract">
+            <p>Your hosts will discuss their favourite webinars from the last 24 hours, and might have a drink or two!</p>
+        </div>
+    </div>
+</div>
+
+</section>
+
+</main>
+
+<footer>
+
+    <div id="logo_hashtag">
+        <img src="/2018/images/id24_logo_mono_white.svg" alt="#id24">
+    </div>
+
+    <nav>
+        <p>Supported by <a href="https://www.paciellogroup.com">The Paciello Group</a> and <a href="https://www.barclays.co.uk/accessibility/">Barclays</a>.</p>
+        <br>
+        <ul>
+            <li><a href="/2018/">Home</a></li>
+            <li><a href="/2018/code-of-conduct/">Code of conduct</a></li>
+            <li><a href="/2018/presenters/">Information for presenters</a></li>
+            <li><a href="/2018/previous-events/">Previous events</a></li>
+        </ul>
+        <br>
+    </nav>
+
+</footer>
+<script src="/2018/id24.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122044597-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-122044597-1');
+</script>
+</body>
+</html>
