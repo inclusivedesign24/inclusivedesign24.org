@@ -264,7 +264,9 @@ section {
 }
 
 .session.now {
-    background: #282828;
+    border-left: 0.25em solid #ffe400;
+    position: relative;
+    left: -0.25em;
 }
 
 .session h3 {
