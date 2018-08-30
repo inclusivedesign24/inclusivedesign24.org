@@ -179,10 +179,17 @@ a:focus, a:hover, a:active {
     color: #282828;
     padding: 0 2px; /* using px rather than em, as 0.25em / -0.25em seems to have rounding issues leading to subtle sub-pixel dancing */
     margin: 0 -2px;
+    outline: none;
+}
+
+header nav a:focus,
+header nav a:hover,
+header nav a:active {
+    border-bottom: 0.25em solid #998000;
 }
 
 header nav a[aria-current] {
-    border-bottom: 0.25em solid #333;
+    border-bottom: 0.25em solid #111;
 }
 
 footer nav a[aria-current] {
