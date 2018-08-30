@@ -77,6 +77,10 @@ header #mainnav {
     font-size: 1rem;
 }
 
+header #mainnav a[href*="id24u"] {
+    text-transform: none; /* special case for id24u which canonically is lowercase */
+}
+
 header #mainnav a {
     color: #000;
     font-weight: bold;
