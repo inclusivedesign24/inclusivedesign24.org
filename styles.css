@@ -170,6 +170,15 @@ a:focus, a:hover, a:active {
     margin: 0 -2px;
 }
 
+header nav a[aria-current] {
+    border-bottom: 0.25em solid #333;
+}
+
+footer nav a[aria-current] {
+    text-decoration: none;
+    border-bottom: 0.25em solid;
+}
+
 button, .session .videostream {
     font-family: Roboto Slab, Helvetica, Arial, sans-serif;
     font-size: 1em;
@@ -421,7 +430,7 @@ a.slides {
 
 @media (max-width: 55rem) {
     body {
-        font-size: 0.95em;
+        font-size: 1.1em;
     }
 
     header, main, footer {
