@@ -73,7 +73,7 @@ header #mainnav {
     grid-column: 7/14;
     padding-top: 5.5em;
     padding-left: 1em;
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-size: 1rem;
 }
 
