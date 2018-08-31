@@ -71,10 +71,11 @@ header #mainnav {
     -ms-grid-column-span: 14;
     -ms-grid-row: 1;
     grid-column: 7/14;
-    padding-top: 5.5em;
+    padding-top: 4em;
     padding-left: 1em;
     text-transform: capitalize;
-    font-size: 1rem;
+    font-size: 1.25rem;
+    word-spacing: -0.1em;
 }
 
 header #mainnav a[href*="id24u"] {
