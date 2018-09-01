@@ -565,6 +565,7 @@ a.slides {
     .session {
         padding-top: 0.5em;
         padding-left: 0.5em;
+        margin: 0;
     }
 
     .session_time {
@@ -580,5 +581,9 @@ a.slides {
     .session_time .session_day_local,
     .session_time .session_time_offset {
         display: inline;
+    }
+
+    .supporter {
+        margin: 0;
     }
 }
