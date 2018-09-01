@@ -36,9 +36,9 @@ svg.icon {
 
 header, main, footer, section, nav, main { display: block; }
 
-/* grid layout */
-
 @media (min-width: 55rem) {
+
+    /* grid layout */
 
     header, footer {
         margin: 0;
@@ -64,6 +64,7 @@ header, main, footer, section, nav, main { display: block; }
         -ms-grid-column-span: 5;
         -ms-grid-row: 1;
         grid-column: 2/7;
+        grid-row: 1;
     }
 
     header #mainnav {
@@ -71,6 +72,7 @@ header, main, footer, section, nav, main { display: block; }
         -ms-grid-column-span: 14;
         -ms-grid-row: 1;
         grid-column: 7/14;
+        grid-row: 1;
         -ms-grid-row-align: end;
     }
 
@@ -79,6 +81,7 @@ header, main, footer, section, nav, main { display: block; }
         -ms-grid-column-span: 2;
         -ms-grid-row: 1;
         grid-column: 2/4;
+        grid-row: 1;
     }
 
     footer nav {
@@ -86,6 +89,7 @@ header, main, footer, section, nav, main { display: block; }
         -ms-grid-column-span: 10;
         -ms-grid-row: 1;
         grid-column: 4/14;
+        grid-row: 1;
     }
 
     main {
@@ -131,7 +135,6 @@ header, main, footer, section, nav, main { display: block; }
         grid-template-columns: repeat(12, 4.25rem);
         grid-column-gap: 0.5rem;
     }
-
 
     .supporter .supporter_name {
         -ms-grid-column: 1;
@@ -215,7 +218,7 @@ header #mainnav {
 }
 
 header #mainnav a[href*="id24u"] {
-    text-transform: none; /* special case for id24u which canonically is lowercase */
+    text-transform: none; /* special case for id24u which canonically is lowercase/non-capped */
 }
 
 header #mainnav a {
@@ -300,15 +303,7 @@ aside {
     outline: none;
 }
 
-.jumbo {
-    font-size: 1.5em;
-    font-weight: bold;
-    display: block;
-    margin: -0.25em 0 0 0;
-}
-
 #intro p, section p {
-    /* font-family: Helvetica, Arial, sans-serif; */
     line-height: 1.5;
     font-size: 0.9em;
 }
@@ -503,55 +498,48 @@ a.slides {
         font-size: 1.1em;
     }
 
-    header, footer {
-        -ms-grid-columns: minmax(1rem, 1fr) (1fr)[12] minmax(1rem, 1fr);
-        grid-template-columns: minmax(1rem, 1fr) repeat(12, 1fr) minmax(1rem, 1fr);
+    /* grid layout (and no subgrids) */
+
+    header, main, footer {
+        display: -ms-grid;
+        -ms-grid-columns: 1rem 1fr 1rem;
+        display: grid;
+        grid-template-columns: 1rem 1fr 1rem;
     }
 
     header #logo {
         -ms-grid-column: 2;
-        -ms-grid-column-span: 12;
         -ms-grid-row: 1;
-        grid-column: 2/14;
+        grid-column: 2;
+        grid-row: 1;
     }
 
     header #mainnav {
         -ms-grid-column: 2;
-        -ms-grid-column-span: 12;
         -ms-grid-row: 2;
-        grid-column: 2/14;        
+        grid-column: 2;
+        grid-row: 2;      
     }
 
-    main #intro {
+    main > * {
         -ms-grid-column: 2;
-        -ms-grid-column-span: 12;
-        -ms-grid-row: 3;
-        grid-column: 2/14;
-    }
-
-    main #twitter {
-        -ms-grid-column: 2;
-        -ms-grid-column-span: 12;
-        -ms-grid-row: 4;
-        grid-column: 2/14;
-    }
-
-    main #cfp, main #info {
-        -ms-grid-row: 5;
+        -ms-grid-row: 1;
+        grid-column: 2;
+        grid-row: 1;
     }
 
     footer #logo_hashtag {
         -ms-grid-column: 2;
-        -ms-grid-column-span: 4;
-        -ms-grid-row: 6;
-        grid-column: 2/6;
+        -ms-grid-row: 1;
+        grid-column: 2;
+        grid-row: 1;
     }
     
     footer nav {
         -ms-grid-column: 2;
-        -ms-grid-column-span: 12;
-        -ms-grid-row: 7;
-        grid-column: 2/14;
+        -ms-grid-row: 2;
+        grid-column: 2;
+        grid-row: 2;
     }
 
     h1 {
@@ -563,8 +551,7 @@ a.slides {
     }
 
     .session {
-        padding-top: 0.5em;
-        padding-left: 0.5em;
+        padding: 1em 0;
         margin: 0;
     }
 
