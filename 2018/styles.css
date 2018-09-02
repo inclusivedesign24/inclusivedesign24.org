@@ -670,6 +670,9 @@ a.slides {
         margin-top: 0.5rem;
     }
     
+    main ul {
+        padding-left: 1.5rem;
+    }
     .session h2 {
         line-height: 1.25;
     }
