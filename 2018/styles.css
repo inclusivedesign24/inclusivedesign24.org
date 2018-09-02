@@ -543,6 +543,11 @@ section {
     border: none;
 }
 
+.supporter_name img {
+    width: 100%;
+    max-width: 20rem;
+}
+
 .supporter ul.supporter_info {
     padding: 0;
     margin: 1em 0 0 0;
@@ -620,18 +625,25 @@ a.slides {
         grid-row: 1;
     }
 
-    footer #logo_hashtag {
+    footer nav#footer-social {
         -ms-grid-column: 2;
         -ms-grid-row: 1;
         grid-column: 2;
         grid-row: 1;
     }
-    
-    footer nav {
+
+    footer nav#footer-ancilliary {
         -ms-grid-column: 2;
         -ms-grid-row: 2;
         grid-column: 2;
         grid-row: 2;
+    }
+
+    footer #logo_hashtag {
+        -ms-grid-column: 2;
+        -ms-grid-row: 3;
+        grid-column: 2;
+        grid-row: 3;
     }
 
     h1 {
@@ -640,6 +652,26 @@ a.slides {
 
     h2 {
         line-height: 1;
+    }
+
+    header {
+        padding-top: 1rem;
+    }
+    
+    div#logo img {
+        max-width: 20rem;
+    }
+
+    footer #logo_hashtag {
+        max-width: 10rem;
+    }
+    
+    header nav {
+        margin-top: 0.5rem;
+    }
+    
+    .session h2 {
+        line-height: 1.25;
     }
 
     .session {
@@ -669,5 +701,60 @@ a.slides {
 
     .supporter {
         margin: 0;
+        padding: 1rem 0;
+    }
+
+    .supporter ul.supporter_info li {
+        margin: 0;
+        display: block;
+    }
+
+    .supporter ul.supporter_info li a {
+        white-space: inherit;
+    }
+
+    #partners-supporters img {
+        max-width: 20rem;
+        margin: 0 auto;
+        display: block;
+    }
+}
+
+@media (max-width: 35em) {
+	header #mainnav {
+	    margin: 0;
+	    padding: 0;
+	}
+
+	header #mainnav a {
+	    display: block;
+	    margin-bottom: 10px; /* em/rem lead to pixel dancing/rounding issues :( */
+	}
+
+	header #mainnav a:focus,
+	header #mainnav a:hover,
+    header #mainnav a:active,
+    header #mainnav a[aria-current] {
+        margin-bottom: 5px;
+        border-bottom-width: 5px;
+    }
+
+	header #mainnav ul, header #mainnav ul li {
+	    display: block;
+	    padding: 0;
+	    margin: 0;
+	    list-style: none;
+    }
+    
+    .supporter_name img {
+        max-width: 90%;
+        margin: 0;
+        padding: 0;
+        display: block;
+    }
+
+    main a {
+        text-overflow: ellipsis;
+        max-width: 80%;
     }
 }
