@@ -65,7 +65,7 @@
     <div id="logo">
         <img src="/2018/images/Inclusive_Design24_logo_black.svg" alt="Inclusive Design 24">
     </div>
-    <nav id="mainnav">
+    <nav id="mainnav" aria-label="Main navigation">
         <ul>
             <li><a href="/2018/">Home</a></li>
             <li><a href="/2018/schedule/" aria-current="page">Schedule</a></li>
@@ -744,21 +744,33 @@
 
 </main>
 
-<footer>
-
-    <div id="logo_hashtag">
-        <img src="/2018/images/id24_logo_mono_white.svg" alt="#id24">
-    </div>
-
-    <nav>
+<aside id="partners-supporters">
+    <div>
         <ul>
+            <li><a href="/2018/partners-supporters/#barclays"><img src="/2018/partners-supporters/barclays.svg" alt="In partnership with Barclays" width="100%"></a></li>
+            <li><a href="/2018/partners-supporters/#tpg"><img src="/2018/partners-supporters/tpg.svg" alt="The Paciello Group" width="100%"></a></li>
+            <li><a href="/2018/partners-supporters/#intopia"><img src="/2018/partners-supporters/intopia.svg" alt="Intopia" width="100%"></a></li>
+        </ul>
+    </div>
+</aside>
+
+<footer>
+    <nav id="footer-social" aria-label="Social media">
+        <ul>
+            <li><a href="https://twitter.com/id24conf"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @id24conf</a></li>
+            <li><a href="https://youtube.com/c/InclusiveDesign24"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="YouTube: " focusable="false"><use xlink:href="#icon-player"></use></svg> InclusiveDesign24</a></li>
+        </ul>
+    </nav>
+    <nav id="footer-ancilliary" aria-label="Secondary navigation">
+        <ul id="footer-ancilliary">
             <li><a href="/2018/code-of-conduct/">Code of conduct</a></li>
             <li><a href="/2018/presenters/">Information for presenters</a></li>
             <li><a href="/2018/previous-events/">Previous events</a></li>
         </ul>
-        <br>
     </nav>
-
+    <div id="logo_hashtag">
+        <img src="/2018/images/id24_logo_mono_white.svg" alt="#id24">
+    </div>
 </footer>
 
 <!-- Custom script to handle schedule UTC/local time adaptation and disclosure widgets -->

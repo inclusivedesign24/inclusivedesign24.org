@@ -40,7 +40,7 @@ header, main, footer, section, nav, main { display: block; }
 
     /* grid layout */
 
-    header, footer {
+    header, footer  {
         margin: 0;
         display: -ms-grid;
         -ms-grid-columns: minmax(1rem, 1fr) (4.25rem)[12] minmax(1rem, 1fr);
@@ -76,19 +76,31 @@ header, main, footer, section, nav, main { display: block; }
         -ms-grid-row-align: end;
     }
 
+    footer {
+        align-items: start;
+    }
+
     footer #logo_hashtag {
-        -ms-grid-column: 2;
+        -ms-grid-column: 12;
         -ms-grid-column-span: 2;
         -ms-grid-row: 1;
-        grid-column: 2/4;
+        grid-column: 12/14;
         grid-row: 1;
     }
 
-    footer nav {
-        -ms-grid-column: 4;
-        -ms-grid-column-span: 10;
+    footer nav#footer-social {
+        -ms-grid-column: 5;
+        -ms-grid-column-span: 3;
         -ms-grid-row: 1;
-        grid-column: 4/14;
+        grid-column: 5/8;
+        grid-row: 1;
+    }
+
+    footer nav#footer-ancilliary {
+        -ms-grid-column: 8;
+        -ms-grid-column-span: 4;
+        -ms-grid-row: 1;
+        grid-column: 8/12;
         grid-row: 1;
     }
 
@@ -106,7 +118,46 @@ header, main, footer, section, nav, main { display: block; }
         grid-column: 2;
     }
 
+    aside#partners-supporters {
+        margin: 0;
+        display: -ms-grid;
+        -ms-grid-columns: minmax(1rem, 1fr) 50rem minmax(1rem, 1fr);
+        display: grid;
+        grid-template-columns: minmax(1rem, 1fr) 55rem minmax(1rem, 1fr);
+        grid-column-gap: 0.5rem;
+    }
+
+    aside#partners-supporters > * {
+        -ms-grid-column: 2;
+        grid-column: 2;
+        -ms-grid-row-align: end;
+    }
+
     /* specific subgrids */
+
+    aside#partners-supporters ul {
+        display: -ms-grid;
+        -ms-grid-columns: (1fr)[3];
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-column-gap: 0.5rem;
+        align-items: center;
+    }
+
+    aside#partners-supporters ul li:nth-of-type(1) {
+        -ms-grid-column: 1;
+        -ms-grid-row-align: center;
+    }
+
+    aside#partners-supporters ul li:nth-of-type(2) {
+        -ms-grid-column: 2;
+        -ms-grid-row-align: center;
+    }
+
+    aside#partners-supporters ul li:nth-of-type(3) {
+        -ms-grid-column: 3;
+        -ms-grid-row-align: center;
+    }
 
     main #intro-twitter {
         display: -ms-grid;
@@ -164,12 +215,6 @@ nav {
   padding-bottom: 1em;
 }
 
-nav * {
-  display: inline;
-  margin: 0;
-  padding: 0;
-}
-
 nav ul {
   padding-left: 0.25em;
 }
@@ -189,7 +234,7 @@ main li {
 
 
 footer {
-    font-size: 0.8em;
+    font-size: 1rem;
 }
 
 a, a:link, a:visited {
@@ -217,6 +262,11 @@ header #mainnav {
     word-spacing: -0.1em;
 }
 
+header #mainnav ul,
+header #mainnav ul li {
+    display: inline;
+}
+
 header #mainnav a[href*="id24u"] {
     text-transform: none; /* special case for id24u which canonically is lowercase/non-capped */
 }
@@ -227,9 +277,48 @@ header #mainnav a {
     text-decoration: none;
 }
 
+aside#partners-supporters {
+    border: none;
+    background: #333;
+}
+
+aside#partners-supporters ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+aside#partners-supporters li {
+    padding: 1.5rem;
+}
+
+aside#partners-supporters a:focus,
+aside#partners-supporters a:hover,
+aside#partners-supporters a:active {
+    background: none;
+    color: inherit;
+    padding: 0;
+    margin: 0;
+}
+
+aside#partners-supporters a:focus {
+    outline: 0.25rem #ffe400 solid;
+}
+
 footer {
     background: #111;
     padding: 2rem 0;
+}
+
+footer nav ul,
+footer nav ul li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+footer nav ul li {
+    padding: 0 0 0.25rem 0;
 }
 
 header nav a:focus,
