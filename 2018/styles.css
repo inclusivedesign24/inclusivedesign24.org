@@ -334,6 +334,10 @@ header nav a[aria-current] {
     border-bottom: 0.25em solid #111;
 }
 
+header #mainnav a[aria-current]:focus {
+    outline: 2px #998000 solid;
+}
+
 footer nav a[aria-current] {
     text-decoration: none;
     border-bottom: 0.25em solid;
