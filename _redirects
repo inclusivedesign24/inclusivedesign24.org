@@ -2,7 +2,7 @@
 
 # Redirect requests to the specific year's subdirectory (need to change this yearly)
 
-/  /2018/
+/ /2018/
 /code-of-conduct/* /2018/code-of-conduct/:splat
 /id24u/* /2018/id24u/:splat
 /resources/* /2018/resources/:splat
