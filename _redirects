@@ -1,0 +1,5 @@
+# https://www.netlify.com/docs/redirects/
+
+# Redirect requests to the specific year's subdirectory (need to change this yearly)
+
+/*  /2018/:splat
