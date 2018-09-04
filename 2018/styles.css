@@ -23,6 +23,10 @@ abbr[title], acronym[title] {
     text-decoration: none;
 }
 
+cite {
+    font-style: normal;
+}
+
 /* inline SVG icons */
 
 svg.icon {
