@@ -479,7 +479,7 @@ section {
     margin-bottom: 0.5em;
     padding-left: 0.1em;
     font-size: 0.3em !important;
-    color: #888;
+    color: #999;
 }
 
 .session_time .session_day_local.datechange {
@@ -488,7 +488,7 @@ section {
 }
 
 .session_time .session_time_offset {
-    color: #888;
+    color: #999;
 }
 
 #time_machine {
