@@ -458,6 +458,7 @@ section {
     left: 0.25em;
     font-size: 2em;
     font-weight: normal;
+    line-height: 1;
 }
 
 .session_time .session_time_local_ampm {
@@ -472,7 +473,7 @@ section {
 .session_time .session_time_offset {
     font-size: 0.45em;
     display: block;
-    margin-top: -0.5em;
+    line-height: 0.9;
 }
 
 .session_time .session_day_local {
@@ -485,6 +486,8 @@ section {
 .session_time .session_day_local.datechange {
     color: #fff;
     font-size: 0.45em !important;
+    padding-top: 0.2em;
+    line-height: 0.5;
 }
 
 .session_time .session_time_offset {
