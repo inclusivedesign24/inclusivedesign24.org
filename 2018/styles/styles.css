@@ -469,6 +469,10 @@ section {
     line-height: 1;
 }
 
+.session_time_local {
+    font-weight: bold;
+}
+
 .session_time .session_time_local_ampm {
     font-size: 0.3em;
 }
@@ -616,6 +620,7 @@ table.id24u_sessions {
 }
 
 table.id24u_sessions th {
+    font-family: 'Nunito Sans', sans-serif;
     text-align: left;
 }
 
@@ -625,6 +630,10 @@ table.id24u_sessions thead tr {
 
 table.id24u_sessions tbody tr {
     border-bottom: 1px #444 solid
+}
+
+table.id24u_sessions tbody td:nth-child(2) {
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 table.id24u_sessions tbody tr:last-child {
