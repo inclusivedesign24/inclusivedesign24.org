@@ -625,6 +625,10 @@ table.id24u_sessions tbody tr {
     border-bottom: 1px #444 solid
 }
 
+table.id24u_sessions tbody tr:last-child {
+    border-bottom: none;
+}
+
 table.id24u_sessions th,
 table.id24u_sessions td {
     padding: 0.5em 1em 0.5em 0;
