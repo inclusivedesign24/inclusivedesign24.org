@@ -605,6 +605,30 @@ a.slides {
     border:0;
 }
 
+/* id24u table */
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+th {
+    text-align: left;
+}
+
+thead tr {
+    border-bottom: 1px #ffe400 solid;
+}
+
+tbody tr {
+    border-bottom: 1px #444 solid
+}
+
+table th, table td {
+    padding: 0.5em 1em 0.5em 0;
+}
+
 /* adaptations for smaller screens */
 
 @media (max-width: 64rem) {
