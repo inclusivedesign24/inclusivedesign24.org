@@ -607,26 +607,31 @@ a.slides {
 
 /* id24u table */
 
-table {
+table.id24u_sessions {
     border-collapse: collapse;
     width: 100%;
     margin-bottom: 2em;
 }
 
-th {
+table.id24u_sessions th {
     text-align: left;
 }
 
-thead tr {
+table.id24u_sessions thead tr {
     border-bottom: 1px #ffe400 solid;
 }
 
-tbody tr {
+table.id24u_sessions tbody tr {
     border-bottom: 1px #444 solid
 }
 
-table th, table td {
+table.id24u_sessions table th, table td {
     padding: 0.5em 1em 0.5em 0;
+}
+
+table.id24u_sessions .session_time_local_ampm,
+table.id24u_sessions .session_time_offset {
+    font-size: 0.65em !important;
 }
 
 /* adaptations for smaller screens */
