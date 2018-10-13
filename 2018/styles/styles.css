@@ -746,7 +746,7 @@ table.id24u_sessions .session_time_offset {
     }
 
     .session {
-        padding: 1em 0;
+        padding: 1.5em 0;
         margin: 0;
     }
 
@@ -767,7 +767,11 @@ table.id24u_sessions .session_time_offset {
 
     .session_time .session_day_local,
     .session_time .session_time_offset {
-        display: inline;
+        display: block;
+    }
+
+    .session_time .session_time_offset {
+        margin-bottom: 1em;
     }
 
     .supporter {
