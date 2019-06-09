@@ -5,10 +5,8 @@
 / /2019/
 /2019/partners-supporters/ /2019/supporters/
 /2019/partners-supporters/* /2019/supporters/:splat
-/2018/previous-events/ /previous-events/
-/2018/previous-events/* /previous-events/:splat
-/2019/previous-events/ /previous-events/
-/2019/previous-events/* /previous-events/:splat
+/2018/previous-events/* /editions/:splat
+/2019/previous-events/* /editions/:splat
 /code-of-conduct/* /2019/code-of-conduct/:splat
 /id24u/* /2019/id24u/:splat
 /resources/* /2019/resources/:splat
