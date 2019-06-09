@@ -3,7 +3,6 @@
 # Redirect requests to the specific year's subdirectory (need to change this yearly)
 
 / /2019/
-/2019/partners-supporters/ /2019/supporters/
 /2019/partners-supporters/* /2019/supporters/:splat
 /2018/previous-events/* /editions/:splat
 /2019/previous-events/* /editions/:splat
