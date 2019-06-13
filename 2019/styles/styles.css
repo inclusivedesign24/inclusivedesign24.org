@@ -26,6 +26,7 @@ abbr[title], acronym[title] {
 }
 
 cite {
+    color:#ffe400;
     font-style: normal;
 }
 
@@ -77,7 +78,7 @@ header, main, footer, section, nav, main { display: block; }
         -ms-grid-column: 13;
         -ms-grid-column-span: 27;
         -ms-grid-row: 1;
-        grid-column: 7/14;
+        grid-column: 8/14;
         grid-row: 1;
         -ms-grid-row-align: end;
     }
@@ -217,7 +218,7 @@ nav {
 }
 
 nav ul {
-  padding-left: 0.25em;
+  padding-left: 0;
 }
 
 nav ul li {
@@ -257,7 +258,6 @@ header {
 }
 
 header #mainnav {
-    padding-left: 1em;
     text-transform: capitalize;
     font-size: 1.25rem;
     word-spacing: -0.1em;
@@ -276,6 +276,10 @@ header #mainnav a {
     color: #000;
     font-weight: bold;
     text-decoration: none;
+}
+
+main {
+    padding: 2em 0 4em 0;
 }
 
 aside#partners-supporters {
@@ -400,6 +404,10 @@ aside {
 #intro p, section p {
     line-height: 1.5;
     font-size: 0.9em;
+}
+
+main > p, main > div > p {
+    line-height: 1.5;
 }
 
 section h2 {
