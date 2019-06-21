@@ -268,8 +268,8 @@ header #mainnav ul li {
     display: inline;
 }
 
-header #mainnav a[href*="id24u"] {
-    text-transform: none; /* special case for id24u which canonically is lowercase/non-capped */
+header #mainnav a[href*="id24-local"] {
+    text-transform: none; /* special case for id24-local which canonically is lowercase/non-capped */
 }
 
 header #mainnav a {
@@ -605,42 +605,42 @@ a.slides {
     border:0;
 }
 
-/* id24u table */
+/* id24-local table */
 
-table.id24u_sessions {
+table.id24-local_sessions {
     border-collapse: collapse;
     width: 100%;
     margin-bottom: 2em;
 }
 
-table.id24u_sessions th {
+table.id24-local_sessions th {
     font-family: 'Nunito Sans', sans-serif;
     text-align: left;
 }
 
-table.id24u_sessions thead tr {
+table.id24-local_sessions thead tr {
     border-bottom: 1px #ffe400 solid;
 }
 
-table.id24u_sessions tbody tr {
+table.id24-local_sessions tbody tr {
     border-bottom: 1px #444 solid
 }
 
-table.id24u_sessions tbody td:nth-child(2) {
+table.id24-local_sessions tbody td:nth-child(2) {
     font-family: 'Nunito Sans', sans-serif;
 }
 
-table.id24u_sessions tbody tr:last-child {
+table.id24-local_sessions tbody tr:last-child {
     border-bottom: none;
 }
 
-table.id24u_sessions th,
-table.id24u_sessions td {
+table.id24-local_sessions th,
+table.id24-local_sessions td {
     padding: 0.5em 1em 0.5em 0;
 }
 
-table.id24u_sessions .session_time_local_ampm,
-table.id24u_sessions .session_time_offset {
+table.id24-local_sessions .session_time_local_ampm,
+table.id24-local_sessions .session_time_offset {
     font-size: 0.65em !important;
 }
 
