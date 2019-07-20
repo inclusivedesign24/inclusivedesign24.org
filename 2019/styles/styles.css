@@ -41,7 +41,7 @@ svg.icon {
 
 /* IE11 patch */
 
-header, main, footer, section, nav, main { display: block; }
+header, main, footer, section, nav, main, aside { display: block; }
 
 @media (min-width: 64rem) {
 
@@ -181,26 +181,6 @@ header, main, footer, section, nav, main { display: block; }
         grid-column: 5;
     }
 
-    .supporter {
-        display: -ms-grid;
-        -ms-grid-columns: 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem;
-        display: grid;
-        grid-template-columns: repeat(12, 4.25rem);
-        grid-column-gap: 1rem;
-    }
-
-    .supporter .supporter_name {
-        -ms-grid-column: 1;
-        -ms-grid-column-span: 5;
-        grid-column: 1/4;
-    }
-
-    .supporter .supporter_details {
-        -ms-grid-column: 7;
-        -ms-grid-column-span: 18;
-        grid-column: 4/13;
-    }
-
 }
 
 /* ugly IE hack for SVG sizing */
@@ -282,32 +262,23 @@ main {
     padding: 2em 0 4em 0;
 }
 
-aside#partners-supporters {
-    border: none;
-    background: #333;
+#supporters {
+    text-align: center;
+    background-color: #282828;
+    border-top: 2px #444 solid;
+    padding-bottom: 1em;
 }
 
-aside#partners-supporters ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
+#supporters h3 {
+    text-transform: uppercase;
+    font-size: 0.75em;
 }
 
-aside#partners-supporters li {
-    padding: 1.5rem;
-}
-
-aside#partners-supporters a:focus,
-aside#partners-supporters a:hover,
-aside#partners-supporters a:active {
-    background: none;
-    color: inherit;
-    padding: 0;
-    margin: 0;
-}
-
-aside#partners-supporters a:focus {
-    outline: 0.25rem #ffe400 solid;
+#supporters img {
+    max-height: 100px;
+    max-width: 200px;
+    vertical-align: middle;
+    margin: 0 0.5em;
 }
 
 footer {
@@ -384,14 +355,6 @@ button, .session .videostream {
     color: #ffe400;
     text-decoration: underline;
     outline: none;
-}
-
-aside {
-    background-color: #282828;
-    border: 2px #444 solid;
-    border-radius: 5px;
-    padding: 1em;
-    font-size: 0.75em;
 }
 
 #archive { width: 15em; }
@@ -547,39 +510,6 @@ section {
 .session ul.pres_info li a {
     text-decoration: none;
     word-break: break-all;
-}
-
-.supporter {
-    position: relative;
-    margin: 0 -0.5em;
-    padding: 2em 0.5em 2em 0.5em;
-    border-bottom: 1px #444 solid;
-}
-
-.supporter > h2 {
-    border: none;
-}
-
-.supporter_name img {
-    width: 100%;
-    max-width: 20rem;
-}
-
-.supporter ul.supporter_info {
-    padding: 0;
-    margin: 1em 0 0 0;
-}
-
-.supporter ul.supporter_info li {
-    list-style-type: none;
-    display: inline;
-    padding: 0;
-    margin: 0 1em 0 0;
-}
-
-.supporter ul.supporter_info li a {
-    text-decoration: none;
-    white-space: nowrap;
 }
 
 a.youtube {
@@ -762,25 +692,6 @@ table.id24local_sessions .session_time_offset {
         margin-bottom: 1em;
     }
 
-    .supporter {
-        margin: 0;
-        padding: 1rem 0;
-    }
-
-    .supporter ul.supporter_info li {
-        margin: 0;
-        display: block;
-    }
-
-    .supporter ul.supporter_info li a {
-        white-space: inherit;
-    }
-
-    #partners-supporters img {
-        max-width: 20rem;
-        margin: 0 auto;
-        display: block;
-    }
 }
 
 @media (max-width: 35em) {
