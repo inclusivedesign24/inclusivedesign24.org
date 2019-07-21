@@ -124,63 +124,6 @@ header, main, footer, section, nav, main, aside { display: block; }
         -ms-grid-column: 2;
         grid-column: 2;
     }
-
-    aside#partners-supporters {
-        margin: 0;
-        display: -ms-grid;
-        -ms-grid-columns: minmax(1rem, 1fr) 62rem minmax(1rem, 1fr);
-        display: grid;
-        grid-template-columns: minmax(1rem, 1fr) 62rem minmax(1rem, 1fr);
-        grid-column-gap: 1rem;
-    }
-
-    aside#partners-supporters > * {
-        -ms-grid-column: 2;
-        grid-column: 2;
-        -ms-grid-row-align: end;
-    }
-
-    /* specific subgrids */
-
-    aside#partners-supporters ul {
-        display: -ms-grid;
-        -ms-grid-columns: 1fr 1fr 1fr 1fr 1fr;
-        display: grid;
-        grid-template-columns: repeat(5, 1fr);
-        grid-column-gap: 1rem;
-        align-items: center;
-    }
-
-    aside#partners-supporters ul li:nth-of-type(1) {
-        -ms-grid-column: 1;
-        -ms-grid-row-align: center;
-        grid-column: 1;
-    }
-
-    aside#partners-supporters ul li:nth-of-type(2) {
-        -ms-grid-column: 2;
-        -ms-grid-row-align: center;
-        grid-column: 2;
-    }
-
-    aside#partners-supporters ul li:nth-of-type(3) {
-        -ms-grid-column: 3;
-        -ms-grid-row-align: center;
-        grid-column: 3;
-    }
-
-    aside#partners-supporters ul li:nth-of-type(4) {
-        -ms-grid-column: 4;
-        -ms-grid-row-align: center;
-        grid-column: 4;
-    }
-
-    aside#partners-supporters ul li:nth-of-type(5) {
-        -ms-grid-column: 5;
-        -ms-grid-row-align: center;
-        grid-column: 5;
-    }
-
 }
 
 /* ugly IE hack for SVG sizing */
@@ -269,6 +212,13 @@ main {
     padding-bottom: 1em;
 }
 
+#supporters ul, #supporters li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+
 #supporters h3 {
     text-transform: uppercase;
     font-size: 0.75em;
@@ -278,7 +228,21 @@ main {
     max-height: 100px;
     max-width: 200px;
     vertical-align: middle;
-    margin: 0 0.5em;
+    padding: 0.1em 0.6em;
+}
+
+#supporters a {
+    text-decoration: none;
+}
+
+#supporters a:focus,
+#supporters a:hover,
+#supporters a:active {
+    background: none;
+}
+
+#supporters a:focus img {
+    outline: 2px solid #ffe400;
 }
 
 footer {
