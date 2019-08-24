@@ -1,0 +1,323 @@
+body {
+    font-family: Roboto Slab, Helvetica, Arial, sans-serif;
+    font-size: 1.25em;
+    background: #242424;
+    color: #FCFCFC;
+}
+
+abbr[title], acronym[title] {
+    text-decoration: none;
+}
+
+/* IE11 patch */
+header, footer, section, nav, main { display: block; }
+
+nav, header, main, footer div {
+    max-width: 45em;
+    margin: 0 auto;
+}
+
+nav {
+  padding-bottom: 1em;
+}
+
+nav * {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul {
+  padding-left: 0.25em;
+}
+
+nav ul li {
+  padding-right: 0.5em;
+}
+
+header p {
+    color: #999;
+    margin: 0;
+}
+
+#intro {
+    width: 69%;
+    float: left;
+}
+
+#twitter {
+    width: 30%;
+    float: right;
+}
+
+button {
+    clear: both;
+}
+
+footer {
+    margin-top: 2em;
+    padding: 2em 0;
+}
+
+a, a:link, a:visited {
+    color: #55ACEE;
+}
+
+a:focus, a:hover, a:active {
+    background: #3D7CAC;
+    color: #fff;
+    padding: 0 5px; /* using px rather than em, as 0.25em / -0.25em seems to have rounding issues leading to subtle sub-pixel dancing */
+    margin: 0 -5px;
+    border-radius: 0.1em;
+}
+
+button, .session .videostream {
+    font-family: Roboto Slab, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline;
+    padding: 0 0.25em;
+}
+
+.session .videostream:focus,
+.session .videostream:hover,
+.session .videostream:active {
+    padding: 0 0.25em;
+    margin: 0;
+}
+
+#signup, #connect, #archive {
+    display: block;
+    width: 14em;
+    text-align: center;
+    font-family: Roboto Slab, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 1em;
+    background: #3D7CAC;
+    border: 1px #357EBD solid;
+    color: #fff;
+    border-radius: 0.25em;
+    margin: 1em auto;
+    text-decoration: none;
+    clear: both;
+}
+
+aside {
+    background-color: #333;
+    border: 2px #444 solid;
+    border-radius: 5px;
+    padding: 1em;
+    font-size: 0.75em;
+}
+
+#archive { width: 15em; }
+
+#signup:focus, #signup:hover {
+    background: #0B3160;
+    outline: none;
+}
+
+.jumbo {
+    font-size: 1.5em;
+    font-weight: bold;
+    display: block;
+    margin: -0.25em 0 0 0;
+}
+
+#intro p, section p {
+    /* font-family: Helvetica, Arial, sans-serif; */
+    line-height: 1.5;
+    font-size: 0.9em;
+}
+
+section h2 {
+    border-bottom: 1px solid #777;
+}
+
+
+section { 
+    margin-bottom: 2em;
+}
+
+.session {
+    position: relative;
+    margin: 0 -0.5em;
+    padding: 2em 0.5em 2em 8.5em;
+    border-bottom: 1px #444 solid;
+}
+
+.session.now {
+    background: #333;
+}
+
+.session h3 {
+    margin: 0 0 0.25em 0;
+}
+
+.session h4 {
+    color: #FCFCFC;
+}
+
+.session button, .session .videostream {
+    border: none;
+    background: transparent;
+    font-size: 0.8em;
+    color: #55ACEE;
+}
+
+.session button:focus, .session button:hover,
+.session .videostream:focus, .session .videostream:hover {
+    outline: 2px #55ACEE solid;
+}
+
+.session_time {
+    position: absolute;
+    top: 0.7em;
+    left: 0.25em;
+    font-size: 2em;
+    font-weight: normal;
+}
+
+.session_time .session_time_local_ampm {
+    font-size: 0.3em;
+}
+
+.session_time_offset {
+    font-size: 0.3em !important;
+}
+
+.session_time .session_day_local,
+.session_time .session_time_offset {
+    font-size: 0.45em;
+    display: block;
+    margin-top: -0.5em;
+}
+
+.session_time .session_day_local {
+    margin-bottom: 0.5em;
+    padding-left: 0.1em;
+}
+
+.session_time .session_time_offset {
+    color: #888;
+}
+
+#time_machine {
+    color: #FDC301;
+}
+
+.session_time .now {
+    display: block;
+    font-size: 0.3em;
+    color: #FDC301;
+    font-weight: bold;
+    margin: 0.85em 0 -0.55em 0;
+}
+
+.session_presenter,
+.session_title {
+    display: block;
+}
+
+.session_presenter {
+    font-weight: normal;
+    color: #999;
+}
+
+.session_abstract {
+    color: #bbb;
+}
+
+.session_presenter_bio {
+    margin-top: 1em;
+    color: #bbb;
+}
+
+ul.pres_info {
+    padding: 0;
+    margin: 1em 0 0 0;
+}
+
+ul.pres_info li {
+    list-style-type: none;
+    display: inline;
+    padding: 0;
+    margin: 0 1em 0 0;
+}
+
+ul.pres_info li a {
+    text-decoration: none;
+}
+
+a.youtube {
+    text-decoration: none;
+}
+
+a.slides { 
+    text-decoration: none;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.sr-only {
+    position:absolute;
+    width:1px;
+    height:1px;
+    padding:0;
+    margin:-1px;
+    overflow:hidden;
+    clip:rect(0,0,0,0);
+    border:0;
+}
+
+/* Adaptations for smaller screens */
+
+@media (max-width: 25em) {
+    body {
+        font-size: 0.95em;
+        padding: 0 0.5em;
+    }
+
+    h1 {
+        font-size: 1.25em;
+    }
+
+    h2 {
+        line-height: 1;
+    }
+
+    #intro {
+        width: auto;
+        float: none;
+    }
+
+    #twitter {
+        width: auto;
+        float: none;
+    }
+
+    .session {
+        padding-top: 0.5em;
+        padding-left: 0.5em;
+    }
+
+    .session_time {
+        position: initial;
+        top: 0;
+        left: 0;
+    }
+
+    .session_time .session_time_local_ampm {
+        font-size: 0.4em;
+    }
+
+    .session_time .session_day_local,
+    .session_time .session_time_offset {
+        display: inline;
+        margin-top: 0;
+    }
+}

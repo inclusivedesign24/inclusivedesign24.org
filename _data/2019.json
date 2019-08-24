@@ -1,0 +1,389 @@
+{
+    "event": {
+        "playlistId": ""
+    },
+    "schedule": [
+        {
+            "datetime": "October 09, 2019 23:45",
+            "title": "The pre-show",
+            "videoId": "",
+            "description": "<p>Meet your hosts for the next 24 hours. We'll be having a general chat about accessibility, inclusive design, and talking about the webinars we are most looking forward to in the upcoming 24 hours.</p>"
+        },
+        {
+            "datetime": "October 10, 2019 00:00",
+            "presenter": "Elizabeth J Pyatt",
+            "title": "Accessibility in Any Language: From Language Tags to Legible Unicode Output",
+            "videoId": "",
+            "description": "<p>This session reviews best practices for optimizing content with non-English and technical symbol content. We will discuss the importance of language tagging all documents and how it works on the Web and provide some tips for enhancing the legibility of your text across different languages.  The basic structure of the Unicode standard for multilingual text will be introduced along with possible ARIA workarounds for some screen reader issues.</p>",
+            "bio": "<p>Elizabeth Pyatt has provided accessibility documentation, testing and training since 2002 and has given multiple presentations at CSUN, Accessing Higher Ground and the Internationalization and Unicode Conference. She is the webmaster of the Penn State Accessibility site (http://accessibility.psu.edu) and has taught multiple courses in linguistics at both Penn State and Harvard. Her experiences making accessible content for language courses includes Arabic, Spanish and phonetics.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/ejp10inpublic",
+                    "text": "@ejp10inpublic"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 01:00",
+            "presenter": "Henri Helvetica",
+            "title": "The Tipping Point: How Performance Decisions Make Accessibility Differences",
+            "videoId": "",
+            "description": "As web developers, we are after the best user experience possible. This is a refrain that most will acknowledge. “The Tipping Point: How Performance Decisions Make Accessibility Differences” looks at how performance best practices can in help bring you closer to the accessibility resolution. We’ll see at how resource management will help reduce wait time anti-patterns, how Time To Interactive and other metrics can aid in improving a page’s usability, and how other best practices ultimately directly and positively affect accessibility.",
+            "bio": "Henri is a freelance developer who has turned his interests to a passionate mix of site performance engineering and pinches of user experience. When not reading the deluge of daily research docs and case studies, or auditing sites, Henri can be found contributing back to the community: Toronto Web Performance + JAMstack meetups curating performance content or volunteering his time for lunch and learns at various bootcamps.",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/henrihelvetica",
+                    "text": "@henrihelvetica"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 02:00",
+            "presenter": "Andrew Arch and Sarah Pulis",
+            "title": "Usability testing with people with disability",
+            "videoId": "",
+            "description": "<p>Usability testing is the key to understanding the true experience for people with disability. The best experience for any user to successfully use your product needs to be effective, efficient and satisfying, not just technical conformant with WCAG.</p><p>In this session, we will discuss who to include in your testing, how to recruit participants, planning and running a session and some tips for understanding the findings.</p>",
+            "bio": "<p>Andrew is a Principal Consultant with Intopia and has been working in the field of digital accessibility for over 20 years. During this time, he established the digital access team at Vision Australia, worked on ageing and disability at the W3C in Europe and as the senior accessibility and inclusion expert for the Australian Government, including the Digital Transformation Agency.</p><p>Sarah is Director and co-founder of Intopia and can't compete with Andrew's year's of experience (9 years isn't bad though, right?). Sarah co-founded Intopia 3.5 years ago after working with PwC Australia and Media Access Australia as an accessibility specialist. She is also founder of A11y Bytes and A11Y Camp, which have grown to be Australia's largest events on digital accessibility and inclusion.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/amja",
+                    "text": "@amja"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/sarahtp",
+                    "text": "@sarahtp"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 03:00",
+            "presenter": "Carie Fisher",
+            "title": "Accessible Patterns from the Ground Up",
+            "videoId": "",
+            "description": "<p>Digital accessibility can be difficult or frustrating to a lot of people, but it doesn’t have to be. By making small changes to your everyday workflow, you can have a huge impact on making the digital world more inclusive - without crushing your creativity or sacrificing your sanity!</p><p>In this talk, we will walk-through the process of creating an accessible pattern from design to development, while focusing on accessibility best practices at each step. We will start with a wireframe/sketch, a process that into a design, translate the design into code, and finally, retest for accessibility. We will also talk about the different kinds of patterns out in the wild and which are the most accessible to the widest range of users.</p><p>The audience will leave the talk with a deeper understanding of accessibility best practices and will have take-away action items to help them start building their own accessible patterns!</p>",
+            "bio": "<p>I have been building websites professionally since the early 2000s and am passionate about front-end development, accessibility, and promoting diversity in the tech world. Currently, I am working as a Senior Accessibility Consultant at Deque Systems.</p><p>When I am not spending time with my family, traveling, gardening, or making a mess with my latest DIY project, I volunteer my time to the accessibility and dev communities. I am the creator of the Accessibility (A11Y) Style Guide and Accessibility (A11Y) Talks virtual meet-up, designer of the A11y Cats T-shirt, member of the A11y Project and 24 Accessibility teams, and past team member and mentor for the OpenAIR Knowbility Challenge.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/cariefisher",
+                    "text": "@cariefisher"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 04:00",
+            "presenter": "Russ Weakley",
+            "title": "Accessible states in Design Systems",
+            "videoId": "",
+            "description": "<p>This talk will look at a the importance of states (visited, focus, active, checked/selected, open and more) when building design systems. We will explore their relevance, how to maintain consistency and how to systemise when designing at scale.</p>",
+            "bio": "<p>Russ Weakley is a author, speaker and CSS expert, with a detailed knowledge of web design and development. Russ runs the Web Standards Group and has produced a series of widely acclaimed online tutorials on CSS, Responsive Web Design and web development.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/russmaxdesign",
+                    "text": "@russmaxdesign"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 05:00",
+            "presenter": "Sam Latif",
+            "title": "Disability",
+            "videoId": "",
+            "description": "<p>Winning with 50+/People with Disabilities consumers is critical for P&G to grow.  By 2030 we will have more >50 consumers to serve vs under 50 and 36% of 50+ consumers will experience a disability.  We estimate today we are losing 1BN dollars per annum across our Categories not serving this segment. P&G has an opportunity to reach more consumers with more accessible and irresistible products and packaging for all.</p>",
+            "bio": "<p>Sam Latif was born in the UK, and is a first generation Scottish Pakistani.  She is blind and the passion for what she is doing at P&G has been inspired by the personal access challenges she has experienced as both a consumer and an employee.  Sam studied Marketing and Business Law at the University of Stirling in Scotland and began her career at P&G in IT.  She has lead IT transformations across multiple worldwide businesses (including Fragrances, Pampers, Olay and Gillette).</p><p>In 2015 Sam switched focus from running IT businesses to figuring what it would take to make P&G become the most accessible company for the consumers we are serving and was appointed as the company’s first Special Consultant for Inclusive Design.  During this time, Sam worked with the Herbal Essences business to explore how we could make it easier to help people tell the difference between shampoo and conditioner, especially in the shower when people are not wearing their corrective eyewear. It’s estimated that 79% of the population in the west wear corrective eyewear and so its quite hard for people to tell by sight alone our shampoo and conditioner bottles apart.</p><p>In February 2019, Sam was promoted to Associate Director and became P&G’s first Company accessibility Leader and is responsible for making P&G workplace, products and packaging and communications fully accessible to everyone.</p><p>Sam is married and has 3 kids, boy and girl twins aged 7 and a 10  year old boy.  Sam is enjoying the challenge of learning to play the piano and working out at the gym.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://twitter.com/SamLatif7",
+                    "text": "@SamLatif7"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 06:00",
+            "presenter": "Marco Zehe",
+            "title": "Built-in accessibility auditing in the Firefox developer tools",
+            "videoId": "",
+            "description": "<p>In more recent versions of Firefox, Mozilla has started including not only an accessibility inspector, but auditing tools as well that help with finding web site problems. For each problem, a link to more information on a possible solution is provided.</p><p>In this talk, Marco will showcase these tools and provide information on how to get to and use them effectively in your projects.</p>",
+            "bio": "<p>Marco has been in the accessibility field for 25 years. He was influential in shaping earlier versions of the JAWS screen reader, its initial web support and braille output. He now works at Mozilla where he does accessibility testing and evangelism. He is a regular contributor to various open-source accessibility projects.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/MarcoInEnglish",
+                    "text": "@MarcoInEnglish"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 07:00",
+            "presenter": "Bryn Anderson",
+            "title": "Pinch 'n' zoom",
+            "videoId": "",
+            "description": "<p>Making and breaking user experiences for low vision users</p>",
+            "bio": "<p>Bryn Anderson is a visually impaired Accessibility Product Expert helping to deliver accessibility conformance testing solutions through his work at Siteimprove and the W3C Accessibility Conformance Testing (ACT) Rules Community Group</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/brynanders",
+                    "text": "@brynanders"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 08:00",
+            "presenter": "Eleni Beveratou",
+            "title": "Accessibility in type and typesetting",
+            "videoId": "",
+            "description": "<p>The purpose of typography is to convey a message to an audience in an accessible way. Within any given typeface, certain shapes and styles will generally be more accessible to certain audiences. Unfortunately, by over-simplifying implementation, guidelines for accessible type tend to ignore the major components of better readability and legibility. In this talk, Eleni will walk us through the elements of an accessible typeface and typesetting, putting an emphasis on those which are targeted at visually-impaired readers, and the wider audience.</p>",
+            "bio": "<p>Eleni Beveratou is a typeface designer from Athens, Greece. With a BA and MA in Communication Design from Vakalo Art & Design College, she focused her studies with an MA in Typeface Design at the University of Reading. There, she developed an interest in researching the science of reading for the partially sighted and her findings have been featured in “Digital Fonts and Reading” by World Scientific.</p><p>Eleni joined the Dalton Maag team in 2012 as a Font Developer, and is currently a Creative Director at Dalton Maag.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/EleniBeveratou",
+                    "text": "@EleniBeveratou"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 09:00",
+            "presenter": "Becky Rush",
+            "title": "Scroll up! Scroll up! Adventures in accessible scrollytelling",
+            "videoId": "",
+            "description": "<p>The BBC News Visual Journalism team recently experimented with ‘scrollytelling’ when visualising the gender pay gap in the UK. This is the story of how one developer, with an amazing team, attempted to render and animate over 10,000 dots - whilst maintaining focus on accessibility and cross browser compatibility - in just a few short weeks.</p>",
+            "bio": "<p>Becky is a developer at BBC News Visual Journalism. She wrangles data and tinkers with code to create engaging, interactive projects for news articles.</p><p>Becky is passionate about combining modern code and empathy to create truly inclusive web content. She believes considering accessibility, internationalisation and non-javascript experiences are key to making the web a better place for humankind.</p><p>Outside of work, she can often be found gallivanting around in fancy dress, hitting a large drum (occasionally in time) with other obscurely dressed drummers.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/Rushlet_",
+                    "text": "@Rushlet_"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 10:00",
+            "presenter": "Jo Franchetti",
+            "title": "Impostor Syndrome, Perfectionism and Anxiety - Learning to be Kind to Yourself",
+            "videoId": "",
+            "description": "<p>Have you ever felt like everyone around you knows more than you? Or that you only got where you are by dumb luck? When we’re surrounded by so many clever people at work and on social media, how can we not start to judge ourselves against them and our work against theirs?</p><p>Impostor syndrome (the belief that you don’t deserve to be where you are) and perfectionism (a need to work to impossibly high standards) are exhausting.</p><p>Learn how to spot these destructive thought patterns in yourself, how to manage anxiety and procrastination and how to start being kinder to yourself, because you’re awesome and you deserve to be here.</p>",
+            "bio": "<p>Jo is an engineering manager and developer advocate. She is passionate about new web APIs and great CSS. She has worked in various parts of the tech industry from startups, agencies, charities to large organisations. She is also a mentor and organiser at codebar.io where she is able to act on her passion not only for teaching good use of the web but also for improving the diversity and inclusivity of the tech industry.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/thisisjofrank",
+                    "text": "@thisisjofrank"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 11:00",
+            "presenter": "Stuart Langridge",
+            "title": "The UX of Text",
+            "videoId": "",
+            "description": "<p>About bots, and how they shouldn't pretend to be humans. About how user experience is more than just user interface. About language, and how a word can be worth a thousand pictures. About le mot juste. About where we go next.</p>",
+            "bio": "<p>Stuart is a consultant CTO, software architect, and developer to startups and small firms on strategy, custom development, and how to best work with the dev team. Code and writings are to be found at kryogenix.org and @sil on Twitter; Stuart himself is mostly to be found playing D&D or looking for the best vodka Collins in town.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/sil",
+                    "text": "@sil"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 12:00",
+            "presenter": "Roel Van Gils",
+            "title": "Designing the hidden user experience",
+            "videoId": "",
+            "description": "<p>The hidden user experience is what a website or app 'feels' like to users of assistive technology, and to users that prefer large fonts, high contrast or reduced motion.</p><p>UI Designers usually don't specifically design for this hidden/alternative experience. They either consider this to be an implementation detail (which they believe is up to the developers) or are not aware that they can have a great impact on this hidden/alternative experience as well.</p><p>In his talk, I want to share some tips on how UI/UX Designers can design and document this hidden interface in a more efficient way, and communicate better with developers.</p>",
+            "bio": "<p>I'm a Digital Accessibility Nerd (Belgium based). For the past 15 years, I'm dedicated to helping organizations and digital teams deliver websites, apps and services that anyone can use. I mostly work on the accessibility (and conformance) of websites and mobile apps (iOS and Android).</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/roelvangils",
+                    "text": "@roelvangils"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 13:00",
+            "presenter": "Sarah Lewthwaite",
+            "title": "Teaching accessibility: 10 messages from research",
+            "videoId": "",
+            "description": "<p>This is a talk for everyone who talks about accessibility. People need to know more about accessibility, but it can be challenging to teach. It requires a unique mix of conceptual understanding, technical skill and procedural knowledge. In this talk I will introduce 10 teaching tools - principles and strategies for effective pedagogy - that are drawn from more than a decade of empirical academic research in education. Join me to expand your educational repertoire, so you can more effectively share accessibility with colleagues, teams and wider audiences.</p>",
+            "bio": "<p>Dr Sarah Lewthwaite is a Research Fellow at the University of Southampton and principle investigator on the UKRI-funded ‘Teaching Accessibility’ project at the Centre for Research in Inclusion. Sarah and her team are researching the pedagogy of digital accessibility in universities and the workplace, to build empirical understanding of how accessibility can be more effectively taught. The 4-year study received over £650,000 from UKRI, and seeks to forge new collaborations and dialogue between academia and industry. Sarah has a PhD in Learning Sciences and research experience across accessibility, HCI and disability studies.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/slewth",
+                    "text": "@slewth"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 14:00",
+            "presenter": "Kath Moonan",
+            "title": "Accessibility improvements in a commercial environment",
+            "videoId": "",
+            "description": "<p>Join a cross disciplinary team from Sainsbury's including accessibility specialist, designers and developers as we share practical tips and insights into how we're improving accessibility.</p><p>Some of our ventures include:</p><ul><li>Meet the customer with access needs sessions</li><li>Take the text resize pledge</li><li>Error messaging research</li><li>Baking accessibility into our component library</li></ul>",
+            "bio": "<p>Katherine Moonan is a digital accessibility and inclusive design specialist who is passionate about UX and visual design. She focusses on bringing the voice and experience of customers with access needs into the design process.</p><p>Katherine has nearly 20 years experience in the digital accessibility field as a designer and consultant. She has worked for AbilityNet and her commercial clients have included Vodafone, Visa, British Gas, City University and Sainsbury's.</p><p>Katherine divides her time between the arts and the commercial sector. She is passionate about accessible performance and live theatre. She has recently been developing her audio description skills.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://twitter.com/ladymoonan",
+                    "text": "@ladymoonan"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 15:00",
+            "presenter": "Seth M Kane",
+            "title": "To Boldly Go Where No SPA Has Gone Before…",
+            "videoId": "",
+            "description": "<p>Is your single page application (SPA) being sucked into a black hole of inaccessibility? Learn high level concepts, pitfalls, gotchas, and other accessible considerations (ARIA, focus management, and content communication) that will help you navigate your way through the new frontier of inclusive design for single page applications.</p>",
+            "bio": "<p>Seth Kane, CPWA, CPACC, WAS (he/him)</p><p>Seth has more than 20 years of marketing, advertising, software and consulting experience providing subject matter expertise in inclusive design, accessibility, and front end engineering focusing on rich single page applications, responsive website design, mobile applications, e-commerce, and CMS driven technology solutions.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/onesixtieth",
+                    "text": "@onesixtieth"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 16:00",
+            "presenter": "Peter Shikli",
+            "title": "Jailhouse Rock",
+            "videoId": "",
+            "description": "<p></p>",
+            "bio": "<p></p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/",
+                    "text": "@"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 17:00",
+            "presenter": "Claudio Luis Vera and Ioanna Talasli",
+            "title": "Accessibility in Emerging Countries",
+            "videoId": "",
+            "description": "<p>How do you advocate for accessibility in a country where these is no legal framework for disability inclusion? How do you manage it if you’re the first in your country?</p><p>This session will explore the challenges faced by early-stage advocates in emerging countries where there may not even be official statistics for persons with disabilities. We’ll discuss what works and what doesn’t, and how accessibility professionals in countries like the US, Canada and the UK can support efforts in emerging countries.</p>",
+            "bio": "<p>Claudio Luis Vera is a certified accessibility professional with over 20 years' experience in UX design and a background in international development. He currently manages accessibility for Royal Caribbean’s digital guest experiences and is a community organizer in South Florida.</p><p>Ioanna Talasli first career was as a successful art glass designer and gallery owner in her native Greece. As she transitioned into her second career – web development – she became interested in accessibility. Ioanna’s initial curiosity blossomed into a full-blown love affair, and she has become a pioneer for accessibility in her country. </p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/modulist",
+                    "text": "@modulist"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/italasli",
+                    "text": "@italasli"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 18:00",
+            "presenter": "Marcy Sutton and Samuel Proulx",
+            "title": "Engaging users to create accessible client-side routing techniques",
+            "videoId": "",
+            "description": "<p>There are multiple techniques for accessible page changes with JavaScript-heavy web applications recommended amongst developers, yet very little user research on those methods. At Gatsby, we wanted to find out which techniques are the most ergonomic and intuitive to users with disabilities, and if any of them presented barriers detracting from their browsing experience. We engaged Fable’s community of users with disabilities in a research project to answer these questions and more for the benefit of the web!</p>",
+            "bio": "<p>Marcy Sutton is the Head of Learning at Gatsby, a startup creating fast, accessible websites while building a strong community. Previously, she was a Developer Advocate on the axe-core team at Deque, developing tools for web accessibility testing. She also co-leads the Accessibility Seattle meetup. When away from the keyboard, Marcy can be found hiking with her dog, riding a bicycle, or snowboarding.</p><p>Samuel Proulx is the Community Manager at Fable. Sam has been making the web more accessible since he was a teenager, from managing Reddit’s blind community to writing an NVDA plugin. When Sam’s not thinking about tech, you can find him reviewing science fiction e-books!</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/marcysutton",
+                    "text": "@marcysutton"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 19:00",
+            "presenter": "Svetlana Kouznetsova",
+            "title": "Accessibility for Deaf People: Beyond Video Captions and Sign Language",
+            "videoId": "",
+            "description": "<p>The majority of deaf and hard of hearing people don’t know sign language and not everyone can lipread or benefit from hearing devices. The speaker is an experienced consultant who is deaf and will help you better understand that not all deaf and hard of hearing people are the same and learn more about various hearing and communication abilities and preferences in various situations.</p>",
+            "bio": "<p>Svetlana Kouznetsova is a user experience and accessibility consultant helping businesses make their products and services user-friendly and accessible to more people. She is also a founder of Audio Accessibility providing consultation on communication access to media and events. Sveta is an author and a speaker. Her TEDx talk uncovers benefits of captioning access that increase audience and ROI for businesses. Sveta’s experience with deafness gives people an exceptional insight into her professional experience and expertise in accessibility.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/",
+                    "text": "@"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 20:00",
+            "presenter": "John Foliot",
+            "title": "SC 1.3.5 - More than just autocomplete",
+            "videoId": "",
+            "description": "<p>Published in May 2018, WCAG 2.1 was the first major update to the WCAG standard in over 10 years. The update added a number of new Success Criteria primarily aimed at closing significant known gaps to address the needs of users with low vision, to address new concerns brought about by touch input and mobile screens, and to start to address the needs of people with cognitive disabilities.</p><p>One such new Success Criteria is SC 1.3.5 – Purpose of Controls.</p><p>But why? What are the real benefits of this requirement? How do I as a developer successfully meet that requirement? How and why did this Success Criteria come to be? As we started to ask people about their understanding of this requirement, there seemed to be some confusion. And confusion is never good.</p><p>In this presentation, John will do a deep-dive on SC 1.3.5: the history, the process, the blood-sweat-and-tears involved in getting a new Success Criteria through the WCAG process. We’ll look at the immediate benefit of this new Success Criteria today, as well as gain insight to the much larger goal that this Success Criteria kicks off. We’ll examine techniques (both current and future), and we’ll end up with a developer’s challenge – and there will be a prize!</p>",
+            "bio": "<p>John is the Principal Accessibility Strategist at Deque Systems and an internationally recognized Web Accessibility Specialist and advocate for the cause of web standards and universal accessibility. He has provided digital accessibility consultation services to government agencies, educational institutions and private sector companies since 1999.</p><p>John is an active and contributing participant in multiple W3C Working Groups and Task Forces, including the Accessibility Guidelines WG (formally the WCAG WG), Accessible Platform Architecture (APA) WG, the Web Platform WG (formally the HTML5 WG), as well as the W3C Television on the Web Interest Group. He is also an active contributor to the Personalization Task Force, the Pronunciation Task Force, and the “Project Silver” Task Force. </p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/",
+                    "text": "@"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 21:00",
+            "presenter": "Elizabeth Schafer",
+            "title": "Improve User Experience by Designing with Cognitive Differences in Mind",
+            "videoId": "",
+            "description": "<p>Cognitive disabilities are the most common type of disability but are often the hardest to understand. What do we need to consider to make sure we're not inadvertently excluding people? We'll look through the lens of attention-deficit/hyperactivity disorder (ADHD) to explore how differences in cognitive functions can affect usability on websites, and what we can do to improve the user experience for everyone.</p>",
+            "bio": "<p>Elizabeth is a senior front-end engineer working on design systems and accessibility advocacy at VitalSource. She likes making websites that don't exclude people.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/elizschafer",
+                    "text": "@elizschafer"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 22:00",
+            "presenter": "Courtney Cox Wakefield",
+            "title": "For Folx Sake: Designing Inclusive Digital Content",
+            "videoId": "",
+            "description": "<p>The demand for inclusive content has never been higher. Look no further than Google trends, where the topic “gender-neutral language” has steadily climbed in interest since 2012, reaching a new peak this month. This session will show attendees how to create digital content that appeals to an inclusive audience without watering down their message.</p>",
+            "bio": "<p>Courtney is a non-binary digital marketer, speaker, and author. Passionate about creating inclusive online spaces, Courtney works with her clients and employer to update digital content and experiences that reinforce heteronormativity and the gender binary. Courtney lives in Dallas, TX with their wife, new baby, and six pets.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/courtewakefield",
+                    "text": "@courtewakefield"
+                }
+            ]
+        },
+        {
+            "datetime": "October 10, 2019 23:00",
+            "presenter": "Melanie Sumner",
+            "title": "The Phenomenon of the Unlucky Choice",
+            "videoId": "",
+            "description": "<p>We often talk about patterns and well-lit paths, but what happens when we make a poor choice? What happens when we make ten poor choices? It didn't take a day to make a mess of our applications, and it will take longer than a day to clean it up. We'll examine some of the not-so-hidden pitfalls, and discuss some practical steps that will help us make our applications more inclusive and more technically sound.</p>",
+            "bio": "<p>Melanie is a decorated, disabled military veteran who works as a Senior Software Engineer at LinkedIn with a focus on accessibility in open source. She is an active member of the Ember.js core team and co-organizer of the Ember Chicago Meetup. (see https://noti.st/melsumner)</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/melaniersumner",
+                    "text": "@melaniersumner"
+                }
+            ]
+        },
+        {
+            "datetime": "October 11, 2019 00:00 UTC",
+            "title": "The after party",
+            "videoId": "",
+            "description": "<p>Your hosts will discuss their favourite webinars from the last 24 hours, and might have a drink or two!</p>"
+        }
+    ]
+}
