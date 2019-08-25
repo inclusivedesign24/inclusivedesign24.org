@@ -466,7 +466,7 @@ section {
 
 .session ul.pres_info li {
     list-style-type: none;
-    display: inline-block;
+    display: inline;
     padding: 0;
     margin: 0 1em 0 0;
 }

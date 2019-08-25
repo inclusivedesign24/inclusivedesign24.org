@@ -16,15 +16,18 @@ function pad(num, size) {
 
 (function flux() {
     // Expand/collapse session details
-    var sessions = document.querySelectorAll(".session_details");
+    var sessions = document.querySelectorAll(".session");
     sessions.forEach(function(session, index) {
-        session.setAttribute("style", "display:none;");
-        var id = "session_details_" + index;
-        session.setAttribute("id", id);
+        sessionDetails = session.querySelector('.session_details');
+        sessionHeading = session.querySelector('h1, h2, h3, h4, h5, h6');
+        sessionId = sessionHeading.getAttribute('id');
+        sessionDetails.setAttribute("style", "display:none;");
+        var sessionDetailsId = "session_details_" + sessionId;
+        sessionDetails.setAttribute("id", sessionDetailsId);
         var b = document.createElement("button");
-        b.setAttribute("aria-controls", id);
+        b.setAttribute("aria-controls", sessionDetailsId);
         b.setAttribute("aria-expanded", "false");
-        b.setAttribute("aria-describedby", "talk" + index);
+        b.setAttribute("aria-describedby", sessionId);
         b.innerHTML = '<svg viewBox="0 0 24 24" class="icon" aria-hidden="true"><use xlink:href="#icon-arrow-right"></use></svg> <span>Show details</span>';
         b.addEventListener("click", function() {
             if (this.getAttribute("aria-expanded") === "false") {
@@ -39,7 +42,7 @@ function pad(num, size) {
                 this.querySelector("span").innerHTML = "Show details";
             }
         }, true);
-        session.parentNode.insertBefore(b, session);
+        sessionDetails.parentNode.insertBefore(b, sessionDetails);
 
     });
 
