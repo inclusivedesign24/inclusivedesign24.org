@@ -7,7 +7,8 @@ module.exports = function(eleventyConfig) {
             "svg",
             "css",
             "js",
-            "html"
+            "html",
+            "zip"
         ]
     };
 }
