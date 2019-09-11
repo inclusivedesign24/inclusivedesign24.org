@@ -85,17 +85,10 @@
         },
         {
             "datetime": "October 10, 2019 05:00",
-            "presenter": "Sam Latif",
-            "title": "Disability",
-            "description": "<p>Winning with 50+/People with Disabilities consumers is critical for P&G to grow.  By 2030 we will have more >50 consumers to serve vs under 50 and 36% of 50+ consumers will experience a disability.  We estimate today we are losing 1BN dollars per annum across our Categories not serving this segment. P&G has an opportunity to reach more consumers with more accessible and irresistible products and packaging for all.</p>",
-            "bio": "<p>Sam Latif was born in the UK, and is a first generation Scottish Pakistani.  She is blind and the passion for what she is doing at P&G has been inspired by the personal access challenges she has experienced as both a consumer and an employee.  Sam studied Marketing and Business Law at the University of Stirling in Scotland and began her career at P&G in IT.  She has lead IT transformations across multiple worldwide businesses (including Fragrances, Pampers, Olay and Gillette).</p><p>In 2015 Sam switched focus from running IT businesses to figuring what it would take to make P&G become the most accessible company for the consumers we are serving and was appointed as the company’s first Special Consultant for Inclusive Design.  During this time, Sam worked with the Herbal Essences business to explore how we could make it easier to help people tell the difference between shampoo and conditioner, especially in the shower when people are not wearing their corrective eyewear. It’s estimated that 79% of the population in the west wear corrective eyewear and so its quite hard for people to tell by sight alone our shampoo and conditioner bottles apart.</p><p>In February 2019, Sam was promoted to Associate Director and became P&G’s first Company accessibility Leader and is responsible for making P&G workplace, products and packaging and communications fully accessible to everyone.</p><p>Sam is married and has 3 kids, boy and girl twins aged 7 and a 10  year old boy.  Sam is enjoying the challenge of learning to play the piano and working out at the gym.</p>",
-            "social": [
-                {
-                    "type": "twitter",
-                    "url": "https://twitter.com/SamLatif7",
-                    "text": "@SamLatif7"
-                }
-            ]
+            "presenter": "Anoosha Reddy Terala",
+            "title": "Infinite scrolling and infinite problems",
+            "description": "<p>The modern digital consumption is no more restricted to only one device. It has multiple device user groups which prefer different interactive modalities.</p><p>Given this context, if a design pattern is conceived with only one input modality like a scroll wheel of a mouse, it is going to affect a lot of users, users with disabilities in particular. One such design pattern is infinite scrolling.</p><p>In a social media landscape, this is an amazing interactive method. But when its implementation spreads across e-commerce and other vital digital functions, then the users with disabilities will not benefit out of it.</p><p>It is important to stress the remedy of role=\"feed\" in this context, its application, what it can do or cannot so that the design can be beneficial to as many users groups as possible.",
+            "bio": "<p>I am an Accessibility Consultant working at Deque Systems Inc. I am also a Certified Professional in Web Accessibility (CPWA). With real-time industry audits and the body of knowledge acquired through my certification, I would like to spread digital inclusion awareness around the world. I am also a speaker at international conferences like GREAT 2018 at Doha, Qatar.</p>"
         },
         {
             "datetime": "October 10, 2019 06:00",
@@ -141,15 +134,15 @@
         },
         {
             "datetime": "October 10, 2019 09:00",
-            "presenter": "Becky Rush",
-            "title": "Scroll up! Scroll up! Adventures in accessible scrollytelling",
-            "description": "<p>The BBC News Visual Journalism team recently experimented with ‘scrollytelling’ when visualising the gender pay gap in the UK. This is the story of how one developer, with an amazing team, attempted to render and animate over 10,000 dots - whilst maintaining focus on accessibility and cross browser compatibility - in just a few short weeks.</p>",
-            "bio": "<p>Becky is a developer at BBC News Visual Journalism. She wrangles data and tinkers with code to create engaging, interactive projects for news articles.</p><p>Becky is passionate about combining modern code and empathy to create truly inclusive web content. She believes considering accessibility, internationalisation and non-javascript experiences are key to making the web a better place for humankind.</p><p>Outside of work, she can often be found gallivanting around in fancy dress, hitting a large drum (occasionally in time) with other obscurely dressed drummers.</p>",
+            "presenter": "Sam Latif",
+            "title": "Disability",
+            "description": "<p>Winning with 50+/People with Disabilities consumers is critical for P&G to grow.  By 2030 we will have more >50 consumers to serve vs under 50 and 36% of 50+ consumers will experience a disability.  We estimate today we are losing 1BN dollars per annum across our Categories not serving this segment. P&G has an opportunity to reach more consumers with more accessible and irresistible products and packaging for all.</p>",
+            "bio": "<p>Sam Latif was born in the UK, and is a first generation Scottish Pakistani.  She is blind and the passion for what she is doing at P&G has been inspired by the personal access challenges she has experienced as both a consumer and an employee.  Sam studied Marketing and Business Law at the University of Stirling in Scotland and began her career at P&G in IT.  She has lead IT transformations across multiple worldwide businesses (including Fragrances, Pampers, Olay and Gillette).</p><p>In 2015 Sam switched focus from running IT businesses to figuring what it would take to make P&G become the most accessible company for the consumers we are serving and was appointed as the company’s first Special Consultant for Inclusive Design.  During this time, Sam worked with the Herbal Essences business to explore how we could make it easier to help people tell the difference between shampoo and conditioner, especially in the shower when people are not wearing their corrective eyewear. It’s estimated that 79% of the population in the west wear corrective eyewear and so its quite hard for people to tell by sight alone our shampoo and conditioner bottles apart.</p><p>In February 2019, Sam was promoted to Associate Director and became P&G’s first Company accessibility Leader and is responsible for making P&G workplace, products and packaging and communications fully accessible to everyone.</p><p>Sam is married and has 3 kids, boy and girl twins aged 7 and a 10  year old boy.  Sam is enjoying the challenge of learning to play the piano and working out at the gym.</p>",
             "social": [
                 {
                     "type": "twitter",
-                    "url": "https://www.twitter.com/Rushlet_",
-                    "text": "@Rushlet_"
+                    "url": "https://twitter.com/SamLatif7",
+                    "text": "@SamLatif7"
                 }
             ]
         },
