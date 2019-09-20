@@ -216,15 +216,15 @@
         },
         {
             "datetime": "October 10, 2019 14:00",
-            "presenter": "Kath Moonan",
-            "title": "Accessibility improvements in a commercial environment",
-            "description": "<p>Join a cross disciplinary team from Sainsbury's including accessibility specialist, designers and developers as we share practical tips and insights into how we're improving accessibility.</p><p>Some of our ventures include:</p><ul><li>Meet the customer with access needs sessions</li><li>Take the text resize pledge</li><li>Error messaging research</li><li>Baking accessibility into our component library</li></ul>",
-            "bio": "<p>Katherine Moonan is a digital accessibility and inclusive design specialist who is passionate about UX and visual design. She focusses on bringing the voice and experience of customers with access needs into the design process.</p><p>Katherine has nearly 20 years experience in the digital accessibility field as a designer and consultant. She has worked for AbilityNet and her commercial clients have included Vodafone, Visa, British Gas, City University and Sainsbury's.</p><p>Katherine divides her time between the arts and the commercial sector. She is passionate about accessible performance and live theatre. She has recently been developing her audio description skills.</p>",
+            "presenter": "Sven Jenzer",
+            "title": "Future proof and maintainable web accessibility implementation in big organizations",
+            "description": "<p>This talk is about the challenges people face when they must implement web accessibility in a big organization, outlining long-lasting solutions for planning and managing accessibility. It is finally a matter of considering all aspects in a goal-oriented manner and setting the goals visionary enough. Establishing a web accessibility process is an opportunity for a strategic approach in many fields. The focus is on bringing to discussion real world experience (including an actual case study), both successes and failures, who can help you solve (or avoid!) problems in your own environment.</p>",
+            "bio": "<p>Sven Jenzer is leading web-accessibility at UBS Global Marketing where he is director for UX &amp; Governance. He loves to work on meaningful projects with inspiring, creative people that challenge the status quo. He's driven by user-centered-design and values companies that share the same approach.</p><p>Former stations have been international agencies, the Swiss foundation <cite>Access-for-All</cite> and the research project of the University of Applied Sciences of Central Switzerland for <cite>Design for All</cite>. He's graduate of the University of Basel and has a Master in Advanced Studies of Human Computer Interaction Design.</p>",
             "social": [
                 {
                     "type": "twitter",
-                    "url": "https://twitter.com/ladymoonan",
-                    "text": "@ladymoonan"
+                    "url": "https://twitter.com/svenje",
+                    "text": "@svenje"
                 }
             ]
         },
