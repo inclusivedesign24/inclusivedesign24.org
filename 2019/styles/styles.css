@@ -505,6 +505,7 @@ table.id24local_sessions {
     border-collapse: collapse;
     width: 100%;
     margin-bottom: 2em;
+    font-size: 0.9em;
 }
 
 table.id24local_sessions th {
