@@ -162,6 +162,11 @@ footer {
     font-size: 1rem;
 }
 
+a {
+    text-decoration: none;
+    border-bottom: rgba(255, 228, 0, 0.5) 1px solid;
+}
+
 a, a:link, a:visited {
     color: #ffe400;
 }
@@ -233,6 +238,7 @@ main {
 
 #supporters a {
     text-decoration: none;
+    border-bottom: 0;
 }
 
 #supporters a:focus,
