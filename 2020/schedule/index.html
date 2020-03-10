@@ -88,6 +88,7 @@
     )
 </div>
 
+{% if 2020.schedule %}
 {% for session in 2020.schedule %}
 <div class="session" data-time-utc="{{ session.datetime | append: " UTC" | date: "%s" }}000">
     <h2 id="talk{{ forloop.index0 }}">
@@ -141,6 +142,9 @@
     </div>
 </div>
 {% endfor %}
+{% else %}
+<p>The schedule has not been announced yet ... stay tuned!</p>
+{% endif %}
 
 </section>
 
