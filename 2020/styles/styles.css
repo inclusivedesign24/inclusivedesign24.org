@@ -190,6 +190,7 @@ header #mainnav {
     text-transform: capitalize;
     font-size: 1.25rem;
     word-spacing: -0.1em;
+    text-align: right;
 }
 
 header #mainnav ul,
@@ -573,7 +574,8 @@ table.id24local_sessions .session_time_offset {
         -ms-grid-column: 2;
         -ms-grid-row: 2;
         grid-column: 2;
-        grid-row: 2;      
+        grid-row: 2;
+        text-align: left;      
     }
 
     main > * {
@@ -669,7 +671,8 @@ table.id24local_sessions .session_time_offset {
 @media (max-width: 35em) {
 	header #mainnav {
 	    margin: 0;
-	    padding: 0;
+        padding: 0;
+        text-align: left;
 	}
 
 	header #mainnav a {
