@@ -3,6 +3,7 @@ body {
     font-size: 1.25em;
     background: #242424;
     color: #FCFCFC;
+    overflow-anchor: none; /* suppress new scroll anchoring behavior that causes issues with disclosure widgets */
 }
 
 /* IE11 patch */

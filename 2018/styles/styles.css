@@ -10,6 +10,7 @@ body {
     font-size: 1.25em;
     background: #242424;
     color: #ddd;
+    overflow-anchor: none; /* suppress new scroll anchoring behavior that causes issues with disclosure widgets */
 }
 
 h1, h2, h3, h4, h5, h6 {
