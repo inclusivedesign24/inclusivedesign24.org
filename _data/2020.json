@@ -1,0 +1,388 @@
+{
+    "event": {
+        "playlistId": ""
+    },
+    "schedule": [
+        {
+            "datetime": "September 16, 2020 23:45",
+            "title": "The pre-show",
+            "description": "<p>Meet your hosts for the next 24 hours. We'll be having a general chat about accessibility, inclusive design, and talking about the webinars we are most looking forward to in the upcoming 24 hours.</p>",
+            "videoId": ""
+        },
+        {
+            "datetime": "September 17, 2020 00:00",
+            "presenter": "Claudio Luis Vera",
+            "title": "Everyone here spoke sign language",
+            "description": "<p>For nearly 300 years, the entire population of Chilmark on Martha’s Vineyard spoke sign language, regardless of whether they were deaf. How did this come about?</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/modulist",
+                    "text": "@modulist"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 01:00",
+            "presenter": "Veronica Lewis",
+            "title": "Why Everyone Should Design For Chiari Malformation",
+            "description": "<p>Join Veronica Lewis of Veronica With Four Eyes as she shares why everyone should design for the condition Chiari Malformation, and all of the other disability areas that can benefit.</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/veron4ica",
+                    "text": "@veron4ica"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 02:00",
+            "presenter": "Stewart Hay, Lainey Feingold and Lucy Greco",
+            "title": "Honey over vinegar: winning strategies for digital inclusion",
+            "description": "<p>Nobody likes to be told what to do. Effective, long-lasting change comes when people want it, embrace it, and understand that change is in their best interest. We’ll look at positive, relationship-building strategies to help organizations embrace digital inclusion and keep people with disabilities front and center. Everyone knows you catch more flies with honey than vinegar. A compliance and fear driven approach to accessibility is vinegar. Join us to discuss honey: strategies like storytelling, impact marketing, and collaborative legal advocacy that can help build a culture of accessibility for employees, customers, and the public.</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/ohmydeity",
+                    "text": "@ohmydeity"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/lflegal",
+                    "text": "@lflegal"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/accessaces",
+                    "text": "@accessaces"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 03:00",
+            "presenter": "Michele A. Williams and Synge Tyson",
+            "title": "Responsive Design vs. Magnification: Designing for Users With Low Vision",
+            "description": "<p>Designers often account for mobile-friendly responsiveness, achieved through resizing browser windows. This is extremely beneficial for users with low vision because increased text size is an important adjustment. However, designers are less familiar with magnification (akin to using a magnifying glass across a screen) and how the widely used tool differs greatly from responsive design.</p><p>This session aims to improve accessibility for users with low vision by demonstrating the common techniques used on the Web and proposing design best practices.</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/mawconsultngllc",
+                    "text": "@mawconsultngllc"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/kwtyson",
+                    "text": "@kwtyson"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 04:00",
+            "presenter": "Rachel Rodney",
+            "title": "Let's Inclusify",
+            "description": "<p>Anyone can make experiences more inclusive - from designing packaging to be globally appropriate, to workplace environments, to devices that adapt for the user ... as opposed to the user adapting to the device. And there are so many communities within “marginalized communities” that need to be considered, in terms of not only accessibility, but all of the intersections that create compounded disparities which exclude people from experiences.</p><p>Culturalization is a rapidly growing need as the world’s geographical barriers are broken down by technology. Sexism continues to persist in the way people value each other’s work and worth. The accessibility of products is often reliant on how much a company cares to align to legal requirements, as opposed to the need of consumers.</p><p>So how can we create more inclusive societal norms?</p><p>By developing an inclusive mind which identifies exclusive practice and works to establish new inclusive ways of making. This talk will cover stories from different communities that contributed to exclusion, and how people inclusify them.</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/RachelHRodney1",
+                    "text": "@RachelHRodney1"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 05:00",
+            "presenter": "Gian Wild",
+            "title": "Mobile accessibility: testing mobile sites and native apps for accessibility",
+            "description": "<p>Accessibility is important to all – not everyone using your mobile app, device or wearable will be fully functioning: either because they have a disability or they are simply engaged elsewhere. Gian Wild, Chair of the Native App and Mobile Site Committees talks about the things that are essential to avoid when designing mobile apps, devices and wearables to ensure that everyone can use them. She talks about specific mobile accessibility features: pinch zoom, native screen readers, haptic keyboard etc, and system accessibility settings: font size, screen rotation, high contrast etc. The Native App and Mobile Site Testing Guidelines are provided.</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/gian",
+                    "text": "@gian"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 06:00",
+            "presenter": "Joshue O Connor",
+            "title": "XR Accessibility: The art of the possible",
+            "description": "<p>As a platform, XR or virtual and immersive environments, augmented or mixed reality is becoming more stable and commonplace. The leveraging of existing hardware means it may become ubiquitous. What does this technology mean for people with disabilities?</p>",
+            "bio": "",
+            "videoId": ""
+        },
+        {
+            "datetime": "September 17, 2020 07:00",
+            "presenter": "Sarah Higley",
+            "title": "Debugging broken accessibility",
+            "description": "<p>Accessibility testing can show you what bugs you have, but not why they occurred or how to fix them. Sometimes this is simple: if an image is missing alt text, you add an alt attribute. Other times you may find yourself with 50 open browser tabs and lacking a few handfuls of hair.</p><p>Let's make that process a little easier by looking at tools and tricks for debugging everything from combobox semantics to live regions. Then we'll follow the root causes a little further to look at where in today's web ecosystem they really originate from.</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/codingchaos",
+                    "text": "@codingchaos"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 08:00",
+            "presenter": "Russ Weakley",
+            "title": "What are accessible names and why should you care?",
+            "description": "<p>This presentation will look at accessible names, how they are exposed in the browsers accessibility tree, and their importance to assistive technologies. There will be a deep dive into simple examples, advanced examples using ARIA, and an overview of the W3C's Accessible Name and Description Computation.</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/russmaxdesign",
+                    "text": "@russmaxdesign"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 09:00",
+            "presenter": "Simon Hayhoe",
+            "title": "Participatory Co-Design, Grounded Methodology and the Development of Post-Inclusion",
+            "description": "<p>The presentation discusses two post-inclusive arts projects. These projects use participatory co-design to create artworks and technology, and grounded methodology as a means of developing learning and evaluation. The first project is a community education project on flooding in Bath, UK, and features co-created interactive installations, music and sculptures. The second project is a community design project, which features the development of co-designed breakdance choreography, performance and a multi-sensory dance beat technology in Yorkshire, UK.</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/SimonHayhoe",
+                    "text": "@SimonHayhoe"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 10:00",
+            "presenter": "Max Böck",
+            "title": "Emergency Website Kit",
+            "description": "<p>In cases of emergency, many organizations need a quick way to publish critical information. But existing (CMS) websites are often unable to handle sudden spikes in traffic and can lack the necessary focus on performance and accessibility.</p><p>This talk outlines an attempt to create a template for emergency websites that are designed to be extremely resilient, highly inclusive and fast to get off the ground. It's about making a website with the sole purpose of getting important information to as many people as possible.</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/mxbck",
+                    "text": "@mxbck"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 11:00",
+            "presenter": "Chad Gowler",
+            "title": "Simulation exercises through the lens of play",
+            "description": "<p>This talk will examine simulation or \"empathy\" exercises through the lens of game studies. Play is an important part of how we build understanding of the word, and serious games are used to promote empathy and engagement with all kinds of difficult topics. Can treating simulation exercises as play improve their impact?</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "web",
+                    "url": "https://www.twitter.com/kitation",
+                    "text": "@kitation"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 12:00",
+            "presenter": "Manuel Matuzovic",
+            "title": "Writing even more CSS with Accessibility in Mind",
+            "description": "<p>What’s the first thing that comes to your mind when you think of “CSS and accessibility”? Maybe text size, color contrast, or DOM order. Important topics, without question, but there’s a lot more to consider when writing inclusive CSS. This talk aims to help you create better interfaces by adapting to your users’ needs. You’ll learn how to debug and test with CSS, how attribute selectors can improve accessibility, and when CSS affects the semantics of your HTML.</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/mmatuzo",
+                    "text": "@mmatuzo"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 13:00",
+            "presenter": "Charlie Turrell and Gareth Ford Williams",
+            "title": "Why have a team when you can have an army?",
+            "description": "<p>Many organisations have subject groups, networks and guilds. These all have similar objectives in that they develop and embed best practices into an organisation.</p><p>The BBC has an Accessibility Champions Network that is nearly 10 years old. It has gone through several changes, has grown to over 200 members and is about to embark on a new stage in its evolution.</p><p>Gareth will be talking about why accessibility networks are so important to every organisation. Charlie, the network’s new manager, will focus on how networks have to develop a culture.</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/garethfw",
+                    "text": "@garethfw"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/AccessibilityC3",
+                    "text": "@AccessibilityC3"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 14:00",
+            "presenter": "Gareth Ford Williams",
+            "title": "The Wonderful Thing About Tiggers",
+            "description": "<p>ADHD affects between 10 and 20% of all children, but it is also a lifelong condition? This presentation is a personal perspective of what ADHD is, why it exists and what the challenges are?</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/garethfw",
+                    "text": "@garethfw"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 15:00",
+            "presenter": "Eriol Fox",
+            "title": "UX research and ethonographic design for humanitarian technology",
+            "description": "<p>Eriol has been working in the non-profit, humanitarian technology sector for the past two years immersed in how to build technology products and services that empower and give access to people in the global south or ‘developing countries’ often around difficult topics like Genocide, Democracy, gender-based violence and in difficult circumstances such as informal settlements (slums) and areas where radicalisation is high. This is a summary of how to approach difficult topics when researching these areas or these countries along with some tips for those looking to work or learn more about how to conduct UX research in these places.</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/erioldoesdesign",
+                    "text": "@erioldoesdesign"
+                },
+                {
+                    "type": "web",
+                    "url": "https://erioldoesdesign.com/",
+                    "text": "erioldoesdesign.com"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 16:00",
+            "presenter": "Sara Shahvisi and Sable Lomax",
+            "title": "Thinking Outside the Boxes: A Closeup Look Into Incremental Intersectionality",
+            "description": "",
+            "bio": "",
+            "videoId": ""
+        },
+        {
+            "datetime": "September 17, 2020 17:00",
+            "presenter": "Jo Kamau",
+            "title": "Bias in Artificial Intelligence",
+            "description": "<p>Many Artificial Intelligence systems are susceptible to use biased algorithm in many different scenarios. Due to this, systems find themselves outputting unknowingly discriminatory information against particular races; this can lead to group profiling and implicit biases. This worrisome gap lies in the algorithmic model and data. Before we can move forward any further with AI, we need to retrain and master these broken systems.</p>",
+            "bio": "",
+            "videoId": ""
+        },
+        {
+            "datetime": "September 17, 2020 18:00",
+            "presenter": "Marcelo Sales",
+            "title": "Accessibility Toolkit: Understanding WCAG once and for all!",
+            "description": "<p>If you work with digital projects, you have probably already received some kind of request to make your content accessible. And from that moment on, questions like \"where do I start?\" You will invariably fall into some content talking about WCAG and from there new doubts arise, mainly due to the amount of information presented. Realizing this difficulty in practical applications, such as workshops, I created a toolkit to facilitate the understanding, learning and application of WCAG in its projects.</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/msales",
+                    "text": "@msales"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 19:00",
+            "presenter": "Kiran Kaja",
+            "title": "TBC",
+            "description": "",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/",
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 20:00",
+            "presenter": "Crystal Preston-Watson",
+            "title": "Guerilla Accessibility Testing Techniques",
+            "description": "<p>Learn how to conduct stealthy testing that will disrupt the notion that accessibility is expendable while not being disruptive to your organization’s development process.</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/ScopicEngineer",
+                    "text": "@ScopicEngineer"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 21:00",
+            "presenter": "Sarah Brodwall",
+            "title": "Inclusive Color: from Photons and Physiology to Psychology and Philosophy",
+            "description": "<p>Inclusive color is about so much more than contrast.  Understanding color on a deeper level, from the interplay of physics and physiology to psychological and cultural factors, lets us go beyond accessibility requirements and standards to provide a pleasant user experience for as many people as possible.</p><p>This talk is relevant for anyone who uses color in their work, including designers of built environments, print, and web, in addition to developers, testers, and content creators.</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/sjbrodwall",
+                    "text": "@sjbrodwall"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 22:00",
+            "presenter": "Natalie Patrice Tucker and Lori Samuels",
+            "title": "Care & Feeding of Accessibility Professionals",
+            "description": "<p>Connecting with the wisdom of \"accessibility eldering\" to encourage, support and build leadership within our community of practice and for anyone committed to inclusive design</p><p>As an accessibility professional, who can you turn to when you’re feeling stressed or burned out?  Where do you go for inspiration and guidance?  Who can you reach out to when you just need to vent?  How can you avoid pitfalls and navigate obstacles along your accessibility journey? Two senior accessibility professionals will share updates about the Digital Accessibility Eldering Project’s mentoring initiative as a way of passing wisdom along, and pulling people up.</p>",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/NataliePatriceT",
+                    "text": "@NataliePatriceT"
+                },
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/lorisamuels18",
+                    "text": "@lorisamuels18"
+                }
+            ]
+        },
+        {
+            "datetime": "September 17, 2020 23:00",
+            "presenter": "Billy Gregory",
+            "title": "TBC",
+            "description": "",
+            "bio": "",
+            "videoId": "",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://www.twitter.com/thebillygregory",
+                    "text": "@thebillygregory"
+                }
+            ]
+        },
+        {
+            "datetime": "September 18, 2020 00:00 UTC",
+            "title": "The after party",
+            "description": "<p>Your hosts will discuss their favourite webinars from the last 24 hours, and might have a drink or two!</p>",
+            "videoId": ""
+        }
+    ]
+}
