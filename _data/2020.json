@@ -281,9 +281,16 @@
         {
             "datetime": "September 17, 2020 19:00",
             "presenter": "Kiran Kaja",
-            "title": "TBC",
-            "description": "TBC",
-            "bio": "TBC"
+            "title": "Designing digital assistants for those who need it most",
+            "description": "<p>The fact that accessibility features benefit everyone and not just people with disabilities is a long understood concept within the accessibility profession. This is much more evident in some of the newer technologies such as digital assistants where a natural and intuitive multi-modal interface to use technology to find information and get things done is helping users with disabilities as well as everyone else because at the end of the day, we are all trying to accomplish similar tasks. Learn about how we are designing features for users with disabilities in the Google Assistant for example that benefit users with disabilities as well as everyone else.</p>",
+            "bio": "<p>Kiran leads a diverse Accessibility program team for Search, Assistant and news at Google, ensuring that these products are helpful for everyone including users with disabilities. Kiran brings a unique perspective to disability, accessibility and inclusion due to his background in working in corporate and non-profit sectors and in a number of countries around the world.</p>",
+            "social": [
+                {
+                    "type": "twitter",
+                    "url": "https://wwww.twitter.com/kirankaja12",
+                    "text": "@kirankaja12"
+                }
+            ]
         },
         {
             "datetime": "September 17, 2020 20:00",
