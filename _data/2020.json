@@ -234,7 +234,7 @@
         {
             "datetime": "September 17, 2020 15:00",
             "presenter": "Eriol Fox",
-            "title": "UX research and ethonographic design for humanitarian technology",
+            "title": "UX research and ethnographic design for humanitarian technology",
             "description": "<p>Eriol has been working in the non-profit, humanitarian technology sector for the past two years immersed in how to build technology products and services that empower and give access to people in the global south or ‘developing countries’ often around difficult topics like Genocide, Democracy, gender-based violence and in difficult circumstances such as informal settlements (slums) and areas where radicalisation is high. This is a summary of how to approach difficult topics when researching these areas or these countries along with some tips for those looking to work or learn more about how to conduct UX research in these places.</p>",
             "bio": "<p>Eriol is a product designer at a global non-profit organisation Ushahidi working on the end-to end process of design practice for digital products. From research, ideation through to visual execution. They focus on user centred design and research that is inclusive of marginalised folks by default. With 10 years of experience as a professional designer Eriol has worked in-house at large corporates that have dealt in Electronics, Insurance, Risk Management, Housing and start-up applications. They have provided freelance work for non-profits and community groups and is actively involved in various non-profits from environmental the arts to LGBTQ+ issues. They also sit on the advisory board for a local Women’s Tech Hub. Eriol is a queer, non-binary, trans person who uses they/them pronouns.</p>",
             "social": [
@@ -335,14 +335,19 @@
         {
             "datetime": "September 17, 2020 23:00",
             "presenter": "Billy Gregory",
-            "title": "TBC",
-            "description": "TBC",
-            "bio": "TBC",
+            "title": "You, Ex. Breaking up with bad design",
+            "description": "<p>Why do we keep going back to the same bad designs? Why are we hung up on something that used to make sense but doesn’t anymore? Why don’t we listen when people say we can do better? Are we incapable of doing better?  Maybe this just feels safer? Or are we … lazy?</p><p>Whether it’s been months or years, it’s always time to re-evaluate your relationship with design. Weed out what’s not good for us, figure out what’s only good for the short term, and break up with bad design once and for all.</p>",
+            "bio": "<p>Billy Gregory is one of the driving forces behind the #A11yTO events (#a11yTO Conf, meetups, #a11yTO Gaming, #a11yIRL, #a11yTO Camp).</p><p>Before #a11yTO, and after failing to become a rock star, Billy focused his attention on front-end development. It was during this time that he discovered his true love of the internet, and his wish that everyone be able to use it.</p><p>Billy never shuts up about SUX (Some User Experience), which happens when design stops short of including all users.</p><p>He is still not a rock star.</p>",
             "social": [
                 {
                     "type": "twitter",
                     "url": "https://www.twitter.com/thebillygregory",
                     "text": "@thebillygregory"
+                },
+                {
+                    "type": "web",
+                    "url": "https://a11yto.com/",
+                    "text": "a11yto.com"
                 }
             ]
         },
