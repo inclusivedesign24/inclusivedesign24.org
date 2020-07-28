@@ -254,8 +254,15 @@
             "datetime": "September 17, 2020 16:00",
             "presenter": "Sara Shahvisi and Sable Lomax",
             "title": "Thinking Outside the Boxes: A Closeup Look Into Incremental Intersectionality",
-            "description": "TBC",
-            "bio": "TBC"
+            "description": "<p>As unfashionable as it is to say it, creating an inclusive culture in an organisation relies on understanding the complexity of the underlying issues that prevent robust change. Leaders who care about inclusion therefore need new, sharper tools to make this a reality.</p><p>What we do know is that the mainstream paradigm that silos people’s identities is redundant (you know, the common refrain that says: let's focus on \"gender\" first, and then when that's \"done\" we can look into race). To be effective, we need to deploy thinking that emphasises people’s complexities over the simplicity of fictitious identity silos. We need to smash the silos.</p><p>Only then will our solutions be effective and sustainable.</p><p>This talk will explore how leaders who care about making inclusion happen can sharpen their thinking outside of and across inclusion silos as they design and lead on making inclusion a reality.</p>",
+            "bio": "<p>Sara Shahvisi is a former teacher in inner-city state schools and her expertise lies in pedagogy, research, social policy and facilitation. Alongside programme leadership, she is responsible for ensuring high quality delivery from our facilitators. She is brilliant at facilitating complex concepts for groups of young people and adults alike and creating transformational learning experiences. Alongside her BA in Politics, Psychology and Sociology from University of Cambridge, she has an MSc in Social Policy from the London School of Economics.</p><p>Sable Lomax comes to Fearless Futures with over 10 years of experience in PK-12 education and program development. Her expertise lies in curriculum development, facilitation, pedagogy, and Black studies. She has wide-ranging experience in facilitation, including workplace effectiveness and diversity. Sable has done extensive research on the the long-term effects and overall effectiveness of oppression by way of criminalization of poor people of color, and the importance of Black feminism and the African aesthetic to resist various systems of oppression. She received her BA in African American Studies and French from Temple University and a MSEd in Education from the University of Pennsylvania. Sable is also a community creator, focusing on building vast national networks for professional women of color in order to arm them with the necessary tools to show up full and whole, both personally and professionally, while eating large amounts of cookies.</p>",
+            "social": [
+                {
+                    "type": "web",
+                    "url": "https://www.fearlessfutures.org/",
+                    "text": "fearlessfutures.org"
+                }
+            ]
         },
         {
             "datetime": "September 17, 2020 17:00",
