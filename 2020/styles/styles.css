@@ -231,11 +231,16 @@ main {
     font-size: 0.75em;
 }
 
+#supporters h3 span {
+    border-bottom: 1px solid #ffe400;
+    padding: 0 1em;
+}
+
 #supporters img {
     max-height: 100px;
     max-width: 200px;
     vertical-align: middle;
-    padding: 0.1em 0.6em;
+    padding: 0.1em 1.5em;
 }
 
 #supporters a {
