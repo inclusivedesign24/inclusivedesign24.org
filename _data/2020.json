@@ -33,6 +33,11 @@
                     "type": "twitter",
                     "url": "https://www.twitter.com/veron4ica",
                     "text": "@veron4ica"
+                },
+                {
+                    "type": "web",
+                    "url": "https://veroniiiica.com/",
+                    "text": "veroniiiica.com"
                 }
             ]
         },
@@ -73,9 +78,9 @@
                     "text": "@mawconsultngllc"
                 },
                 {
-                    "type": "twitter",
-                    "url": "https://www.twitter.com/usercessible",
-                    "text": "@usercessible"
+                    "type": "web",
+                    "url": "https://mawconsultingllc.com/",
+                    "text": "mawconsultingllc.com"
                 }
             ]
         },
@@ -90,6 +95,11 @@
                     "type": "twitter",
                     "url": "https://www.twitter.com/RachelHRodney1",
                     "text": "@RachelHRodney1"
+                },
+                {
+                    "type": "web",
+                    "url": "https://rachelrodney.myportfolio.com/",
+                    "text": "rachelrodney.myportfolio.com"
                 }
             ]
         },
@@ -104,6 +114,11 @@
                     "type": "twitter",
                     "url": "https://www.twitter.com/gian",
                     "text": "@gian"
+                },
+                {
+                    "type": "web",
+                    "url": "https://www.gianwild.com.au/",
+                    "text": "gianwild.com.au"
                 }
             ]
         },
@@ -112,7 +127,14 @@
             "presenter": "Joshue O Connor",
             "title": "XR Accessibility: The art of the possible",
             "description": "<p>As a platform, XR or virtual and immersive environments, augmented or mixed reality is becoming more stable and commonplace. The leveraging of existing hardware means it may become ubiquitous. What does this technology mean for people with disabilities?</p>",
-            "bio": "<p>Joshue O Connor is emerging web technology specialist with the W3C/Web Accessibility Initiative. He is ex co-chair of the Web Content Accessibility Guidelines working group as well as ex Head of Accessibility (Interim) for Government Digital Services (GDS) in the UK. He was the first in Ireland to graduate with an MSc in Assistive Technology and Universal Design.</p><p>He’s a tech skeptic, has written a couple of books, one of which isn’t bad - likes to cook Indian vegetarian food, learn Irish trad tunes in tricky tunings, do the occasional Jazz noodle on the guitar - and rocks out as ‘<a target=\"_blank\" href=\"http://abitwonky.net\">A Bit Wonky</a>’.</p>"
+            "bio": "<p>Joshue O Connor is emerging web technology specialist with the W3C/Web Accessibility Initiative. He is ex co-chair of the Web Content Accessibility Guidelines working group as well as ex Head of Accessibility (Interim) for Government Digital Services (GDS) in the UK. He was the first in Ireland to graduate with an MSc in Assistive Technology and Universal Design.</p><p>He’s a tech skeptic, has written a couple of books, one of which isn’t bad - likes to cook Indian vegetarian food, learn Irish trad tunes in tricky tunings, do the occasional Jazz noodle on the guitar - and rocks out as ‘<a target=\"_blank\" href=\"http://abitwonky.net\">A Bit Wonky</a>’.</p>",
+            "social": [
+                {
+                    "type": "web",
+                    "url": "https://interaccess.ie/",
+                    "text": "interaccess.ie"
+                }
+            ]
         },
         {
             "datetime": "September 17, 2020 07:00",
@@ -125,6 +147,11 @@
                     "type": "twitter",
                     "url": "https://www.twitter.com/codingchaos",
                     "text": "@codingchaos"
+                },
+                {
+                    "type": "web",
+                    "url": "https://sarahmhigley.com/",
+                    "text": "sarahmhigley.com"
                 }
             ]
         },
@@ -139,6 +166,11 @@
                     "type": "twitter",
                     "url": "https://www.twitter.com/russmaxdesign",
                     "text": "@russmaxdesign"
+                },
+                {
+                    "type": "web",
+                    "url": "http://maxdesign.com.au/",
+                    "text": "maxdesign.com.au"
                 }
             ]
         },
@@ -167,6 +199,11 @@
                     "type": "twitter",
                     "url": "https://www.twitter.com/mxbck",
                     "text": "@mxbck"
+                },
+                {
+                    "type": "web",
+                    "url": "https://mxb.dev/",
+                    "text": "mxb.dev"
                 }
             ]
         },
@@ -178,9 +215,14 @@
             "bio": "<p>Chad Gowler is an accessibility consultant working for a government department based in Sheffield. They specialise in diversity and inclusion especially around mental health and LGBTQ+ issues. In their spare time, they are in various usergroups talking about gender, accessibility, mental health and gaming for social good, or chilling out on their Animal Crossing island.</p>",
             "social": [
                 {
-                    "type": "web",
+                    "type": "twitter",
                     "url": "https://www.twitter.com/kitation",
                     "text": "@kitation"
+                },
+                {
+                    "type": "web",
+                    "url": "https://www.kitation.co.uk/",
+                    "text": "kitation.co.uk"
                 }
             ]
         },
@@ -195,6 +237,11 @@
                     "type": "twitter",
                     "url": "https://www.twitter.com/mmatuzo",
                     "text": "@mmatuzo"
+                },
+                {
+                    "type": "web",
+                    "url": "https://www.matuzo.at/",
+                    "text": "matuzo.at"
                 }
             ]
         },
@@ -221,7 +268,7 @@
             "datetime": "September 17, 2020 14:00",
             "presenter": "Gareth Ford Williams",
             "title": "The Wonderful Thing About Tiggers",
-            "description": "<p>ADHD affects between 10 and 20% of all children, but it is also a lifelong condition? This presentation is a personal perspective of what ADHD is, why it exists and what the challenges are?</p>",
+            "description": "<p>ADHD affects between 10% and 20% of all children, but it is also a lifelong condition? This presentation is a personal perspective of what ADHD is, why it exists and what the challenges are?</p>",
             "bio": "<p>In 2005 Gareth founded the BBC’s Digital Accessibility Team. Over the course of the first 3 years the Accessibility Team worked as an integral part of iPlayer’s core Product Team ensuring BBC iPlayer V1.0 launched as an accessible product in 2008.</p><p>By 2011 he was heading-up both the User Research and Accessibility teams. Two of the outcomes were the establishment of the champions Network in 2019 and in 2012 The BBC launched its Mobile Accessibility Guidelines.</p>",
             "social": [
                 {
@@ -269,7 +316,14 @@
             "presenter": "Njoki Kamau",
             "title": "Bias in Artificial Intelligence",
             "description": "<p>Many Artificial Intelligence systems are susceptible to use biased algorithm in many different scenarios. Due to this, systems find themselves outputting unknowingly discriminatory information against particular races; this can lead to group profiling and implicit biases. This worrisome gap lies in the algorithmic model and data. Before we can move forward any further with AI, we need to retrain and master these broken systems.</p>",
-            "bio": "<p>Njoki Kamau is a UX/UI Designer in Maryland, USA. With a background in psychology, she understands the motivations users have and how important honing empathy can be in the design process. She enjoys thinking inclusively, especially in an intersectional fashion, and finds comfort in tackling abstract problems to produce novel solutions. Njoki believes that technology is always transforming and advancing and designers need to be at the forefront in order to help make people's lives a bit easier.</p>"
+            "bio": "<p>Njoki Kamau is a UX/UI Designer in Maryland, USA. With a background in psychology, she understands the motivations users have and how important honing empathy can be in the design process. She enjoys thinking inclusively, especially in an intersectional fashion, and finds comfort in tackling abstract problems to produce novel solutions. Njoki believes that technology is always transforming and advancing and designers need to be at the forefront in order to help make people's lives a bit easier.</p>",
+            "social": [
+                {
+                    "type": "web",
+                    "url": "https://www.jokamau.me/",
+                    "text": "jokamau.me"
+                }
+            ]
         },
         {
             "datetime": "September 17, 2020 18:00",
@@ -282,6 +336,11 @@
                     "type": "twitter",
                     "url": "https://www.twitter.com/msales",
                     "text": "@msales"
+                },
+                {
+                    "type": "web",
+                    "url": "http://acessibilida.de/",
+                    "text": "acessibilida.de"
                 }
             ]
         },
@@ -294,7 +353,7 @@
             "social": [
                 {
                     "type": "twitter",
-                    "url": "https://wwww.twitter.com/kirankaja12",
+                    "url": "https://www.twitter.com/kirankaja12",
                     "text": "@kirankaja12"
                 }
             ]
@@ -310,6 +369,11 @@
                     "type": "twitter",
                     "url": "https://www.twitter.com/ScopicEngineer",
                     "text": "@ScopicEngineer"
+                },
+                {
+                    "type": "web",
+                    "url": "https://crystalprestonwatson.com/",
+                    "text": "crystalprestonwatson.com"
                 }
             ]
         },
