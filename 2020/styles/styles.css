@@ -237,10 +237,9 @@ main {
 }
 
 #supporters img {
-    max-height: 100px;
-    max-width: 200px;
+    max-height: 150px;
+    max-width: 250px;
     vertical-align: middle;
-    padding: 0.1em 1.5em;
 }
 
 #supporters a {
