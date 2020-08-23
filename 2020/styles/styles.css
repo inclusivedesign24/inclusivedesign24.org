@@ -231,11 +231,15 @@ main {
     font-size: 0.75em;
 }
 
+#supporters h3 span {
+    border-bottom: 1px solid #ffe400;
+    padding: 0 1em;
+}
+
 #supporters img {
-    max-height: 100px;
-    max-width: 200px;
+    max-height: 150px;
+    max-width: 250px;
     vertical-align: middle;
-    padding: 0.1em 0.6em;
 }
 
 #supporters a {
@@ -447,6 +451,12 @@ section {
     margin: 0.85em 0 -0.55em 0;
 }
 
+.session_details {
+    border-left: 1px #999 solid;
+    margin-left: -1em;
+    padding-left: 1em;
+}
+
 .session_presenter,
 .session_title {
     display: block;
@@ -484,12 +494,31 @@ section {
     word-break: break-all;
 }
 
+.team dt {
+    margin: 1em 0 0 0;
+}
+
+.team dd {
+    margin-inline-start: 0;
+    display: inline;
+    margin-right: 0.5em;
+}
+
 a.youtube {
     text-decoration: none;
 }
 
 a.slides {
     text-decoration: none;
+}
+
+#countdown {
+    font-size: 1.5em;
+}
+
+#countdown_timer {
+    font-weight: bold;
+    color: #ffe400;
 }
 
 .hidden {
@@ -705,5 +734,9 @@ table.id24local_sessions .session_time_offset {
     main a {
         text-overflow: ellipsis;
         max-width: 80%;
+    }
+
+    .team dd {
+        display: block;
     }
 }
