@@ -489,6 +489,16 @@ section {
     word-break: break-all;
 }
 
+.team dt {
+    margin: 1em 0 0 0;
+}
+
+.team dd {
+    margin-inline-start: 0;
+    display: inline;
+    margin-right: 0.5em;
+}
+
 a.youtube {
     text-decoration: none;
 }
