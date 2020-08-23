@@ -726,4 +726,8 @@ table.id24local_sessions .session_time_offset {
         text-overflow: ellipsis;
         max-width: 80%;
     }
+
+    .team dd {
+        display: block;
+    }
 }
