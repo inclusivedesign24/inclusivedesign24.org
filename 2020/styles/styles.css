@@ -451,6 +451,12 @@ section {
     margin: 0.85em 0 -0.55em 0;
 }
 
+.session_details {
+    border-left: 1px #999 solid;
+    margin-left: -1em;
+    padding-left: 1em;
+}
+
 .session_presenter,
 .session_title {
     display: block;
