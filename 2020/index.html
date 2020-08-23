@@ -106,8 +106,8 @@
 </section>
 -->
 
-<section id="countdown">
-    <div id="countdown_timer" aria-live="polite" aria-atomic="true"></div>
+<section id="countdown" aria-live="polite" aria-atomic="true">
+    The event will start in <span id="countdown_timer"></span>
 </section>
 
 <section id="info">
@@ -144,7 +144,7 @@
 
 <script src="/2020/scripts/countdown.js"></script>
 <script>
-    countdown(new Date("Sept 17, 2020 00:00:00 UTC+0").getTime(), document.getElementById("countdown_timer"));
+    countdown(new Date("Sept 16, 2020 23:45:00 UTC+0").getTime(), document.getElementById("countdown_timer"));
 </script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
