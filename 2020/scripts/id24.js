@@ -44,6 +44,10 @@ function pad(num, size) {
         }, true);
         sessionDetails.parentNode.insertBefore(b, sessionDetails);
 
+        // additional expand/collapse listener for mouse/touch
+        sessionHeading.addEventListener('click',function() {
+            this.nextElementSibling.click();
+        },true);
     });
 
     // Adjust sessions times to be local
