@@ -1,9 +1,5 @@
 function countdown(deadline, countdown_element) { 
-    let count = 1; 
-              
-    var x = setInterval(function countdown_do() { 
-        console.log('Function Executed! ' + count); 
-        count = count + 1; 
+    var x = setInterval(function countdown_do() {
         var now = new Date().getTime(); 
         var t = deadline - now; 
         var days = Math.floor(t / (1000 * 60 * 60 * 24)); 
@@ -16,4 +12,4 @@ function countdown(deadline, countdown_element) {
         }
         return countdown_do;
     }(), 60000); 
-} /* note that the function inside is an IIFE so it executes once, before the setting the interval */
+} /* note that the function inside is an IIFE so it executes once, before then setting the interval */
