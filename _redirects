@@ -11,3 +11,7 @@
 /about/* /2020/about/:splat
 /images/* /2020/images/:splat
 /favicon.ico /2020/favicon.ico
+
+# Error pages
+
+/2020/* /2020/404.html 404
