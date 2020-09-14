@@ -1,12 +1,13 @@
 {
     "event": {
-        
+        "playlistId": "PLn7dsvRdQEfGkK9xxk54XdKTLk7zf_Qwp"
     },
     "schedule": [
         {
             "datetime": "September 16, 2020 23:45",
             "title": "The pre-show",
-            "description": "<p>Meet your hosts for the next 24 hours. We'll be having a general chat about accessibility, inclusive design, and talking about the webinars we are most looking forward to in the upcoming 24 hours.</p>"
+            "description": "<p>Meet your hosts for the next 24 hours. We'll be having a general chat about accessibility, inclusive design, and talking about the webinars we are most looking forward to in the upcoming 24 hours.</p>",
+            "videoId": "xS2Y9lb66xA"
         },
         {
             "datetime": "September 17, 2020 00:00",
@@ -14,6 +15,7 @@
             "title": "Everyone here spoke sign language",
             "description": "<p>For nearly 300 years, the entire population of Chilmark on Martha’s Vineyard spoke sign language, regardless of whether they were deaf. How did this come about?</p>",
             "bio": "<p>Claudio is a certified accessibility professional with over 20 years’ experience in UX design and front-end development. He is an accessibility expert that handles digital experiences that include web, mobile, native, augmented reality, kiosks and gaming.</p>",
+            "videoId": "aFfF_xUOqkQ",
             "social": [
                 {
                     "type": "twitter",
@@ -28,6 +30,7 @@
             "title": "Why Everyone Should Design For Chiari Malformation",
             "description": "<p>Join Veronica Lewis of Veronica With Four Eyes as she shares why everyone should design for the condition Chiari Malformation, and all of the other disability areas that can benefit.</p>",
             "bio": "<p>Veronica Lewis is the writer/blogger behind Veronica With Four Eyes, a vision impairment and assistive technology blog she started out of her dorm room at George Mason University in November 2016 that has been featured by major companies, organizations, and news outlets from all around the world. She is currently finishing up her degrees in data science and assistive technology and lives in Virginia.</p>",
+            "videoId": "5FIPgbTUhoY",
             "social": [
                 {
                     "type": "twitter",
@@ -47,6 +50,7 @@
             "title": "Honey over vinegar: winning strategies for digital inclusion",
             "description": "<p>Nobody likes to be told what to do. Effective, long-lasting change comes when people want it, embrace it, and understand that change is in their best interest. We’ll look at positive, relationship-building strategies to help organizations embrace digital inclusion and keep people with disabilities front and center. Everyone knows you catch more flies with honey than vinegar. A compliance and fear driven approach to accessibility is vinegar. Join us to discuss honey: strategies like storytelling, impact marketing, and collaborative legal advocacy that can help build a culture of accessibility for employees, customers, and the public.</p>",
             "bio": "<p>Lainey Feingold is a disability rights lawyer and an author who works primarily with the blind community on technology, digital, and information access issues.</p><p>Lucy Greco is a Web Accessibility Evangelist who has been blind since birth and leads the Electronic Accessibility Committee (EAC) at UC Berkeley.</p><p>Stewart Hay is the Managing Director and co-founder of Intopia, a social enterprise focused on creating an inclusive digital world.</p>",
+            "videoId": "A0y4tncrQiE",
             "social": [
                 {
                     "type": "twitter",
@@ -71,6 +75,7 @@
             "title": "Responsive Design vs. Magnification: Designing for Users With Low Vision",
             "description": "<p>Designers often account for mobile-friendly responsiveness, achieved through resizing browser windows. This is extremely beneficial for users with low vision because increased text size is an important adjustment. However, designers are less familiar with magnification (akin to using a magnifying glass across a screen) and how the widely used tool differs greatly from responsive design.</p><p>This session aims to improve accessibility for users with low vision by demonstrating the common techniques used on the Web and proposing design best practices.</p>",
             "bio": "<p>Dr. Michele A. Williams is owner of M.A.W. Consulting, LLC – Making Accessibility Work. She has 15 years of academic and industrial experience in UX, accessibility, and technology including training, UX design and research with people with disabilities, and code remediation for building WCAG-compliant technology. Along with industry project contributions, her academic research and designs have resulted in numerous cited publications, international presentations, and a patent application for an inclusive wearable technology.</p><p>Ms. Synge Tyson, MA, OMS, CPACC is a researcher, rehabilitation specialist, and Certified Professional in Accessibility Core Competencies (CPACC). She holds six degrees, and has held positions within federal government, industry, and nonprofit. As research faculty at Georgia Tech, she conducted policy development research regarding human interaction with wireless communication technologies. She has presented at numerous local, state, and international conferences and works to broaden accessibility and inclusion across various industries.</p>",
+            "videoId": "3d12B9vdPbc",
             "social": [
                 {
                     "type": "twitter",
@@ -90,6 +95,7 @@
             "title": "Let's Inclusify",
             "description": "<p>Anyone can make experiences more inclusive - from designing packaging to be globally appropriate, to workplace environments, to devices that adapt for the user ... as opposed to the user adapting to the device. And there are so many communities within “marginalized communities” that need to be considered, in terms of not only accessibility, but all of the intersections that create compounded disparities which exclude people from experiences.</p><p>Culturalization is a rapidly growing need as the world’s geographical barriers are broken down by technology. Sexism continues to persist in the way people value each other’s work and worth. The accessibility of products is often reliant on how much a company cares to align to legal requirements, as opposed to the need of consumers.</p><p>So how can we create more inclusive societal norms?</p><p>By developing an inclusive mind which identifies exclusive practice and works to establish new inclusive ways of making. This talk will cover stories from different communities that contributed to exclusion, and how people inclusify them.</p>",
             "bio": "<p>Rachel is pursuing a degree in Human Centered Design and Engineering at the University of Washington. She has published a book, <cite>Our Exclusive Society</cite> in July 2020, which stemmed from her interests in learning more about Inclusive Design, and how 'makers' (anyone who is creating things to be used by people - so designers, educators, programmers, etc) can have a more inclusive mindset in their work.</p>",
+            "videoId": "ujgUEdILIRM",
             "social": [
                 {
                     "type": "twitter",
@@ -109,6 +115,7 @@
             "title": "Mobile accessibility: testing mobile sites and native apps for accessibility",
             "description": "<p>Accessibility is important to all – not everyone using your mobile app, device or wearable will be fully functioning: either because they have a disability or they are simply engaged elsewhere. Gian Wild, Chair of the Native App and Mobile Site Committees talks about the things that are essential to avoid when designing mobile apps, devices and wearables to ensure that everyone can use them. She talks about specific mobile accessibility features: pinch zoom, native screen readers, haptic keyboard etc, and system accessibility settings: font size, screen rotation, high contrast etc. The Native App and Mobile Site Testing Guidelines are provided.</p>",
             "bio": "<p>Gian Wild is the CEO of AccessibilityOz, with offices in the United States, Europe and Australia. She has worked in accessibility industry since 1998, when she worked on the very first Australian accessible web site. Her major achievements include: six years’ active membership in the W3C Web Content Accessibility Guidelines Working Group contributing to WCAG2; her speech on the importance of web accessibility at the United Nations Conference of State Parties in 2015; and the release of the ICT Mobile Site Accessibility Testing Guidelines as the Mobile Sub-Committee Chair of the ICT Accessibility Testing Symposium. In 2019 Gian won the inaugural Accessibility Person of the Year. Gian speaks at conferences in Australia, US, Canada, South America and Europe.</p>",
+            "videoId": "KJGaQoZF7YQ",
             "social": [
                 {
                     "type": "twitter",
@@ -128,6 +135,7 @@
             "title": "XR Accessibility: The art of the possible",
             "description": "<p>As a platform, XR or virtual and immersive environments, augmented or mixed reality is becoming more stable and commonplace. The leveraging of existing hardware means it may become ubiquitous. What does this technology mean for people with disabilities?</p>",
             "bio": "<p>Joshue O Connor is emerging web technology specialist with the W3C/Web Accessibility Initiative. He is ex co-chair of the Web Content Accessibility Guidelines working group as well as ex Head of Accessibility (Interim) for Government Digital Services (GDS) in the UK. He was the first in Ireland to graduate with an MSc in Assistive Technology and Universal Design.</p><p>He’s a tech skeptic, has written a couple of books, one of which isn’t bad - likes to cook Indian vegetarian food, learn Irish trad tunes in tricky tunings, do the occasional Jazz noodle on the guitar - and rocks out as ‘<a target=\"_blank\" href=\"http://abitwonky.net\">A Bit Wonky</a>’.</p>",
+            "videoId": "JBvqXyV2-c8",
             "social": [
                 {
                     "type": "web",
@@ -142,6 +150,7 @@
             "title": "Debugging broken accessibility",
             "description": "<p>Accessibility testing can show you what bugs you have, but not why they occurred or how to fix them. Sometimes this is simple: if an image is missing alt text, you add an alt attribute. Other times you may find yourself with 50 open browser tabs and lacking a few handfuls of hair.</p><p>Let's make that process a little easier by looking at tools and tricks for debugging everything from combobox semantics to live regions. Then we'll follow the root causes a little further to look at where in today's web ecosystem they really originate from.</p>",
             "bio": "<p>Sarah Higley is a web developer who works on accessibility at Microsoft. She has been convincing people to give her money in exchange for code since 2011, and is happiest when working on weird web components. She is always up for listening to or participating in rants about accessibility, the importance of front-end skills, and diversity in tech.</p>",
+            "videoId": "Hn45CK0V7MM",
             "social": [
                 {
                     "type": "twitter",
@@ -161,6 +170,7 @@
             "title": "What are accessible names and why should you care?",
             "description": "<p>This presentation will look at accessible names, how they are exposed in the browsers accessibility tree, and their importance to assistive technologies. There will be a deep dive into simple examples, advanced examples using ARIA, and an overview of the W3C's Accessible Name and Description Computation.</p>",
             "bio": "<p>Russ Weakley is an author, speaker, and CSS expert, with a detailed knowledge of web design and development. Russ runs the Web Standards Group and has produced a series of widely acclaimed online tutorials on CSS, Responsive Web Design and web development.</p>",
+            "videoId": "ZDpmc5-6iy4",
             "social": [
                 {
                     "type": "twitter",
@@ -180,6 +190,7 @@
             "title": "Participatory Co-Design, Grounded Methodology and the Development of Post-Inclusion",
             "description": "<p>The presentation discusses two post-inclusive arts projects. These projects use participatory co-design to create artworks and technology, and grounded methodology as a means of developing learning and evaluation. The first project is a community education project on flooding in Bath, UK, and features co-created interactive installations, music and sculptures. The second project is a community design project, which features the development of co-designed breakdance choreography, performance and a multi-sensory dance beat technology in Yorkshire, UK.</p>",
             "bio": "<p>Simon is a Reader in Education at the University of Bath, UK. He is also a Centre Associate in the Centre for the Philosophy of Natural and Social Science, London School of Economics, an Associate of the Scottish Sensory Centre, University of Edinburgh and Temporary Advisor to the World Health Organisation. Simon is currently co-editor of the Routledge book series, Qualitative and Visual Methodologies in Educational Research. He has also won several awards and fellowships, including a Fulbright All Disciplines Scholar's Award and fellowships of the British Computer Society and the Metropolitan Museum of Art (New York, USA).</p>",
+            "videoId": "fq_my63cEe0",
             "social": [
                 {
                     "type": "twitter",
@@ -194,6 +205,7 @@
             "title": "Emergency Website Kit",
             "description": "<p>In cases of emergency, many organizations need a quick way to publish critical information. But existing (CMS) websites are often unable to handle sudden spikes in traffic and can lack the necessary focus on performance and accessibility.</p><p>This talk outlines an attempt to create a template for emergency websites that are designed to be extremely resilient, highly inclusive and fast to get off the ground. It's about making a website with the sole purpose of getting important information to as many people as possible.</p>",
             "bio": "<p>Max is a front-end developer based in Vienna, Austria. He has been building on the web for the last 15 years, focused on creating engaging, accessible &amp; performant interfaces. He’s a big fan of trash movies, HTML and the IndieWeb.</p>",
+            "videoId": "SRrcnzlkNWw",
             "social": [
                 {
                     "type": "twitter",
@@ -213,6 +225,7 @@
             "title": "Simulation exercises through the lens of play",
             "description": "<p>This talk will examine simulation or \"empathy\" exercises through the lens of game studies. Play is an important part of how we build understanding of the word, and serious games are used to promote empathy and engagement with all kinds of difficult topics. Can treating simulation exercises as play improve their impact?</p>",
             "bio": "<p>Chad Gowler is an accessibility consultant working for a government department based in Sheffield. They specialise in diversity and inclusion especially around mental health and LGBTQ+ issues. In their spare time, they are in various usergroups talking about gender, accessibility, mental health and gaming for social good, or chilling out on their Animal Crossing island.</p>",
+            "videoId": "ctqC2QwRI2A",
             "social": [
                 {
                     "type": "twitter",
@@ -232,6 +245,7 @@
             "title": "Writing even more CSS with Accessibility in Mind",
             "description": "<p>What’s the first thing that comes to your mind when you think of “CSS and accessibility”? Maybe text size, color contrast, or DOM order. Important topics, without question, but there’s a lot more to consider when writing inclusive CSS. This talk aims to help you create better interfaces by adapting to your users’ needs. You’ll learn how to debug and test with CSS, how attribute selectors can improve accessibility, and when CSS affects the semantics of your HTML.</p>",
             "bio": "<p>Manuel is a front-end developer from Vienna, specialized in HTML, CSS, accessibility, and performance. He likes to write about these topics and talk at meetups and conferences. He’s organizer of the <a target=\"_blank\" href=\"https://webclerks.at/\">webclerks</a> conference in Vienna, and he maintains <a target=\"_blank\" href=\"https://www.htmhell.dev/\">htmhell.dev</a> and <a target=\"_blank\" href=\"https://www.frontendbookmarks.com/\">frontendbookmarks.com</a>.</p>",
+            "videoId": "DKroL1e8a1I",
             "social": [
                 {
                     "type": "twitter",
@@ -251,6 +265,7 @@
             "title": "Why have a team when you can have an army?",
             "description": "<p>Many organisations have subject groups, networks and guilds. These all have similar objectives in that they develop and embed best practices into an organisation.</p><p>The BBC has an Accessibility Champions Network that is nearly 10 years old. It has gone through several changes, has grown to over 200 members and is about to embark on a new stage in its evolution.</p><p>Gareth will be talking about why accessibility networks are so important to every organisation. Charlie, the network’s new manager, will focus on how networks have to develop a culture.</p>",
             "bio": "<p>Charlie Turrell has recently joined the Accessibility team at the BBC and has taken over the management of their Accessibility Champions Network. Charlie has a varied background, including working with young people with additional needs. Charlie is looking to evolve the network using a more people centred approach.</p><p>Gareth sits on several BBC internal management groups including: the diversity groups for the BBC North and BBC Future Media Divisions, Future Media’s Senior Leadership Team and the Creative Leadership team, as well as pan-BBC groups for Accessibility. Gareth also represents the BBC at ATVOD (the Authority for Television and Video On Demand) as well as at public speaking events such as conferences, symposiums and forums.</p>",
+            "videoId": "3_ByEKTemoo",
             "social": [
                 {
                     "type": "twitter",
@@ -270,6 +285,7 @@
             "title": "The Wonderful Thing About Tiggers",
             "description": "<p>ADHD affects between 10% and 20% of all children, but it is also a lifelong condition? This presentation is a personal perspective of what ADHD is, why it exists and what the challenges are?</p>",
             "bio": "<p>In 2005 Gareth founded the BBC’s Digital Accessibility Team. Over the course of the first 3 years the Accessibility Team worked as an integral part of iPlayer’s core Product Team ensuring BBC iPlayer V1.0 launched as an accessible product in 2008.</p><p>By 2011 he was heading-up both the User Research and Accessibility teams. Two of the outcomes were the establishment of the champions Network in 2019 and in 2012 The BBC launched its Mobile Accessibility Guidelines.</p>",
+            "videoId": "upnJcuqxRjQ",
             "social": [
                 {
                     "type": "twitter",
@@ -284,6 +300,7 @@
             "title": "UX research and ethnographic design for humanitarian technology",
             "description": "<p>Eriol has been working in the non-profit, humanitarian technology sector for the past two years immersed in how to build technology products and services that empower and give access to people in the global south or ‘developing countries’ often around difficult topics like Genocide, Democracy, gender-based violence and in difficult circumstances such as informal settlements (slums) and areas where radicalisation is high. This is a summary of how to approach difficult topics when researching these areas or these countries along with some tips for those looking to work or learn more about how to conduct UX research in these places.</p>",
             "bio": "<p>Eriol is Lead designer at the <a href=\"https://www.openfoodnetwork.org/\">Open Food Network</a> working on an ethical, open-source food supply chain product. From research, ideation through to visual execution. They focus on user-centred design and research that is inclusive of marginalised folks by default. With 10 years of experience as a professional designer, Eriol has worked in-house at large corporates that have dealt in electronics, insurance, risk management, housing, parental tech and crisis response. They have worked for non-profits and community groups and is actively involved in various non-profits from environmental the arts to LGBTQ+ issues. They are part of the core team at <a href=\"https://opensourcedesign.net/\">opensourcedesign.net</a> advocating for designers contributing to and collaborating on open-source software. Eriol is a queer, non-binary, trans person who uses they/them pronouns.</p>",
+            "videoId": "-WMCLfHLkI8",
             "social": [
                 {
                     "type": "twitter",
@@ -303,6 +320,7 @@
             "title": "Thinking Outside the Boxes: A Closeup Look Into Incremental Intersectionality",
             "description": "<p>As unfashionable as it is to say it, creating an inclusive culture in an organisation relies on understanding the complexity of the underlying issues that prevent robust change. Leaders who care about inclusion therefore need new, sharper tools to make this a reality.</p><p>What we do know is that the mainstream paradigm that silos people’s identities is redundant (you know, the common refrain that says: let's focus on \"gender\" first, and then when that's \"done\" we can look into race). To be effective, we need to deploy thinking that emphasises people’s complexities over the simplicity of fictitious identity silos. We need to smash the silos.</p><p>Only then will our solutions be effective and sustainable.</p><p>This talk will explore how leaders who care about making inclusion happen can sharpen their thinking outside of and across inclusion silos as they design and lead on making inclusion a reality.</p>",
             "bio": "<p>Sara Shahvisi is a former teacher in inner-city state schools and her expertise lies in pedagogy, research, social policy and facilitation. Alongside programme leadership, she is responsible for ensuring high quality delivery from our facilitators. She is brilliant at facilitating complex concepts for groups of young people and adults alike and creating transformational learning experiences. Alongside her BA in Politics, Psychology and Sociology from University of Cambridge, she has an MSc in Social Policy from the London School of Economics.</p><p>Sable Lomax comes to Fearless Futures with over 10 years of experience in PK-12 education and program development. Her expertise lies in curriculum development, facilitation, pedagogy, and Black studies. She has wide-ranging experience in facilitation, including workplace effectiveness and diversity. Sable has done extensive research on the the long-term effects and overall effectiveness of oppression by way of criminalization of poor people of color, and the importance of Black feminism and the African aesthetic to resist various systems of oppression. She received her BA in African American Studies and French from Temple University and a MSEd in Education from the University of Pennsylvania. Sable is also a community creator, focusing on building vast national networks for professional women of color in order to arm them with the necessary tools to show up full and whole, both personally and professionally, while eating large amounts of cookies.</p>",
+            "videoId": "2l-ndDv0Mo8",
             "social": [
                 {
                     "type": "web",
@@ -317,6 +335,7 @@
             "title": "Bias in Artificial Intelligence",
             "description": "<p>Many Artificial Intelligence systems are susceptible to use biased algorithm in many different scenarios. Due to this, systems find themselves outputting unknowingly discriminatory information against particular races; this can lead to group profiling and implicit biases. This worrisome gap lies in the algorithmic model and data. Before we can move forward any further with AI, we need to retrain and master these broken systems.</p>",
             "bio": "<p>Njoki Kamau is a UX/UI Designer in Maryland, USA. With a background in psychology, she understands the motivations users have and how important honing empathy can be in the design process. She enjoys thinking inclusively, especially in an intersectional fashion, and finds comfort in tackling abstract problems to produce novel solutions. Njoki believes that technology is always transforming and advancing and designers need to be at the forefront in order to help make people's lives a bit easier.</p>",
+            "videoId": "Qrg0s9izfzY",
             "social": [
                 {
                     "type": "web",
@@ -331,6 +350,7 @@
             "title": "Accessibility Toolkit: Understanding WCAG once and for all!",
             "description": "<p><strong>Note:</strong> this session will be presented in Brazilian Portuguese.</p><p>If you work with digital projects, you have probably already received some kind of request to make your content accessible. And from that moment on, questions like \"where do I start?\" You will invariably fall into some content talking about WCAG and from there new doubts arise, mainly due to the amount of information presented. Realizing this difficulty in practical applications, such as workshops, I created a toolkit to facilitate the understanding, learning and application of WCAG in its projects.</p>",
             "bio": "<p>Designer, developing digital products for 20 years. Today I work in the Design Ops team at Itaú (the largest private sector bank in Brazil) with a focus on UX and Accessibility. Creator of <a target=\"_blank\" href=\"http://guia-wcag.com\" hreflang=\"pt-br\">WCAG Guide</a>. Invited professor of Accessibility in courses at <cite>ESPM</cite> and <cite lang=\"pt-br\">Belas Artes</cite> and Accessibility Instructor at <cite>Mergo UX</cite> (recognized institutions in Brazil). Member of the W3C Brasil Web Accessibility Specialists Group.</p>",
+            "videoId": "mQSx086yFM4",
             "social": [
                 {
                     "type": "twitter",
@@ -350,6 +370,7 @@
             "title": "Designing digital assistants for those who need it most",
             "description": "<p>The fact that accessibility features benefit everyone and not just people with disabilities is a long understood concept within the accessibility profession. This is much more evident in some of the newer technologies such as digital assistants where a natural and intuitive multi-modal interface to use technology to find information and get things done is helping users with disabilities as well as everyone else because at the end of the day, we are all trying to accomplish similar tasks. Learn about how we are designing features for users with disabilities in the Google Assistant for example that benefit users with disabilities as well as everyone else.</p>",
             "bio": "<p>Kiran leads a diverse Accessibility program team for Search, Assistant and news at Google, ensuring that these products are helpful for everyone including users with disabilities. Kiran brings a unique perspective to disability, accessibility and inclusion due to his background in working in corporate and non-profit sectors and in a number of countries around the world.</p>",
+            "videoId": "SfZ5tEewnbI",
             "social": [
                 {
                     "type": "twitter",
@@ -364,6 +385,7 @@
             "title": "Guerilla Accessibility Testing Techniques",
             "description": "<p>Learn how to conduct stealthy testing that will disrupt the notion that accessibility is expendable while not being disruptive to your organization’s development process.</p>",
             "bio": "<p>Crystal Preston-Watson is a quality engineer who focuses on accessibility at Salesforce. She has a decade of experience working with online media and software companies throughout North America.</p>",
+            "videoId": "mZehrNMO0XM",
             "social": [
                 {
                     "type": "twitter",
@@ -383,6 +405,7 @@
             "title": "Inclusive Color: from Photons and Physiology to Psychology and Philosophy",
             "description": "<p>Inclusive color is about so much more than contrast.  Understanding color on a deeper level, from the interplay of physics and physiology to psychological and cultural factors, lets us go beyond accessibility requirements and standards to provide a pleasant user experience for as many people as possible.</p><p>This talk is relevant for anyone who uses color in their work, including designers of built environments, print, and web, in addition to developers, testers, and content creators.</p>",
             "bio": "<p>Sarah works as the Principal Advisor and Competence Manager for Universal Design at the Norwegian Health Network, which develops digital services that enable Norway's residents to communicate with healthcare providers and take control over their own health.  She has a background in linguistics and cognitive psychology and over 20 years' experience with front-end web development and user experience design, and is an IAAP Certified Professional in Web Accessibility (CPWA). She particularly enjoys teaching others about universal design via hands-on workshops and geeking out about the minutiae of semantic HTML.</p>",
+            "videoId": "SsoMTVnhhOs",
             "social": [
                 {
                     "type": "twitter",
@@ -397,6 +420,7 @@
             "title": "Care &amp; Feeding of Accessibility Professionals",
             "description": "<p>Connecting with the wisdom of \"accessibility eldering\" to encourage, support and build leadership within our community of practice and for anyone committed to inclusive design</p><p>As an accessibility professional, who can you turn to when you’re feeling stressed or burned out?  Where do you go for inspiration and guidance?  Who can you reach out to when you just need to vent?  How can you avoid pitfalls and navigate obstacles along your accessibility journey? Two senior accessibility professionals will share updates about the Digital Accessibility Eldering Project’s mentoring initiative as a way of passing wisdom along, and pulling people up.</p>",
             "bio": "<p>Natalie Patrice Tucker has nearly two decades of experience building the accessible web. Committed to a web that works for everyone, she spends her days (and far too many nights and weekends) serving as a subject matter expert in the area of web accessibility and training an army of developers and stakeholders to carry the charge.</p><p>Lori Samuels is the Accessibility Director at NBCUniversal.  She leads strategic accessibility programs to institute best practices in inclusive design, provide training for product teams, drive cultural maturity in disability inclusion, and fortify executive sponsorship.</p>",
+            "videoId": "wYYRjhcfJu8",
             "social": [
                 {
                     "type": "twitter",
@@ -416,6 +440,7 @@
             "title": "You, Ex. Breaking up with bad design",
             "description": "<p>Why do we keep going back to the same bad designs? Why are we hung up on something that used to make sense but doesn’t anymore? Why don’t we listen when people say we can do better? Are we incapable of doing better?  Maybe this just feels safer? Or are we … lazy?</p><p>Whether it’s been months or years, it’s always time to re-evaluate your relationship with design. Weed out what’s not good for us, figure out what’s only good for the short term, and break up with bad design once and for all.</p>",
             "bio": "<p>Billy Gregory is one of the driving forces behind the #A11yTO events (#a11yTO Conf, meetups, #a11yTO Gaming, #a11yIRL, #a11yTO Camp).</p><p>Before #a11yTO, and after failing to become a rock star, Billy focused his attention on front-end development. It was during this time that he discovered his true love of the internet, and his wish that everyone be able to use it.</p><p>Billy never shuts up about SUX (Some User Experience), which happens when design stops short of including all users.</p><p>He is still not a rock star.</p>",
+            "videoId": "-YJQX8insNg",
             "social": [
                 {
                     "type": "twitter",
@@ -432,7 +457,8 @@
         {
             "datetime": "September 18, 2020 00:00 UTC",
             "title": "The after party",
-            "description": "<p>Your hosts will discuss their favourite webinars from the last 24 hours, and might have a drink or two!</p>"
+            "description": "<p>Your hosts will discuss their favourite webinars from the last 24 hours, and might have a drink or two!</p>",
+            "videoId": "wY3B717CE8g"
         }
     ]
 }
