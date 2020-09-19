@@ -441,6 +441,7 @@ section {
 
 #time_machine {
     color: #ffe400;
+    margin-bottom: 0.5em;
 }
 
 .session_time .now {
@@ -666,12 +667,12 @@ table.id24local_sessions .session_time_offset {
     }
 
     .session {
-        padding: 1.5em 0;
+        padding: 1.5em 0 1.5em 0.5em;
         margin: 0;
     }
 
     .session.now {
-        padding-left: 0.25rem;
+        padding-left: 0.75rem;
         left: -0.75rem;
     }
 
