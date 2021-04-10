@@ -198,10 +198,6 @@ header #mainnav ul li {
     display: inline;
 }
 
-header #mainnav a[href*="id24local"] {
-    text-transform: none; /* special case for id24local which canonically is lowercase/non-capped */
-}
-
 header #mainnav a {
     color: #000;
     font-weight: bold;
@@ -570,46 +566,6 @@ a.slides {
     overflow:hidden;
     clip:rect(0,0,0,0);
     border:0;
-}
-
-/* id24local table */
-
-table.id24local_sessions {
-    border-collapse: collapse;
-    width: 100%;
-    margin-bottom: 2em;
-    font-size: 0.9em;
-}
-
-table.id24local_sessions th {
-    font-family: 'Nunito Sans', sans-serif;
-    text-align: left;
-}
-
-table.id24local_sessions thead tr {
-    border-bottom: 1px #ffe400 solid;
-}
-
-table.id24local_sessions tbody tr {
-    border-bottom: 1px #444 solid
-}
-
-table.id24local_sessions tbody td:nth-child(2) {
-    font-family: 'Nunito Sans', sans-serif;
-}
-
-table.id24local_sessions tbody tr:last-child {
-    border-bottom: none;
-}
-
-table.id24local_sessions th,
-table.id24local_sessions td {
-    padding: 0.5em 1em 0.5em 0;
-}
-
-table.id24local_sessions .session_time_local_ampm,
-table.id24local_sessions .session_time_offset {
-    font-size: 0.65em !important;
 }
 
 /* adaptations for smaller screens */
