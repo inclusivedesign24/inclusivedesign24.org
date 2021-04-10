@@ -253,12 +253,19 @@ main {
     outline: 2px solid #ffe400;
 }
 
-.supporter-perks {
-    border-collapse: collapse;
-}
+/* supporter perks table */
 
 .supporter-perks {
     width: 100%;
+    border-collapse: collapse;
+}
+
+@media (max-width: 28em) {
+    .supporter-perks {
+        display: inline-block;
+        width: calc(100vw - 2rem);
+        overflow: auto;
+    }
 }
 
 .supporter-perks thead th {
