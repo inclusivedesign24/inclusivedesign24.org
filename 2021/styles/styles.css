@@ -257,6 +257,34 @@ main {
     outline: 2px solid #ffe400;
 }
 
+.supporter-perks {
+    border-collapse: collapse;
+}
+
+.supporter-perks th, .supporter-perks td {
+    border-bottom: 1px #444 solid;
+    padding: 0.5em;
+    min-width: 3.5em;
+}
+
+.supporter-perks th {
+    font-weight: 300;
+    text-align: left;
+    font-size: 0.85em;
+}
+
+.supporter-perks thead th {
+    text-align: center;
+}
+
+.supporter-perks td {
+    text-align: center;
+}
+
+.supporter-perks tr {
+    border-bottom: 1px #888 solid;
+}
+
 footer {
     background: #111;
     padding: 2rem 0;
