@@ -261,6 +261,14 @@ main {
     border-collapse: collapse;
 }
 
+.supporter-perks {
+    width: 100%;
+}
+
+.supporter-perks thead th {
+    color: #ffe400;
+}
+
 .supporter-perks th, .supporter-perks td {
     border-bottom: 1px #444 solid;
     padding: 0.5em;
