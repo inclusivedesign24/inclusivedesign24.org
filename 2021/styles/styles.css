@@ -266,6 +266,22 @@ main {
         width: calc(100vw - 2rem);
         overflow: auto;
     }
+
+    .supporter-perks th, .supporter-perks td {
+        min-width: auto;
+    }
+
+    .supporter-perks span.supporter-perks-tier {
+        /* copy visually hidden styles */
+        position:absolute;
+        width:1px;
+        height:1px;
+        padding:0;
+        margin:-1px;
+        overflow:hidden;
+        clip:rect(0,0,0,0);
+        border:0;
+    }
 }
 
 .supporter-perks thead th:first-of-type {
