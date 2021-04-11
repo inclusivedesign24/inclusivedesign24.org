@@ -268,14 +268,20 @@ main {
     }
 }
 
+.supporter-perks thead th:first-of-type {
+    width: 60%;
+}
+
 .supporter-perks thead th {
     color: #ffe400;
+    width: 10%;
+    padding: 0.1em;
 }
 
 .supporter-perks th, .supporter-perks td {
     border-bottom: 1px #444 solid;
     padding: 0.5em 0;
-    min-width: 3.5em;
+    min-width: 3em;
 }
 
 .supporter-perks th {
