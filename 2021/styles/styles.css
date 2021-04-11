@@ -35,8 +35,8 @@ cite {
 
 svg.icon {
     fill:currentColor; /* for outlined SVGs (otherwise use stroke) */
-    width: 1em;
-    height: 1em;
+    width: 1rem;
+    height: 1rem;
     vertical-align: -0.1em; /* tweaks vertical alignment next to text */
 }
 
