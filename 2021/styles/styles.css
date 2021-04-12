@@ -286,11 +286,7 @@ main {
     font-size: 0.85em;
 }
 
-.supporter-perks thead th {
-    text-align: center;
-}
-
-.supporter-perks td {
+.supporter-perks thead th, .supporter-perks td {
     text-align: center;
 }
 
