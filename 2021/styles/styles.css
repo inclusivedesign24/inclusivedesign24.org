@@ -260,28 +260,8 @@ main {
     border-collapse: collapse;
 }
 
-@media (max-width: 28em) {
-    .supporter-perks {
-        display: inline-block;
-        width: calc(100vw - 2rem);
-        overflow: auto;
-    }
-
-    .supporter-perks th, .supporter-perks td {
-        min-width: auto;
-    }
-
-    .supporter-perks span.supporter-perks-tier {
-        /* copy visually hidden styles */
-        position:absolute;
-        width:1px;
-        height:1px;
-        padding:0;
-        margin:-1px;
-        overflow:hidden;
-        clip:rect(0,0,0,0);
-        border:0;
-    }
+.supporter-perks td span {
+    display: none;
 }
 
 .supporter-perks thead th:first-of-type {
@@ -317,6 +297,55 @@ main {
 .supporter-perks tr {
     border-bottom: 1px #888 solid;
 }
+
+@media (max-width: 28em) {
+    .supporter-perks {
+        display: inline-block;
+        width: calc(100vw - 2rem);
+        overflow: auto;
+    }
+
+    .supporter-perks, .supporter-perks tr, .supporter-perks th, .supporter-perks td, .supporter-perks tbody {
+        display: block;
+        border: none;
+        min-width: auto;
+    }
+
+    .supporter-perks td {
+        display: inline-block;
+    }
+
+    .supporter-perks tr {
+        border-bottom: 1px #444 solid;
+        margin-bottom: 1em;
+        padding-bottom: 1em;
+    }
+
+    .supporter-perks td span {
+        display: inline-block;
+        background: #555;
+        color: #fff;
+        font-size: 0.75em;
+        margin: 0;
+        padding: 0.5em;
+        border-radius: 1em;
+        min-width: 5em;
+        text-align: center;
+    }
+
+    .supporter-perks thead, .supporter-perks td svg {
+        /* copy visually hidden styles */
+        position:absolute;
+        width:1px;
+        height:1px;
+        padding:0;
+        margin:-1px;
+        overflow:hidden;
+        clip:rect(0,0,0,0);
+        border:0;
+    }
+}
+
 
 footer {
     background: #111;
