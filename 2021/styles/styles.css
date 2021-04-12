@@ -35,8 +35,8 @@ cite {
 
 svg.icon {
     fill:currentColor; /* for outlined SVGs (otherwise use stroke) */
-    width: 1em;
-    height: 1em;
+    width: 1rem;
+    height: 1rem;
     vertical-align: -0.1em; /* tweaks vertical alignment next to text */
 }
 
@@ -198,10 +198,6 @@ header #mainnav ul li {
     display: inline;
 }
 
-header #mainnav a[href*="id24local"] {
-    text-transform: none; /* special case for id24local which canonically is lowercase/non-capped */
-}
-
 header #mainnav a {
     color: #000;
     font-weight: bold;
@@ -256,6 +252,92 @@ main {
 #supporters a:focus img {
     outline: 2px solid #ffe400;
 }
+
+/* supporter perks table */
+
+.supporter-perks {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.supporter-perks td span {
+    display: none;
+}
+
+.supporter-perks thead th:first-of-type {
+    width: 60%;
+}
+
+.supporter-perks thead th {
+    color: #ffe400;
+    width: 10%;
+    padding: 0.1em;
+}
+
+.supporter-perks th, .supporter-perks td {
+    border-bottom: 1px #444 solid;
+    padding: 0.5em 0;
+    min-width: 3em;
+}
+
+.supporter-perks th {
+    font-weight: 300;
+    text-align: left;
+    font-size: 0.85em;
+}
+
+.supporter-perks thead th, .supporter-perks td {
+    text-align: center;
+}
+
+.supporter-perks tr {
+    border-bottom: 1px #888 solid;
+}
+
+@media (max-width: 28em) {
+    .supporter-perks {
+        display: inline-block;
+        width: calc(100vw - 2rem);
+        overflow: auto;
+    }
+
+    .supporter-perks, .supporter-perks tr, .supporter-perks th, .supporter-perks td, .supporter-perks tbody {
+        display: block;
+        border: none;
+        min-width: auto;
+    }
+
+    .supporter-perks td {
+        display: inline-block;
+    }
+
+    .supporter-perks tr {
+        border-bottom: 1px #444 solid;
+        margin-bottom: 1em;
+        padding-bottom: 1em;
+    }
+
+    .supporter-perks td:empty {
+        display: none;
+    }
+
+    .supporter-perks td span {
+        display: inline-block;
+        background: #555;
+        color: #fff;
+        font-size: 0.75em;
+        margin: 0;
+        padding: 0.5em;
+        border-radius: 1em;
+        min-width: 5em;
+        text-align: center;
+    }
+
+    .supporter-perks thead, .supporter-perks td svg {
+        display: none;
+    }
+}
+
 
 footer {
     background: #111;
@@ -534,46 +616,6 @@ a.slides {
     overflow:hidden;
     clip:rect(0,0,0,0);
     border:0;
-}
-
-/* id24local table */
-
-table.id24local_sessions {
-    border-collapse: collapse;
-    width: 100%;
-    margin-bottom: 2em;
-    font-size: 0.9em;
-}
-
-table.id24local_sessions th {
-    font-family: 'Nunito Sans', sans-serif;
-    text-align: left;
-}
-
-table.id24local_sessions thead tr {
-    border-bottom: 1px #ffe400 solid;
-}
-
-table.id24local_sessions tbody tr {
-    border-bottom: 1px #444 solid
-}
-
-table.id24local_sessions tbody td:nth-child(2) {
-    font-family: 'Nunito Sans', sans-serif;
-}
-
-table.id24local_sessions tbody tr:last-child {
-    border-bottom: none;
-}
-
-table.id24local_sessions th,
-table.id24local_sessions td {
-    padding: 0.5em 1em 0.5em 0;
-}
-
-table.id24local_sessions .session_time_local_ampm,
-table.id24local_sessions .session_time_offset {
-    font-size: 0.65em !important;
 }
 
 /* adaptations for smaller screens */
