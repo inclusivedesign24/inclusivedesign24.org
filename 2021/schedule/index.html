@@ -80,6 +80,9 @@
                         {% if socialItem.type == "linkedin" %}
                             <svg viewBox="0 0 24 24" class="icon" role="img" aria-label="LinkedIn: " focusable="false"><use xlink:href="#icon-linkedin"></use></svg>
                         {% endif %}
+                        {% if socialItem.type == "instagram" %}
+                            <svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Instagram: " focusable="false"><use xlink:href="#icon-instagram"></use></svg>
+                        {% endif %}
                         {{ socialItem.text }}
                     </a>
                 </li>
