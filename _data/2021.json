@@ -11,14 +11,14 @@
 			"description":"<p>You know how to design, code, test or write documentation for accessibility. You've had conversations and got buy-in from execs and stakeholders about the importance on making products accessible but is that all there is? As accessibility professionals we know how to talk to people within the tech industry about digital accessibility but how do you talk about your profession to the community at large. This talk we will look at how to breakdown technical jargon into everyday language that is accessible to everyone.</p>",
 			"social":[
 				{
-					"type":"twitter",
-					"url":"https://www.twitter.com/ScopicEngineer",
-					"text":"@ScopicEngineer"
-				},
-				{
 					"type":"web",
 					"url":"https://crystalprestonwatson.com/",
 					"text":"crystalprestonwatson.com"
+				},
+				{
+					"type":"twitter",
+					"url":"https://www.twitter.com/ScopicEngineer",
+					"text":"@ScopicEngineer"
 				}
 			]
 		},
@@ -30,6 +30,11 @@
 			"description":"<p>&quot;Virtual reality&quot; (VR) is a computer-generated simulation that allows people to interact with artificial three-dimensional environments through special goggles with screens embedded within and hand controllers. &quot;Augmented reality&quot; (AR) superimposes a computer-generated view of the world onto a person's view of the real world that can be enjoyed passively, while &quot;mixed reality&quot; (MR) takes augmented reality and makes it interactive.</p><p>Let's take a look at the case studies of how these technologies can contribute to people with disabilities.</p>",
 			"social":[
 				{
+					"type":"web",
+					"url":"https://equalentry.com/",
+					"text":"equalentry.com"
+				},
+				{
 					"type":"twitter",
 					"url":"https://www.twitter.com/Kenji_yngw",
 					"text":"@Kenji_yngw"
@@ -38,11 +43,6 @@
 					"type":"linkedin",
 					"url":"https://www.linkedin.com/in/kenji-yanagawa/",
 					"text":"kenji-yanagawa"
-				},
-				{
-					"type":"web",
-					"url":"https://equalentry.com/",
-					"text":"equalentry.com"
 				}
 			]
 		},
@@ -50,8 +50,8 @@
 			"datetime":"September 23, 2021 02:00",
 			"presenter":"AmyJune Hineline",
 			"bio":"<p>AmyJune has been an active participant in the Open Source community for over 5 years. A hospice nurse by trade, she understands how folks can struggle with accessing digital information. As an open source community ambassador for Kanopi Studios, she believes in removing barriers to entry and is passionate about accessible and inclusive information for all.</p>",
-			"title":"Beyond &quot;99 Red Balloons&quot; - A Pragmatic guide to alternative text",
-			"description":"<p>We love to include images on our websites and digital assets. Images support and add context to our information and concepts. They can act as visual cues and help some users orient themselves on a page. Media, especially social media, include images for conversions; having images on posts leads to a higher click-through rate and ROI (return on investment)</p><p>Images can be simple and easy to add alternative text, but they can also be more complex like infographics, charts, or maps</p><p>Let's take a nostalgic walk through some imagery from the 80s music scene and ensure our alt text conveys the information in a meaningful way for those who cannot access the images visually. From 99 Red Balloons shaking us all night long, to Burning Down the House we don't want to leave any of our users behind.</p>",
+			"title":"Beyond <q>99 Red Balloons</q> - A Pragmatic guide to alternative text",
+			"description":"<p>We love to include images on our websites and digital assets. Images support and add context to our information and concepts. They can act as visual cues and help some users orient themselves on a page. Media, especially social media, include images for conversions; having images on posts leads to a higher click-through rate and ROI (return on investment)</p><p>Images can be simple and easy to add alternative text, but they can also be more complex like infographics, charts, or maps</p><p>Let's take a nostalgic walk through some imagery from the 80s music scene and ensure our alt text conveys the information in a meaningful way for those who cannot access the images visually. From <q>99 Red Balloons</q> shaking us all night long, to <q>Burning Down the House</q> we don't want to leave any of our users behind.</p>",
 			"social":[
 				{
 					"type":"twitter",
@@ -73,14 +73,14 @@
 			"description":"<p>More than 92% of people with disabilities play video games (20% of the total gaming population), so you would think this demographic would make up a sizeable percentage of the game development workforce, wouldn't you?</p><p>Not only are we not tapping into this talent but we're also not publishing the best games we could be. For every $1 dollar that you spend on accessibility, you get $4 dollars in return. Imagine the ROI that translates into when you pay for salaries.</p><p>However, it's not enough to throw open the doors and invite everyone in. Our game development tools and employee experiences in their current state do not make for an equitable environment let alone a place where underrepresented groups can thrive.</p><p>My Inclusive Research team and I have made it our mandate to change that at Electronic Arts:</p><ul><li>Building a design component library</li><li>Redesigning employee experiences that don't consider the needs of people with disabilities, non-Western employee cultures, neurodivergent people, employees across age ranges, parents, etc.</li><li>Choosing accessibility- first internal technology vendors</li><li>Creating game development software that does more than meet an WCAG checklist</li></ul><p>I would like to share our experiences and work from our Inclusive Design Research Playbook (made available to anyone at the conference) so that other teams can take what we've learned, iterate it where needed and apply it to their companies.</p>",
 			"social":[
 				{
-					"type":"instagram",
-					"url":"https://www.instagram.com/research_moxie/",
-					"text":"research_moxie"
-				},
-				{
 					"type":"web",
 					"url":"https://researcher.how",
 					"text":"researcher.how"
+				},
+				{
+					"type":"instagram",
+					"url":"https://www.instagram.com/research_moxie/",
+					"text":"research_moxie"
 				}
 			]
 		},
@@ -116,14 +116,14 @@
 			"description":"<p>Some people suffer a lot when they encounter something like parallax scrolling. It can cause them nausea, dizziness, or other symptoms that can last for hours. Also, those animations and movements can be distracting. These people can turn the &quot;reduce motion&quot;-setting on from the systems level. And the good news is that you actually have the tools to respect that setting!</p><p>From this talk, you will learn how to use those tools. Also, you'll learn what kind of movement is problematic - parallax scrolling is not the only one!</p>",
 			"social":[
 				{
-					"type":"twitter",
-					"url":"https://twitter.com/EevisPanula",
-					"text":"@EevisPanula"
-				},
-				{
 					"type":"web",
 					"url":"https://eevis.codes",
 					"text":"eevis.codes"
+				},
+				{
+					"type":"twitter",
+					"url":"https://twitter.com/EevisPanula",
+					"text":"@EevisPanula"
 				}
 			]
 		},
@@ -135,14 +135,14 @@
 			"description":"<p>We live in a world of a rapidly ageing population with a broader range of physical and cognitive capabilities than ever before. According to the World Health Organisation Report on Disability 2011, one in five people have some form of disability- that's over one billion people across the world. But these disabilities are generally categorised into twenty-one different categories identified by RPWD Act 2016.</p><p>So designing for people with varied needs should not be that all difficult? Then why are we still designing for people who are &quot;average&quot;?</p><p>The answer is simple. Every person's disability allows it to interacts with the design in a very different way as their ability exists on a spectrum rather than a fixed focal point. It is also dependent on other external factors like socio-economic, race, gender, family dynamics, language etc., which acts as a barrier for interaction.</p><p>So as a designer, how do I not conform to designing for all rather than the pre-existing standards? And is it even possible to design for all?</p><p>The answer is No. You simply cannot design for every single person in this world. A classic example is the curb cuts; while it addresses the needs of people in a wheelchair and makes life comfortable for people with a trolley or pram, they cause problems for pedestrians with a vision impairment who rely on a sharp curb to detect the edge of the sidewalk.</p><p>There will always be someone who is left out of our designs.</p><p>But it does not mean we neglect the diverse voices of people while designing for them.  And if not, where do we start for designing for inclusion?</p>",
 			"social":[
 				{
-					"type":"instagram",
-					"url":"https://www.instagram.com/designforinclusion/",
-					"text":"designforinclusion"
-				},
-				{
 					"type":"web",
 					"url":"https://www.in-clusivity.com/",
 					"text":"in-clusivity.com"
+				},
+				{
+					"type":"instagram",
+					"url":"https://www.instagram.com/designforinclusion/",
+					"text":"designforinclusion"
 				}
 			]
 		},
@@ -153,6 +153,11 @@
 			"title":"Accessibility and universal design in GCC: Challenges of today, Opportunities for tomorrow",
 			"description":"<p>In this talk we will cover current challenges GCC countries face to advance accessibility in Premises, Digital and Learning environments. Additionally, the discussion will cover major opportunities to advance accessibility in the region and important  steps need to be taken for such transformation.</p>",
 			"social":[
+				{
+					"type":"web",
+					"url":"https://www.qmmconsulting.com",
+					"text":"qmmconsulting.com"
+				},
 				{
 					"type":"linkedin",
 					"url":"https://www.linkedin.com/in/zainabalmeraj/",
@@ -172,11 +177,6 @@
 					"type":"twitter",
 					"url":"https://www.twitter.com/ayajibreal",
 					"text":"@ayajibreal"
-				},
-				{
-					"type":"web",
-					"url":"https://www.qmmconsulting.com",
-					"text":"qmmconsulting.com"
 				}
 			]
 		},
@@ -188,14 +188,14 @@
 			"description":"<p>Web performance is critical to inclusive design: users on low-end devices or with poor connectivity are excluded from large and slow applications</p><p>In this talk we will review the current state of the web in terms of users' device capabilities and why performance is more important than ever to build an inclusive web</p><p>Simon will share five key techniques to ensure that your designs and digital products are as inclusive as possible, by prioritising the experience of users who have more limited access to the web. We will also discuss how to frame this approach for commercial success, often a critical factor in building more inclusive experiences.</p>",
 			"social":[
 				{
-					"type":"twitter",
-					"url":"https://www.twitter.com/SimonHearne",
-					"text":"@SimonHearne"
-				},
-				{
 					"type":"web",
 					"url":"https://simonhearne.com/",
 					"text":"simonhearne.com"
+				},
+				{
+					"type":"twitter",
+					"url":"https://www.twitter.com/SimonHearne",
+					"text":"@SimonHearne"
 				}
 			]
 		},
@@ -214,14 +214,14 @@
 			"description":"<p>The Web Content Accessibility Guidelines (will/might/should) have been updated to 2.2 recently/soon.  Alastair walks through the new guidelines in version 2.2, and provides advice on how to use them in your organisation.</p>",
 			"social":[
 				{
-					"type":"twitter",
-					"url":"https://www.twitter.com/alastc",
-					"text":"@alastc"
-				},
-				{
 					"type":"web",
 					"url":"https://www.nomensa.com/",
 					"text":"nomensa.com"
+				},
+				{
+					"type":"twitter",
+					"url":"https://www.twitter.com/alastc",
+					"text":"@alastc"
 				}
 			]
 		},
@@ -247,6 +247,11 @@
 			"description":"<p>Auditorial is a unique partnership between Google, The Guardian and RNIB created to showcase the possibilities of accessible stories for blind and low vision audiences. The platform uses an assortment of accessibility features and tools to tell the story including multi modal films with video and audio speed control, high contrast, text only mode, and scale and focus controls along with immersive audio. Users can press play to start the story and adjust audio, visual and written settings as they go through the story.</p>",
 			"social":[
 				{
+					"type":"web",
+					"url":"https://www.rnib.org.uk",
+					"text":"rnib.org.uk"
+				},
+				{
 					"type":"twitter",
 					"url":"https://www.twitter.com/robinspinks",
 					"text":"@robinspinks"
@@ -255,11 +260,6 @@
 					"type":"twitter",
 					"url":"https://www.twitter.com/sonalirai",
 					"text":"@sonalirai"
-				},
-				{
-					"type":"web",
-					"url":"https://www.rnib.org.uk",
-					"text":"rnib.org.uk"
 				}
 			]
 		},
@@ -271,14 +271,14 @@
 			"description":"<p>Accessibility folks know about keyboard access and screen reader accessibility, but what about mouse accessibility? Users of a mouse and other pointing devices also benefit from inclusive design and development practices. This talk covers several of these techniques such sufficient target sizes, target spacing, pointer gestures, and more! Attend this session to learn how to optimize the user interface so users of pointing devices have an accessible and enjoyable UI experience.</p>",
 			"social":[
 				{
-					"type":"twitter",
-					"url":"https://www.twitter.com/DennisL",
-					"text":"@DennisL"
-				},
-				{
 					"type":"web",
 					"url":"http://www.dennislembree.com/",
 					"text":"dennislembree.com"
+				},
+				{
+					"type":"twitter",
+					"url":"https://www.twitter.com/DennisL",
+					"text":"@DennisL"
 				}
 			]
 		},
@@ -304,6 +304,11 @@
 			"description":"<p>Can designers and developers improve the lives of people who are partially or completely blind? I think we can. Together with Royal Dutch Visio, the expertise center in the field of visual impairment, I'm developing a range of apps that aim for more independence of visually impaired persons. This talk will take the audience on a journey along the different stages of developing these apps. It will show how we as sighted designers and developers have to unlearn things and gain an understanding of how a blind person experiences the world.</p>",
 			"social":[
 				{
+					"type":"web",
+					"url":"https://q42.com",
+					"text":"q42.com"
+				},
+				{
 					"type":"twitter",
 					"url":"https://www.twitter.com/huijkman",
 					"text":"@huijkman"
@@ -312,11 +317,6 @@
 					"type":"linkedin",
 					"url":"https://www.linkedin.com/in/johanhuijkman/",
 					"text":"johanhuijkman"
-				},
-				{
-					"type":"web",
-					"url":"https://q42.com",
-					"text":"q42.com"
 				}
 			]
 		},
@@ -328,14 +328,14 @@
 			"description":"<p>Today we have many robust patterns and techniques to help us optimize SVG accessibility, this is true regardless of if you are creating icons, simple images, or more complex infographics. But which patterns are the best to use for your particular situation and targeted WCAG conformance level? And what other factors should we consider when designing and developing accessible SVGs?</p><p>Join me to learn more about:<ul><li>Inclusive SVG patterns for web and mobile</li><li>SVG color and contrast guidelines, tools, and <code>@prefers-color-scheme</code></li><li>SVG animation guidelines, tools, and <code>@prefers-reduced-motion</code></li></ul></p>",
 			"social":[
 				{
-					"type":"twitter",
-					"url":"https://www.twitter.com/cariefisher",
-					"text":"@cariefisher"
-				},
-				{
 					"type":"web",
 					"url":"https://noti.st/cariefisher",
 					"text":"noti.st/cariefisher"
+				},
+				{
+					"type":"twitter",
+					"url":"https://www.twitter.com/cariefisher",
+					"text":"@cariefisher"
 				}
 			]
 		},
@@ -361,14 +361,14 @@
 			"description":"<p>For a long time adding captions to videos on the Web was a complicated task that required time and complex resources. Nowadays there are several tools and standards today that make it easy. In this presentation, you will understand why it's time to start captioning your videos right now!</p>",
 			"social":[
 				{
-					"type":"twitter",
-					"url":"https://www.twitter.com/reinaldoferraz",
-					"text":"@reinaldoferraz"
-				},
-				{
 					"type":"web",
 					"url":"https://reinaldoferraz.com.br",
 					"text":"reinaldoferraz.com.br"
+				},
+				{
+					"type":"twitter",
+					"url":"https://www.twitter.com/reinaldoferraz",
+					"text":"@reinaldoferraz"
 				}
 			]
 		},
@@ -380,14 +380,14 @@
 			"description":"<p>One of the most common ways to approach product and service objectives is to create personas and conduct research based on 'average' target users. But this approach falls apart when you consider that every person has a variety of shifting needs, identities, and contexts of use. This session will explore the challenges, opportunities, and methods of bringing an intersectional, inclusive approach to your research. Lee will highlight the research behind prioritizing individuals over averages and how inclusive research practices can grow the impact of your work. You'll leave the talk with an improved understanding of markets, new approaches to opening up market access, and insights on how to deliver products and services that better serve increasingly diverse markets.</p>",
 			"social":[
 				{
-					"type":"twitter",
-					"url":"https://www.twitter.com/leedaleyyz",
-					"text":"@leedaleyyz"
-				},
-				{
 					"type":"web",
 					"url":"https://leedale.ca",
 					"text":"leedale.ca"
+				},
+				{
+					"type":"twitter",
+					"url":"https://www.twitter.com/leedaleyyz",
+					"text":"@leedaleyyz"
 				},
 				{
 					"type":"web",
@@ -404,24 +404,24 @@
 			"description":"<p>Our ability to use the digital world changes if we:</p><ul><li>get a concussion</li><li>feel anxious</li><li>experience changes in our reaction times</li></ul><p>People with cognitive disabilities need digital accessibility to improve.</p><p>We will discuss:</p><ul><li>Digital accessibility's link to universal design for learning</li><li>Why online meetings need options for passive participation</li><li>How reducing distractions ensures customers can shop online</li><li>Why more people use online forms if help is easy to find.</li></ul><p>Join us to learn steps you can take to create cognitively accessible digital experiences.</p>",
 			"social":[
 				{
-					"type":"twitter",
-					"url":"https://www.twitter.com/AT_NMT",
-					"text":"@AT_NMT"
-				},
-				{
-					"type":"twitter",
-					"url":"https://www.twitter.com/goodwitch",
-					"text":"@goodwitch"
-				},
-				{
 					"type":"web",
 					"url":"https://mn.gov/mnit/about-mnit/accessibility/",
 					"text":"mn.gov/mnit/about-mnit/accessibility"
 				},
 				{
+					"type":"twitter",
+					"url":"https://www.twitter.com/AT_NMT",
+					"text":"@AT_NMT"
+				},
+				{
 					"type":"web",
 					"url":"https://www.deque.com/",
 					"text":"deque.com"
+				},
+				{
+					"type":"twitter",
+					"url":"https://www.twitter.com/goodwitch",
+					"text":"@goodwitch"
 				}
 			]
 		},
@@ -433,14 +433,14 @@
 			"description":"<p>Deaf technology and accessibility tools have come a long way. While automatic captioning is prevalent, there products and tools that turned out to be invaluable to the deaf and hard of hearing even though that was not even a consideration. Pack your bags for a trip through tech for the deaf. The end of the trip will cover the potential challenges that companies need to think about before releasing new products.</p>",
 			"social":[
 				{
-					"type":"twitter",
-					"url":"https://www.twitter.com/MerylKEvans",
-					"text":"@MerylKEvans"
-				},
-				{
 					"type":"web",
 					"url":"http://www.meryl.net",
 					"text":"meryl.net"
+				},
+				{
+					"type":"twitter",
+					"url":"https://www.twitter.com/MerylKEvans",
+					"text":"@MerylKEvans"
 				}
 			]
 		},
@@ -452,14 +452,14 @@
 			"description":"<p>Blogs and articles discuss testing with a screen reader as being a vitality important part of creating accessible digital experiences. But these same blogs and articles jump into which commands to use in the screen reader and not necessarily what to test or how to interpret the results. It's a little like baking a cake, where you have the ingredients but not the instructions</p><p>A structured approach towards screen reader testing means where time is often limited, our efforts are focused on the critical parts of the digital experience. The things which users will use and interact with rather than the static components like headings and lists which are picked up earlier in the development cycle.</p><p>This approach is ultimately compatibility testing. It's identifying whether unusual behaviour identified in one browser and screen reader combination is due to poor coding practice or a quirk of the combination. It's confirming, if it's coded correctly and tested comprehensively against all the combinations potential problems can be escalated or ignored. We're not chasing our tail fixing behaviour in one combination which is a quirk and not a legitimate bug.</p>",
 			"social":[
 				{
-					"type":"twitter",
-					"url":"https://www.twitter.com/MrRossMullen",
-					"text":"@MrRossMullen"
-				},
-				{
 					"type":"web",
 					"url":"https://www.canaxess.com.au",
 					"text":"canaxess.com.au"
+				},
+				{
+					"type":"twitter",
+					"url":"https://www.twitter.com/MrRossMullen",
+					"text":"@MrRossMullen"
 				}
 			]
 		},
@@ -471,14 +471,14 @@
 			"description":"<p>There is never enough web accessibility data, but the WebAIM Million home page analysis and user surveys provide useful data that can guide and inform effective accessibility efforts.</p>",
 			"social":[
 				{
-					"type":"twitter",
-					"url":"https://www.twitter.com/jared_w_smith",
-					"text":"@jared_w_smith"
-				},
-				{
 					"type":"web",
 					"url":"https://webaim.org",
 					"text":"webaim.org"
+				},
+				{
+					"type":"twitter",
+					"url":"https://www.twitter.com/jared_w_smith",
+					"text":"@jared_w_smith"
 				}
 			]
 		},
