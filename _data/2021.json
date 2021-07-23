@@ -260,7 +260,7 @@
 		},
 		{
 			"datetime":"September 23, 2021 13:00",
-			"presenter":"Dennis Lembree",
+			"presenter":"Dennis Lembrée",
 			"bio":"<p>Dennis is the Director of Accessibility at Diamond Web Services. Previously, he worked for five years as Sr Accessibility Consultant at Deque Systems and several years on the PayPal and eBay accessibility teams. He has published articles, led webinars, and presented on digital accessibility at many conferences including CSUN, AccessU, and Paris Web. Dennis runs a blog (and Twitter account) on web accessibility called Web Axe; and he created an accessible, two-time national award-winning Twitter app, Easy Chirp.</p>",
 			"title":"Mouse Accessibility",
 			"description":"<p>Accessibility folks know about keyboard access and screen reader accessibility, but what about mouse accessibility? Users of a mouse and other pointing devices also benefit from inclusive design and development practices. This talk covers several of these techniques such sufficient target sizes, target spacing, pointer gestures, and more! Attend this session to learn how to optimize the user interface so users of pointing devices have an accessible and enjoyable UI experience.</p>",
