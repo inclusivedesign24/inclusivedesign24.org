@@ -393,21 +393,11 @@
 		},
 		{
 			"datetime":"September 23, 2021 20:00",
-			"presenter":"Jennie Delisi and Glenda Sims",
-			"bio":"<p>Jennie Delisi is the Accessibility Analyst in the State of Minnesota's Office of Accessibility. She is also an invited expert on the Cognitive and Learning Disabilities Accessibility Task Force of the W3C. Jennie has over 20 years of experience working with and for people with disabilities. This includes work as a Neurologic Music Therapist and an Assistive Technology Specialist. And, she is a Certified Professional in Web Accessibility (CPWA). Her goal: helping you learn your next step for creating more inclusive digital experiences.</p><p>Glenda Sims, Director of A11Y at Deque, shares her expertise and passion for the open web with .gov, .edu, .org and .com. She co-founded AccessU and served as lead judge for AIR (Accessibility Internet Rally). She spent 10+ years as a senior developer at University of Texas, supported UT's web and was an a11y expert with her mentor/hero, Dr. John Slatin. She co-authored &quot;A11Y Wars: The Accessibility Interpretation Problem&quot; with Wilco Fiers. She is on the IAAP Global Leadership Council and the Accessibility Guidelines Working Group at the W3C.</p>",
+			"presenter":"Glenda Sims and Jennie Delisi",
+			"bio":"<p>Glenda Sims, Director of A11Y at Deque, shares her expertise and passion for the open web with .gov, .edu, .org and .com. She co-founded AccessU and served as lead judge for AIR (Accessibility Internet Rally). She spent 10+ years as a senior developer at University of Texas, supported UT's web and was an a11y expert with her mentor/hero, Dr. John Slatin. She co-authored &quot;A11Y Wars: The Accessibility Interpretation Problem&quot; with Wilco Fiers. She is on the IAAP Global Leadership Council and the Accessibility Guidelines Working Group at the W3C.</p><p>Jennie Delisi is the Accessibility Analyst in the State of Minnesota's Office of Accessibility. She is also an invited expert on the Cognitive and Learning Disabilities Accessibility Task Force of the W3C. Jennie has over 20 years of experience working with and for people with disabilities. This includes work as a Neurologic Music Therapist and an Assistive Technology Specialist. And, she is a Certified Professional in Web Accessibility (CPWA). Her goal: helping you learn your next step for creating more inclusive digital experiences.</p>",
 			"title":"Your brain is welcome here: Digital spaces need a new welcome mat",
 			"description":"<p>Our ability to use the digital world changes if we:</p><ul><li>get a concussion</li><li>feel anxious</li><li>experience changes in our reaction times</li></ul><p>People with cognitive disabilities need digital accessibility to improve.</p><p>We will discuss:</p><ul><li>Digital accessibility's link to universal design for learning</li><li>Why online meetings need options for passive participation</li><li>How reducing distractions ensures customers can shop online</li><li>Why more people use online forms if help is easy to find.</li></ul><p>Join us to learn steps you can take to create cognitively accessible digital experiences.</p>",
 			"social":[
-				{
-					"type":"web",
-					"url":"https://mn.gov/mnit/about-mnit/accessibility/",
-					"text":"mn.gov/mnit/about-mnit/accessibility"
-				},
-				{
-					"type":"twitter",
-					"url":"https://www.twitter.com/AT_NMT",
-					"text":"@AT_NMT"
-				},
 				{
 					"type":"web",
 					"url":"https://www.deque.com/",
@@ -417,6 +407,16 @@
 					"type":"twitter",
 					"url":"https://www.twitter.com/goodwitch",
 					"text":"@goodwitch"
+				},
+				{
+					"type":"web",
+					"url":"https://mn.gov/mnit/about-mnit/accessibility/",
+					"text":"mn.gov/mnit/about-mnit/accessibility"
+				},
+				{
+					"type":"twitter",
+					"url":"https://www.twitter.com/AT_NMT",
+					"text":"@AT_NMT"
 				}
 			]
 		},
