@@ -3,6 +3,11 @@
 	},
 	"schedule":[
 		{
+            "datetime": "September 22, 2021 23:45",
+            "title": "The pre-show",
+            "description": "<p>Meet your hosts for the next 24 hours. We'll be having a general chat about accessibility, inclusive design, and talking about the sessions we are most looking forward to in the upcoming 24 hours.</p>"
+        },
+		{
 			"datetime":"September 23, 2021 00:00",
 			"presenter":"Crystal Preston-Watson",
 			"bio":"<p>Crystal Preston-Watson is a quality and accessibility engineer at Salesforce. Crystal believes that accessibility is a human right and is passionate about building accessible and inclusive sites and applications.</p>",
