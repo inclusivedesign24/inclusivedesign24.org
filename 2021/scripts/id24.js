@@ -46,6 +46,7 @@ function pad(num, size) {
 
         // additional expand/collapse listener for mouse/touch
         sessionHeading.addEventListener('click',function() {
+            this.parentNode.querySelector('button[aria-controls]').focus();
             this.parentNode.querySelector('button[aria-controls]').click();
         },true);
     });
