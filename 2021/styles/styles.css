@@ -470,6 +470,7 @@ section {
     color: #ffe400;
 }
 
+.session h2:hover + button,
 .session button:focus, .session button:hover,
 .session .videostream:focus, .session .videostream:hover {
     outline: 2px #ffe400 solid;
