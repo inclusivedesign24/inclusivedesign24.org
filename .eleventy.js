@@ -9,7 +9,8 @@ module.exports = function(eleventyConfig) {
             "css",
             "js",
             "html",
-            "zip"
+            "zip",
+            "ico"
         ]
     };
 }
