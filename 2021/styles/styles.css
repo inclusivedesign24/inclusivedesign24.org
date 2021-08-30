@@ -601,7 +601,6 @@ a.slides {
     font-size: 1em;
     font-weight: bold;
     margin-top: 1.5em;
-    white-space: nowrap;
 }
 
 #countdown_timer {
@@ -609,6 +608,7 @@ a.slides {
     color: #242424;
     background: #ffe400;
     padding: 0 0.25em;
+    white-space: nowrap;
 }
 
 .hidden {
