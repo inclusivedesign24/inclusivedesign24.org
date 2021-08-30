@@ -110,6 +110,7 @@ header, main, footer, section, nav, main, aside { display: block; }
         -ms-grid-row: 1;
         grid-column: 12/14;
         grid-row: 1;
+
     }
 
     main {
@@ -682,6 +683,7 @@ a.slides {
         -ms-grid-row: 3;
         grid-column: 2;
         grid-row: 3;
+        text-align: right;
     }
 
     footer nav ul li {
@@ -704,7 +706,7 @@ a.slides {
         max-width: 20rem;
     }
 
-    footer #logo_hashtag {
+    footer #logo_hashtag img {
         max-width: 10rem;
     }
     
