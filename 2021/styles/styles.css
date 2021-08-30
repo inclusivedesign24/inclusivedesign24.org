@@ -597,9 +597,10 @@ a.slides {
 
 #countdown {
     font-family: 'Nunito Sans', sans-serif;
-    font-size: 1.5em;
+    font-size: 1em;
     font-weight: bold;
     margin-top: 1.5em;
+    white-space: nowrap;
 }
 
 #countdown_timer {
