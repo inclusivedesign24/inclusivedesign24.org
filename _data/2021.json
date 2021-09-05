@@ -1,18 +1,21 @@
 {
 	"event":{
+		"playlistId": "PLn7dsvRdQEfFoUIFxtSsp8PjHm-glki1Z"
 	},
 	"schedule":[
 		{
-            "datetime": "September 22, 2021 23:30",
-            "title": "The pre-show",
-            "description": "<p>Meet your hosts for the next 24 hours. We'll be having a general chat about accessibility, inclusive design, and talking about the sessions we are most looking forward to in the upcoming 24 hours.</p>"
-        },
+			"datetime": "September 22, 2021 23:30",
+			"title": "The pre-show",
+			"description": "<p>Meet your hosts for the next 24 hours. We'll be having a general chat about accessibility, inclusive design, and talking about the sessions we are most looking forward to in the upcoming 24 hours.</p>",
+			"videoId": "W9xXeqPYBpE"
+		},
 		{
 			"datetime":"September 23, 2021 00:00",
 			"presenter":"Crystal Preston-Watson",
 			"bio":"<p>Crystal Preston-Watson is a quality and accessibility engineer at Salesforce. Crystal believes that accessibility is a human right and is passionate about building accessible and inclusive sites and applications.</p>",
 			"title":"Everyone Should Have WAP (Web Accessibility Please)",
 			"description":"<p>You know how to design, code, test or write documentation for accessibility. You've had conversations and got buy-in from execs and stakeholders about the importance on making products accessible but is that all there is? As accessibility professionals we know how to talk to people within the tech industry about digital accessibility but how do you talk about your profession to the community at large. This talk we will look at how to breakdown technical jargon into everyday language that is accessible to everyone.</p>",
+			"videoId": "TjwTSiQIRhg",
 			"social":[
 				{
 					"type":"web",
@@ -32,6 +35,7 @@
 			"bio":"<p>I am the Business Manager for Equal Entry's operations in Japan and work to evangelize the company, establish new business partnerships, and create success</p><p>I work on spreading our knowledge on accessibility in tech to raise awareness amongst Japanese people by attending and presenting in various meetups, including those held in VR worlds. I am part of the accessibility consultant team in Equal Entry that offers enterprises expert audits on websites and applications on various platforms to meet accessibility standards.</p><p lang=\"ja\">イコールエントリー社の日本におけるビジネスマネージャー。新たなパートナーを開拓し、認知度を高める活動をしている。</p><p lang=\"ja\">VRで開催されるものを含めたあらゆるイベントに登壇することで、技術面におけるアクセシビリティに関しての国内の認知度を高めている。イコールエントリー社は、様々な企業がアクセシビリティに関する規格に準拠できるよう、ウェブサイトやアプリケーションなど様々なソフトウェアの専門家による監査をサービスとして提供しており、登壇者もアクセシビリティコンサルタントのチームの一員として活動している。</p>",
 			"title":"Can People with Disabilities Use VR? / <span lang=\"ja\">障害があってもVRを使えますか？</span>",
 			"description":"<p>This session will be held in Japanese.</p><p>&quot;Virtual reality&quot; (VR) is a computer-generated simulation that allows people to interact with artificial three-dimensional environments through special goggles with screens embedded within and hand controllers. &quot;Augmented reality&quot; (AR) superimposes a computer-generated view of the world onto a person's view of the real world that can be enjoyed passively, while &quot;mixed reality&quot; (MR) takes augmented reality and makes it interactive.</p><p>Let's take a look at the case studies of how these technologies can contribute to people with disabilities.</p><p lang=\"ja\">この発表は日本語で行われます。</p><p lang=\"ja\">VR(バーチャルリアリティ)とは、コンピューターによって生成された擬似空間です。コントローラを持ち、スクリーンのついた特別なゴーグルを装着することで、人工的な3次元空間に入ることができます。AR(拡張現実)とは、実際に見えている現実の視界の中に、コンピューターによって生成された視覚的な物体を存在させることができます。MR(複合現実)では、仮想空間のものと現実のものがより一層混合し、お互いが影響を及ぼし合うような空間となります。</p><p lang=\"ja\">このような技術がどのようにして障害者に貢献ができるのか、実際の事例を見てみましょう。</p>",
+			"videoId": "YBTOaGgS6cQ",
 			"social":[
 				{
 					"type":"web",
@@ -56,6 +60,7 @@
 			"bio":"<p>AmyJune has been an active participant in the Open Source community for over 5 years. A hospice nurse by trade, she understands how folks can struggle with accessing digital information. As an open source community ambassador for Kanopi Studios, she believes in removing barriers to entry and is passionate about accessible and inclusive information for all.</p>",
 			"title":"Beyond <q>99 Red Balloons</q> - A Pragmatic guide to alternative text",
 			"description":"<p>We love to include images on our websites and digital assets. Images support and add context to our information and concepts. They can act as visual cues and help some users orient themselves on a page. Media, especially social media, include images for conversions; having images on posts leads to a higher click-through rate and ROI (return on investment)</p><p>Images can be simple and easy to add alternative text, but they can also be more complex like infographics, charts, or maps</p><p>Let's take a nostalgic walk through some imagery from the 80s music scene and ensure our alt text conveys the information in a meaningful way for those who cannot access the images visually. From <q>99 Red Balloons</q> shaking us all night long, to <q>Burning Down the House</q> we don't want to leave any of our users behind.</p>",
+			"videoId": "dRlVASl7Bh0",
 			"social":[
 				{
 					"type":"twitter",
@@ -75,6 +80,7 @@
 			"bio":"<p>I am the Quantitative Research Manager for the Experience Design Team within IT with the largest team dedicated to Inclusive Design and Inclusive Research at Electronic Arts. I'm committed to helping build a more diverse workforce so that underrepresented groups can thrive and develop games that delight their fans</p><p>I have over 20 years of professional experience, leading teams for great brands and designing more inclusive experiences for the employees and customers.</p>",
 			"title":"Inclusivity in Gaming: It Starts with Code ",
 			"description":"<p>While more than 92% of people with disabilities play video games (20% of the total gaming population), the lack of representation within the game development workforce leads to less inclusive games for a narrower market.</p><p>It is not as easy as hiring underrepresented groups. Diversity and inclusion programs miss looking at the software and tools that their workforce is using to make sure they facilitate an equitable workplace.</p><p>In my talk, we will look at how building inclusive game development products leads to creating an equitable workplace so that underrepresented groups can thrive. For every $1 dollar that you spend on accessibility, you get $4 dollars in return. Imagine the ROI that translates into when you pay for salaries.</p><p>I’m going to share how my Inclusive Research team started changing how we make games and how those games will be more inclusive, starting with code.</p>",
+			"videoId": "qcrlQ6e00m8",
 			"social":[
 				{
 					"type":"web",
@@ -94,6 +100,7 @@
 			"bio":"<p>Claire Webber is a Digital Accessibility Consultant at Intopia, with 6 years experience working in QA and accessibility. She is in Adelaide, South Australia and is passionate about design, accessibility and inclusion. Claire has experience in design and accessibility auditing, with a particular interest in design systems.</p><p>Sarah Pulis is a digital accessibility and inclusion expert and co-founder of Intopia, a digital inclusion consultancy. Sarah has over 10 years' experience working with non-profits, corporates and individuals to create a more inclusive digital world. Her experience ranges from strategy and culture to technical accessibility and usability. Sarah is also founder of A11y Bytes and A11y Camp, Australia's largest events on digital accessibility and inclusion.</p>",
 			"title":"Annotating designs for Accessibility",
 			"description":"<p>Annotating designs with accessibility information is a powerful way to focus on accessibility early in the design phase, as well as communicate your accessibility requirements to developers and testers. Sarah and Claire will cover how to add accessibility annotations in components, patterns and complete wireframes using popular design tools such as Figma.</p>",
+			"videoId": "Y35jmpS8lQM",
 			"social":[
 				{
 					"type":"web",
@@ -118,6 +125,7 @@
 			"bio":"<p>Eeva-Jonna, or Eevis, is a software developer who enjoys topics like GraphQL, CSS, TypeScript, React, and accessibility. She's also certified in accessibility with IAAP Certified Professional in Web Accessibility-certificate. She wrote her first lines of code when she was a teenager,  but the lack of role models and support led her away from the magical world of programming. She got a degree in Russian language and culture, but that enchanting atmosphere kept drawing her back, and instead of a translator, she became a software developer.</p>",
 			"title":"You Make My Head Spin - Reducing Motion on the Web",
 			"description":"<p>Some people suffer a lot when they encounter something like parallax scrolling. It can cause them nausea, dizziness, or other symptoms that can last for hours. Also, those animations and movements can be distracting. These people can turn the &quot;reduce motion&quot;-setting on from the systems level. And the good news is that you actually have the tools to respect that setting!</p><p>From this talk, you will learn how to use those tools. Also, you'll learn what kind of movement is problematic - parallax scrolling is not the only one!</p>",
+			"videoId": "yKYA_SASgjA",
 			"social":[
 				{
 					"type":"web",
@@ -137,6 +145,7 @@
 			"bio":"<p>Pratistha Sharma is an experienced User Researcher and Service designer with a focus on Inclusive Design. Pratistha has a business and design background, and she thrives at the intersection of human needs, storytelling and problem-solving. Her goal is to design solutions that empower people with varied capabilities and drive impact. She is also the Founder of in-clusivity, which aims at spreading awareness and creating space for having conversations about Inclusive Design. Their mission is 'To develop supportive environments, products and systems by designing for the needs of all people.</p>",
 			"title":"Starting Point towards Inclusive Design",
 			"description":"<p>Every design decision has the power to either include or exclude people. Designing for inclusion not only means designing for people who have different abilities than us but rather it takes into consideration other factors as socio-economic, race, gender, family dynamics, language etc., which may act as a barrier to interaction. So as designers, the gate-keepers it becomes paramount to find a way to understand the weight of our design decisions and find a way to incorporate different voices in it. Therefore at in-clusivity, we use a tool, “The User Mapping Canvas” which is a visual representation of the user’s abilities required to interact with the design. It lays down the groundwork for the team to understand the broader picture of design systems in various contexts also combined with Cards For Inclusion it creates space for open conversation where biases and pre-existing standards can be challenged.</p>",
+			"videoId": "gaof5yaEzDo",
 			"social":[
 				{
 					"type":"web",
@@ -156,6 +165,7 @@
 			"bio":"<p>Zainab AlMeraj is an assistant professor at Kuwait University. Her research interests include Usability, Accessibility, Human Computer Interaction (HCI), Computer Graphics (CG) and Mathematics. Zainab currently serves as a member of the people with disabilities committee at a national level human rights organization consultative status with the UN ECOSOC and a country representative at G3ICT; established multiple grassroots initiatives since 2016  focused on advancing technical skills, building a strong and collaborative tech community, and empowering youth with a focus on women in tech. AlMeraj is a Certified usability and accessibility professional and a member of UXPA and IAAP. She utilizes her interdisciplinary experiences and initiatives in offering innovative solutions for social issues, consulting and advocating for developing stronger local tech skills and embedding digital accessibility and usability testing into design and development as founder of her own company, Tech Connect Co.</p><p>Aya Jibreal is an Inclusive Design and Accessibility Consultant /Trainer with 7 years of experience in inclusion and accessibility. Aya worked with many entities around Saudi Arabia, exploring successful accessibility adoption for different business environments. She is the Saudi Arabia representative at G3ict/Smart Cities for All global initiatives, the first CPACC certified professional in Saudi Arabia, certified in Disability Case Management, and she's an IAAP Strategic Leader in Accessibility (SLiA) initiative committee member.</p>",
 			"title":"Accessibility and universal design in GCC: Challenges of today, Opportunities for tomorrow",
 			"description":"<p>In this talk we will cover current challenges GCC countries face to advance accessibility in Premises, Digital and Learning environments. Additionally, the discussion will cover major opportunities to advance accessibility in the region and important  steps need to be taken for such transformation.</p>",
+			"videoId": "U34msEypK6k",
 			"social":[
 				{
 					"type":"web",
@@ -185,6 +195,7 @@
 			"bio":"<p>Simon is a highly regarded web performance architect based in Surrey, UK. Simon is passionate about great user experience and has spent the past ten years helping some of the world's biggest websites to deliver fast and inclusive user experiences</p><p>Simon has a background in artificial intelligence, web engineering and technical consultancy.</p>",
 			"title":"Inclusive Design is Fast by Default",
 			"description":"<p>Web performance is critical to inclusive design: users on low-end devices or with poor connectivity are excluded from large and slow applications</p><p>In this talk we will review the current state of the web in terms of users' device capabilities and why performance is more important than ever to build an inclusive web</p><p>Simon will share five key techniques to ensure that your designs and digital products are as inclusive as possible, by prioritising the experience of users who have more limited access to the web. We will also discuss how to frame this approach for commercial success, often a critical factor in building more inclusive experiences.</p>",
+			"videoId": "MiXy2x6flww",
 			"social":[
 				{
 					"type":"web",
@@ -203,7 +214,8 @@
 			"presenter":"Daniel Montalvo",
 			"bio":"<p>Daniel Montalvo is a Web Accessibility Education and Training Specialist at the World Wide Web Consortium (W3C). Before joining the W3C, he has provided accessibility awareness, training, consultancy, and certification to European government institutions and to companies from the service, health-care, insurance, and education sectors, based on W3C/WAI accessibility standards and international, local and regional policies. He has also lead the accessibility team at one of the most well-known accessibility consultancy companies in Spain. He can make the most out of the accessibility field since he is both an accessibility professional and a user of assistive technologies on a daily basis, which helps him better understanding the needs of people with disabilities.</p>",
 			"title":"Curricula on Web Accessibility: Build, Compare and Select Courses on Web Accessibility",
-			"description":"<p>This presentation introduces the curricula on web accessibility by W3C/WAI. The curricula provide teaching modules to help you create courses on digital accessibility, or to include accessibility in other courses. The modules cover accessibility foundations that apply broadly, and specific skills for developers, designers, content authors, and others</p><p>You can also use this resource to review existing and proposed courses</p><p>The foundation and developer modules are available now. Designer and content author modules are planned for later this year.</p>"
+			"description":"<p>This presentation introduces the curricula on web accessibility by W3C/WAI. The curricula provide teaching modules to help you create courses on digital accessibility, or to include accessibility in other courses. The modules cover accessibility foundations that apply broadly, and specific skills for developers, designers, content authors, and others</p><p>You can also use this resource to review existing and proposed courses</p><p>The foundation and developer modules are available now. Designer and content author modules are planned for later this year.</p>",
+			"videoId": "-1rxrYS5HJE"
 		},
 		{
 			"datetime":"September 23, 2021 10:00",
@@ -211,6 +223,7 @@
 			"bio":"<p>With a background in psychology and an expert in human-computer interaction, Alastair Campbell is a leading light in the understanding of where human meets machines. He is driven by a desire to make the digital world accessible through the best possible user experience. In 2018 Alastair became Co-Chair of the Accessibility Guidelines Working Group so has been deeply involved in the development of the new guidelines.</p>",
 			"title":"WCAG 2.2 What's new and what to do with it",
 			"description":"<p>The Web Content Accessibility Guidelines (will/might/should) have been updated to 2.2 recently/soon.  Alastair walks through the new guidelines in version 2.2, and provides advice on how to use them in your organisation.</p>",
+			"videoId": "sJyGioVER9Y",
 			"social":[
 				{
 					"type":"web",
@@ -230,6 +243,7 @@
 			"bio":"<p>With a background in Financial Services, Paul's first testing role was with BNY Mellon. From there he went on to set up the QA department and offering at the digital agency Realise (Now Kin+Carta Connect).   While at K+C Paul lead QA teams in Edinburgh and Manchester, working with many international brands on large scale website/platform builds, maintenance and campaign work. Paul also introduced QA as a 3rd party UAT and consultancy service. He is now working as QA Manager for the fantastic team at xDesign building 1st class web and app tools/experiences.</p>",
 			"title":"Giving Voices Equity: Inclusive Teams Create Inclusive Products",
 			"description":"<p>Inclusion is at the heart of all great design. We have responsibility to create and build Inclusive and accessible products. Within our teams we share this responsibility but can we genuinely expect to design inclusively without providing equity of voice? In this talk I intend to discuss and demonstrate how the foundations of inclusion start from within. By utilising inclusive principles and tools we can unlock varied insights that we potentially miss out on traditionally.</p>",
+			"videoId": "nDHsBQ3EbzU",
 			"social":[
 				{
 					"type":"twitter",
@@ -244,6 +258,7 @@
 			"bio":"<p>Robin works as Strategic Lead, Innovation Partnerships at RNIB where he leads on the development of innovation based collaborations with the technology industry. Robin is a sociologist by background and is also a person with low vision.</p><p>Sonali leads the media and culture team at RNIB. She works with stakeholders to drive policy, regulation and technical innovations on accessibility in the media arts and culture sector. Sonali has a Masters degree in media and communication and her recent work includes assessment of immersive environments and exploring the benefits of personalisation of access services in broadcast services.</p>",
 			"title":"Auditorial: an innovative approach to inclusive story telling",
 			"description":"<p>Auditorial is a unique partnership between Google, The Guardian and RNIB created to showcase the possibilities of accessible stories for blind and low vision audiences. The platform uses an assortment of accessibility features and tools to tell the story including multi modal films with video and audio speed control, high contrast, text only mode, and scale and focus controls along with immersive audio. Users can press play to start the story and adjust audio, visual and written settings as they go through the story.</p>",
+			"videoId": "aGl38gB37zA",
 			"social":[
 				{
 					"type":"web",
@@ -268,6 +283,7 @@
 			"bio":"<p>Dennis is the Director of Accessibility at Diamond Web Services. Previously, he worked for five years as Sr Accessibility Consultant at Deque Systems and several years on the PayPal and eBay accessibility teams. He has published articles, led webinars, and presented on digital accessibility at many conferences including CSUN, AccessU, and Paris Web. Dennis runs a blog (and Twitter account) on web accessibility called Web Axe; and he created an accessible, two-time national award-winning Twitter app, Easy Chirp.</p>",
 			"title":"Mouse Accessibility",
 			"description":"<p>Accessibility folks know about keyboard access and screen reader accessibility, but what about mouse accessibility? Users of a mouse and other pointing devices also benefit from inclusive design and development practices. This talk covers several of these techniques such sufficient target sizes, target spacing, pointer gestures, and more! Attend this session to learn how to optimize the user interface so users of pointing devices have an accessible and enjoyable UI experience.</p>",
+			"videoId": "0D1UJKT3wGI",
 			"social":[
 				{
 					"type":"web",
@@ -287,6 +303,7 @@
 			"bio":"<p>Donna is a digital strategist, program and project manager with a passion for inclusive storytelling. With history and certification in accessibility, she brings her pragmatic and human-centric approach to all she does.</p>",
 			"title":"How Project Management Empowers Accessibility",
 			"description":"<p>Calling All PMs! Take a journey down the yellow brick road with me and come away with an understanding of how to structure your projects to be more accessible.</p>",
+			"videoId": "AlOAwm-YR0A",
 			"social":[
 				{
 					"type":"twitter",
@@ -301,6 +318,7 @@
 			"bio":"<p>Like no other engineer in the Netherlands, Johan knows how to integrate accessibility as a starting point in every digital product development. By thinking in terms of opportunities and inclusivity instead of limitations, his work at Dutch tech company Q42 is groundbreaking in many ways. Johan's main point: not only people with a long-term disability are confronted with situations in which interaction with digital tools is more difficult. Visual and other impairments effect everyone who is confronted with a situation in which she temporarily cannot see, look, use her hands, et cetera. In this way, Johan links accessibility to user-friendliness, broadening the target group. He translates this vision into projects in a pragmatic way. By challenging the notion of limitation, he knows how to create awareness among colleagues and clients. His main drive is to make accessibility our common responsibility.</p>",
 			"title":"Better quality of life through apps",
 			"description":"<p>Can designers and developers improve the lives of people who are partially or completely blind? I think we can. Together with Royal Dutch Visio, the expertise center in the field of visual impairment, I'm developing a range of apps that aim for more independence of visually impaired persons. This talk will take the audience on a journey along the different stages of developing these apps. It will show how we as sighted designers and developers have to unlearn things and gain an understanding of how a blind person experiences the world.</p>",
+			"videoId": "tSMN2l-C6us",
 			"social":[
 				{
 					"type":"web",
@@ -325,6 +343,7 @@
 			"bio":"<p>Carie Fisher is an author, speaker, and developer who is passionate about the intersection of front-end code and UX, digital accessibility, and diversity in technology. Currently, Carie is working as a Senior Accessibility Consultant and Trainer at Deque Systems while pursuing her Ph.D. in Human-Computer Interactions at Iowa State University.</p>",
 			"title":"Accessible SVG Masterclass",
 			"description":"<p>Today we have many robust patterns and techniques to help us optimize SVG accessibility, this is true regardless of if you are creating icons, simple images, or more complex infographics. But which patterns are the best to use for your particular situation and targeted WCAG conformance level? And what other factors should we consider when designing and developing accessible SVGs?</p><p>Join me to learn more about:<ul><li>Inclusive SVG patterns for web and mobile</li><li>SVG color and contrast guidelines, tools, and <code>@prefers-color-scheme</code></li><li>SVG animation guidelines, tools, and <code>@prefers-reduced-motion</code></li></ul></p>",
+			"videoId": "GQQGIMp0gwo",
 			"social":[
 				{
 					"type":"web",
@@ -344,6 +363,7 @@
 			"bio":"<p>Leah Brochu (she/her) is the Accessible Publishing &amp; Resources Coordinator for the National Network for Equitable Library Service (NNELS), where she helps to improve the state of equitable reading in Canada. From organizing the Accessible Publishing Summit to coordinating logistics for a variety of projects, to working with publishers, and developing documentation, Leah is passionate about using her skills and experience to work towards a more accessible and inclusive future. Leah has an MLIS, and an MA in Classics, and lives in Edmonton, Alberta.</p><p>Daniella Levy-Pinto (she/her) is an expert in accessibility, including digital technology and liveable spaces. She has been a user of assistive technologies for more than two decades in her different roles in academic and professional settings. She is the Project Coordinator with the NNELS and leads a team of accessibility testers and consultants with print disabilities who assess the accessibility of EPUB files, reading apps and platforms, and makes recommendations for preventing and eliminating barriers. Daniella works to promote and inform a paradigm shift towards content that is born-accessible and inclusive design. She holds a Ph.D. in Political Science from the University of Toronto.</p>",
 			"title":"Accessible Workflows for Inclusive Publishing",
 			"description":"<p>The National Network of Equitable Library Service has worked with over 100 publishers across Canada. We have audited their EPUB files, taught them about image descriptions, accessibility metadata, ARIA roles, and more. Through this work we have learned something huge: baby steps are powerful! Many people are intimidated by accessibility - nervous about getting it wrong, scared that it will be too confusing, or worried that their technical skills will not suffice. But after a little personal attention, each and every publisher we have worked with is able to easily improve the accessibility of their books, no matter where they are starting out. In this talk, we will share our experiences, and show how even the tiniest step can be a giant leap.</p>",
+			"videoId": "ChaUm88cd-k",
 			"social":[
 				{
 					"type":"twitter",
@@ -358,6 +378,7 @@
 			"bio":"<p>Web Development specialist at Ceweb.br/NIC.br, holds a degree in design and computer graphics and a graduate degree in Hypermedia Design in São Paulo. Specialist in web standards and web accessibility involved with web development and design since 1998. Taught lectures and tutorials about web accessibility and web standards in several events in Brazil and abroad. He is in charge of web accessibility and open web platform projects in the office.</p>",
 			"title":"Now it is easy to add captions to videos on the web",
 			"description":"<p>For a long time adding captions to videos on the Web was a complicated task that required time and complex resources. There are several tools and standards today that make this task easy. In this presentation, you will understand why it's time to start captioning your videos right now!</p>",
+			"videoId": "3ngO7f48FQc",
 			"social":[
 				{
 					"type":"web",
@@ -377,6 +398,7 @@
 			"bio":"<p>We live in an age where technology and online engagement have shifted traditional markets to become more diverse and engaged than ever</p><p>Learning and moving faster than most organizations, evolving consumer markets typically outpace the capacity of internal teams to deliver exceptional experiences. That's where I come in. I work with leaders to improve technology decision-making, increase market engagement, and grow operational effectiveness. The result: market-leading products and services that win increasingly diverse markets. In addition to my advisory and volunteer work supporting the next generation of diverse professionals and business leaders, I am CEO at Say Yeah, a digital management consultancy that focuses on bringing inclusive design practices to public and private-sector organizations. When I'm not working, I'm most likely DJing multi-hour-long house music mixes for my next dance party or a long run.</p>",
 			"title":"There is no average person; why designing with intersectionality in mind is critical",
 			"description":"<p>One of the most common ways to approach product and service objectives is to create personas and conduct research based on 'average' target users. But this approach falls apart when you consider that every person has a variety of shifting needs, identities, and contexts of use. This session will explore the challenges, opportunities, and methods of bringing an intersectional, inclusive approach to your research. Lee will highlight the research behind prioritizing individuals over averages and how inclusive research practices can grow the impact of your work. You'll leave the talk with an improved understanding of markets, new approaches to opening up market access, and insights on how to deliver products and services that better serve increasingly diverse markets.</p>",
+			"videoId": "RY9FHkETD5c",
 			"social":[
 				{
 					"type":"web",
@@ -401,6 +423,7 @@
 			"bio":"<p>Glenda Sims, Director of A11Y at Deque, shares her expertise and passion for the open web with .gov, .edu, .org and .com. She co-founded AccessU and served as lead judge for AIR (Accessibility Internet Rally). She spent 10+ years as a senior developer at University of Texas, supported UT's web and was an a11y expert with her mentor/hero, Dr. John Slatin. She co-authored &quot;A11Y Wars: The Accessibility Interpretation Problem&quot; with Wilco Fiers. She is on the IAAP Global Leadership Council and the Accessibility Guidelines Working Group at the W3C.</p><p>Jennie Delisi is the Accessibility Analyst in the State of Minnesota's Office of Accessibility. She is also an invited expert on the Cognitive and Learning Disabilities Accessibility Task Force of the W3C. Jennie has over 20 years of experience working with and for people with disabilities. This includes work as a Neurologic Music Therapist and an Assistive Technology Specialist. And, she is a Certified Professional in Web Accessibility (CPWA). Her goal: helping you learn your next step for creating more inclusive digital experiences.</p>",
 			"title":"Your brain is welcome here: Digital spaces need a new welcome mat",
 			"description":"<p>Our ability to use the digital world changes if we:</p><ul><li>get a concussion</li><li>feel anxious</li><li>experience changes in our reaction times</li></ul><p>People with cognitive disabilities need digital accessibility to improve.</p><p>We will discuss:</p><ul><li>Digital accessibility's link to universal design for learning</li><li>Why online meetings need options for passive participation</li><li>How reducing distractions ensures customers can shop online</li><li>Why more people use online forms if help is easy to find.</li></ul><p>Join us to learn steps you can take to create cognitively accessible digital experiences.</p>",
+			"videoId": "d8SOGSgqoxM",
 			"social":[
 				{
 					"type":"web",
@@ -430,6 +453,7 @@
 			"bio":"<p>A digital marketing consultant for over 20 years, Meryl is an author and contributor to books on business and tech. She is a marketing and accessibility consultant with Equal Entry and Diamond. Prior to striking out on her own, she worked for two Fortune 500 companies. A highly sought-after speaker who is deaf, Meryl is renowned for sharing her personal experiences and passion for accessibility and high-quality captioning. Her marketing and education backgrounds come in handy in educating audiences on why accessibility is for everyone and everyone's job. </p>",
 			"title":"Deaf Tech: Travel Through Time from Past to Future",
 			"description":"<p>Deaf technology and accessibility tools have come a long way. While automatic captioning is prevalent, there are other products and tools that have turned out to be invaluable to the deaf and hard of hearing. Pack your bags and hop in the Delorean (DeafLorean — grin) to travel from the past to the future with stops on the way highlighting technology for the deaf. The final destination will cover recommendations for companies to consider before creating new products. </p>",
+			"videoId": "yrwKWtJdZ_c",
 			"social":[
 				{
 					"type":"web",
@@ -449,6 +473,7 @@
 			"bio":"<p>Ross is a digital accessibility specialist and developer who works with government and private industry through his company CANAXESS. He presents and writes regularly on digital accessibility in current and emerging technology, creates digital accessibility courses for Udemy and Pluralsight and is at home reading WCAG 2.1 technical criteria and government accessibility policy.</p>",
 			"title":"The next step and beyond, using screen readers to evaluate the compatibility of a website",
 			"description":"<p>Blogs and articles discuss testing with a screen reader as being a vitally important part of creating accessible digital experiences. But these same blogs and articles jump into which commands to use in the screen reader and not necessarily what to test or how to interpret the results. It's a little like baking a cake, where you have the ingredients but not the instructions</p><p>A structured approach towards screen reader testing means where time is often limited, our efforts are focused on the critical parts of the digital experience. The things which users will use and interact with rather than the static components like headings and lists which are picked up earlier in the development cycle.</p><p>This approach is ultimately compatibility testing. It's identifying whether unusual behaviour identified in one browser and screen reader combination is due to poor coding practice or a quirk of the combination. It's confirming, if it's coded correctly and tested comprehensively against all the combinations potential problems can be escalated or ignored. We're not chasing our tail fixing behaviour in one combination which is a quirk and not a legitimate bug.</p>",
+			"videoId": "8GmvJ15ojFM",
 			"social":[
 				{
 					"type":"web",
@@ -468,6 +493,7 @@
 			"bio":"<p>Jared Smith is the Associate Director of WebAIM. He is a highly demanded presenter and trainer and has provided web accessibility training to tens of thousands of web professionals throughout the world. With over 20 years of experience working in the web design, development, and accessibility field, he brings a wealth of knowledge and experience that is used to help others create and maintain highly accessible web content.</p>",
 			"title":"Using the WebAIM Million and User Surveys to Inform Your Inclusion Efforts",
 			"description":"<p>There is never enough web accessibility data, but the WebAIM Million home page analysis and user surveys provide useful data that can guide and inform effective accessibility efforts.</p>",
+			"videoId": "MSnT1PIh6AM",
 			"social":[
 				{
 					"type":"web",
@@ -484,7 +510,8 @@
 		{
 			"datetime":"September 24, 2021 00:00 UTC",
 			"title":"The after party",
-			"description":"<p>Your hosts will discuss their favourite webinars from the last 24 hours, and might have a drink or two!</p>"
+			"description":"<p>Your hosts will discuss their favourite webinars from the last 24 hours, and might have a drink or two!</p>",
+			"videoId": "qOBgrZfQwms"
 		}
 	]
 }
