@@ -161,8 +161,8 @@
 		},
 		{
 			"datetime":"September 23, 2021 07:00",
-			"presenter":"Zainab AlMeraj and Aya Abdullah Jibreal",
-			"bio":"<p>Zainab AlMeraj is an assistant professor at Kuwait University. Her research interests include Usability, Accessibility, Human Computer Interaction (HCI), Computer Graphics (CG) and Mathematics. Zainab currently serves as a member of the people with disabilities committee at a national level human rights organization consultative status with the UN ECOSOC and a country representative at G3ICT; established multiple grassroots initiatives since 2016  focused on advancing technical skills, building a strong and collaborative tech community, and empowering youth with a focus on women in tech. AlMeraj is a Certified usability and accessibility professional and a member of UXPA and IAAP. She utilizes her interdisciplinary experiences and initiatives in offering innovative solutions for social issues, consulting and advocating for developing stronger local tech skills and embedding digital accessibility and usability testing into design and development as founder of her own company, Tech Connect Co.</p><p>Aya Jibreal is an Inclusive Design and Accessibility Consultant /Trainer with 7 years of experience in inclusion and accessibility. Aya worked with many entities around Saudi Arabia, exploring successful accessibility adoption for different business environments. She is the Saudi Arabia representative at G3ict/Smart Cities for All global initiatives, the first CPACC certified professional in Saudi Arabia, certified in Disability Case Management, and she's an IAAP Strategic Leader in Accessibility (SLiA) initiative committee member.</p>",
+			"presenter":"Aya Abdullah Jibreal",
+			"bio":"<p>Aya Jibreal is an Inclusive Design and Accessibility Consultant /Trainer with 7 years of experience in inclusion and accessibility. Aya worked with many entities around Saudi Arabia, exploring successful accessibility adoption for different business environments. She is the Saudi Arabia representative at G3ict/Smart Cities for All global initiatives, the first CPACC certified professional in Saudi Arabia, certified in Disability Case Management, and she's an IAAP Strategic Leader in Accessibility (SLiA) initiative committee member.</p>",
 			"title":"Accessibility and universal design in GCC: Challenges of today, Opportunities for tomorrow",
 			"description":"<p>In this talk we will cover current challenges GCC countries face to advance accessibility in Premises, Digital and Learning environments. Additionally, the discussion will cover major opportunities to advance accessibility in the region and important  steps need to be taken for such transformation.</p>",
 			"videoId": "U34msEypK6k",
@@ -171,16 +171,6 @@
 					"type":"web",
 					"url":"https://www.qmmconsulting.com",
 					"text":"qmmconsulting.com"
-				},
-				{
-					"type":"linkedin",
-					"url":"https://www.linkedin.com/in/zainabalmeraj/",
-					"text":"zainabalmeraj"
-				},
-				{
-					"type":"twitter",
-					"url":"https://www.twitter.com/zalmeraj",
-					"text":"@zalmeraj"
 				},
 				{
 					"type":"twitter",
