@@ -161,21 +161,16 @@
 		},
 		{
 			"datetime":"September 23, 2021 07:00",
-			"presenter":"Aya Abdullah Jibreal",
-			"bio":"<p>Aya Jibreal is an Inclusive Design and Accessibility Consultant /Trainer with 7 years of experience in inclusion and accessibility. Aya worked with many entities around Saudi Arabia, exploring successful accessibility adoption for different business environments. She is the Saudi Arabia representative at G3ict/Smart Cities for All global initiatives, the first CPACC certified professional in Saudi Arabia, certified in Disability Case Management, and she's an IAAP Strategic Leader in Accessibility (SLiA) initiative committee member.</p>",
-			"title":"Accessibility and universal design in GCC: Challenges of today, Opportunities for tomorrow",
-			"description":"<p>In this talk we will cover current challenges GCC countries face to advance accessibility in Premises, Digital and Learning environments. Additionally, the discussion will cover major opportunities to advance accessibility in the region and important  steps need to be taken for such transformation.</p>",
+			"presenter":"Henny Swan",
+			"bio":"<p>Henny is a Director at TetraLogical and a user experience and digital accessibility specialist with almost 20 years’ experience.</p><p>Formerly at the BBC, The Paciello Group, Opera Software and RNIB Henny is in her element working with multi-disciplinary teams to help infuse inclusion in each step in the Software Development Lifecyle. This could be by working on a product from its conception all the way through to completion factoring user research with disabled users, early concept, documentation and design reviews, as well as agile usability testing as the product goes to development. By doing this Henny empowers teams to integrate inclusion into their own process so they can confidently and consistently deliver accessible and inclusive products.</p>",
+			"title":"Inclusive Design Principles",
+			"description":"<p>Inclusive design is about putting people first. It's about designing for the needs of people with permanent, temporary, situational, or changing disabilities – all of us really. These principles are a springboard for taking your products beyond accessibility, making them intuitive and easy to use for disabled people while showcasing beautiful design for all.</p><p>They are intended for use by anyone involved in the design and development of websites and applications: designers, user experience professionals, developers, product owners, idea makers, innovators, artists and thinkers. They are intended for use in the design process to help ensure teams create products that are flexible and accommodating.</p>",
 			"videoId": "U34msEypK6k",
 			"social":[
 				{
-					"type":"web",
-					"url":"https://www.qmmconsulting.com",
-					"text":"qmmconsulting.com"
-				},
-				{
 					"type":"twitter",
-					"url":"https://www.twitter.com/ayajibreal",
-					"text":"@ayajibreal"
+					"url":"https://www.twitter.com/iheni",
+					"text":"@iheni"
 				}
 			]
 		},
