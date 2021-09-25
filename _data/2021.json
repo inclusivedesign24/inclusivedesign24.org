@@ -5,7 +5,7 @@
 	"schedule":[
 		{
 			"datetime": "September 22, 2021 23:30",
-			"title": "The pre-show",
+			"title": "The pre-show / welcome",
 			"description": "<p>Meet your hosts for the next 24 hours. We'll be having a general chat about accessibility, inclusive design, and talking about the sessions we are most looking forward to in the upcoming 24 hours.</p>",
 			"videoId": "W9xXeqPYBpE"
 		},
@@ -494,7 +494,7 @@
 		},
 		{
 			"datetime":"September 24, 2021 00:00 UTC",
-			"title":"The after party",
+			"title":"The after party / closing",
 			"description":"<p>Your hosts will discuss their favourite webinars from the last 24 hours, and might have a drink or two!</p>",
 			"videoId": "qOBgrZfQwms"
 		}
