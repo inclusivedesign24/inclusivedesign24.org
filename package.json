@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/inclusivedesign24/inclusivedesign24.org#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0"
+    "@11ty/eleventy": "^0.12.1"
   }
 }
