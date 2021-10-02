@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Inclusive Design 24 (#id24) 22 September 2022</title>
+    {% include 2022/meta.html %}
+</head>
+<body>
+{% include 2022/inline-svg.html %}
+<header>
+    <div id="logo">
+        <img src="/2022/images/Inclusive_Design24_logo_black.svg" alt="Inclusive Design 24">
+    </div>
+    <nav id="mainnav" aria-label="Main">
+        <ul>
+            <li><a href="/2022/" aria-current="page">Home</a></li>
+            <!-- <li><a href="/2022/schedule/">Schedule</a></li> -->
+            <li><a href="/2022/team/">Team</a></li>
+            <li><a href="/2022/supporters/">Supporters</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+<div>
+<h1>Save the date!<br><cite>#id24</cite> will return on 22 September 2022</h1>
+
+<p><cite>Inclusive Design 24</cite> (#id24) is a free 24-hour online event for the global community. It celebrates inclusive design and shares knowledge and ideas from analogue to digital, from design to development, from planners to practitioners, and everything and everyone in between.</p>
+
+<h2>Call for presentations and further information coming soon</h2>
+<p>While the planned date for the event is still quite a few months away, we wanted to get in early and lock down the date for what will be our 10<sup>th</sup> edition of <cite>#id24</cite>.</p>
+<p>In the meantime, visit the <a href="https://www.youtube.com/inclusivedesign24">Inclusive Design 24 YouTube channel</a>, where you'll find all the recordings from our <a href="/editions/">past #id24 editions</a>.</p>
+
+<!--
+<section id="cfp">
+<h2>Call for presentations</h2>
+
+<p>Have a great idea for a talk? Want to present at #id24? Great! Our call for speakers opens on <strong>14 March 2022</strong> and closes on <strong>13 June 2022</strong>.</p>
+
+<p><a id="connect" href="https://docs.google.com/forms/d/1TFpnEkmexFdzxpBDoI6j-hTfuQyDsv0pXVlmaVKL2dE" onclick="ga('send', 'event', 'Submissions', 'Click', 'Submit');">Submit a talk</a></p>
+
+<p>Selected speakers will be notified the week of <strong>27 June 2022</strong>.<br>Have any questions? Why not drop us an email at <a href="mailto:hello@inclusivedesign24.org">hello@inclusivedesign24.org</a></p>
+</section>
+-->
+
+<!--
+<section id="cfp">
+<h2>Call for presentations closed</h2>
+
+<p>Thank you to all the people who submitted talk proposals. We are currently finalizing the schedule. Watch this space for a full rundown of planned presentations, as well as instructions on how to virtually attend our free event.</p>
+
+<p>Selected speakers will be notified the week of <strong>27 June 2022</strong>.<br>Have any questions? Why not drop us an email at <a href="mailto:hello@inclusivedesign24.org">hello@inclusivedesign24.org</a></p>
+</section>
+-->
+
+<!-- <section id="countdown" class="hidden" aria-live="polite" aria-atomic="true">
+  The event will start in <span id="countdown_timer"></span>
+</section> -->
+
+<!-- <section id="info">
+<h2>How to join</h2>
+
+<p>No sign-up. No registration. All sessions are streamed live and publicly on the <a href="https://www.youtube.com/inclusivedesign24">Inclusive Design 24 YouTube channel</a>{% if 2022.event.playlistId %} – see the <a target="_blank" rel="noopener" href="https://www.youtube.com/playlist?list={{ 2022.event.playlistId }}">entire playlist for the event</a>{% endif %}. Live captions for each session will be available.</p>
+<p>Have a question for a presenter? No problem! Tweet your questions to <a target="_blank" rel="noopener" href="https://twitter.com/id24conf">@id24conf</a> using the <a target="_blank" rel="noopener" href="https://twitter.com/hashtag/id24">#id24 hashtag</a> and our moderators will make sure they get them answered for you.</p>
+</section> -->
+
+</div>
+</main>
+
+{% include 2022/supporters.html %}
+
+<footer>
+    <nav id="footer-social" aria-label="Social media">
+        <ul>
+            <li><a href="https://twitter.com/id24conf"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @id24conf</a></li>
+            <li><a href="https://www.youtube.com/InclusiveDesign24"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="YouTube: " focusable="false"><use xlink:href="#icon-player"></use></svg> InclusiveDesign24</a></li>
+            <li><a href="https://www.linkedin.com/company/id24conf/"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="LinkedIn: " focusable="false"><use xlink:href="#icon-linkedin"></use></svg> id24conf</a></li>
+        </ul>
+    </nav>
+    <nav id="footer-ancilliary" aria-label="Secondary">
+        <ul>
+            <li><a href="/2022/code-of-conduct/">Code of conduct</a></li>
+            <li><a href="/2022/presenters/">Information for presenters</a></li>
+            <li><a href="/editions/">#id24 editions</a></li>
+            <li><a href="/about/">About #id24</a></li>
+        </ul>
+    </nav>
+    <div id="logo_hashtag">
+        <img src="/2022/images/id24_logo_mono_white.svg" alt="#id24">
+    </div>
+</footer>
+
+<script src="/2022/scripts/countdown.js"></script>
+<script>
+    countdown(new Date("Sept 21, 2022 23:30:00 UTC+0").getTime(), document.getElementById("countdown_timer"));
+</script>
+
+{% include google.html %}
+</body>
+</html>

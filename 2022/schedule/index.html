@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Schedule / Inclusive Design 24 (#id24) 22 September 2022</title>
+{% include 2022/meta.html %}
+</head>
+<body>
+{% include 2022/inline-svg.html %}
+<header>
+    <div id="logo">
+        <img src="/2022/images/Inclusive_Design24_logo_black.svg" alt="Inclusive Design 24">
+    </div>
+    <nav id="mainnav" aria-label="Main">
+        <ul>
+            <li><a href="/2022/">Home</a></li>
+            <li><a href="/2022/schedule/" aria-current="page">Schedule</a></li>
+            <li><a href="/2022/team/">Team</a></li>
+            <li><a href="/2022/supporters/">Supporters</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+
+<section id="schedule">
+<h1>Schedule</h1>
+
+<p>No sign-up. No registration. All sessions are streamed live and publicly on the <a href="https://www.youtube.com/inclusivedesign24">Inclusive Design 24 YouTube channel</a>{% if 2022.event.playlistId %} – see the <a target="_blank" rel="noopener" href="https://www.youtube.com/playlist?list={{ 2022.event.playlistId }}">entire playlist for the event</a>{% endif %}.</p>
+
+<div id="time_machine">
+    All times shown for your local time (
+    <abbr title="Coordinated Universal Time">UTC</abbr>
+    <span class="time_offset"></span>
+    )
+</div>
+
+{% if 2022.schedule %}
+{% for session in 2022.schedule %}
+<div class="session" data-time-utc="{{ session.datetime | append: " UTC" | date: "%s" }}000">
+    <h2 id="talk{{ forloop.index0 }}">
+        <span class="session_time">
+            <span class="session_time_local">{{ session.datetime | date: "%H:%M" }}</span><span class="session_time_local_ampm"></span>
+            <span class="session_day_local"></span>
+            <span class="session_time_offset">
+                (
+                    <span class="session_time_utc">{{ session.datetime | date: "%H:%M" }}</span>
+                    <abbr title="Coordinated Universal Time">UTC</abbr>
+                    {{ session.datetime | date: "%d" }}
+                    <abbr title="{{ session.datetime | date: "%B" }}">
+                        {{ session.datetime | date: "%b" }}
+                    </abbr>
+                )
+            </span>
+        </span>
+        <span class="session_presenter">{{ session.presenter }}</span>
+        <span class="session_title">{{ session.title }}</span>
+    </h2>
+    {% if session.videoId %}
+    <a class="videostream" target="_blank" rel="noopener" href="https://www.youtube.com/watch?v={{ session.videoId }}&list={{ 2022.event.playlistId }}" aria-describedby="talk{{ forloop.index0 }}"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>
+    {% endif %}
+    <div class="session_details">
+        <div class="session_abstract">
+            {{ session.description }}
+        </div>
+        {% if session.bio %}
+        <h3>About the speaker</h3>
+        <div class="session_presenter_bio">
+            {{ session.bio }}
+            {% if session.social %}
+            <ul class="pres_info">
+            {% for socialItem in session.social %}
+                <li>
+                    <a href="{{ socialItem.url }}">
+                        {% if socialItem.type == "twitter" %}
+                            <svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg>
+                        {% endif %}
+                        {% if socialItem.type == "web" %}
+                            <svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg>
+                        {% endif %}
+                        {% if socialItem.type == "linkedin" %}
+                            <svg viewBox="0 0 24 24" class="icon" role="img" aria-label="LinkedIn: " focusable="false"><use xlink:href="#icon-linkedin"></use></svg>
+                        {% endif %}
+                        {% if socialItem.type == "instagram" %}
+                            <svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Instagram: " focusable="false"><use xlink:href="#icon-instagram"></use></svg>
+                        {% endif %}
+                        {{ socialItem.text }}
+                    </a>
+                </li>
+            {% endfor %}
+            </ul>
+            {% endif %}
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endfor %}
+{% else %}
+<p>The schedule has not been announced yet ... stay tuned!</p>
+{% endif %}
+
+</section>
+
+</main>
+
+{% include 2022/supporters.html %}
+
+<footer>
+    <nav id="footer-social" aria-label="Social media">
+        <ul>
+            <li><a href="https://twitter.com/id24conf"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @id24conf</a></li>
+            <li><a href="https://www.youtube.com/InclusiveDesign24"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="YouTube: " focusable="false"><use xlink:href="#icon-player"></use></svg> InclusiveDesign24</a></li>
+            <li><a href="https://www.linkedin.com/company/id24conf/"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="LinkedIn: " focusable="false"><use xlink:href="#icon-linkedin"></use></svg> id24conf</a></li>
+        </ul>
+    </nav>
+    <nav id="footer-ancilliary" aria-label="Secondary">
+        <ul>
+            <li><a href="/2022/code-of-conduct/">Code of conduct</a></li>
+            <li><a href="/2022/presenters/">Information for presenters</a></li>
+            <li><a href="/editions/">#id24 editions</a></li>
+            <li><a href="/about/">About #id24</a></li>
+        </ul>
+    </nav>
+    <div id="logo_hashtag">
+        <img src="/2022/images/id24_logo_mono_white.svg" alt="#id24">
+    </div>
+</footer>
+
+<!-- Custom script to handle schedule UTC/local time adaptation and disclosure widgets -->
+<script src="/2022/scripts/id24.js"></script>
+
+{% include google.html %}
+</body>
+</html>
