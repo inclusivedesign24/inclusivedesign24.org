@@ -2,16 +2,12 @@
 
 # Redirect requests to the specific year's subdirectory (need to change this yearly)
 
-/ /2021/
-/code-of-conduct/* /2021/code-of-conduct/:splat
-/id24local/* /2021/
-/2021/id24local/* /2021/
-/2021/about/* /2021/team/
-/resources/* /2021/resources/:splat
-/about/* /2021/about/:splat
-/images/* /2021/images/:splat
-/favicon.ico /2021/favicon.ico
+/ /2022/
+/code-of-conduct/* /2022/code-of-conduct/:splat
+/resources/* /2022/resources/:splat
+/images/* /2022/images/:splat
+/favicon.ico /2022/favicon.ico
 
 # Error pages
 
-/2021/* /2021/404.html 404
+/2022/* /2022/404.html 404
