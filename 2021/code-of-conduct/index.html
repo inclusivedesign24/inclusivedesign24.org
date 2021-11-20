@@ -6,21 +6,8 @@
 </head>
 <body>
 {% include 2021/inline-svg.html %}
-<header>
-    <div id="logo">
-        <img src="/2021/images/Inclusive_Design24_logo_black.svg" alt="Inclusive Design 24">
-    </div>
-    <nav id="mainnav" aria-label="Main">
-        <ul>
-            <li><a href="/2021/">Home</a></li>
-            <li><a href="/2021/schedule/">Schedule</a></li>
-            <li><a href="/2021/team/">Team</a></li>
-            <li><a href="/2021/supporters/">Supporters</a></li>
-        </ul>
-    </nav>
-</header>
-
-<main role="main">
+{% include 2021/header.html %}
+<main>
 <div>
 <h1>Code of conduct</h1>
 <p>We want Inclusive Design 24 (#id24) to be inclusive of everyone. We are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socio-economic status, and religion (or lack thereof).</p>
@@ -103,28 +90,10 @@
 
 {% include 2021/supporters.html %}
 
-<footer>
-    <nav id="footer-social" aria-label="Social media">
-        <ul>
-            <li><a href="https://twitter.com/id24conf"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg> @id24conf</a></li>
-            <li><a href="https://www.youtube.com/InclusiveDesign24"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="YouTube: " focusable="false"><use xlink:href="#icon-player"></use></svg> InclusiveDesign24</a></li>
-            <li><a href="https://www.linkedin.com/company/id24conf/"><svg viewBox="0 0 24 24" class="icon" role="img" aria-label="LinkedIn: " focusable="false"><use xlink:href="#icon-linkedin"></use></svg> id24conf</a></li>
-        </ul>
-    </nav>
-    <nav id="footer-ancilliary" aria-label="Secondary">
-        <ul>
-            <li><a href="/2021/code-of-conduct/" aria-current="page">Code of conduct</a></li>
-            <li><a href="/2021/presenters/">Information for presenters</a></li>
-            <li><a href="/editions/">#id24 editions</a></li>
-            <li><a href="/about/">About #id24</a></li>
-        </ul>
-    </nav>
-    <div id="logo_hashtag">
-        <img src="/2021/images/id24_logo_mono_white.svg" alt="#id24">
-    </div>
-</footer>
+{% include 2021/footer.html %}
 
 {% include google.html %}
-</script>
+
+<script src="/2021/scripts/id24.js"></script>
 </body>
 </html>
