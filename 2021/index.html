@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
     <title>Inclusive Design 24 (#id24) 23 September 2021</title>
-    {% include 2021/meta.html %}
+    {% include '2021/meta.html' %}
 </head>
 <body>
-{% include 2021/inline-svg.html %}
-{% include 2021/header.html %}
+{% include '2021/inline-svg.html' %}
+{% include '2021/header.html' %}
 <main>
 <div>
 <h1>Save the date! #id24 returns on 23 September 2021!</h1>
@@ -50,16 +50,16 @@
 </div>
 </main>
 
-{% include 2021/supporters.html %}
+{% include '2021/supporters.html' %}
 
-{% include 2021/footer.html %}
+{% include '2021/footer.html' %}
 
 <script src="/2021/scripts/countdown.js"></script>
 <script>
     countdown(new Date("Sept 22, 2021 23:30:00 UTC+0").getTime(), document.getElementById("countdown_timer"));
 </script>
 
-{% include google.html %}
+{% include 'google.html' %}
 
 <script src="/2021/scripts/id24.js"></script>
 </body>
