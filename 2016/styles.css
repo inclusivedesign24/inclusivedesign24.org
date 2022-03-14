@@ -128,7 +128,7 @@ section {
 
 .session {
     position: relative;
-    margin: 0 -0.5em;
+    margin: 0 0 0 -0.5em;
     padding: 2em 0.5em 2em 8.5em;
     border-bottom: 1px #444 solid;
 }
