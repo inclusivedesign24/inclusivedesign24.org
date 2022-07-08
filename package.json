@@ -19,5 +19,8 @@
   "homepage": "https://github.com/inclusivedesign24/inclusivedesign24.org#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0"
+  },
+  "dependencies": {
+    "del-cli": "^4.0.1"
   }
 }
