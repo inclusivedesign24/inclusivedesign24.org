@@ -11,6 +11,8 @@ Run `npm install` to set up all node dependencies locally. If this has been done
 * `npm run build` deletes the `/dist` folder (if present), runs Eleventy, and builds the static site in a fresh `/dist` folder
 * `npm run serve` same as the build script, but then also runs a local server on [localhost:8080](http://localhost:8080)
 
+Note that when running locally, the `_redirects` won't take effect - so the root of the site will be empty. Go to the specific year folder instead (e.g. [localhost:8080/2022](http://localhost:8080/2022))
+
 ## Netlify deployment
 
 The main branch is deployed to [`https://main--vigilant-morse-657bbe.netlify.app`](https://main--vigilant-morse-657bbe.netlify.app). Other branches can be previewed by prefixing the domain with the name of the branch (i.e. `https://branchname--vigilant-morse-657bbe.netlify.app`).
