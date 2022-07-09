@@ -4,7 +4,9 @@
   "description": "Repository for https://inclusivedesign24.org. Any commits to this repo are deployed directly via netlify.com. `master` branch is the live site.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "clean": "npx del dist",
+    "build": "npm run clean && eleventy",
+    "serve": "npm run clean && eleventy --serve"
   },
   "repository": {
     "type": "git",
