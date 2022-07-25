@@ -39,8 +39,8 @@
 			"social":[
 				{
 					"type":"web",
-					"url":"https://www.lydiahooper.com",
-					"text":"www.lydiahooper.com"
+					"url":"https://lydiahooper.com",
+					"text":"lydiahooper.com"
 				},
 				{
 					"type":"linkedin",
@@ -89,7 +89,7 @@
 			"social":[
 				{
 					"type":"web",
-					"url":"johnfallsopp.com",
+					"url":"https://johnfallsopp.com/",
 					"text":"johnfallsopp.com"
 				},
 				{
@@ -109,7 +109,7 @@
 			"social":[
 				{
 					"type":"web",
-					"url":"https://www.barrierbreak.com",
+					"url":"https://barrierbreak.com",
 					"text":"barrierbreak.com"
 				},
 				{
@@ -134,8 +134,8 @@
 			"social":[
 				{
 					"type":"web",
-					"url":"https://medium.com/@marioncouesnon",
-					"text":"medium.com/@marioncouesnon"
+					"url":"https://marioncouesnon.medium.com/",
+					"text":"marioncouesnon.medium.com"
 				},
 				{
 					"type":"twitter",
@@ -159,7 +159,7 @@
 				},
 				{
 					"type":"twitter",
-					"url":"https://www.twitter.com/https://twitter.com/mikeherchel",
+					"url":"https://twitter.com/mikeherchel",
 					"text":"@mikeherchel"
 				}
 			]
@@ -175,7 +175,7 @@
 				{
 					"type":"web",
 					"url":"https://vispero.com/",
-					"text":"vispero.com/"
+					"text":"vispero.com"
 				},
 				{
 					"type":"twitter",
@@ -204,7 +204,7 @@
 			"social":[
 				{
 					"type":"web",
-					"url":"https://ideaswithmoxie.com/",
+					"url":"http://ideaswithmoxie.com/",
 					"text":"ideaswithmoxie.com"
 				},
 				{
@@ -249,13 +249,8 @@
 			"social":[
 				{
 					"type":"web",
-					"url":"https://www.sparkleclass.com",
-					"text":"www.sparkleclass.com"
-				},
-				{
-					"type":"twitter",
-					"url":"https://www.twitter.com/sparkleclass",
-					"text":"@sparkleclass"
+					"url":"https://sparkleclass.com",
+					"text":"sparkleclass.com"
 				}
 			]
 		},
@@ -289,8 +284,8 @@
 			"social":[
 				{
 					"type":"web",
-					"url":"https://www.scottohara.me/",
-					"text":"www.scottohara.me"
+					"url":"https://scottohara.me/",
+					"text":"scottohara.me"
 				},
 				{
 					"type":"twitter",
@@ -324,13 +319,13 @@
 			"social":[
 				{
 					"type":"web",
-					"url":"https://www.birdcallux.com/",
-					"text":"www.birdcallux.com"
+					"url":"https://birdcallux.com/",
+					"text":"birdcallux.com"
 				},
 				{
 					"type":"web",
-					"url":"https://www.melissaegg.com/about",
-					"text":"www.melissaegg.com/about"
+					"url":"https://melissaegg.com/about",
+					"text":"melissaegg.com/about"
 				},
 				{
 					"type":"twitter",
@@ -355,11 +350,11 @@
 				{
 					"type":"web",
 					"url":"https://lonamoore.com",
-					"text":"lonamoore.com (coming soon!)"
+					"text":"lonamoore.com"
 				},
 				{
 					"type":"linkedin",
-					"url":"https://it.ly/LonaMoore",
+					"url":"https://www.linkedin.com/in/LonaMoore/",
 					"text":"LonaMoore"
 				}
 			]
@@ -394,8 +389,8 @@
 			"social":[
 				{
 					"type":"web",
-					"url":"https://www.malcomglenn.com",
-					"text":"www.malcomglenn.com"
+					"url":"https://malcomglenn.com",
+					"text":"malcomglenn.com"
 				},
 				{
 					"type":"twitter",
@@ -469,7 +464,7 @@
 			"social":[
 				{
 					"type":"web",
-					"url":"laurabrady.ca",
+					"url":"https://laurabrady.ca",
 					"text":"laurabrady.ca"
 				},
 				{
@@ -494,8 +489,8 @@
 			"social":[
 				{
 					"type":"web",
-					"url":"https://www.joshkimux.com/",
-					"text":"www.joshkimux.com"
+					"url":"https://joshkimux.com/",
+					"text":"joshkimux.com"
 				},
 				{
 					"type":"linkedin",
