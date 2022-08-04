@@ -27,19 +27,14 @@
     <h2 id="talk{{ forloop.index0 }}">
         <span class="session_time">
             <span class="session_time_local">{{ session.datetime | date: "%H:%M" }}</span><span class="session_time_local_ampm"></span>
+            <span class="visually-hidden">&nbsp;</span>
             <span class="session_day_local"></span>
-            <span class="session_time_offset">
-                (
-                    <span class="session_time_utc">{{ session.datetime | date: "%H:%M" }}</span>
-                    <abbr title="Coordinated Universal Time">UTC</abbr>
-                    {{ session.datetime | date: "%d" }}
-                    <abbr title="{{ session.datetime | date: "%B" }}">
-                        {{ session.datetime | date: "%b" }}
-                    </abbr>
-                )
-            </span>
+            <span class="visually-hidden">&nbsp;</span>
+            <span class="session_time_offset">(<span class="session_time_utc">{{ session.datetime | date: "%H:%M" }}</span> <abbr title="Coordinated Universal Time">UTC</abbr> {{ session.datetime | date: "%d" }} <span class="visually-hidden">{{ session.datetime | date: "%B" }}</span><span aria-hidden="true">{{ session.datetime | date: "%b" }}</span>)</span>
         </span>
+        <span class="visually-hidden"><br></span>
         <span class="session_presenter">{{ session.presenter }}</span>
+        <span class="visually-hidden">:&nbsp;</span>
         <span class="session_title">{{ session.title }}</span>
     </h2>
     {% if session.videoId and session.videoId != "" %}

@@ -72,7 +72,7 @@ function pad(num, size) {
     sessions.forEach(function (session) {
         var local = new Date(parseInt(session.getAttribute("data-time-utc")));
         session.querySelector("span.session_time_local").innerHTML = (local.getHours() == 0 ? "12" : local.getHours() > 12 ? local.getHours() - 12 : local.getHours()) + ':' + pad(local.getMinutes(), 2);
-        session.querySelector("span.session_time_local_ampm").innerHTML = local.getHours() < 12 ? "AM" : "PM";
+        session.querySelector("span.session_time_local_ampm").innerHTML = local.getHours() < 12 ? "am" : "pm";
         session.querySelector("span.session_time_utc").innerHTML = local.getUTCHours() + ':' + pad(local.getUTCMinutes(), 2);
         session.querySelector("span.session_day_local").innerHTML = local.getDate() + ' ' + months[local.getMonth()];
         if ( (lastdateshown === null) || (local.getDate() !== lastdateshown) ) {
