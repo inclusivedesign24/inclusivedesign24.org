@@ -25,17 +25,19 @@
 {% for session in 2022.schedule %}
 <div class="session" data-time-utc="{{ session.datetime | append: " UTC" | date: "%s" }}000">
     <h2 id="talk{{ forloop.index0 }}">
-        <span class="session_time">
-            <span class="session_time_local">{{ session.datetime | date: "%H:%M" }}</span><span class="session_time_local_ampm"></span>
+        <span role="text">
+        <span class="session_time" role="text">
+            <span class="session_time_local" role="text">{{ session.datetime | date: "%H:%M" }}</span><span class="session_time_local_ampm"></span>
             <span class="visually-hidden">&nbsp;</span>
-            <span class="session_day_local"></span>
+            <span class="session_day_local" role="text"></span>
             <span class="visually-hidden">&nbsp;</span>
-            <span class="session_time_offset">(<span class="session_time_utc">{{ session.datetime | date: "%H:%M" }}</span> <abbr title="Coordinated Universal Time">UTC</abbr> {{ session.datetime | date: "%d" }} <span class="visually-hidden">{{ session.datetime | date: "%B" }}</span><span aria-hidden="true">{{ session.datetime | date: "%b" }}</span>)</span>
+            <span class="session_time_offset" role="text">(<span class="session_time_utc">{{ session.datetime | date: "%H:%M" }}</span> <abbr title="Coordinated Universal Time">UTC</abbr> {{ session.datetime | date: "%d" }} <span class="visually-hidden">{{ session.datetime | date: "%B" }}</span><span aria-hidden="true">{{ session.datetime | date: "%b" }}</span>)</span>
         </span>
         <span class="visually-hidden"><br></span>
-        <span class="session_presenter">{{ session.presenter }}</span>
-        <span class="visually-hidden">:&nbsp;</span>
-        <span class="session_title">{{ session.title }}</span>
+        <span class="session_presenter" role="text">{{ session.presenter }}</span>
+        <span class="visually-hidden" role="text">:&nbsp;</span>
+        <span class="session_title" role="text">{{ session.title }}</span>
+        </span>
     </h2>
     {% if session.videoId and session.videoId != "" %}
     <a class="videostream" target="_blank" rel="noopener" href="https://www.youtube.com/watch?v={{ session.videoId }}&list={{ 2022.event.playlistId }}" aria-describedby="talk{{ forloop.index0 }}"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>
