@@ -276,23 +276,12 @@
 		},
 		{
 			"datetime":"September 22, 2022 13:00",
-			"presenter":"Scott O'Hara",
-			"bio":"</p>",
-			"title":"HTML is accessible by default, right?",
-			"description":"<p>Well, mostly… but not always, and maybe not in the way you might think?</p><p>This talk will look at the semantics of a few HTML elements and attributes where, going by the specification alone, you may not necessarily get the accessible user interface you were hoping for. And in such cases, what should you do to compensate, if anything?</p>",
+			"presenter":"",
+			"bio":"",
+			"title":"To be confirmed",
+			"description":"",
 			"videoId":"",
-			"social":[
-				{
-					"type":"web",
-					"url":"https://scottohara.me/",
-					"text":"scottohara.me"
-				},
-				{
-					"type":"twitter",
-					"url":"https://twitter.com/scottohara",
-					"text":"@scottohara"
-				}
-			]
+			"social":[]
 		},
 		{
 			"datetime":"September 22, 2022 14:00",
