@@ -470,10 +470,10 @@
 		},
 		{
 			"datetime":"September 22, 2022 23:00",
-			"presenter":"Josh Kim",
-			"bio":"",
-			"title":"Coming soon",
-			"description":"",
+			"presenter":"Josh Kim and Maureen Barrientos",
+			"bio":"<h4>Josh Kim</h4><p>Josh is an accessibility lead at VA.gov (Veterans Affairs) responsible for guiding accessibility beyond compliance, inclusive research, and trauma-informed strategy. He has a passion for inclusive research operations, design justice, and radical participatory design within the context of government services and technology. In his spare time, Josh volunteers with both his local professional (AIGA DC) and neighborhood (Community Art for Everyone) design organizations with the vision of co-designing more inclusive spaces for everyone from the grassroots level.</p><h4>Maureen Barrientos</h4><p>Maureen is a UX Researcher with Google, where she works towards improving internal products for employees with disabilities. Prior to UX, she performed research with the Veterans Health Administration and UCSF to promote equitable and culturally competent services for Latino and African American older adults and Veterans with disabilities. In her spare time, she loves mentoring academics on transitioning into tech, where they can still approach their work from a social justice angle and solve systemic issues.</p>",
+			"title":"Building UX research practices for inclusion",
+			"description":"<p>Research with disabled people is often seen as the final destination for accessibility beyond compliance, but is it actually enough?</p><p>Join Maureen, former behavioral researcher turned UXR, and Josh, an accessibility lead at Veterans Affairs, for a deep dive into the common pitfalls of inclusive UX research from the projection bias of expert testers to the unequal distribution of power during analysis. They’ll share actionable guidance on how to further mature an inclusive research practice from purposeful sampling strategies to intersectional awareness and equitable hiring practices.</p>",
 			"videoId":"",
 			"social":[
 				{
@@ -485,6 +485,11 @@
 					"type":"linkedin",
 					"url":"https://www.linkedin.com/in/joshkimux/",
 					"text":"joshkimux"
+				},
+				{
+					"type":"linkedin",
+					"url":"https://www.linkedin.com/in/maureenbarrientos/",
+					"text":"maureenbarrientos"
 				}
 			]
 		},
