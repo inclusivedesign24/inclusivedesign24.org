@@ -276,12 +276,33 @@
 		},
 		{
 			"datetime":"September 22, 2022 13:00",
-			"presenter":"",
-			"bio":"",
-			"title":"To be confirmed",
-			"description":"",
+			"presenter":"Clare Sudbery",
+			"bio":"<p>Clare Sudbery is an independent technical coach with 22 years of software engineering experience. She specialises in TDD, refactoring and other XP practices.</p><p>Twelve years ago Clare abandoned IT to retrain as a high school maths teacher… but quickly returned to software, gaining new energy via Extreme Programming. Up until very recently she co-ran Made Tech’s academy programme, coaching inexperienced engineers to learn on the job. She has a passion for helping under-represented groups to flourish in tech.</p><p>Clare hosts the acclaimed <a href=\"https://www.madetech.com/resources/podcasts/\">Making Tech Better</a> podcast.</p>",
+			"title":"Let's stop making each other feel stupid",
+			"description":"<p>We work in an industry where we judge one another constantly for being stupid. And yet, there are a million different paths through software development. The skills we don’t need now are necessarily forgotten, or delegated to someone else. And that’s fine.</p><p>Instead of judging people for their ignorance, let’s help them to feel excited about all the new things they’ll discover. Instead of saying “For God’s sake, you don’t know that?” let’s say “Fantastic! Lucky you. You get to learn something. What can I do to help?”</p>",
 			"videoId":"",
-			"social":[]
+			"social":[
+				{
+					"type":"web",
+					"url":"https://medium.com/a-woman-in-technology",
+					"text":"medium.com/a-woman-in-technology"
+				},
+				{
+					"type":"web",
+					"url":"https://clare-wiki.herokuapp.com",
+					"text":"clare-wiki.herokuapp.com"
+				},
+				{
+					"type":"web",
+					"url":"https://insimpleterms.blog/",
+					"text":"insimpleterms.blog"
+				},
+				{
+					"type":"twitter",
+					"url":"https://www.twitter.com/claresudbery",
+					"text":"@claresudbery"
+				}
+			]
 		},
 		{
 			"datetime":"September 22, 2022 14:00",
