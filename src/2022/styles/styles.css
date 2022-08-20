@@ -565,11 +565,12 @@ section {
 .session ul.pres_info {
     padding: 0;
     margin: 1em 0 0 0;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .session ul.pres_info li {
     list-style-type: none;
-    display: inline;
     padding: 0;
     margin: 0 1em 0 0;
 }
