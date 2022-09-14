@@ -208,6 +208,11 @@
 					"text":"ideaswithmoxie.com"
 				},
 				{
+					"type":"twitter",
+					"url":"https://www.twitter.com/ideaswithmoxie",
+					"text":"@ideaswithmoxie"
+				},
+				{
 					"type":"linkedin",
 					"url":"https://www.linkedin.com/in/catherinecollins10/",
 					"text":"catherinecollins10"
