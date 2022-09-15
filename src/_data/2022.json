@@ -7,7 +7,7 @@
 			"datetime":"September 21, 2022 23:30",
 			"title":"The pre-show / welcome",
 			"description":"<p>Meet your hosts for the next 24 hours. We'll be having a general chat about accessibility, inclusive design, and talking about the sessions we are most looking forward to in the upcoming 24 hours.</p>",
-			"videoId":""
+			"videoId":"jrNa4-7MQQo"
 		},
 		{
 			"datetime":"September 22, 2022 00:00",
@@ -15,7 +15,7 @@
 			"bio":"<p>Rabab Gomaa is a web accessibility specialist with over 20 years of experience working in user experience design and front-end development. Rabab is an accessibility advocate, a public servant at Government of Canada, one of co-organizer of a11yYOW & a11yAR and she speaks frequently at accessibility camps and conferences. Rabab offers accessibility testing services and training to increase the accessibility of websites.</p>",
 			"title":"The Recipe for Making Accessible Widgets!",
 			"description":"<p>One of the major challenges of developing web applications is understanding how to make its widgets accessible. In simpler words, are tooltips, tabs, chatbots and other building blocks of the application usable by All? In this session, we will explore the distinct layers of making an accessible widget and go through its design considerations.</p>",
-			"videoId":"",
+			"videoId":"uXjZhN1KzQ0",
 			"social":[
 				{
 					"type":"linkedin",
@@ -35,7 +35,7 @@
 			"bio":"<p>Lydia Hooper is a hybrid design professional with expertise in systems thinking, information design and inclusive design. Over the past decade she’s led dozens of organizations through transformational changes. She led a team to win bronze in the national Civic Data Challenge and is currently a UX Designer at civic tech company Agile Six.</p><p>Lydia’s a regular contributor to the Design Justice Network blog and has written for UX Collective and An Injustice! She’s presented for many events including AIGA-Colorado and 48 Hours of Socially Engaged Art.</p>",
 			"title":"Empathy is broken - Moving from cognition to compassion",
 			"description":"<p>Empathy is considered to be a mindset that’s vital to design, but if empathy is as effective as it’s believed to be then how come designs so easily create harm? In design, empathy is mostly about forming an intellectual understanding to solve a problem. In the field of nonviolent communication, empathy is about offering complete presence for the purposes of healing. Join a designer with a devoted nonviolent communication practice to learn about practices that will help you expand your empathy practice to reduce harm and address needs.</p>",
-			"videoId":"",
+			"videoId":"nnShIOZlw5w",
 			"social":[
 				{
 					"type":"web",
@@ -55,7 +55,7 @@
 			"bio":"<p>Japan-based expert in web usability, accessibility, and information architecture.</p><p>HCD-Net certified human centred design professional.</p><p>English-to-Japanese translator of \"Form Design Patterns (by Adam Silver)\". An invited expert to the Web Accessibility Infrastructure Committee (\"WAIC\" in Japan), for E-to-J translation working group of WCAG and its related \"Understanding…\" and \"Techiniques for…\" documents.</p>",
 			"title":"Inclusive Persona Extension",
 			"description":"<p>I would like to introduce \"Inclusive Persona Extension\", a tool to facilitate the consideration of accessibility in the web design process.</p><p>When conducting UX design using User-Centered (or Human-Centered) Design methodologies, the target user is defined as a persona, but the unspoken common understanding within the project might be that the persona is usually a person with no disability.</p><p>This tool aims to add context (e.g., disabled, aged, used in mobile, etc.) to personas and, by looking at them together, promote awareness of accessibility within the project.</p>",
-			"videoId":"",
+			"videoId":"bz3rxYDYOIw",
 			"social":[
 				{
 					"type":"web",
@@ -75,7 +75,7 @@
 			"bio":"<h4>Pabla Martin Zazú</h4><p>Accessibility specialist, focused on merge accessibility into the product development process. Also working on the WAS (Web Accessibility Specialist) certification translation as a subject matter expert.</p><p>I am interested in generating contributions that imply a social impact in the community, both from a scientific approach, using methodologies to obtain concrete results, as well as generating strategies oriented to digital accessibility.</p><p>My ultimate goal is to be able to provide tools for the empowerment of people with disabilities in today's world.</p><h4>María Soledad Escobar</h4><p>Technology, marketing and creativity are the three pillars in my career and what brought me to be part of the digital revolution. Developing new businesses and transforming the user experience.</p><p>One of my passions is web development. Designing and developing websites so that all users have the same access to information is very important to me. I believe digital accessibility is essential to provide a high quality digital product for businesses and society.</p>",
 			"title":"Disability and inclusion in Latin America: How digital accessibility can remove barriers from job searching websites",
 			"description":"<p>This study’s main goal is to detect the issues that block disabled users’ interactions with websites and how that affects their job search. Using WCAG 2.1 guidelines as support, and measuring recurrent issues presented, we will propose a replicable and scalable methodology of testing, and provide simple solutions to accessibility design related issues that are creating barriers for disabled people.</p><p>It’s everyone’s responsibility to allow work to be accessed in a free and equitable way, like the Human Rights declaration proposes, towards inclusion.</p>",
-			"videoId":"",
+			"videoId":"c-effkHJfU8",
 			"social":[
 			]
 		},
@@ -85,7 +85,7 @@
 			"bio":"<p>With a background in computer science and mathematics, and a great deal of good fortune, my life collided with the web in the early 1990s.</p><p>For nearly 30 years I've developed software and written books, courses, tutorials, and articles for web designers and developers. I speak not infrequently on all things web in Australia and around the world.</p><p>I'm one of the founders of the Web Directions Conferences.</p><p>In 2000, I wrote A dao of web design for A List Apart. Described as \"A manifesto for anyone working on the web\" by Jeremy Keith, and cited as a key inspiration for Responsive Web Design by Ethan Marcotte. It outlined the idea that the Web is its own medium, and we must embrace its characteristics, not decry them as bugs. It's gratifying to have something written so (relatively) long ago still remembered.",
 			"title":"Really inclusive online conferences",
 			"description":"<p>Covid 19 saw in-person events move online, in theory, making them more accessible and inclusive? In practice? Maybe not quite as much.</p><p>At Web Directions we put a great deal of thought and effort into making our online conferences as inclusive and accessible as possible.</p><p>In this presentation I'll look at the decisions that went into our efforts to make our conferences as inclusive as possible, with particular focus on our accessibility efforts–including our ARIA Live Region based accessible slides system, that makes one of the least accessible aspects of any presentation, slides, as accessible as possible.</p>",
-			"videoId":"",
+			"videoId":"RLmmVsg8l4g",
 			"social":[
 				{
 					"type":"web",
@@ -105,7 +105,7 @@
 			"bio":"<h4>Priti Rohra</h4><p>Chief Accessibility Officer at BarrierBreak</p><p>Priti Rohra IAAP CPWA is a veteran in the field of digital accessibility. A person with low vision who entered in the land of digital accessibility 19 years back with perspective of people with visual impairments and their technology needs. Soon she developed keen interest in finding out how people with other types of disabilities access digital content and what are the technology options available for them. This kick started her accessibility journey and helped her to become a keen student in the space of digital accessibility. From assistive technologies to accessibility standards and guidelines and applying</p><p>her expertise across software, web, mobile, documents and many more technologies.</p><p>Priti also worked with the team on drafting India’s National policy for Electronic and Information Communication Technology. She has been a mentor to many accessibility test engineers, developers and subject matter experts. She is passionate about accessibility and with each day, month or year passing by the love for Accessibility is growing!</p><h4>Shashank Kapur</h4><p>Director – Strategy & Growth at BarrierBreak</p><p>A person very passionate about the digital accessibility space, with 4+ years of experience. He has completed his BSc Honors in Financial Economics at University of London and worked at a reputed PE company as a financial analyst prior to this role.</p><p>He has a keen understanding of the various strategies that can be implemented to enable organizations with varying scale and business needs to meet global accessibility norms and be truly inclusive, while being mindful of budgets. He comes from a family background of working in the mental and physical disability space and took to the role very naturally. He is particularly excited about creating an equal playing field for all, working with the existing technologies out in the market. Looking at the Indian context, it really motivates him to keep nurturing people with disabilities as a part of employee group and add to the social benefits created by BarrierBreak and the services offered.</p><p>Driving the growth of BarrierBreak at a point in time when the whole accessibility space is growing multifold are very exciting times, and he looks to keep contributing to the cause positively! Coming of the back of a pandemic and the ever-changing technology landscape, the need to persevere and ensure equal opportunities are provided to all is paramount and he looks to encourage the BarrierBreak vision of creating a limitless future.</p>",
 			"title":"Web Accessibility for Speech Recognition users - A pragmatic approach",
 			"description":"<p>Speech recognition software is used by people with mobility impairments, and they have multiple options today across different operating systems to choose from. Dragon Naturally Speaking is one of the old players and still the preferred choice for many speech recognition users. Both Windows and Mac have in-built speech recognition and so do Android and iOS.</p><p>Keyboard support is the base for making web content accessible for speech recognition users. Apart from keyboard support, keyboard focus, logical tabbing order, descriptive names for links, form controls, buttons as well as custom controls need to be considered for making web content accessible for speech recognition users.</p><p>In this session, we’ll figure out how speech recognition supports different accessibility techniques and what coding practices we should avoid. Additionally, we’ll learn about best practices for enhancing user experiences for speech recognition users.</p><p>We shall take a deep dive to understand what amongst label or title attributes of user interface controls takes precedence as far as speech recognition goes. We shall also explore the level of support for ARIA attributes and the impact of focus visibility for users.</p><p>In our exploration, we shall see how different tools perform including Dragon, Windows Speech Recognition, Mac’s Voice Control, Voice Access on Android, and Voice Control on iOS.</p><p>Based on our exploration, we will learn what works and what practices to avoid as well as how to enhance the user experience for speech recognition users.</p>",
-			"videoId":"",
+			"videoId":"2g9X-QPgZgo",
 			"social":[
 				{
 					"type":"web",
@@ -130,7 +130,7 @@
 			"bio":"<p>Marion is an enthusiastic interaction designer. Driven by curiosity, she cultivates a multidisciplinary background, focusing on usability research, interface and experience design and coding. She is an accessibility expert (CPWA), leading accessibility initiatives at Futurice and for clients.</p>",
 			"title":"The UX of accessibility checklist",
 			"description":"<p>There are many different accessibility checklist you can find on Internet. But what makes a great one? And how can you integrate it to your process? These are the 2 main questions I will cover in this talk. The talk is based on my experience using an accessibility checklist for over a year in my current project. I will explain how I used UX techniques to investigate possible improvement and will cover the outcome of my process.</p>",
-			"videoId":"",
+			"videoId":"F3X6TvfuVW8",
 			"social":[
 				{
 					"type":"web",
@@ -150,7 +150,7 @@
 			"bio":"<p>Mike Herchel is the primary developer and project lead of Drupal’s highly accessible new default theme, called Olivero. Outside of open source contributions, Mike is a Senior Front-end Developer at AVB Digital and has worked on prominent projects such as the Syfy network, SpaceX, Principal Financial, and the US Small Business Association.</p><p>Mike lives in Gainesville, Florida, and loves everything outdoors including hiking, fishing, kayaking, college football, and hammocking. He owns an awesome telescope that’s over 30 years old and uses it as much as Florida’s swampy weather will let him.</p><p>Mike lives with his perfectly wonderful little daughter and one very bad dog that has a habit of sneaking stuff off the kitchen counters.",
 			"title":"Practical Styling in Forced Colors Mode",
 			"description":"<p>Forced colors is when assistive technology actively changes your website’s colors to accommodate people with limited vision. The most common technology that uses this is Windows high contrast mode, which according to Microsoft, is used by 4% of Windows users worldwide.</p><p>Within Drupal 10, we’re creating two new themes that, because of Drupal’s stringent accessibility requirements, need to work perfectly with forced colors mode. During this process, I learned that developing for forced colors mode can be a bit complicated, but there are some concepts and techniques that, once learned, make styling in forced colors much more straightforward.</p><p>Within this session, I’ll walk attendees through</p><ul><li>How forced colors works, and how to style them</li><li>Several accessibility violations that frequently occur in forced colors</li><li>CSS techniques to fix these issues</li><li>How to properly test forced colors mode</li></ul><p>To get the most out of this session, you need to be a little bit familiar with CSS.</p>",
-			"videoId":"",
+			"videoId":"vlx70ABSAP0",
 			"social":[
 				{
 					"type":"web",
@@ -170,7 +170,7 @@
 			"bio":"<h4>Matt Ater</h4><p>Matt is the Vice President of Enterprise Sales, focused on developing our enterprise customers who purchase solutions from TPGi and software from Freedom Scientific to grow our business and create more opportunities to holistically support customers and users alike.</p><p>Most recently, Matt served as the VP of Software and Corporate Business Development, also working to support customers across all brands within the Vispero family of products and services. He brings over 25 years of experience in accessibility support services.</p><h4>Rachael Bradley Montgomery</h4><p>Dr. Rachael Bradley Montgomery has been working in accessibility and usability for over 20 years. She currently serves in the following roles:</p><ul><li>Executive director of Accessible Community</li><li>Digital accessibility architect at the Library of Congress</li><li>Co-chair of the W3C Accessibility Guidelines Working Group</li><li>Adjunct lecturer at University of Maryland’s College of Information Studies (iSchool)</li><li>Affiliate faculty with the Trace Research and Development Center</li></ul><p>Rachael has a PhD from the University of Maryland, College Park and an MS from the University of Illinois, Champaign-Urbana.</p>",
 			"title":"Tips and tradeoffs to designing accessible escape rooms",
 			"description":"<p>Matt and Rachael will discuss the process of designing accessible escape rooms, from planning themes to working out puzzles. They will share lessons learned from the newest accessible escape room and talk about tradeoffs that need to be made when creating something that is intended to be both challenging and accessible.</p>",
-			"videoId":"",
+			"videoId":"VAgKrhNIk2U",
 			"social":[
 				{
 					"type":"web",
@@ -200,7 +200,7 @@
 			"bio":"<p>Catherine Collins is a designer, action researcher and founder of Moxie who specializes in including people with lived experience in the design process. At the social impact agency Moxie, Catherine works with organizations and communities to understand and act on social challenges. Previous collaborations range from understanding the experience employees at U.S. Bank Stadium have had with homelessness, to re-imaging benefits with early childhood educators in Vermont, to improving job placement programs with recently arrived migrants in Sweden. Prior to Moxie, Catherine co-led and scaled an award-winning design thinking & entrepreneurship program for Middlebury College and worked on the startup and investment side of entrepreneurship. She regularly teaches at design schools like The Royal College of Art in London and Minneapolis College of Art and Design.</p>",
 			"title":"Power and Participation in Research",
 			"description":"<p>Participation in the design process by people with lived experience is essential for ethical and sustainable measures. At the same time, it is not enough to invite people to participate without considering power and the methods needed to help reconfigure power throughout the research process. “Participation is by definition power-laden” (Pettit, 2021, p.277).</p><p>There are varying degrees to which people with lived experience are asked to participate in design processes. On one end of the participation continuum people with lived experience partake as subjects of the research as interviewees. On the other end, lived experience experts are active participants of the design team. We have seen that it is not enough to invite people to participate without considering power and the methods needed to help reconfigure power throughout the design process. This talk will cover how to go beyond performative or tokenistic participation to meaningful participation.</p>",
-			"videoId":"",
+			"videoId":"RCzKqvDAkmo",
 			"social":[
 				{
 					"type":"web",
@@ -225,7 +225,7 @@
 			"bio":"<p>Like no other engineer in the Netherlands, Johan knows how to integrate accessibility as a starting point in every digital product development. By thinking in terms of opportunities and inclusivity instead of limitations, his work at Dutch tech company Q42 is groundbreaking in many ways.</p><p>Johan’s main point: not only people with a long-term disability are confronted with situations in which interaction with digital tools is more difficult. Visual and other impairments affect everyone who is confronted with a situation in which they temporarily cannot see, look, use their hands, et cetera. In this way, Johan links accessibility to user-friendliness, broadening the target group.</p>",
 			"title":"The indisputable truth about accessibility",
 			"description":"<p>Why is it so damn hard to convince others about the importance of a11y?</p><p>As a developer with a strong focus on a11y, I often feel lonely. There isn’t any data available to prove me right. That’s why I started a research on how many people actually use a11y features on their mobile devices. The results were stunning: almost 50% of the 1.5 million people use one or more of these settings.</p><p>In my talk I will share the insights and learnings from this research. This helped me to convince others to focus on a11y from the beginning. Now it will help you, too.</p>",
-			"videoId":"",
+			"videoId":"iD7bqZ7K5VQ",
 			"social":[
 				{
 					"type":"web",
@@ -250,7 +250,7 @@
 			"bio":"<p>Rachel runs her own neurodiversity consultancy Sparkle Class. She trains companies on how to reach, recruit and develop neurodiverse staff, and she also helps people build on their strengths whilst overcoming their challenges. She’s autistic, mildly dyspraxic, and has ADHD. Rachel has authored a booklet, produced an award-winning poster on autism, and co-founded the Neurodiversity Association. She plays football, loves nature, and is obsessed with food.</p>",
 			"title":"How to be inclusive to neurodiverse people",
 			"description":"<p>This is an interactive workshop showing you some really easy things you can start doing today to be more inclusive to people with ADHD, autism, dyslexia and dyspraxia. First there’s an overview of the different neurodiverse conditions, then we talk about why inclusion is important, then finally you’ll be given 7 tips on how you can be more inclusive. Interaction is optional and if you’d like to join in, please bring a pen and paper.</p>",
-			"videoId":"",
+			"videoId":"scKW7gwRZ9Q",
 			"social":[
 				{
 					"type":"web",
@@ -265,7 +265,7 @@
 			"bio":"<p>Kate is a Lead Service Designer specialising in inclusive and ethical design and delivery. She works in Service Design consultancy for global digital transformation company Mastek . Recently, she has been leading on Accessibility, Inclusive &amp; Equitable Design within the UK's national COVID-19 testing roll-out, in NHS Digital.</p>",
 			"title":"Dangerous Design: Why We Need to Think about Design Ethics",
 			"description":"<p>What do we mean when we talk about ethical design? And why is it important? This talk will give some concrete examples of where tech has gone wrong, and give you some practical tips for how you can design with ethics in mind.</p>",
-			"videoId":"",
+			"videoId":"gN3sLpSqwu8",
 			"social":[
 				{
 					"type":"web",
@@ -285,7 +285,7 @@
 			"bio":"<p>Clare Sudbery is an independent technical coach with 22 years of software engineering experience. She specialises in <abbr title=\"Test Driven Development\">TDD</abbr>, refactoring, continuous integration and other eXtreme Programming (XP) practices.</p><p>In 2009, Clare abandoned IT to retrain as a high school maths teacher… but quickly returned to software, gaining new energy via XP. Clare runs the Coding Black Females’ Return to Tech programme and co-ran Made Tech’s academy. She has a passion for helping under-represented groups to flourish in tech.</p><p>Clare hosted Season One of the acclaimed <a href=\"https://www.madetech.com/resources/podcasts/\">Making Tech Better</a> podcast. She’s also a published novelist and has presented workshops and talks at several national and international events and conferences.</p>",
 			"title":"Let's stop making each other feel stupid",
 			"description":"<p>We work in an industry where we judge one another constantly for being stupid. And yet, there are a million different paths through software development. The skills we don’t need now are necessarily forgotten, or delegated to someone else. And that’s fine.</p><p>Instead of judging people for their ignorance, let’s help them to feel excited about all the new things they’ll discover. Instead of saying “For God’s sake, you don’t know that?” let’s say “Fantastic! Lucky you. You get to learn something. What can I do to help?”</p>",
-			"videoId":"",
+			"videoId":"aZLpNBxHZ34",
 			"social":[
 				{
 					"type":"web",
@@ -315,7 +315,7 @@
 			"bio":"<p>Linda is a web developer and speaks a minority language, Irish.  Linda has worked as both a software developer and designer on large complex multi-lingual web applications both at home (Ireland) and in Norway.   Her work as a User Experience Leader on large localisation projects coupled with her work in web accessibility has given her a particular insight into  effective approaches and strategies for improving web experiences in minority languages.</p><p>Most recently she released an Irish language version of the viral game Wordle.</p>",
 			"title":"Making the web a more welcoming place for minority languages",
 			"description":"<p>The web can be a very frustrating place for minority language users often forcing us to abandon our language and adopt a dominant language.  Advances in AI and natural language processing has led to major advancements in inclusivity and accessibility for dominant languages but, minority languages are being left behind.</p><p>The technical challenges for minority languages can seem insurmountable; research & development is often market driven, and by definition, minority languages can’t promise large profits to Big Tech and so are overlooked.  However, in this talk I will instead focus on some of the smaller steps that we as designers and technologists can take to make the web a more inclusive and welcoming place for our minority language users.  Are our current accessibility practices improving minority language inclusion?  How can we avoid dominant language biases in our localisation practices, and are we designing interfaces for cultural inclusion?</p>",
-			"videoId":"",
+			"videoId":"CilUEp5EkNg",
 			"social":[
 				{
 					"type":"twitter",
@@ -330,7 +330,7 @@
 			"bio":"<p>Melissa Eggleston is a user experience (UX) designer and researcher with a content strategy background. She currently works for the U.S.Digital Service and also teaches on website topics at Birdcall and the University of North Carolina at Chapel Hill. For the last ten years she has spoken about website topics at events throughout the U.S.</p><p>In 2009, Melissa received her master’s degree from UNC-Chapel Hill’s School of Media and Journalism. She has developed websites and content for the Bill & Melinda Gates Foundation, Duke University, Bloomberg News and many other organizations. Melissa teaches UX classes for Girl Develop It Raleigh-Durham and co-organizes the Ladies that UX Durham group.</p><p>She has been exploring how to make websites trauma-informed since winning a design grant from Aquent in 2017. Since then Melissa has worked on digital products for people who have experienced sex trafficking, substance abuse problems, interpersonal violence, and various health challenges. She envisions a world where tech only helps and does not harm people.</p>",
 			"title":"Trauma-informed Website Design",
 			"description":"<p>If a doctor, therapist, or police officer can communicate in a trauma-informed way, why can’t a website? If you serve people who have survived trauma (which is a huge portion of the global population,) is your website helping them feel empowered to take the next step toward positive change? Or are you aggravating the symptoms of trauma itself?</p><p>Let's consider the overlapping principles of user experience (UX) and SAMHSA’s Six Key Principles of a Trauma-Informed Approach. What might a trauma-informed website look like? Keeping in mind the neurological, social, and physiological effects of trauma, we’ll discuss what website features may be user-friendly and what’s likely just frustrating.</p><p>Learn about building trust online, considering context, accessible content, and more. We’ll look at website examples to understand what to do and what to avoid.</p><p>In this session, you'll gain practical tips, free tools, and places for further learning. Walk away with concrete plans to make your website more trauma-informed.</p>",
-			"videoId":"",
+			"videoId":"Doxvsv31wOg",
 			"social":[
 				{
 					"type":"web",
@@ -360,7 +360,7 @@
 			"bio":"<p>As ExxonMobil's Principal Design Program Manager, I enable thousands of people to practice design and build meaningful connections worldwide.</p><p>I'm disabled and on the spectrum, and I'm incredibly passionate about designing inclusive experiences and scaling design across the enterprise.</p><p>I started my design journey when I was twelve years old by creating a website about space and cats: two topics that delight me to this day.</p>",
 			"title":"Design on the Spectrum: Creating a More Inclusive Workplace",
 			"description":"<p>When the world turned upside down, my life and work turned right side up. For the first time in my life, my disabilities didn't hold me back as companies shifted the way they work. Outdated, inflexible work boundaries no longer constrained me, and I could finally work in a way that worked for me. This shift leveled the playing field for my global team: with new technology and work flexibility; it didn't matter if people were in Bengaluru or Budapest to design incredible experiences at scale. I was more connected to my team and more successful in my career than ever before.</p><p>Whether you are a team of one or part of a massive corporation, anyone can apply the tips I'll share to design more inclusive experiences and ways of working to adapt to whatever challenges you are facing.</p>",
-			"videoId":"",
+			"videoId":"yLRl0ry5O0Y",
 			"social":[
 				{
 					"type":"web",
@@ -380,7 +380,7 @@
 			"bio":"<h4>Annabel Weiner</h4><p>Annabel is a Senior Inclusive Design Specialist at Ally Financial, focused on accessibility user research and accessible design systems. She is dedicated to providing the best experience for all users regardless of their ability or device. Annabel was excited to lead the research efforts on the wizard of oz screen reader usability tests, which allowed the team to gain valuable feedback before projects go into development.</p><h4>Courtney Benjamin</h4><p>Courtney Benjamin is the Senior Accessibility Testing Process Analyst for Ally Financial. She develops and promotes the adoption and integration of accessibility policies, procedures, and standards across all lines of business, in order to improve testing of Ally’s digital products. Courtney enjoys pairing innovation with accessibility which led to her collaboration efforts on the Wizard of Oz research project which aims to gather customer feedback from screen reader users, prior to page development.</p>",
 			"title":"Removing Bias with Wizard of Oz Screen Reader Usability Testing",
 			"description":"<p>Wizard of oz is a proven testing method for systems like chat, voice assistants, and IVR, but how can we adapt it for screen reader testing? In this usability method, a researcher acts as the “wizard” and responds as a screen reader would respond based on how a user chooses to navigate. This is a valuable way to receive feedback early on in the design phase, instead of waiting to conduct screen reader testing until after the web page has been fully developed. Learn about our process, trials and errors, and successes we’ve had in adapting the wizard of oz method for screen readers.</p>",
-			"videoId":"",
+			"videoId":"lCuK_djeCtg",
 			"social":[
 				{
 					"type":"linkedin",
@@ -400,7 +400,7 @@
 			"bio":"<p>Malcom Glenn is a writer, keynote speaker, and equity consultant. He’s the Founder of MG Equity Consulting, an advisory firm that helps organizations embed equity in everything they do, inside and out. He’s a Fellow at New America, as well as a Senior Fellow at the Center for Workforce Inclusion. Malcom was previously the Head of Global Policy for Accessibility and Underserved Communities at Uber, and before that, he was an executive communications manager for Google’s chief financial officer. Learn more about Malcom at www.malcomglenn.com.</p>",
 			"title":"Beyond the Water’s Edge: Integrating DEI Into Orgs’ External-Facing Work",
 			"description":"<p>In the aftermath of George Floyd’s murder in 2020, many organizations announced a newfound commitment to internal diversity, equity, and inclusion (DEI). But those pronouncements felt insufficient, and largely failed to acknowledge that DEI work is irrelevant if only focused on internal change. Because worthwhile DEI work cannot stop at the proverbial water’s edge; it must take into account output, e.g. how equity is integrated into a company’s products, platforms, policies, and other external-facing work. Malcom has spent his career helping organizations focus on external output, and will share his insights from over the years.</p>",
-			"videoId":"",
+			"videoId":"RvsBnhGvP2c",
 			"social":[
 				{
 					"type":"web",
@@ -420,7 +420,7 @@
 			"bio":"<p>Zariah Cameron is a recent Graphic Design graduate, at North Carolina A&T State University. She’s been a self-taught UX Designer for over 2 years. She aims to cultivate a sense of community within her work and amplify the voices and stories of marginalized communities. She has a passion for strategically placing equity and inclusivity at the forefront of her design work. She recently became the first “Equity Centered UX Strategist”, at Ally Financial where she is helping to drive an Inclusive Design methodology for the design organization. ",
 			"title":"Performative Equity & Inclusion",
 			"description":"<p>Inclusion, Inclusive design, and Equity has become a hot topic over the last few years, and rather watered down. It's become more of just a buzzword to say, rather than authentically implementing it into our practices and processes, both externally to our customers, and internally to our design employees. This talk explores the harmful realities and truths of Performative Inclusion, and future actions to take that will turn your performance into real practice.</p>",
-			"videoId":"",
+			"videoId":"O-Njl4fNHLQ",
 			"social":[
 				{
 					"type":"linkedin",
@@ -435,7 +435,7 @@
 			"bio":"<p>I am a UX Researcher & Designer based in Luxembourg. I have 12+ years of experience and specialise in enterprise UX and mobile. I teach, speak and write about design, ux research, accessibility, cognitive biases, design-dev relationship, etc. I enjoy good tea, bike rides, and drawing illustrations. My D&D alignment is chaotic neutral and I am better at keeping my teammates alive in video games than my plants. But I try.</p><p>Don't hesitate to reach out to her for questions about research and design!",
 			"title":"A designer’s guide to documenting accessibility",
 			"description":"<p>Accessibility is unfortunately still an afterthought on many projects. User interaction and accessibility requirements are poorly documented, at best. Or forgotten, when handing over designs to developer teams. Why fix it later, when you could do it right to start with? Great documentation helps teams implement accessibility requirements the right way. Let’s talk about why, what and how designers can document different aspects of accessibility and user interactions requirements.</p>",
-			"videoId":"",
+			"videoId":"eDCd-isluUY",
 			"social":[
 				{
 					"type":"web",
@@ -455,7 +455,7 @@
 			"bio":"<p>Scott is an accessibility specialist at Shopify. He spends his days auditing digital experiences for accessibility and discussing inclusive design principles with team leads, designers, developers, content strategists, partners, and legal teams.</p><p>In his spare time, Scott runs an online store and writes about web accessibility at ScottVinkle.me. He enjoys snowboarding in the winter, mountain biking in the summer, and spending time with his wife and two children.</p>",
 			"title":"An inclusive design workflow for teams",
 			"description":"<p>People expect websites and apps to be fast, to \"just work\" on their device, and to keep their sensitive data secure. But what about accessibility? Yes, people expect accessible user experiences, too. As a product team, how do we go about providing this?</p><p>In this talk, Scott Vinkle will share his experience while working with Shopify's Flagship Themes team. Scott will explain how he implemented a new team-wide workflow which included accessibility in each aspect of the product creation lifecycle. This resulted in the team shipping highly accessible themes by default.</p>",
-			"videoId":"",
+			"videoId":"oyTD1-guxEQ",
 			"social":[
 				{
 					"type":"web",
@@ -475,7 +475,7 @@
 			"bio":"<h4>Laura Brady</h4><p>Laura Brady is an accessibility expert whose priority is always to put users first. She brings more than 25 years of trade publishing experience to this role. For the past fifteen years, she has worked in digital publishing creating and converting ebooks, training publishers on accessible workflows, writing a blog helping developers work more accessibly, and consulting for services organizations about how to publish inclusively while worrying about everyone's reading experience. A sought-after consultant, trainer, and public speaker, Laura advocates with government funders, accessible library organizations, and publisher associations for inclusive publishing issues. Laura is also active at sharing knowledge, building communities, and calling stakeholders in through community groups like #eprdctn, the NNELS Accessible Publishing Summit, and ebookcraft, in addition to serving on the eBound and Accessible Books Consortium’s board of directors.</p><h4>Tzviya Siegman</h4><p>Tzviya Siegman is Wiley’s Information Standards Principal. Tzviya serves as Wiley’s liaison to industry standards groups. She currently works in Wiley’s Architecture Strategy Group, joining her interests in content structure, standards, accessibility, and data. Tzviya co-chairs the W3C Publishing Steering Committee and chairs the W3C Advisory Board, helping to make the web and publishing better friends.</p>",
 			"title":"360° Accessible Book Publishing",
 			"description":"<p>The work of accessible publishing often falls squarely and solely on the shoulders of production staff. And this is a problem. In order for the needle to be meaningfully moved on accessibility, the work of publishing inclusively must permeate a publishing house, with the meaningful involvement of editors, designers, marketing, and sales being critical pieces of the puzzle. In this talk, we will go through some accessibility actions for everyone in the publishing industry.</p>",
-			"videoId":"",
+			"videoId":"qbscgDtIZC0",
 			"social":[
 				{
 					"type":"web",
@@ -500,7 +500,7 @@
 			"bio":"<h4>Josh Kim</h4><p>Josh is an accessibility lead at VA.gov (Veterans Affairs) responsible for guiding accessibility beyond compliance, inclusive research, and trauma-informed strategy. He has a passion for inclusive research operations, design justice, and radical participatory design within the context of government services and technology. In his spare time, Josh volunteers with both his local professional (AIGA DC) and neighborhood (Community Art for Everyone) design organizations with the vision of co-designing more inclusive spaces for everyone from the grassroots level.</p><h4>Maureen Barrientos</h4><p>Maureen is a UX Researcher with Google, where she works towards improving internal products for employees with disabilities. Prior to UX, she performed research with the Veterans Health Administration and UCSF to promote equitable and culturally competent services for Latino and African American older adults and Veterans with disabilities. In her spare time, she loves mentoring academics on transitioning into tech, where they can still approach their work from a social justice angle and solve systemic issues.</p>",
 			"title":"Building UX research practices for inclusion",
 			"description":"<p>Research with disabled people is often seen as the final destination for accessibility beyond compliance, but is it actually enough?</p><p>Join Maureen, former behavioral researcher turned UXR, and Josh, an accessibility lead at Veterans Affairs, for a deep dive into the common pitfalls of inclusive UX research from the projection bias of expert testers to the unequal distribution of power during analysis. They’ll share actionable guidance on how to further mature an inclusive research practice from purposeful sampling strategies to intersectional awareness and equitable hiring practices.</p>",
-			"videoId":"",
+			"videoId":"PzOQgb2rqnM",
 			"social":[
 				{
 					"type":"web",
@@ -523,7 +523,7 @@
 			"datetime":"September 23, 2022 00:00 UTC",
 			"title":"The after party / closing",
 			"description":"<p>Your hosts will discuss their favourite sessions from the last 24 hours, and might have a drink or two!</p>",
-			"videoId":""
+			"videoId":"3i7IDxAZbFw"
 		}
 	]
 }
