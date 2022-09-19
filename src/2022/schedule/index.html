@@ -13,6 +13,11 @@
 <h1>Schedule</h1>
 
 <p>No sign-up. No registration. All sessions are streamed live and publicly on the <a href="https://www.youtube.com/inclusivedesign24">Inclusive Design 24 YouTube channel</a>{% if 2022.event.playlistId and 2022.event.playlistId != "" %} – see the <a target="_blank" rel="noopener" href="https://www.youtube.com/playlist?list={{ 2022.event.playlistId }}">entire playlist for the event</a>{% endif %}.</p>
+
+<section id="countdown" class="hidden" aria-live="polite" aria-atomic="true">
+  The event will start in <span id="countdown_timer"></span>
+</section>
+
 <p>All sessions include automated live closed captions. After the event, these are replaced by manually edited closed captions. Unfortunately, we are not able to provide sign language interpreters for the event.</p>
 
 <div id="time_machine">
@@ -93,6 +98,13 @@
 
 <!-- Custom script to handle schedule UTC/local time adaptation and disclosure widgets -->
 <script src="/2022/scripts/flux.js"></script>
+
+<script src="/2022/scripts/countdown.js"></script>
+<script>
+if (document.getElementById("countdown_timer")) {
+    countdown(new Date("Sept 21, 2022 23:30:00 UTC+0").getTime(), document.getElementById("countdown_timer"));
+}
+</script>
 
 {% include 'google.html' %}
 
