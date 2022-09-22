@@ -266,6 +266,11 @@
 					"type":"web",
 					"url":"https://sparkleclass.com",
 					"text":"sparkleclass.com"
+				},
+				{
+					"type":"twitter",
+					"url":"https://twitter.com/rachelmtrimmer",
+					"text":"@rachelmtrimmer"
 				}
 			]
 		},
