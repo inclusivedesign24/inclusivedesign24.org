@@ -92,7 +92,7 @@ header, main, footer, section, nav, main, aside { display: block; }
         -ms-grid-column: 9;
         -ms-grid-column-span: 6;
         -ms-grid-row: 1;
-        grid-column: 5/8;
+        grid-column: 4/8;
         grid-row: 1;
     }
 
