@@ -1,0 +1,804 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,700|Roboto+Slab:300,400,700&subset=latin-ext');
+
+/* generic styles */
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Roboto Slab, Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 1.25em;
+    background: #242424;
+    color: #ddd;
+    overflow-anchor: none; /* suppress new scroll anchoring behavior that causes issues with disclosure widgets */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #fff;
+}
+
+h1, h2 {
+    font-size: 1.5em;
+}
+
+abbr[title], acronym[title] {
+    text-decoration: none;
+}
+
+cite {
+    color:#ffe400;
+    font-style: normal;
+}
+
+/* inline SVG icons */
+
+svg.icon {
+    fill:currentColor; /* for outlined SVGs (otherwise use stroke) */
+    width: 1rem;
+    height: 1rem;
+    vertical-align: -0.1em; /* tweaks vertical alignment next to text */
+}
+
+/* IE11 patch */
+
+header, main, footer, section, nav, main, aside { display: block; }
+
+@media (min-width: 64rem) {
+
+    /* grid layout */
+
+    header, footer  {
+        margin: 0;
+        display: -ms-grid;
+        -ms-grid-columns: minmax(1rem, 1fr) 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem 4.25rem 1rem minmax(1rem, 1fr);
+        display: grid;
+        grid-template-columns: minmax(1rem, 1fr) repeat(12, 4.25rem) minmax(1rem, 1fr);
+        grid-column-gap: 1rem;
+    }
+
+    header {
+        align-items: end;
+    }
+
+    header > *, footer > * {
+        -ms-grid-column: 3;
+        -ms-grid-column-span: 24;
+        grid-column: 2/14;
+    }
+
+    header #logo {
+        -ms-grid-column: 3;
+        -ms-grid-column-span: 10;
+        -ms-grid-row: 1;
+        grid-column: 2/7;
+        grid-row: 1;
+    }
+
+    header #mainnav {
+        -ms-grid-column: 13;
+        -ms-grid-column-span: 27;
+        -ms-grid-row: 1;
+        grid-column: 8/14;
+        grid-row: 1;
+        -ms-grid-row-align: end;
+    }
+
+    footer {
+        align-items: start;
+    }
+
+    footer nav#footer-social {
+        -ms-grid-column: 9;
+        -ms-grid-column-span: 6;
+        -ms-grid-row: 1;
+        grid-column: 4/8;
+        grid-row: 1;
+    }
+
+    footer nav#footer-ancilliary {
+        -ms-grid-column: 15;
+        -ms-grid-column-span: 7;
+        -ms-grid-row: 1;
+        grid-column: 8/12;
+        grid-row: 1;
+    }
+
+    footer #logo_hashtag {
+        -ms-grid-column: 22;
+        -ms-grid-column-span: 4;
+        -ms-grid-row: 1;
+        grid-column: 12/14;
+        grid-row: 1;
+
+    }
+
+    main {
+        margin: 0;
+        display: -ms-grid;
+        -ms-grid-columns: minmax(1rem, 1fr) 62rem minmax(1rem, 1fr);
+        display: grid;
+        grid-template-columns: minmax(1rem, 1fr) 62rem minmax(1rem, 1fr);
+        grid-column-gap: 1rem;
+    }
+
+    main > * {
+        -ms-grid-column: 2;
+        grid-column: 2;
+    }
+}
+
+/* ugly IE hack for SVG sizing */
+
+@media screen and (min-width:0\0) {
+    footer #logo_hashtag svg {
+        height: 55px; 
+    }
+}
+
+/* specific styles */
+
+nav {
+  padding-bottom: 1em;
+}
+
+nav ul {
+  padding-left: 0;
+}
+
+nav ul li {
+  padding-right: 0.75em;
+}
+
+header p {
+    color: #999;
+    margin: 0;
+}
+
+main li {
+  margin-bottom: 1em;
+}
+
+
+footer {
+    font-size: 1rem;
+}
+
+a {
+    text-decoration: none;
+    border-bottom: rgba(255, 228, 0, 0.5) 1px solid;
+}
+
+a, a:link, a:visited {
+    color: #ffe400;
+}
+
+a:focus, a:hover, a:active {
+    background: #ffe400;
+    color: #282828;
+    padding: 0 2px; /* using px rather than em, as 0.25em / -0.25em seems to have rounding issues leading to subtle sub-pixel dancing */
+    margin: 0 -2px;
+    outline: none;
+}
+
+header {
+    background: #ffe400;
+    padding-top: 2rem;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+header #mainnav {
+    text-transform: capitalize;
+    font-size: 1.25rem;
+    word-spacing: -0.1em;
+    text-align: right;
+}
+
+header #mainnav ul,
+header #mainnav ul li {
+    display: inline;
+}
+
+header #mainnav a {
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+main {
+    padding: 2em 0 4em 0;
+}
+
+strong {
+    color: #242424;
+    background: #ffe400;
+    padding: 0 0.25em;
+    white-space: nowrap;
+}
+
+#supporters {
+    text-align: center;
+    background-color: #282828;
+    border-top: 2px #444 solid;
+    padding-bottom: 1em;
+}
+
+#supporters ul, #supporters li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+
+#supporters h3 {
+    text-transform: uppercase;
+    font-size: 0.75em;
+}
+
+#supporters h3 span {
+    border-bottom: 1px solid #ffe400;
+    padding: 0 1em;
+}
+
+#supporters img {
+    max-height: 150px;
+    max-width: 250px;
+    vertical-align: middle;
+}
+
+#supporters a {
+    text-decoration: none;
+    border-bottom: 0;
+}
+
+#supporters a:focus,
+#supporters a:hover,
+#supporters a:active {
+    background: none;
+}
+
+#supporters a:focus img {
+    outline: 2px solid #ffe400;
+}
+
+/* supporter perks table */
+
+.supporter-perks {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.supporter-perks td span {
+    display: none;
+}
+
+.supporter-perks thead th:first-of-type {
+    width: 60%;
+}
+
+.supporter-perks thead th {
+    color: #ffe400;
+    width: 10%;
+    padding: 0.1em;
+}
+
+.supporter-perks th, .supporter-perks td {
+    border-bottom: 1px #444 solid;
+    padding: 0.5em 0;
+    min-width: 3em;
+}
+
+.supporter-perks th {
+    font-weight: 300;
+    text-align: left;
+    font-size: 0.85em;
+}
+
+.supporter-perks thead th, .supporter-perks td {
+    text-align: center;
+}
+
+.supporter-perks tr {
+    border-bottom: 1px #888 solid;
+}
+
+@media (max-width: 28em) {
+    .supporter-perks {
+        display: inline-block;
+        width: calc(100vw - 2rem);
+        overflow: auto;
+    }
+
+    .supporter-perks, .supporter-perks tr, .supporter-perks th, .supporter-perks td, .supporter-perks tbody {
+        display: block;
+        border: none;
+        min-width: auto;
+    }
+
+    .supporter-perks td {
+        display: inline-block;
+    }
+
+    .supporter-perks tr {
+        border-bottom: 1px #444 solid;
+        margin-bottom: 1em;
+        padding-bottom: 1em;
+    }
+
+    .supporter-perks td:empty {
+        display: none;
+    }
+
+    .supporter-perks td span {
+        display: inline-block;
+        background: #555;
+        color: #fff;
+        font-size: 0.75em;
+        margin: 0;
+        padding: 0.5em;
+        border-radius: 1em;
+        min-width: 5em;
+        text-align: center;
+    }
+
+    .supporter-perks thead, .supporter-perks td svg {
+        display: none;
+    }
+}
+
+
+footer {
+    background: #111;
+    padding: 2rem 0;
+}
+
+footer nav ul,
+footer nav ul li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+footer nav ul li {
+    padding: 0 0 0.25rem 0;
+}
+
+header nav a:focus,
+header nav a:hover,
+header nav a:active {
+    border-bottom: 0.25em solid #998000;
+}
+
+header nav a[aria-current] {
+    border-bottom: 0.25em solid #111;
+}
+
+header #mainnav a[aria-current]:focus {
+    outline: 2px #998000 solid;
+}
+
+footer nav a[aria-current] {
+    text-decoration: none;
+    border-bottom: 0.25em solid;
+}
+
+button, .session .videostream {
+    font-family: Roboto Slab, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline;
+    padding: 0 0.25em;
+}
+
+.session .videostream:focus,
+.session .videostream:hover,
+.session .videostream:active {
+    padding: 0 0.25em;
+    margin: 0;
+}
+
+#signup, #connect, #archive {
+    display: block;
+    max-width: 14em;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 0.5em;
+    background: #ffe400;
+    border: 3px #ffe400 solid;
+    color: #282828;
+    border-radius: 0.25em;
+    margin: 1em auto;
+    text-decoration: none;
+}
+
+#signup:focus, #connect:focus, #archive:focus,
+#signup:hover, #connect:hover, #archive:hover,
+#signup:active, #connect:active, #archive:active {
+    background: #282828;
+    color: #ffe400;
+    text-decoration: underline;
+    outline: none;
+}
+
+#archive { width: 15em; }
+
+#signup:focus, #signup:hover {
+    background: #0B3160;
+    outline: none;
+}
+
+#intro p, section p {
+    line-height: 1.5;
+    font-size: 0.9em;
+}
+
+main > p, main > div > p {
+    line-height: 1.5;
+}
+
+section h2 {
+    border-bottom: 1px solid #777;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+.session {
+    position: relative;
+    margin: 0 -0.5em;
+    padding: 2em 0.5em 2em 9em;
+    border-bottom: 1px #444 solid;
+}
+
+.session.now {
+    border-left: 0.5rem solid #ffe400;
+    position: relative;
+    left: -0.5rem;
+}
+
+.session h2 {
+    margin: 0 0 0.25em 0;
+    font-size: 1.2em;
+    border: none;
+    cursor: pointer
+}
+
+.session h3 {
+    font-size: 1em;
+    color: #fcfcfc;
+}
+
+.session button, .session .videostream {
+    border: none;
+    background: transparent;
+    font-size: 0.8em;
+    color: #ffe400;
+}
+
+.session h2:hover + button,
+.session button:focus, .session button:hover,
+.session .videostream:focus, .session .videostream:hover {
+    outline: 2px #ffe400 solid;
+}
+
+.session_time {
+    position: absolute;
+    top: 0.85em;
+    left: 0.25em;
+    font-size: 2em;
+    font-weight: normal;
+    line-height: 1;
+}
+
+.session_time_local {
+    font-weight: bold;
+}
+
+.session_time .session_time_local_ampm {
+    font-size: 0.3em;
+    text-transform: uppercase;
+}
+
+.session_time_offset {
+    font-size: 0.3em !important;
+}
+
+.session_time .session_day_local,
+.session_time .session_time_offset {
+    font-size: 0.45em;
+    display: block;
+    line-height: 0.9;
+}
+
+.session_time .session_day_local {
+    margin-bottom: 0.5em;
+    padding-left: 0.1em;
+    font-size: 0.3em !important;
+    color: #999;
+}
+
+.session_time .session_day_local.datechange {
+    color: #fff;
+    font-size: 0.45em !important;
+    padding-top: 0.2em;
+    line-height: 0.5;
+}
+
+.session_time .session_time_offset {
+    color: #999;
+}
+
+#time_machine {
+    color: #ffe400;
+    margin-bottom: 0.5em;
+}
+
+.session_time .now {
+    display: block;
+    font-size: 0.3em;
+    color: #ffe400;
+    font-weight: bold;
+    margin: 0.85em 0 -0.55em 0;
+}
+
+.session_details {
+    border-left: 1px #999 solid;
+    padding-left: 1em;
+}
+
+.session_presenter,
+.session_title {
+    display: block;
+}
+
+.session_presenter {
+    font-weight: normal;
+    color: #ffe400;
+}
+
+.session_abstract {
+    margin-top: 1em;
+    color: #bbb;
+}
+
+.session_presenter_bio {
+    margin-top: 1em;
+    color: #bbb;
+}
+
+.session ul.pres_info {
+    padding: 0;
+    margin: 1em 0 0 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.session ul.pres_info li {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 1em 0 0;
+}
+
+.session ul.pres_info li a {
+    text-decoration: none;
+    word-break: break-all;
+}
+
+.team dt {
+    margin: 1em 0 0 0;
+}
+
+.team dd {
+    margin-inline-start: 0;
+    display: inline;
+    margin-right: 0.5em;
+}
+
+a.youtube {
+    text-decoration: none;
+}
+
+a.slides {
+    text-decoration: none;
+}
+
+#countdown {
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: 1.5em;
+}
+
+#countdown_timer {
+    color: #242424;
+    background: #ffe400;
+    padding: 0 0.25em;
+    white-space: nowrap;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.visually-hidden {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+/* adaptations for smaller screens */
+
+@media (max-width: 64rem) {
+    body {
+        font-size: 1.1em;
+    }
+
+    /* grid layout (and no subgrids) */
+
+    header, main, footer {
+        display: -ms-grid;
+        -ms-grid-columns: 1rem 1fr 1rem;
+        display: grid;
+        grid-template-columns: 1rem 1fr 1rem;
+    }
+
+    header #logo {
+        -ms-grid-column: 2;
+        -ms-grid-row: 1;
+        grid-column: 2;
+        grid-row: 1;
+    }
+
+    header #mainnav {
+        -ms-grid-column: 2;
+        -ms-grid-row: 2;
+        grid-column: 2;
+        grid-row: 2;
+        text-align: left;      
+    }
+
+    main > * {
+        -ms-grid-column: 2;
+        -ms-grid-row: 1;
+        grid-column: 2;
+        grid-row: 1;
+    }
+
+    footer nav#footer-social {
+        -ms-grid-column: 2;
+        -ms-grid-row: 1;
+        grid-column: 2;
+        grid-row: 1;
+    }
+
+    footer nav#footer-ancilliary {
+        -ms-grid-column: 2;
+        -ms-grid-row: 2;
+        grid-column: 2;
+        grid-row: 2;
+    }
+
+    footer #logo_hashtag {
+        -ms-grid-column: 2;
+        -ms-grid-row: 3;
+        grid-column: 2;
+        grid-row: 3;
+        text-align: right;
+    }
+
+    footer nav ul li {
+        padding: 0 0 1rem 0;
+    }
+
+    h1 {
+        font-size: 1.25em;
+    }
+
+    h2 {
+        line-height: 1;
+    }
+
+    header {
+        padding-top: 1rem;
+    }
+    
+    div#logo img {
+        max-width: 20rem;
+    }
+
+    footer #logo_hashtag img {
+        max-width: 10rem;
+    }
+    
+    header nav {
+        margin-top: 0.5rem;
+    }
+    
+    main ul {
+        padding-left: 1.5rem;
+    }
+    .session h2 {
+        line-height: 1.25;
+    }
+
+    .session {
+        padding: 1.5em 0 1.5em 0.5em;
+        margin: 0;
+    }
+
+    .session.now {
+        padding-left: 0.75rem;
+        left: -0.75rem;
+    }
+
+    .session_time {
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+
+    .session_time .session_time_local_ampm {
+        font-size: 0.4em;
+    }
+
+    .session_time .session_day_local,
+    .session_time .session_time_offset {
+        display: block;
+    }
+
+    .session_time .session_time_offset {
+        margin-bottom: 1em;
+    }
+
+}
+
+@media (max-width: 35em) {
+    header #mainnav {
+        margin: 0;
+        padding: 0;
+        text-align: left;
+    }
+
+    header #mainnav a {
+        display: block;
+        margin-bottom: 10px; /* em/rem lead to pixel dancing/rounding issues :( */
+    }
+
+    header #mainnav a:focus,
+    header #mainnav a:hover,
+    header #mainnav a:active,
+    header #mainnav a[aria-current] {
+        margin-bottom: 5px;
+        border-bottom-width: 5px;
+    }
+
+    header #mainnav ul, header #mainnav ul li {
+        display: block;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+    
+    .supporter_name img {
+        max-width: 90%;
+        margin: 0;
+        padding: 0;
+        display: block;
+    }
+
+    main a {
+        text-overflow: ellipsis;
+        max-width: 80%;
+    }
+
+    .team dd {
+        display: block;
+    }
+}
