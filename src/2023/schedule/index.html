@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Schedule / Inclusive Design 24 (#id24) 21 September 2023</title>
+{% include '2023/meta.html' %}
+</head>
+<body>
+{% include '2023/inline-svg.html' %}
+{% include '2023/header.html' %}
+<main>
+
+<section id="schedule">
+<h1>Schedule</h1>
+
+<p>No sign-up. No registration. All sessions are streamed live and publicly on the <a href="https://www.youtube.com/inclusivedesign24">Inclusive Design 24 YouTube channel</a>{% if 2023.playlistId != blank %} – see the <a target="_blank" rel="noopener" href="https://www.youtube.com/playlist?list={{ 2023.playlistId }}">entire playlist for the event</a>{% endif %}.</p>
+
+<section id="countdown" class="hidden" aria-live="polite" aria-atomic="true">
+  The event will start in <span id="countdown_timer"></span>
+</section>
+
+<p>All sessions include automated live closed captions. After the event, these are replaced by manually edited closed captions. Unfortunately, we are not able to provide sign language interpreters for the event.</p>
+
+<div id="time_machine">
+    All times shown for your local time (
+    <abbr title="Coordinated Universal Time">UTC</abbr>
+    <span class="time_offset"></span>
+    )
+</div>
+
+{% if 2023.schedule != blank %}
+{% for session in 2023.schedule %}
+<div class="session" data-time-utc="{{ session.datetime | append: " UTC" | date: "%s" }}000">
+    <h2 id="talk{{ forloop.index0 }}">
+        <span role="text">
+            <span class="session_time">
+                <span class="session_time_local">{{ session.datetime | date: "%H:%M" }}</span><span class="session_time_local_ampm"></span>
+                <span class="visually-hidden">&nbsp;</span>
+                <span class="session_day_local"></span>
+                <span class="visually-hidden">&nbsp;</span>
+                <span class="session_time_offset">(<span class="session_time_utc">{{ session.datetime | date: "%H:%M" }}</span> <abbr title="Coordinated Universal Time">UTC</abbr> {{ session.datetime | date: "%d" }} <span class="visually-hidden">{{ session.datetime | date: "%B" }}</span><span aria-hidden="true">{{ session.datetime | date: "%b" }}</span>)</span>
+            </span>
+            <span class="visually-hidden"><br></span>
+            <span class="session_presenter">{{ session.presenter }}</span>
+            <span class="visually-hidden">:&nbsp;</span>
+            <span class="session_title">{{ session.title }}</span>
+        </span>
+    </h2>
+    {% if session.videoId and session.videoId != "" %}
+    <a class="videostream" target="_blank" rel="noopener" href="https://www.youtube.com/watch?v={{ session.videoId }}&list={{ 2023.playlistId }}" aria-describedby="talk{{ forloop.index0 }}"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>
+    {% endif %}
+    <div class="session_details">
+        <div class="session_abstract">
+            {{ session.description }}
+        </div>
+        {% if session.bio %}
+        <h3>About the speaker</h3>
+        <div class="session_presenter_bio">
+            {{ session.bio }}
+            {% if session.social %}
+            <ul class="pres_info">
+            {% for socialItem in session.social %}
+                <li>
+                    <a href="{{ socialItem.url }}">
+                        {% if socialItem.type == "twitter" %}
+                            <svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg>
+                        {% endif %}
+                        {% if socialItem.type == "web" %}
+                            <svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg>
+                        {% endif %}
+                        {% if socialItem.type == "linkedin" %}
+                            <svg viewBox="0 0 24 24" class="icon" role="img" aria-label="LinkedIn: " focusable="false"><use xlink:href="#icon-linkedin"></use></svg>
+                        {% endif %}
+                        {% if socialItem.type == "instagram" %}
+                            <svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Instagram: " focusable="false"><use xlink:href="#icon-instagram"></use></svg>
+                        {% endif %}
+                        {% if socialItem.type == "mastodon" %}
+                            <svg viewBox="0 0 16 16" class="icon" role="img" aria-label="Mastodon: " focusable="false"><use xlink:href="#icon-mastodon"></use></svg>
+                        {% endif %}
+                        {{ socialItem.text }}
+                    </a>
+                </li>
+            {% endfor %}
+            </ul>
+            {% endif %}
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endfor %}
+{% else %}
+<p>The schedule has not been announced yet ... stay tuned!</p>
+{% endif %}
+
+</section>
+
+</main>
+
+{% include '2023/supporters.html' %}
+
+{% include '2023/footer.html' %}
+
+<!-- Custom script to handle schedule UTC/local time adaptation and disclosure widgets -->
+<script src="/2023/scripts/flux.js"></script>
+
+<script src="/2023/scripts/countdown.js"></script>
+<script>
+if (document.getElementById("countdown_timer")) {
+    countdown(new Date("Sept 21, 2023 23:30:00 UTC+0").getTime(), document.getElementById("countdown_timer"));
+}
+</script>
+
+{% include 'google.html' %}
+
+<script src="/2023/scripts/id24.js"></script>
+</body>
+</html>

@@ -2,12 +2,12 @@
 
 # Redirect requests to the specific year's subdirectory (need to change this yearly)
 
-/ /2022/
-/code-of-conduct/* /2022/code-of-conduct/:splat
-/resources/* /2022/resources/:splat
-/images/* /2022/images/:splat
-/favicon.ico /2022/favicon.ico
+/ /2023/
+/code-of-conduct/* /2023/code-of-conduct/:splat
+/resources/* /2023/resources/:splat
+/images/* /2023/images/:splat
+/favicon.ico /2023/favicon.ico
 
 # Error pages
 
-/2022/* /2022/404.html 404
+/2023/* /2023/404.html 404
