@@ -217,6 +217,11 @@ strong {
     white-space: nowrap;
 }
 
+em {
+    color: #ffe400;
+    font-style: normal;
+}
+
 #supporters {
     text-align: center;
     background-color: #282828;
