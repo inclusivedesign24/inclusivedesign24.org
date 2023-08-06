@@ -1,4 +1,185 @@
 {
 	"playlistId":"",
-	"schedule":[]
+	"schedule":[
+		{
+			"datetime":"September 20, 2023 23:30",
+			"title":"The pre-show / welcome",
+			"description":"<p>Meet your hosts for the next 24 hours. We'll be having a general chat about accessibility, inclusive design, and talking about the sessions we are most looking forward to in the upcoming 24 hours.</p>",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 00:00 UTC",
+			"presenter":"Julianna Langston",
+			"title":"Musical Charts: Using OSS to Make DataViz Accessible for Blind Users",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 01:00 UTC",
+			"presenter":"Jennifer Strickland",
+			"title":"Save Our World with Progressive Enhancement & Accessibility",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 02:00 UTC",
+			"presenter":"Meggan Van Harten",
+			"title":"Accessibility in Action: Indigenous Communities",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 03:00 UTC",
+			"presenter":"Prakriti Chawla",
+			"title":"For the Unseen: Inclusive Design for People with Invisible Disabilities",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 04:00 UTC",
+			"presenter":"Russ Weakley",
+			"title":"What makes an accessible date picker? Is it even possible?",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 05:00 UTC",
+			"presenter":"Manuel Matuzović",
+			"title":"Web Component Accessibility (TBD)",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 06:00 UTC",
+			"presenter":"Emanuelle Aboaf",
+			"title":"How to make subtitles readable to everyone?",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 07:00 UTC",
+			"presenter":"TBD",
+			"title":"TBD",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 08:00 UTC",
+			"presenter":"Serah Njambi Kiburu",
+			"title":"Accessibility Advocacy by All, for All",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 09:00 UTC",
+			"presenter":"Tzveta Dinova",
+			"title":"Sitting comfortably: A design lesson from chairs",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 10:00 UTC",
+			"presenter":"Donna Bungard",
+			"title":"The Truths We Cling To: The disabled experience and intersectionality",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 11:00 UTC",
+			"presenter":"Eric Bednarz",
+			"title":"Disability is the MacGuffin of accessibility",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 12:00 UTC",
+			"presenter":"Samuel Proulx",
+			"title":"Conversational Interfaces: Designing for The Next Interface Paradigm Shift",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 13:00 UTC",
+			"presenter":"Marcy Ericka Charollois",
+			"title":"Racism fuels users experiences: why you should understand the strength of biased narratives",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 14:00 UTC",
+			"presenter":"Veronica Lewis",
+			"title":"Inclusive Design for Cats (and their Humans)",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 15:00 UTC",
+			"presenter":"Lia McCabe",
+			"title":"Inclusion Starts With Us",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 16:00 UTC",
+			"presenter":"Lainey Feingold and Kim Charlson",
+			"title":"A beautiful accessibility partnership: Advocates + lawyers working for change ",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 17:00 UTC",
+			"presenter":"Christopher Land",
+			"title":"Disability Bias in Artificial Intelligence",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 18:00 UTC",
+			"presenter":"Anil Kumar",
+			"title":"Unlocking a world of accessibility: how internationalization is the key",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 19:00 UTC",
+			"presenter":"Hector Osborne Rodriguez",
+			"title":"Accessibility & Gaming: Beyond the Controller",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 20:00 UTC",
+			"presenter":"Karey Jo Wise and Albert Kim",
+			"title":"Let's Get Mental",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 21:00 UTC",
+			"presenter":"Livia Gabos",
+			"title":"How to do a usability test with deaf people in the Brazilian context",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 22:00 UTC",
+			"presenter":"Zariah Cameron",
+			"title":"Trauma-Informed UX Research: Giving Care to the Participant & the Researcher",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 21, 2023 23:00 UTC",
+			"presenter":"Crystal Preston-Watson",
+			"title":"TBD",
+			"description":"",
+			"videoId":""
+		},
+		{
+			"datetime":"September 22, 2023 00:00 UTC",
+			"title":"The after party / closing",
+			"description":"<p>Your hosts will discuss their favourite sessions from the last 24 hours, and might have a drink or two!</p>",
+			"videoId":""
+		}
+	]
 }
