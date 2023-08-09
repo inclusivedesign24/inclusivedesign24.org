@@ -34,7 +34,7 @@
 			"datetime":"September 21, 2023 00:00 UTC",
 			"presenter":"Julianna Langston",
 			"bio":"",
-			"title":"TMusical Charts: Using OSS to Make DataViz Accessible for Blind Users",
+			"title":"Musical Charts: Using OSS to Make DataViz Accessible for Blind Users",
 			"description":"Let's look at how to make charts and graphs accessible to the blind. We'll look at the industry standards, problems with the industry standards, and different ways to use interactivity to make data visualizations better for everyone. Julianna Langston has written an open source javascript library, Chart2Music, which provides an easy way for developers to seamlessly integrate interactive sonification into their dataviz.",
 			"videoId":"",
 			"social":[
@@ -64,7 +64,7 @@
 			"datetime":"September 21, 2023 01:00 UTC",
 			"presenter":"Jennifer Strickland",
 			"bio":"",
-			"title":"TSave Our World with Progressive Enhancement & Accessibility",
+			"title":"Save Our World with Progressive Enhancement & Accessibility",
 			"description":"<p>Discover how progressive enhancement serves not only accessibility and usability but sustainability. Best practices for ensuring no one is excluded can also reduce your application's impact on the environment.</p><p>Learn tactical progressive enhancement techniques:</p><ul><li>how to specify progressive design layers</li><li>how to architect applications progressively</li><li>gain strategies for adoption</li></ul><p>As governments draft sustainability regulations, these techniques help teams assess and reduce environmental impact.</p>",
 			"videoId":"",
 			"social":[
@@ -94,7 +94,7 @@
 			"datetime":"September 21, 2023 02:00 UTC",
 			"presenter":"Meggan Van Harten",
 			"bio":"",
-			"title":"TAccessibility in Action: Indigenous Communities",
+			"title":"Accessibility in Action: Indigenous Communities",
 			"description":"Discover how Indigenous accessibility diverges from general compliance principles. Join Meggan from Design de Plume as she delves into cultural considerations and Indigenous perspectives that foster inclusive solutions. Gain valuable insights from agency experiences on applying accessibility standards meaningfully for Indigenous audiences. Explore the power of engaging and creating projects that resonate with Indigenous communities. Challenge norms, embrace inclusivity, and focus on creating positive change through this insightful presentation.",
 			"videoId":"",
 			"social":[
@@ -124,7 +124,7 @@
 			"datetime":"September 21, 2023 03:00 UTC",
 			"presenter":"Prakriti Chawla",
 			"bio":"",
-			"title":"TFor the Unseen: Inclusive Design for People with Invisible Disabilities",
+			"title":"For the Unseen: Inclusive Design for People with Invisible Disabilities",
 			"description":"This talk will explore the concept of neurodiversity and the importance of designing for a wide range of cognitive abilities. By incorporating inclusive design principles, such as clear communication and intuitive navigation, we can create digital and physical spaces that are more accessible and welcoming for all users. Prakriti will share case studies, examples of successful inclusive design projects, and practical tips for incorporating neurodiversity considerations into your design process.",
 			"videoId":"",
 			"social":[
@@ -154,7 +154,7 @@
 			"datetime":"September 21, 2023 04:00 UTC",
 			"presenter":"Russ Weakley",
 			"bio":"",
-			"title":"TWhat makes an accessible date picker? Is it even possible?",
+			"title":"What makes an accessible date picker? Is it even possible?",
 			"description":"You've seen them in the wild, maybe even audited them. The stuff of nightmares. But what makes a truly accessible date picker? This presentation will explore sate pickers from a range of different perspectives including people with virtual keyboard users, keyboard users, screen reader users and more.",
 			"videoId":"",
 			"social":[
@@ -184,7 +184,7 @@
 			"datetime":"September 21, 2023 05:00 UTC",
 			"presenter":"Manuel Matuzović",
 			"bio":"",
-			"title":"TWeb Component Accessibility (TBD)",
+			"title":"Web Component Accessibility (TBD)",
 			"description":"",
 			"videoId":"",
 			"social":[
@@ -214,7 +214,7 @@
 			"datetime":"September 21, 2023 06:00 UTC",
 			"presenter":"Emanuelle Aboaf",
 			"bio":"",
-			"title":"THow to make subtitles readable to everyone?",
+			"title":"How to make subtitles readable to everyone?",
 			"description":"On videos posted on social networks in French as in English, the open captions often lack contrast, are too small or badly positioned to be readable by disabilities people. I would give some tips to make your subtitles readable, visible and understandable for everyone.",
 			"videoId":"",
 			"social":[
@@ -244,7 +244,7 @@
 			"datetime":"September 21, 2023 07:00 UTC",
 			"presenter":"TBD",
 			"bio":"",
-			"title":"TTBD",
+			"title":"TBD",
 			"description":"",
 			"videoId":"",
 			"social":[
@@ -274,7 +274,7 @@
 			"datetime":"September 21, 2023 08:00 UTC",
 			"presenter":"Serah Njambi Kiburu",
 			"bio":"",
-			"title":"TAccessibility Advocacy by All, for All",
+			"title":"Accessibility Advocacy by All, for All",
 			"description":"In this talk Serah will showcase adoption, contribution and advocacy of accessibility best practices as three example pathways we can all learn from and replicate in our quest to bring about a cultural shift in everyday developer workflows. She will also narrate the weight and impact of accessibility work can have in building and maintaining tech product and in sustaining tech communities.",
 			"videoId":"",
 			"social":[
@@ -304,7 +304,7 @@
 			"datetime":"September 21, 2023 09:00 UTC",
 			"presenter":"Tzveta Dinova",
 			"bio":"",
-			"title":"TSitting comfortably: A design lesson from chairs",
+			"title":"Sitting comfortably: A design lesson from chairs",
 			"description":"Most chairs are supposedly designed to accommodate the needs of 90% of the population. But is that really the case? Join me on a journey exploring ergonomics, aesthetics, politics and the discomforts we all sometimes have to endure. We will delve into the secrets of chair design, unravelling the lessons they hold for modern design. Prepare for an engaging journey that unveils the transformative power of inclusive design principles, not just for furniture, but for crafting accessible experiences in general.",
 			"videoId":"",
 			"social":[
@@ -334,7 +334,7 @@
 			"datetime":"September 21, 2023 10:00 UTC",
 			"presenter":"Donna Bungard",
 			"bio":"",
-			"title":"TThe Truths We Cling To: The disabled experience and intersectionality",
+			"title":"The Truths We Cling To: The disabled experience and intersectionality",
 			"description":"In this session, Donna will dive into the intersectionality that exists within the disability community and ways to think about our content beyond technical accessibility. We'll talk about social identities, impact, and ways to operationalize inclusion to build a better culture of belonging.",
 			"videoId":"",
 			"social":[
@@ -364,7 +364,7 @@
 			"datetime":"September 21, 2023 11:00 UTC",
 			"presenter":"Eric Bednarz",
 			"bio":"",
-			"title":"TDisability is the MacGuffin of accessibility",
+			"title":"Disability is the MacGuffin of accessibility",
 			"description":"A Stockdale Paradox inspired look at things we do not like to talk about, from a neurodivergent perspective. 'We' being the presenter, disabled folks, accessibility practitioners, and all their intersections. They'll be touching on accessibility as a profession still being fuelled by the charity model of Disability, introducing the competition model of Disability, explaining how taking web standards seriously can backfire for autistic developers, and ridiculing the ableist myth of Invisible Disabilities. Grab a chair and make yourself uncomfortable.",
 			"videoId":"",
 			"social":[
@@ -394,7 +394,7 @@
 			"datetime":"September 21, 2023 12:00 UTC",
 			"presenter":"Samuel Proulx",
 			"bio":"",
-			"title":"TConversational Interfaces: Designing for The Next Interface Paradigm Shift",
+			"title":"Conversational Interfaces: Designing for The Next Interface Paradigm Shift",
 			"description":"From chatbots to home assistance, conversational interfaces are already a large part of our lives. With advances in AI, the prevalence of these interfaces will only continue to increase; they're being added to our operating systems, browsers, and applications.  How can we ensure that these interfaces work for everyone?  It isn't enough to just make the input and output systems accessible.  In this talk, we'll cover critical considerations to keep in mind during ideation, development, and testing of this new interface paradigm.",
 			"videoId":"",
 			"social":[
@@ -424,7 +424,7 @@
 			"datetime":"September 21, 2023 13:00 UTC",
 			"presenter":"Marcy Ericka Charollois",
 			"bio":"",
-			"title":"TRacism fuels users experiences: why you should understand the strength of biased narratives",
+			"title":"Racism fuels users experiences: why you should understand the strength of biased narratives",
 			"description":"Failing facial recognition, assimilation of black people to gorillas on Google… Racism in the user experience can sometimes manifests itself in a spectacular way. However, it is not only in these examples that racist biases exist: they invite themselves into what we all produce in an insidious way. From design to implementation and into the use of products: without taking a step back, we can harm and create the exclusion of certain groups by perpetuating or even amplifying inequalities. It is also within companies, and therefore among industry employees, that we find misunderstandings that oppose and discriminate the most marginalized population. So, how do we guarantee neutral or universal experiences in a world where the UX is intended to be optimal and inclusive for everyone?",
 			"videoId":"",
 			"social":[
@@ -454,7 +454,7 @@
 			"datetime":"September 21, 2023 14:00 UTC",
 			"presenter":"Veronica Lewis",
 			"bio":"",
-			"title":"TInclusive Design for Cats (and their Humans)",
+			"title":"Inclusive Design for Cats (and their Humans)",
 			"description":"How can assistive technology, built environments, and web accessibility tools be improved by designing for cats? Reimagine and improve mainstream and specialized assistive technologies for humans by incorporating inclusive design principles from a cat's point of view.",
 			"videoId":"",
 			"social":[
@@ -484,7 +484,7 @@
 			"datetime":"September 21, 2023 15:00 UTC",
 			"presenter":"Lia McCabe",
 			"bio":"",
-			"title":"TInclusion Starts With Us",
+			"title":"Inclusion Starts With Us",
 			"description":"This talk aims to discuss how to create an accessible and inclusive experience across Slack and Zoom for Cognitive Disabilities and Neurodivergence. Current internal communication processes, particularly among Slack and Zoom, may present substantial challenges to disabled individuals, many of whom may not be vocalizing these challenges for a variety of reasons (e.g. fear of retaliation, anxiety, trauma from past employer disclosure experiences, learned helplessness etc). Not addressing these obstacles wastes a massive source of innovation as it prevents these employees from doing their best work, thereby limiting valuable contribution to the company as a whole. After this talk, you will understand what cognitive disabilities and neurodivergence mean, why it's important to consider, and actionable steps you can take to create a more inclusive Slack and Zoom environment in the workplace.",
 			"videoId":"",
 			"social":[
@@ -514,7 +514,7 @@
 			"datetime":"September 21, 2023 16:00 UTC",
 			"presenter":"Lainey Feingold and Kim Charlson",
 			"bio":"",
-			"title":"TA beautiful accessibility partnership: Advocates + lawyers working for change ",
+			"title":"A beautiful accessibility partnership: Advocates + lawyers working for change ",
 			"description":"Disability rights lawyer Lainey Feingold and international blind activist Kim Charlson have worked together for more than a quarter century to advance accessibility in the U.S.  In this session they will explore how the power of collaboration between advocates and lawyers can lead to lasting change for people with disabilities. Their work has resulted in accessible websites and mobile apps, talking prescription labels, braille materials, audio description and more. Their collaboration skills and strategies have helped companies including Bank of America, CVS, Walmart and Major League Baseball deliver accessible products and services.",
 			"videoId":"",
 			"social":[
@@ -544,7 +544,7 @@
 			"datetime":"September 21, 2023 17:00 UTC",
 			"presenter":"Christopher Land",
 			"bio":"",
-			"title":"TDisability Bias in Artificial Intelligence",
+			"title":"Disability Bias in Artificial Intelligence",
 			"description":"Learn about bias in artificial intelligence which can discriminate against marginalized groups. When built accessibly, AI systems can promote fairness and enhance the lives of everyone, in amazing and unprecedented ways.",
 			"videoId":"",
 			"social":[
@@ -574,7 +574,7 @@
 			"datetime":"September 21, 2023 18:00 UTC",
 			"presenter":"Anil Kumar",
 			"bio":"",
-			"title":"TUnlocking a world of accessibility: how internationalization is the key",
+			"title":"Unlocking a world of accessibility: how internationalization is the key",
 			"description":"Join Anil as he discusses the vital role of internationalization and localization in making software accessible worldwide. He'll showcase real-life examples that illustrate the severe consequences of neglecting internationalization, and highlight our responsibility as developers to make software usable for all.",
 			"videoId":"",
 			"social":[
@@ -604,7 +604,7 @@
 			"datetime":"September 21, 2023 19:00 UTC",
 			"presenter":"Hector Osborne Rodriguez",
 			"bio":"",
-			"title":"TAccessibility & Gaming: Beyond the Controller",
+			"title":"Accessibility & Gaming: Beyond the Controller",
 			"description":"In this talk Hector will talk about the quick progression the gaming industry has had in the accessibility space and what lessons we could learn from them to apply to different industries like: eCommerce, Retail,  financial institutions, government. Attendees will learn five key design improvements developers and publishers have made to allow a wider audience enjoy their output.",
 			"videoId":"",
 			"social":[
@@ -634,7 +634,7 @@
 			"datetime":"September 21, 2023 20:00 UTC",
 			"presenter":"Karey Jo Wise and Albert Kim",
 			"bio":"",
-			"title":"TLet's Get Mental",
+			"title":"Let's Get Mental",
 			"description":"Mental health diagnoses are on the rise. The pandemic caused an increase in mental health struggles for many populations. Younger generations also have increased incidence of mental health diagnoses. What is the difference between the stigma associated with invisible disabilities and apparent disabilities? How Can digital products be designed to support users with mental health disabilities? What are best practices for hiring and employing people with these types of diagnoses?",
 			"videoId":"",
 			"social":[
@@ -664,7 +664,7 @@
 			"datetime":"September 21, 2023 21:00 UTC",
 			"presenter":"Livia Gabos",
 			"bio":"",
-			"title":"THow to do a usability test with deaf people in the Brazilian context",
+			"title":"How to do a usability test with deaf people in the Brazilian context",
 			"description":"Most deaf people in Brazil communicate using Libras (Brazilian Sign Language) and, when they learn Portuguese, they consider it a second language. However, most hearing people don't know how to communicate in Libras, because it isn't taught in regular schools. This forces the use of a Libras' interpreter throughout the whole process of communicating with deaf people. In this talk it's presented the process used in Hand Talk to make a usability test, showing a little about recruiting, planning, execution and data analysis focused on deaf people.",
 			"videoId":"",
 			"social":[
@@ -694,7 +694,7 @@
 			"datetime":"September 21, 2023 22:00 UTC",
 			"presenter":"Zariah Cameron",
 			"bio":"",
-			"title":"TTrauma-Informed UX Research: Giving Care to the Participant & the Researcher",
+			"title":"Trauma-Informed UX Research: Giving Care to the Participant & the Researcher",
 			"description":"How can we reimagine our UX Research practice to be more trauma-responsive and Informed for both the research participant and the researcher? How can we better design a more liberating pedagogy that creates healing that is ever-evolving and conducive to various life experiences? Can we really meet each other where we are to allow us to feel safe and trusting of the environment cultivated?  This talk aims to answer these questions and guide you to a framework for reducing harm and moving away from a less extractive UX Research practice. All by utilizing and understanding the principles of trauma-informed care and how they can be applied to UX Research. The hope is that you walk away with an awareness and interest in Trauma-informed Research to build a more co-designing approach that creates community and long-lasting care.",
 			"videoId":"",
 			"social":[
@@ -753,7 +753,7 @@
 		{
 			"datetime":"September 22, 2023 00:00 UTC",
 			"bio":"",
-			"title":"TThe after party / closing",
+			"title":"The after party / closing",
 			"description":"<p>Your hosts will discuss their favourite sessions from the last 24 hours, and might have a drink or two!</p>",
 			"videoId":"",
 			"social":[
