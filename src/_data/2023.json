@@ -4,15 +4,15 @@
 		{
 			"datetime":"September 20, 2023 23:30",
 			"title":"The pre-show / welcome",
-			"description":"<p>Meet your hosts for the next 24 hours. We'll be having a general chat about accessibility, inclusive design, and talking about the sessions we are most looking forward to in the upcoming 24 hours.</p>",
+			"description":"<p>Meet your hosts for the next 24 hours. We’ll be having a general chat about accessibility, inclusive design, and talking about the sessions we are most looking forward to in the upcoming 24 hours.</p>",
 			"videoId":""
 		},
 		{
 			"datetime":"September 21, 2023 00:00 UTC",
 			"presenter":"Julianna Langston",
-			"bio":"Julianna Langston is a software developer and Accessibility Tzar at Finsemble, where she supports testers, developers, and designers in making software accessible to people of all abilities. Over the past decade, she has specialized in the intersection of data visualizations and visual impairments. Recently, she's started an open source project, Chart2Music, to make it easier for fellow developers to make their charts and graphs accessible to the blind.",
+			"bio":"Julianna Langston is a software developer and Accessibility Tzar at Finsemble, where she supports testers, developers, and designers in making software accessible to people of all abilities. Over the past decade, she has specialized in the intersection of data visualizations and visual impairments. Recently, she’s started an open source project, Chart2Music, to make it easier for fellow developers to make their charts and graphs accessible to the blind.",
 			"title":"Musical Charts: Using OSS to Make DataViz Accessible for Blind Users",
-			"description":"Let's look at how to make charts and graphs accessible to the blind. We'll look at the industry standards, problems with the industry standards, and different ways to use interactivity to make data visualizations better for everyone. Julianna Langston has written an open source javascript library, Chart2Music, which provides an easy way for developers to seamlessly integrate interactive sonification into their dataviz.",
+			"description":"Let’s look at how to make charts and graphs accessible to the blind. We’ll look at the industry standards, problems with the industry standards, and different ways to use interactivity to make data visualizations better for everyone. Julianna Langston has written an open source javascript library, Chart2Music, which provides an easy way for developers to seamlessly integrate interactive sonification into their dataviz.",
 			"videoId":"",
 			"social":[
 				{
@@ -27,7 +27,7 @@
 			"presenter":"Jennifer Strickland",
 			"bio":"Jennifer has 30 years of industry experience as a designer, developer and researcher, across enterprise, government, and non-profits. They are an Invited Expert with the Worldwide Web Consortium (W3C) Accessibility Guidelines Working Group (AGWG) developing the Web Contact Accessibility Guidelines (WCAG) used in accessibility regulations, and contribute in multiple other W3C working groups including the new sustainable web design group and serves as the Chair of the Equity Community Group. They are also the chair of the diversity, equity, inclusion, and belonging committee for the Technologists for the Public Good. They are a frequent speaker on a range of design and development topics.",
 			"title":"Save Our World with Progressive Enhancement & Accessibility",
-			"description":"<p>Discover how progressive enhancement serves not only accessibility and usability but sustainability. Best practices for ensuring no one is excluded can also reduce your application's impact on the environment.</p><p>Learn tactical progressive enhancement techniques:</p><ul><li>how to specify progressive design layers</li><li>how to architect applications progressively</li><li>gain strategies for adoption</li></ul><p>As governments draft sustainability regulations, these techniques help teams assess and reduce environmental impact.</p>",
+			"description":"<p>Discover how progressive enhancement serves not only accessibility and usability but sustainability. Best practices for ensuring no one is excluded can also reduce your application’s impact on the environment.</p><p>Learn tactical progressive enhancement techniques:</p><ul><li>how to specify progressive design layers</li><li>how to architect applications progressively</li><li>gain strategies for adoption</li></ul><p>As governments draft sustainability regulations, these techniques help teams assess and reduce environmental impact.</p>",
 			"videoId":"",
 			"social":[
 				{
@@ -75,7 +75,7 @@
 		{
 			"datetime":"September 21, 2023 03:00 UTC",
 			"presenter":"Prakriti Chawla",
-			"bio":"Experienced UX and social designer committed to creating inclusive digital/physical spaces. Led digital transformation initiatives for socio-economic inclusion of underserved communities at American India Foundation's Livelihoods Program and Fellowship Program. As Atlas Corps Virtual Leadership Institute Scholar, built inclusive user experiences for neurodivergent people. Worked on path-breaking projects for the inclusion of people with disabilities in mainstream workforce. Certified in disability livelihoods, basic sign language.",
+			"bio":"Experienced UX and social designer committed to creating inclusive digital/physical spaces. Led digital transformation initiatives for socio-economic inclusion of underserved communities at American India Foundation’s Livelihoods Program and Fellowship Program. As Atlas Corps Virtual Leadership Institute Scholar, built inclusive user experiences for neurodivergent people. Worked on path-breaking projects for the inclusion of people with disabilities in mainstream workforce. Certified in disability livelihoods, basic sign language.",
 			"title":"For the Unseen: Inclusive Design for People with Invisible Disabilities",
 			"description":"This talk will explore the concept of neurodiversity and the importance of designing for a wide range of cognitive abilities. By incorporating inclusive design principles, such as clear communication and intuitive navigation, we can create digital and physical spaces that are more accessible and welcoming for all users. Prakriti will share case studies, examples of successful inclusive design projects, and practical tips for incorporating neurodiversity considerations into your design process.",
 			"videoId":"",
@@ -92,7 +92,7 @@
 			"presenter":"Russ Weakley",
 			"bio":"Russ has over 20 years of experience as a UX designer and front-end developer. During this time, he has helped designers and developers test a wide range of widgets across multiple applications. Russ is still passionate about accessibility, inclusion and the downfall of capitalism.",
 			"title":"What makes an accessible date picker? Is it even possible?",
-			"description":"You've seen them in the wild, maybe even audited them. The stuff of nightmares. But what makes a truly accessible date picker? This presentation will explore sate pickers from a range of different perspectives including people with virtual keyboard users, keyboard users, screen reader users and more.",
+			"description":"You’ve seen them in the wild, maybe even audited them. The stuff of nightmares. But what makes a truly accessible date picker? This presentation will explore sate pickers from a range of different perspectives including people with virtual keyboard users, keyboard users, screen reader users and more.",
 			"videoId":"",
 			"social":[
 				{
@@ -110,7 +110,7 @@
 		{
 			"datetime":"September 21, 2023 05:00 UTC",
 			"presenter":"Manuel Matuzović",
-			"bio":"Hi, my name is Manuel Matuzović! I’m a frontend developer, consultant, accessibility auditor, writer, and speaker from Vienna, currently living in Graz. I’m a fan of web standards and a staunch believer in progressive enhancement, and I'm specialized in web accessibility and large-scale CSS.",
+			"bio":"Hi, my name is Manuel Matuzović! I’m a frontend developer, consultant, accessibility auditor, writer, and speaker from Vienna, currently living in Graz. I’m a fan of web standards and a staunch believer in progressive enhancement, and I’m specialized in web accessibility and large-scale CSS.",
 			"title":"Web Component Accessibility (TBD)",
 			"description":"",
 			"videoId":"",
@@ -194,7 +194,7 @@
 			"presenter":"Donna Bungard",
 			"bio":"Donna is a digital strategist, program and project manager with a passion for inclusive storytelling. With history and certification in accessibility, she brings her pragmatic and human-centric approach to all she does.",
 			"title":"The Truths We Cling To: The disabled experience and intersectionality",
-			"description":"In this session, Donna will dive into the intersectionality that exists within the disability community and ways to think about our content beyond technical accessibility. We'll talk about social identities, impact, and ways to operationalize inclusion to build a better culture of belonging.",
+			"description":"In this session, Donna will dive into the intersectionality that exists within the disability community and ways to think about our content beyond technical accessibility. We’ll talk about social identities, impact, and ways to operationalize inclusion to build a better culture of belonging.",
 			"videoId":"",
 			"social":[
 				{
@@ -209,7 +209,7 @@
 			"presenter":"Eric Bednarz",
 			"bio":"Eric Bednarz is a web developer in Amsterdam with more than 15 year of experience working for web agencies and SaaS products. In 2019 they started working for themselves to focus on accessibility. Instead of sprinkling ARIA left and right they quickly got absorbed by the Disability Rights and Intersectionality rabbit holes. This accidentally established a healthy basis for dealing with their very late autism diagnosis in 2021 at age 52.",
 			"title":"Disability is the MacGuffin of accessibility",
-			"description":"A Stockdale Paradox inspired look at things we do not like to talk about, from a neurodivergent perspective. 'We' being the presenter, disabled folks, accessibility practitioners, and all their intersections. They'll be touching on accessibility as a profession still being fuelled by the charity model of Disability, introducing the competition model of Disability, explaining how taking web standards seriously can backfire for autistic developers, and ridiculing the ableist myth of Invisible Disabilities. Grab a chair and make yourself uncomfortable.",
+			"description":"A Stockdale Paradox inspired look at things we do not like to talk about, from a neurodivergent perspective. ‘We’ being the presenter, disabled folks, accessibility practitioners, and all their intersections. They’ll be touching on accessibility as a profession still being fuelled by the charity model of Disability, introducing the competition model of Disability, explaining how taking web standards seriously can backfire for autistic developers, and ridiculing the ableist myth of Invisible Disabilities. Grab a chair and make yourself uncomfortable.",
 			"videoId":"",
 			"social":[
 				{
@@ -224,7 +224,7 @@
 			"presenter":"Samuel Proulx",
 			"bio":"Samuel Proulx is the Accessibility Evangelist at Fable, a leading accessibility platform powered by people with disabilities. As a blind individual, Sam knows and values the importance of accessibility in all aspects of life and is a strong advocate for the inclusion of people with disabilities in the digital world. Sam brings his previous experience as Fable’s community manager, plus life-long advocacy for himself and others, to his role as Evangelist.  ",
 			"title":"Conversational Interfaces: Designing for The Next Interface Paradigm Shift",
-			"description":"From chatbots to home assistance, conversational interfaces are already a large part of our lives. With advances in AI, the prevalence of these interfaces will only continue to increase; they're being added to our operating systems, browsers, and applications.  How can we ensure that these interfaces work for everyone?  It isn't enough to just make the input and output systems accessible.  In this talk, we'll cover critical considerations to keep in mind during ideation, development, and testing of this new interface paradigm.",
+			"description":"From chatbots to home assistance, conversational interfaces are already a large part of our lives. With advances in AI, the prevalence of these interfaces will only continue to increase; they’re being added to our operating systems, browsers, and applications.  How can we ensure that these interfaces work for everyone?  It isn’t enough to just make the input and output systems accessible.  In this talk, we’ll cover critical considerations to keep in mind during ideation, development, and testing of this new interface paradigm.",
 			"videoId":"",
 			"social":[
 				{
@@ -242,7 +242,7 @@
 		{
 			"datetime":"September 21, 2023 13:00 UTC",
 			"presenter":"Marcy Ericka Charollois",
-			"bio":"Hey world! I'm Marcy Ericka, a social tech writer, content strategist, founder of Merci Marcy and The Safe Place. I'm a former editor-in-chief of WeLoveDevs for 2 years. I was the first woman hired there. Yes, on top of that, I was the first racialized and LGBTQIA+ woman. I quickly realised that few people like me are represented in tech. I then chose to take a more committed stance to promote diversity by breaking through the pretense of corporate values. To sum up my journey: I am an advocate for creating real cohesion within teams, enabling them to embody a culture of genuine inclusion beyond the bullshit.",
+			"bio":"Hey world! I’m Marcy Ericka, a social tech writer, content strategist, founder of Merci Marcy and The Safe Place. I’m a former editor-in-chief of WeLoveDevs for 2 years. I was the first woman hired there. Yes, on top of that, I was the first racialized and LGBTQIA+ woman. I quickly realised that few people like me are represented in tech. I then chose to take a more committed stance to promote diversity by breaking through the pretense of corporate values. To sum up my journey: I am an advocate for creating real cohesion within teams, enabling them to embody a culture of genuine inclusion beyond the bullshit.",
 			"title":"Racism fuels users experiences: why you should understand the strength of biased narratives",
 			"description":"Failing facial recognition, assimilation of black people to gorillas on Google… Racism in the user experience can sometimes manifests itself in a spectacular way. However, it is not only in these examples that racist biases exist: they invite themselves into what we all produce in an insidious way. From design to implementation and into the use of products: without taking a step back, we can harm and create the exclusion of certain groups by perpetuating or even amplifying inequalities. It is also within companies, and therefore among industry employees, that we find misunderstandings that oppose and discriminate the most marginalized population. So, how do we guarantee neutral or universal experiences in a world where the UX is intended to be optimal and inclusive for everyone?",
 			"videoId":"",
@@ -264,7 +264,7 @@
 			"presenter":"Veronica Lewis",
 			"bio":"Veronica Lewis is the writer/creator of Veronica With Four Eyes, a low vision and assistive technology blog she started while studying data science and AT at George Mason University. Her favorite things include accessible data visualizations, reimagining ways to use mainstream technology with disabilities/chronic illnesses, and animal pictures with alt text.",
 			"title":"Inclusive Design for Cats (and their Humans)",
-			"description":"How can assistive technology, built environments, and web accessibility tools be improved by designing for cats? Reimagine and improve mainstream and specialized assistive technologies for humans by incorporating inclusive design principles from a cat's point of view.",
+			"description":"How can assistive technology, built environments, and web accessibility tools be improved by designing for cats? Reimagine and improve mainstream and specialized assistive technologies for humans by incorporating inclusive design principles from a cat’s point of view.",
 			"videoId":"",
 			"social":[
 				{
@@ -284,7 +284,7 @@
 			"presenter":"Lia McCabe",
 			"bio":"Lia is a Senior UX Researcher and Founder of the charity initiative AutismWish. She hosts the Embracing Autism Podcast, currently ranked in the Top 2.5% globally. Lia is an outspoken Autistic Advocate and aims to share her neurodivergent perspective on cognitive and neuro-inclusion in the tech industry.  Her mission is to create a more compassionate and inclusive community.",
 			"title":"Inclusion Starts With Us",
-			"description":"This talk aims to discuss how to create an accessible and inclusive experience across Slack and Zoom for Cognitive Disabilities and Neurodivergence. Current internal communication processes, particularly among Slack and Zoom, may present substantial challenges to disabled individuals, many of whom may not be vocalizing these challenges for a variety of reasons (e.g. fear of retaliation, anxiety, trauma from past employer disclosure experiences, learned helplessness etc). Not addressing these obstacles wastes a massive source of innovation as it prevents these employees from doing their best work, thereby limiting valuable contribution to the company as a whole. After this talk, you will understand what cognitive disabilities and neurodivergence mean, why it's important to consider, and actionable steps you can take to create a more inclusive Slack and Zoom environment in the workplace.",
+			"description":"This talk aims to discuss how to create an accessible and inclusive experience across Slack and Zoom for Cognitive Disabilities and Neurodivergence. Current internal communication processes, particularly among Slack and Zoom, may present substantial challenges to disabled individuals, many of whom may not be vocalizing these challenges for a variety of reasons (e.g. fear of retaliation, anxiety, trauma from past employer disclosure experiences, learned helplessness etc). Not addressing these obstacles wastes a massive source of innovation as it prevents these employees from doing their best work, thereby limiting valuable contribution to the company as a whole. After this talk, you will understand what cognitive disabilities and neurodivergence mean, why it’s important to consider, and actionable steps you can take to create a more inclusive Slack and Zoom environment in the workplace.",
 			"videoId":"",
 			"social":[
 				{
@@ -362,9 +362,9 @@
 		{
 			"datetime":"September 21, 2023 18:00 UTC",
 			"presenter":"Anil Kumar",
-			"bio":"Anil Kumar is a Senior Product Marketing Manager - developer tools at Lokalise and Frontend for Designers Mentor at CareerFoundry. He is a community builder and prototyper with 13+ years of Frontend product development experience from companies including SAP and Sapient. He has been speaking and writing about developer experience, usability, and running and facilitating the prototyping community in Berlin.",
+			"bio":"Anil Kumar is a Senior Product Marketing Manager - developer tools at Lokalise and Frontend for Designers Mentor at CareerFoundry. He is a community builder and prototyper with 13+ years of Frontend product development experience from companies including SAP and Sapient. He has been speaking and writing about developer experience, usability, and running and facilitating the prototyping community in Berlin.",
 			"title":"Unlocking a world of accessibility: how internationalization is the key",
-			"description":"Join Anil as he discusses the vital role of internationalization and localization in making software accessible worldwide. He'll showcase real-life examples that illustrate the severe consequences of neglecting internationalization, and highlight our responsibility as developers to make software usable for all.",
+			"description":"Join Anil as he discusses the vital role of internationalization and localization in making software accessible worldwide. He’ll showcase real-life examples that illustrate the severe consequences of neglecting internationalization, and highlight our responsibility as developers to make software usable for all.",
 			"videoId":"",
 			"social":[
 				{
@@ -403,7 +403,7 @@
 			"datetime":"September 21, 2023 20:00 UTC",
 			"presenter":"Karey Jo Wise and Albert Kim",
 			"bio":"<p>Karey Jo Wise is a Senior Accessibility Engineer for Pearson. She graduated in 2020 with a masters in Assistive Technology from CSUN. She is a former TBVI. She loves Braille, technology, and advocating for people with disabilities.</p><p>Albert Kim is a digital accessibility consultant. He is a public speaker on disability issues specifically focusing on mental health. He is the Executive Director of Accessibility NextGen. He won best presentation award at ICT Symposium Accessibility.</p>",
-			"title":"Let's Get Mental",
+			"title":"Let’s Get Mental",
 			"description":"Mental health diagnoses are on the rise. The pandemic caused an increase in mental health struggles for many populations. Younger generations also have increased incidence of mental health diagnoses. What is the difference between the stigma associated with invisible disabilities and apparent disabilities? How Can digital products be designed to support users with mental health disabilities? What are best practices for hiring and employing people with these types of diagnoses?",
 			"videoId":"",
 			"social":[
@@ -424,7 +424,7 @@
 			"presenter":"Livia Gabos",
 			"bio":"Livia Gabos is an educator with a Master’s degree in Computer Science, a speaker and a podcaster in Ladies That UX Portuguese. She’s also sometimes a writer and a volunteer in Brazilian communities, like Ladies that UX São Paulo and PretUX. She has over 10 years of experience working in the technology area with UX Design and Accessibility and currently is an Accessibility Product Owner in Hand Talk.",
 			"title":"How to do a usability test with deaf people in the Brazilian context",
-			"description":"Most deaf people in Brazil communicate using Libras (Brazilian Sign Language) and, when they learn Portuguese, they consider it a second language. However, most hearing people don't know how to communicate in Libras, because it isn't taught in regular schools. This forces the use of a Libras' interpreter throughout the whole process of communicating with deaf people. In this talk it's presented the process used in Hand Talk to make a usability test, showing a little about recruiting, planning, execution and data analysis focused on deaf people.",
+			"description":"Most deaf people in Brazil communicate using Libras (Brazilian Sign Language) and, when they learn Portuguese, they consider it a second language. However, most hearing people don’t know how to communicate in Libras, because it isn’t taught in regular schools. This forces the use of a Libras’ interpreter throughout the whole process of communicating with deaf people. In this talk it’s presented the process used in Hand Talk to make a usability test, showing a little about recruiting, planning, execution and data analysis focused on deaf people.",
 			"videoId":"",
 			"social":[
 				{
