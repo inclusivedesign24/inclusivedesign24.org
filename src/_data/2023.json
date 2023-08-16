@@ -221,22 +221,22 @@
 		},
 		{
 			"datetime":"September 21, 2023 12:00 UTC",
-			"presenter":"Samuel Proulx",
-			"bio":"Samuel Proulx is the Accessibility Evangelist at Fable, a leading accessibility platform powered by people with disabilities. As a blind individual, Sam knows and values the importance of accessibility in all aspects of life and is a strong advocate for the inclusion of people with disabilities in the digital world. Sam brings his previous experience as Fable’s community manager, plus life-long advocacy for himself and others, to his role as Evangelist.  ",
-			"title":"Conversational Interfaces: Designing for The Next Interface Paradigm Shift",
-			"description":"From chatbots to home assistance, conversational interfaces are already a large part of our lives. With advances in AI, the prevalence of these interfaces will only continue to increase; they’re being added to our operating systems, browsers, and applications.  How can we ensure that these interfaces work for everyone?  It isn’t enough to just make the input and output systems accessible.  In this talk, we’ll cover critical considerations to keep in mind during ideation, development, and testing of this new interface paradigm.",
+			"presenter":"Karey Jo Wise and Albert Kim",
+			"bio":"<p>Karey Jo Wise is a Senior Accessibility Engineer for Pearson. She graduated in 2020 with a masters in Assistive Technology from CSUN. She is a former TBVI. She loves Braille, technology, and advocating for people with disabilities.</p><p>Albert Kim is a digital accessibility consultant. He is a public speaker on disability issues specifically focusing on mental health. He is the Executive Director of Accessibility NextGen. He won best presentation award at ICT Symposium Accessibility.</p>",
+			"title":"Let’s Get Mental",
+			"description":"Mental health diagnoses are on the rise. The pandemic caused an increase in mental health struggles for many populations. Younger generations also have increased incidence of mental health diagnoses. What is the difference between the stigma associated with invisible disabilities and apparent disabilities? How Can digital products be designed to support users with mental health disabilities? What are best practices for hiring and employing people with these types of diagnoses?",
 			"videoId":"",
 			"social":[
 				{
-					"type":"web",
-					"url":"https://makeitfable.com/",
-					"text":"makeitfable.com"
+					"type":"linkedin",
+					"url":"https://linkedIn.com/in/kareyjowise",
+					"text":"kareyjowise"
 				},
 				{
-					"type":"twitter",
-					"url":"https://twitter.com/makeitfable",
-					"text":"@makeitfable"
-				}
+					"type":"linkedin",
+					"url":"https://linkedIn.com/in/DJKAlbert",
+					"text":"DJKAlbert"
+				}	
 			]
 		},
 		{
@@ -401,22 +401,22 @@
 		},
 		{
 			"datetime":"September 21, 2023 20:00 UTC",
-			"presenter":"Karey Jo Wise and Albert Kim",
-			"bio":"<p>Karey Jo Wise is a Senior Accessibility Engineer for Pearson. She graduated in 2020 with a masters in Assistive Technology from CSUN. She is a former TBVI. She loves Braille, technology, and advocating for people with disabilities.</p><p>Albert Kim is a digital accessibility consultant. He is a public speaker on disability issues specifically focusing on mental health. He is the Executive Director of Accessibility NextGen. He won best presentation award at ICT Symposium Accessibility.</p>",
-			"title":"Let’s Get Mental",
-			"description":"Mental health diagnoses are on the rise. The pandemic caused an increase in mental health struggles for many populations. Younger generations also have increased incidence of mental health diagnoses. What is the difference between the stigma associated with invisible disabilities and apparent disabilities? How Can digital products be designed to support users with mental health disabilities? What are best practices for hiring and employing people with these types of diagnoses?",
+			"presenter":"Samuel Proulx",
+			"bio":"Samuel Proulx is the Accessibility Evangelist at Fable, a leading accessibility platform powered by people with disabilities. As a blind individual, Sam knows and values the importance of accessibility in all aspects of life and is a strong advocate for the inclusion of people with disabilities in the digital world. Sam brings his previous experience as Fable’s community manager, plus life-long advocacy for himself and others, to his role as Evangelist.  ",
+			"title":"Conversational Interfaces: Designing for The Next Interface Paradigm Shift",
+			"description":"From chatbots to home assistance, conversational interfaces are already a large part of our lives. With advances in AI, the prevalence of these interfaces will only continue to increase; they’re being added to our operating systems, browsers, and applications.  How can we ensure that these interfaces work for everyone?  It isn’t enough to just make the input and output systems accessible.  In this talk, we’ll cover critical considerations to keep in mind during ideation, development, and testing of this new interface paradigm.",
 			"videoId":"",
 			"social":[
 				{
-					"type":"linkedin",
-					"url":"https://linkedIn.com/in/kareyjowise",
-					"text":"kareyjowise"
+					"type":"web",
+					"url":"https://makeitfable.com/",
+					"text":"makeitfable.com"
 				},
 				{
-					"type":"linkedin",
-					"url":"https://linkedIn.com/in/DJKAlbert",
-					"text":"DJKAlbert"
-				}	
+					"type":"twitter",
+					"url":"https://twitter.com/makeitfable",
+					"text":"@makeitfable"
+				}
 			]
 		},
 		{
