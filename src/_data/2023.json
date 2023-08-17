@@ -19,7 +19,7 @@
 					"type":"web",
 					"url":"https://www.chart2music.com/",
 					"text":"chart2music.com"
-				}		
+				}
 			]
 		},
 		{
@@ -144,15 +144,33 @@
 					"type":"mastodon",
 					"url":"https://a11y.info/@eaboaf",
 					"text":"@eaboaf@a11y.info"
-				}		
+				}
 			]
 		},
 		{
 			"datetime":"September 21, 2023 07:00 UTC",
-			"presenter":"TBD",
-			"title":"TBD",
-			"description":"",
-			"videoId":""
+			"presenter":"Jan Jaap de Groot",
+			"bio":"Jan Jaap has been developing (accessible) apps for 10 years. Since 2018, Jan Jaap has specialized in making apps accessible by supporting accessibility features and assistive technologies. He was the lead accessibility developer for the Dutch COVID-19 apps, which resulted in the first fully accessible government apps in The Netherlands.",
+			"title":"Native application accessibility (TBD)",
+			"description":"TBD",
+			"videoId":"",
+			"social":[
+				{
+					"type":"web",
+					"url":"https://janjaap.com/",
+					"text":"janjaap.com"
+				},
+				{
+					"type":"web",
+					"url":"https://appt.org",
+					"text":"appt.org"
+				},
+				{
+					"type":"linkedin",
+					"url":"https://www.linkedin.com/in/jan-jaap/",
+					"text":"jan-jaap"
+				}
+			]
 		},
 		{
 			"datetime":"September 21, 2023 08:00 UTC",
@@ -296,7 +314,7 @@
 					"type":"twitter",
 					"url":"https://twitter.com/autismwish",
 					"text":"@autismwish"
-				}			
+				}	
 			]
 		},
 		{
@@ -376,7 +394,7 @@
 					"type":"twitter",
 					"url":"https://twitter.com/anilbms75",
 					"text":"@anilbms75"
-				}			
+				}	
 			]
 		},
 		{
