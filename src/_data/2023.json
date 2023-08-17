@@ -9,18 +9,10 @@
 		},
 		{
 			"datetime":"September 21, 2023 00:00 UTC",
-			"presenter":"Julianna Langston",
-			"bio":"Julianna Langston is a software developer and Accessibility Tzar at Finsemble, where she supports testers, developers, and designers in making software accessible to people of all abilities. Over the past decade, she has specialized in the intersection of data visualizations and visual impairments. Recently, she’s started an open source project, Chart2Music, to make it easier for fellow developers to make their charts and graphs accessible to the blind.",
-			"title":"Musical Charts: Using OSS to Make DataViz Accessible for Blind Users",
-			"description":"Let’s look at how to make charts and graphs accessible to the blind. We’ll look at the industry standards, problems with the industry standards, and different ways to use interactivity to make data visualizations better for everyone. Julianna Langston has written an open source javascript library, Chart2Music, which provides an easy way for developers to seamlessly integrate interactive sonification into their dataviz.",
-			"videoId":"",
-			"social":[
-				{
-					"type":"web",
-					"url":"https://www.chart2music.com/",
-					"text":"chart2music.com"
-				}
-			]
+			"presenter":"TBD",
+			"title":"TBD",
+			"description":"TBD",
+			"videoId":""
 		},
 		{
 			"datetime":"September 21, 2023 01:00 UTC",
