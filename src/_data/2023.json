@@ -102,15 +102,20 @@
 		{
 			"datetime":"September 21, 2023 05:00 UTC",
 			"presenter":"Manuel Matuzović",
-			"bio":"Hi, my name is Manuel Matuzović! I’m a frontend developer, consultant, accessibility auditor, writer, and speaker from Vienna, currently living in Graz. I’m a fan of web standards and a staunch believer in progressive enhancement, and I’m specialized in web accessibility and large-scale CSS.",
-			"title":"Web Component Accessibility (TBD)",
-			"description":"",
+			"bio":"Manuel is a frontend developer, consultant, accessibility auditor, writer, and speaker from Vienna, currently living in Graz. He's a fan of web standards and a staunch believer in progressive enhancement, and specialises in web accessibility and large-scale CSS.",
+			"title":"Accessible web components?",
+			"description":"This talk centers on one question: “Is it possible to create accessible web components?” Manuel introduces you to web components and shares everything he's learned in the past year of intensive work with this standard. You'll learn about pros, cons, and pitfalls.",
 			"videoId":"",
 			"social":[
 				{
 					"type":"web",
 					"url":"https://www.matuzo.at/",
 					"text":"matuzo.at"
+				},
+				{
+					"type":"web",
+					"url":"https://www.htmhell.dev/",
+					"text":"htmhell.dev"
 				},
 				{
 					"type":"mastodon",
