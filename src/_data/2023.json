@@ -451,6 +451,11 @@
 					"type":"twitter",
 					"url":"https://twitter.com/liviagabos",
 					"text":"@liviagabos"
+				},
+				{
+					"type":"linkedin",
+					"url":"https://www.linkedin.com/in/liviagabos",
+					"text":"liviagabos"
 				}
 			]
 		},
