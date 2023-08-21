@@ -148,19 +148,24 @@
 			"datetime":"September 21, 2023 07:00 UTC",
 			"presenter":"Jan Jaap de Groot",
 			"bio":"Jan Jaap has been developing (accessible) apps for 10 years. Since 2018, Jan Jaap has specialized in making apps accessible by supporting accessibility features and assistive technologies. He was the lead accessibility developer for the Dutch COVID-19 apps, which resulted in the first fully accessible government apps in The Netherlands.",
-			"title":"Native application accessibility (TBD)",
-			"description":"TBD",
+			"title":"Native mobile accessibility testing",
+			"description":"Unlike websites, with apps you usually don't get access to the source code. And that raises the question: how can you test the accessibility? There is no single answer. Jan Jaap shows different ways to test the accessibility of apps and highlights the similarities and differences with testing websites.",
 			"videoId":"",
 			"social":[
 				{
 					"type":"web",
-					"url":"https://janjaap.com/",
-					"text":"janjaap.com"
+					"url":"https://abra.ai",
+					"text":"abra.ai"
 				},
 				{
 					"type":"web",
 					"url":"https://appt.org",
 					"text":"appt.org"
+				},
+				{
+					"type":"twitter",
+					"url":"https://twitter.com/JanJaapdeGroot",
+					"text":"JanJaapdeGroot"
 				},
 				{
 					"type":"linkedin",
