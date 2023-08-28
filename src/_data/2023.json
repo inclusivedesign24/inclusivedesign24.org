@@ -441,10 +441,28 @@
 		},
 		{
 			"datetime":"September 21, 2023 21:00 UTC",
-			"presenter":"TBD",
-			"title":"TBD",
-			"description":"TBD",
-			"videoId":"JbCbl8gG-Lc"
+			"presenter":"Livia Gabos",
+			"bio":"Livia Gabos is an educator with a Master’s degree in Computer Science, a speaker and a podcaster in Ladies That UX Portuguese. She’s also sometimes a writer and a volunteer in Brazilian communities, like Ladies that UX São Paulo and PretUX. She has over 10 years of experience working in the technology area with UX Design and Accessibility and currently is an Accessibility Product Owner in Hand Talk.",
+			"title":"How to do a usability test with deaf people in the Brazilian context",
+			"description":"Most deaf people in Brazil communicate using Libras (Brazilian Sign Language) and, when they learn Portuguese, they consider it a second language. However, most hearing people don’t know how to communicate in Libras, because it isn’t taught in regular schools. This forces the use of a Libras’ interpreter throughout the whole process of communicating with deaf people. In this talk it’s presented the process used in Hand Talk to make a usability test, showing a little about recruiting, planning, execution and data analysis focused on deaf people.",
+			"videoId":"JbCbl8gG-Lc",
+			"social":[
+				{
+					"type":"web",
+					"url":"https://liviagabos.com/",
+					"text":"liviagabos.com"
+				},
+				{
+					"type":"twitter",
+					"url":"https://twitter.com/liviagabos",
+					"text":"@liviagabos"
+				},
+				{
+					"type":"linkedin",
+					"url":"https://www.linkedin.com/in/liviagabos/",
+					"text":"liviagabos"
+				}
+			]
 		},
 		{
 			"datetime":"September 21, 2023 22:00 UTC",
