@@ -453,7 +453,7 @@
 		{
 			"datetime":"September 21, 2023 22:00 UTC",
 			"presenter":"Zariah Cameron",
-			"bio":"Zariah is a graduate of North Carolina A&T State University. She’s an experienced self-taught UX Designer and aims to cultivate a sense of community within her work and amplify the voices and stories of marginalized communities. She has a passion for strategically placing equity and inclusivity at the forefront of her design work.  She is the first “Equity Centered UX Strategist”, at Ally Financial where she is helping to drive an Inclusive Design methodology for the design organization.",
+			"bio":"Zariah is Co-Director of Community + Research at Àròko Cooperative. She is an Equity UX thought leader is an Equity UX thought leader and International Speaker who centers on operationalizing how we build and design products and communities more inclusively, especially for those living on the margins. She believes in creating a sense of community within her work and is passionate about mentoring young Black designers. She’s also the founder of the AEI Design Program, an initiative that provides resources and virtual events to prepare Black design college students for the industry. Outside her professional life, Zariah enjoys yoga, traveling, and creating written stories that amplify the voices of the underrepresented.",
 			"title":"Trauma-Informed UX Research: Giving Care to the Participant & the Researcher",
 			"description":"How can we reimagine our UX Research practice to be more trauma-responsive and Informed for both the research participant and the researcher? How can we better design a more liberating pedagogy that creates healing that is ever-evolving and conducive to various life experiences? Can we really meet each other where we are to allow us to feel safe and trusting of the environment cultivated?  This talk aims to answer these questions and guide you to a framework for reducing harm and moving away from a less extractive UX Research practice. All by utilizing and understanding the principles of trauma-informed care and how they can be applied to UX Research. The hope is that you walk away with an awareness and interest in Trauma-informed Research to build a more co-designing approach that creates community and long-lasting care.",
 			"videoId":"xl2uVJir_80",
@@ -467,6 +467,11 @@
 					"type":"linkedin",
 					"url":"https://www.linkedin.com/in/zariah-cameron/",
 					"text":"zariah-cameron"
+				},
+				{
+					"type":"web",
+					"url":"https://www.aroko.coop/",
+					"text":"Àròko Cooperative"
 				}
 			]
 		},
