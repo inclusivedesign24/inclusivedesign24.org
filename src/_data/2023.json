@@ -281,23 +281,9 @@
 		},
 		{
 			"datetime":"September 21, 2023 14:00 UTC",
-			"presenter":"Veronica Lewis",
-			"bio":"Veronica Lewis is the writer/creator of Veronica With Four Eyes, a low vision and assistive technology blog she started while studying data science and AT at George Mason University. Her favorite things include accessible data visualizations, reimagining ways to use mainstream technology with disabilities/chronic illnesses, and animal pictures with alt text.",
-			"title":"Inclusive Design for Cats (and their Humans)",
-			"description":"How can assistive technology, built environments, and web accessibility tools be improved by designing for cats? Reimagine and improve mainstream and specialized assistive technologies for humans by incorporating inclusive design principles from a cat’s point of view.",
-			"videoId":"",
-			"social":[
-				{
-					"type":"web",
-					"url":"https://veroniiiica.com/",
-					"text":"veroniiiica.com"
-				},
-				{
-					"type":"twitter",
-					"url":"https://twitter.com/veron4ica",
-					"text":"@veron4ica"
-				}
-			]
+			"presenter":"TBD",
+			"title":"TBD",
+			"videoId":""
 		},
 		{
 			"datetime":"September 21, 2023 15:00 UTC",
