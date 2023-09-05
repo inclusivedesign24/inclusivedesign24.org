@@ -281,9 +281,32 @@
 		},
 		{
 			"datetime":"September 21, 2023 14:00 UTC",
-			"presenter":"TBD",
-			"title":"TBD",
-			"videoId":""
+			"presenter":"Lee Dale",
+			"title":"A practical guide to inclusive design",
+			"description":"<p>This talk will highlight a series of considerations in bringing inclusive practices to your work, cementing the theory that leads to necessary practice.</p><p>Whether you’re on a product, service, or educational program team, across roles such as research, writing, design, development, and more, there are practical approaches you can take to your work that bake in inclusive design and help you better serve diverse markets.</p><p>We’ll focus the talk on the business and organizational benefits of inclusive design and a model for better understanding the people we serve. This model includes a deep dive into intersectional factors that impact all of us and how these factors help in both improving cross-department communication and reshaping your products, services, and educational programs to be more inclusive.</p><p>We’ll share other facets of the practical guide we’ve developed, including outlines for:</p><ul><li>Market and user research</li><li>Writing</li><li>Digital accessibility</li><li>eLearning</li><li>Marketing and client communications</li></ul><p>And we’ll share an eLearning course link for those interested in having full access to this practical guide to support their day-to-day work.</p>",
+			"videoId":"",
+			"social":[
+				{
+					"type":"web",
+					"url":"https://leedale.ca",
+					"text":"leedale.ca"
+				},
+				{
+					"type":"twitter",
+					"url":"https://www.twitter.com/leedaleyyz",
+					"text":"@leedaleyyz"
+				},
+				{
+					"type":"web",
+					"url":"https://sayyeah.com",
+					"text":"sayyeah.com"
+				},
+				{
+					"type":"linkedin",
+					"url":"https://www.linkedin.com/in/leedaleyyz/",
+					"text":"leedaleyyz"
+				}
+			]
 		},
 		{
 			"datetime":"September 21, 2023 15:00 UTC",
