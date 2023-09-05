@@ -282,9 +282,10 @@
 		{
 			"datetime":"September 21, 2023 14:00 UTC",
 			"presenter":"Lee Dale",
+			"bio":"<p>We live in an age where technology and online engagement have shifted traditional markets to become more diverse and engaged than ever</p><p>Learning and moving faster than most organizations, evolving consumer markets typically outpace the capacity of internal teams to deliver exceptional experiences. That's where I come in. I work with leaders to improve technology decision-making, increase market engagement, and grow operational effectiveness. The result: market-leading products and services that win increasingly diverse markets. In addition to my advisory and volunteer work supporting the next generation of diverse professionals and business leaders, I am CEO at Say Yeah, a digital management consultancy that focuses on bringing inclusive design practices to public and private-sector organizations. When I'm not working, I'm most likely DJing multi-hour-long house music mixes for my next dance party or a long run.</p>",
 			"title":"A practical guide to inclusive design",
-			"description":"<p>This talk will highlight a series of considerations in bringing inclusive practices to your work, cementing the theory that leads to necessary practice.</p><p>Whether you’re on a product, service, or educational program team, across roles such as research, writing, design, development, and more, there are practical approaches you can take to your work that bake in inclusive design and help you better serve diverse markets.</p><p>We’ll focus the talk on the business and organizational benefits of inclusive design and a model for better understanding the people we serve. This model includes a deep dive into intersectional factors that impact all of us and how these factors help in both improving cross-department communication and reshaping your products, services, and educational programs to be more inclusive.</p><p>We’ll share other facets of the practical guide we’ve developed, including outlines for:</p><ul><li>Market and user research</li><li>Writing</li><li>Digital accessibility</li><li>eLearning</li><li>Marketing and client communications</li></ul><p>And we’ll share an eLearning course link for those interested in having full access to this practical guide to support their day-to-day work.</p>",
-			"videoId":"",
+			"description":"<p>This talk will highlight a series of considerations in bringing inclusive practices to your work, cementing the theory that leads to necessary practice.</p><p>Whether you’re on a product, service, or educational program team, across roles such as research, writing, design, development, and more, there are practical approaches you can take to your work that bake in inclusive design and help you better serve diverse markets.</p><p>We’ll focus the talk on the business and organizational benefits of inclusive design and a model for better understanding the people we serve. This model includes a deep dive into intersectional factors that impact all of us and how these factors help in both improving cross-department communication and reshaping your products, services, and educational programs to be more inclusive.</p><p>We’ll share other facets of the practical guide we’ve developed, including outlines for:</p><ul><li>Market and user research</li><li>Writing</li><li>Digital accessibility</li><li>eLearning</li><li>Marketing and client communications</li></ul><p>And we’ll share an eLearning course for those interested in having full access to this practical guide to support their day-to-day work.</p>",
+			"videoId": "",
 			"social":[
 				{
 					"type":"web",
@@ -300,11 +301,6 @@
 					"type":"web",
 					"url":"https://sayyeah.com",
 					"text":"sayyeah.com"
-				},
-				{
-					"type":"linkedin",
-					"url":"https://www.linkedin.com/in/leedaleyyz/",
-					"text":"leedaleyyz"
 				}
 			]
 		},
