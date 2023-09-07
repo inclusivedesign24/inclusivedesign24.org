@@ -11,8 +11,15 @@
 			"datetime":"September 21, 2023 00:00 UTC",
 			"presenter":"Andrew Arch and Neil Jarvis",
 			"title":"Measuring accessibility maturity",
-			"description":"TBD",
-			"videoId":""
+			"description":"H. James Harrington said “If you can’t measure something, you can’t understand it. If you can’t understand it, you can’t control it. If you can’t control it, you can’t improve it.” Join Andrew Arch and Neil Jarvis from our strategy team for a webinar on the value of measuring your accessibility maturity. The webinar will explore the importance of measuring your maturity, and how doing so can help you create an action plan for improving accessibility within your organisation. They will also share insights from our customers who have worked with us on their accessibility maturity and put into action recommendations from their assessment.",
+			"videoId":"",
+			"social":[
+				{
+					"type":"web",
+					"url":"https://intopia.digital/",
+					"text":"intopia.digital"
+				}
+			]
 		},
 		{
 			"datetime":"September 21, 2023 01:00 UTC",
