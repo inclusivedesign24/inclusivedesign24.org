@@ -28,18 +28,16 @@ function pad(num, size) {
         b.setAttribute("aria-controls", sessionDetailsId);
         b.setAttribute("aria-expanded", "false");
         b.setAttribute("aria-describedby", sessionId);
-        b.innerHTML = '<svg viewBox="0 0 24 24" class="icon" aria-hidden="true"><use xlink:href="#icon-arrow-right"></use></svg> <span>Show details</span>';
+        b.innerHTML = '<svg viewBox="0 0 24 24" class="icon" aria-hidden="true"><use xlink:href="#icon-arrow-right"></use></svg> <span>More details</span>';
         b.addEventListener("click", function() {
             if (this.getAttribute("aria-expanded") === "false") {
                 document.getElementById(this.getAttribute("aria-controls")).setAttribute("style", "");
                 this.setAttribute("aria-expanded", "true");
                 this.querySelector("use").setAttribute("xlink:href", "#icon-arrow-down");
-                this.querySelector("span").innerHTML = "Hide details";
             } else {
                 document.getElementById(this.getAttribute("aria-controls")).setAttribute("style", "display:none");
                 this.setAttribute("aria-expanded", "false");
                 this.querySelector("use").setAttribute("xlink:href", "#icon-arrow-right");
-                this.querySelector("span").innerHTML = "Show details";
             }
         }, true);
         sessionDetails.parentNode.insertBefore(b, sessionDetails);
