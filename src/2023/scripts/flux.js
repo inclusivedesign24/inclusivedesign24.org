@@ -78,13 +78,16 @@ function pad(num, size) {
             lastdateshown = local.getDate();
         }
 
-        // For debugging, remove the year/month/date check part
-        if ((local.getHours() === now.getHours()) && (local.getFullYear() === now.getFullYear()) && (local.getMonth() === now.getMonth()) && (local.getDate() === now.getDate())) {
-            session.classList.add("now");
-            var span_now = document.createElement("span");
-            span_now.classList.add("now");
-            span_now.innerHTML = "Now playing:"
-            session.querySelector("h2>span").insertBefore(span_now, session.querySelector("span.session_time"));
+        // "Now playing" indicator
+        if ((local.getHours() === now.getHours()) && (local.getMinutes() <= now.getMinutes())) {
+            // For debugging, remove the date check here
+            if ((local.getFullYear() === now.getFullYear()) && (local.getMonth() === now.getMonth()) && (local.getDate() === now.getDate())) {
+                session.classList.add("now");
+                var span_now = document.createElement("span");
+                span_now.classList.add("now");
+                span_now.innerHTML = "Now playing:"
+                session.querySelector("h2>span").insertBefore(span_now, session.querySelector("span.session_time"));
+            }
         }
 
     });
