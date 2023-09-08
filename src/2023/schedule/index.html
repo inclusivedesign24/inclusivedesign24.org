@@ -53,7 +53,7 @@ The event will start in <span id="countdown_timer"></span>
             {{ session.description }}
         </div>
         {% if session.bio %}
-        <h3>About the speaker</h3>
+        <h3>About the speaker{% if session.multipleSpeakers == "true" %}s{% endif %}</h3>
         <div class="session_presenter_bio">
             {{ session.bio }}
             {% if session.social %}
