@@ -345,22 +345,22 @@
 		{
 			"datetime":"September 21, 2023 15:00 UTC",
 			"multipleSpeakers":"false",
-			"presenter":"Lia McCabe",
-			"bio":"Lia is a Senior UX Researcher and Founder of the charity initiative AutismWish. She hosts the Embracing Autism Podcast, currently ranked in the Top 2.5% globally. Lia is an outspoken Autistic Advocate and aims to share her neurodivergent perspective on cognitive and neuro-inclusion in the tech industry.  Her mission is to create a more compassionate and inclusive community.",
-			"title":"Inclusion Starts With Us",
-			"description":"This talk aims to discuss how to create an accessible and inclusive experience across Slack and Zoom for Cognitive Disabilities and Neurodivergence. Current internal communication processes, particularly among Slack and Zoom, may present substantial challenges to disabled individuals, many of whom may not be vocalizing these challenges for a variety of reasons (e.g. fear of retaliation, anxiety, trauma from past employer disclosure experiences, learned helplessness etc). Not addressing these obstacles wastes a massive source of innovation as it prevents these employees from doing their best work, thereby limiting valuable contribution to the company as a whole. After this talk, you will understand what cognitive disabilities and neurodivergence mean, why it’s important to consider, and actionable steps you can take to create a more inclusive Slack and Zoom environment in the workplace.",
+			"presenter":"Léonie Watson",
+			"bio":"Léonie is Founder and Director of TetraLogical, a member of the W3C Board of Directors, and co-Chair of the W3C Web Applications Working Group. She’s also co-author of the Inclusive Design Principles and the Do No Harm Guide: Centering accessibility in data visualization.",
+			"title":"Voice of contention",
+			"description":"<p>We’ve been designing voice experiences for almost 20 years, for telephony, satellite navigation, home assistants, video games, and custom applications, yet browsers and screen readers are both lagging behind. It turns out that we’re much better at voice design than we are visual design, so why isn’t it possible to design voice experiences in the browser and what can we do about it?</p><p>This talk will use examples from the analogue and digital worlds to illustrate the importance of voice experience. It’ll explore the different forms of voice interface architecture, the way Text To Speech (TTS) technology has evolved over time, and techniques for elevating ordinary voice experiences into something altogether more engaging.</p><p>The talk will then consider the challenges of designing voice experiences in the browser, and what screen readers have to do with that. From there it will consider a solution, along with the failsafes and protections screen reader users should expect.</p>",
 			"videoId":"--61pyOYYbs",
 			"social":[
 				{
-					"type":"web",
-					"url":"https://autismwish.org/",
-					"text":"autismwish.org"
+					"type":"mastodon",
+					"url":"https://front-end.social/@tink",
+					"text":"@tink@front-end.social"
 				},
 				{
-					"type":"twitter",
-					"url":"https://twitter.com/autismwish",
-					"text":"@autismwish"
-				}	
+					"type":"web",
+					"url":"https://tink.uk/",
+					"text":"tink.uk"
+				}
 			]
 		},
 		{
