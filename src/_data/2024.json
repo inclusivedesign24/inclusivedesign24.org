@@ -1,3 +1,401 @@
 {
-
+  "playlistId":"PLn7dsvRdQEfFfYUgq0wVLXlVN7yQUUWd-",
+  "schedule":[
+    {
+      "datetime":"September 11, 2024 23:30",
+      "title":"The pre-show / welcome",
+      "description":"<p>Meet your hosts for the next 24 hours. We’ll be having a general chat about accessibility, inclusive design, and talking about the sessions we are most looking forward to in the upcoming 24 hours.</p>",
+      "videoId":""
+    },
+    {
+			"datetime":"September 12, 2024 00:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Joel Snyder, PhD",
+			"bio":"",
+			"title":"Audio Description: Programmatic Accessibility as Inclusive Design",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 01:00 UTC",
+			"multipleSpeakers":"true",
+			"presenter":"Charlii Parker and Jacinta Gregory",
+			"bio":"",
+			"title":"Unlocking Insights: Moderated vs. Unmoderated Disability UX Testing",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 02:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Annie Liu",
+			"bio":"",
+			"title":"Practising Inclusive Design in Consultancy: A Case Study",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 03:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Alessandro Carducci",
+			"bio":"",
+			"title":"Visual and audio alternatives in video games",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 04:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Michelle Chu",
+			"bio":"",
+			"title":"Accessible Big Screen: Designing the Future of Inclusive Viewing",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 05:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Anh Duong",
+			"bio":"",
+			"title":"How to consider non-native English speakers in UX",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 06:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Donna Bungard",
+			"bio":"",
+			"title":"The Myth of the Accessibility Unicorn: Steps to Redefining A11y SMEs",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 07:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Laura Wissiak",
+			"bio":"",
+			"title":"Invisible Stigma and its influence on UX Research for Accessiblity",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 08:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Elizabeth Buie",
+			"bio":"",
+			"title":"Older Adults: Are We Really Designing for Our Future Selves?",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 09:00 UTC",
+			"multipleSpeakers":"true",
+			"presenter":"Malin Hammarberg and Sara Kjellstrand",
+			"bio":"",
+			"title":"Digital serenity: How to reduce user stress with brain-friendly web design",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 10:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Ross Mullen",
+			"bio":"",
+			"title":"Mastering Accessibility Acceptance Criteria for better user stories",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 11:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Dom Parker",
+			"bio":"",
+			"title":"Inclusive Game Design: Accessible Mechanics & UI",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 12:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Janaki Konar",
+			"bio":"",
+			"title":"Switch Control in Action: Enhancing Accessibility",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 13:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Owen Niblock",
+			"bio":"",
+			"title":"Understanding the 'Why' Around Neurodivergent Inclusive Web Design",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 14:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Erika Menczigar",
+			"bio":"",
+			"title":"Trauma-informed Design: An Overlooked Aspect of Inclusive Design",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 15:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Fahad Lambate",
+			"bio":"",
+			"title":"Levelling the Playing Field: Enhancing Gaming for People with Disabilities",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 16:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Joe Lamyman",
+			"bio":"",
+			"title":"Introduction to XR accessibility",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 17:00 UTC",
+			"multipleSpeakers":"true",
+			"presenter":"Simona Manni and Belen Barros Pena",
+			"bio":"",
+			"title":"Neuro-diversifying tech: a toolkit for designing with autistic people",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 18:00 UTC",
+			"multipleSpeakers":"true",
+			"presenter":"Kaye Moors and Lizzie Hamblin",
+			"bio":"",
+			"title":"How many senses do you think you have?",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 19:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Heydon Pickering",
+			"bio":"",
+			"title":"The Folly of Chasing Demographics",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 20:00 UTC",
+			"multipleSpeakers":"true",
+			"presenter":"Chancey Fleet and Lauren Race",
+			"bio":"",
+			"title":"Inclusive Methods for Co-Design Between Blind and Sighted Designers",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 21:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Wilco Fiers",
+			"bio":"",
+			"title":"Accessibility beyond WCAG: EAA & EN 301 549",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 22:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Heather Neff",
+			"bio":"",
+			"title":"Smart SVGs: transforming the future of graphics",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 12, 2024 23:00 UTC",
+			"multipleSpeakers":"false",
+			"presenter":"Kai Wong",
+			"bio":"",
+			"title":"Influencing Without Authority: A Pep Talk for Accessibility Advocates",
+			"description":"",
+			"videoId":"",
+			"social":[
+				{
+					"type":"",
+					"url":"",
+					"text":""
+				}
+			]
+		},
+    {
+			"datetime":"September 13, 2024 00:00 UTC",
+			"title":"The after party / closing",
+			"description":"<p>Your hosts will discuss their favourite sessions from the last 24 hours, and might have a drink or two!</p>",
+			"videoId":""
+		}
+  ]
 }
