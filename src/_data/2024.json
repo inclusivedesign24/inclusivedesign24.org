@@ -103,12 +103,12 @@
 				}
 			]
 		},
-    {
+		{
 			"datetime":"September 12, 2024 06:00 UTC",
 			"multipleSpeakers":"false",
-			"presenter":"Donna Bungard",
+			"presenter":"Joe Lamyman",
 			"bio":"",
-			"title":"The Myth of the Accessibility Unicorn: Steps to Redefining A11y SMEs",
+			"title":"Introduction to XR accessibility",
 			"description":"",
 			"videoId":"",
 			"social":[
@@ -298,9 +298,9 @@
 		{
 			"datetime":"September 12, 2024 18:00 UTC",
 			"multipleSpeakers":"false",
-			"presenter":"Joe Lamyman",
+			"presenter":"Wilco Fiers",
 			"bio":"",
-			"title":"Introduction to XR accessibility",
+			"title":"Accessibility beyond WCAG: EAA & EN 301 549",
 			"description":"",
 			"videoId":"",
 			"social":[
@@ -346,9 +346,9 @@
     {
 			"datetime":"September 12, 2024 21:00 UTC",
 			"multipleSpeakers":"false",
-			"presenter":"Wilco Fiers",
+			"presenter":"Donna Bungard",
 			"bio":"",
-			"title":"Accessibility beyond WCAG: EAA & EN 301 549",
+			"title":"The Myth of the Accessibility Unicorn: Steps to Redefining A11y SMEs",
 			"description":"",
 			"videoId":"",
 			"social":[
