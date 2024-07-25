@@ -58,9 +58,9 @@
     {
 			"datetime":"September 12, 2024 03:00 UTC",
 			"multipleSpeakers":"false",
-			"presenter":"Alessandro Carducci",
+			"presenter":"Anh Duong",
 			"bio":"",
-			"title":"Visual and audio alternatives in video games",
+			"title":"How to consider non-native English speakers in UX",
 			"description":"",
 			"videoId":"",
 			"social":[
@@ -87,12 +87,12 @@
 				}
 			]
 		},
-    {
+		{
 			"datetime":"September 12, 2024 05:00 UTC",
 			"multipleSpeakers":"false",
-			"presenter":"Anh Duong",
+			"presenter":"Dom Parker",
 			"bio":"",
-			"title":"How to consider non-native English speakers in UX",
+			"title":"Inclusive Game Design: Accessible Mechanics & UI",
 			"description":"",
 			"videoId":"",
 			"social":[
@@ -183,12 +183,12 @@
 				}
 			]
 		},
-    {
+		{
 			"datetime":"September 12, 2024 11:00 UTC",
 			"multipleSpeakers":"false",
-			"presenter":"Dom Parker",
+			"presenter":"Alessandro Carducci",
 			"bio":"",
-			"title":"Inclusive Game Design: Accessible Mechanics & UI",
+			"title":"Visual and audio alternatives in video games",
 			"description":"",
 			"videoId":"",
 			"social":[
@@ -265,10 +265,10 @@
 		},
     {
 			"datetime":"September 12, 2024 16:00 UTC",
-			"multipleSpeakers":"false",
-			"presenter":"Joe Lamyman",
+			"multipleSpeakers":"true",
+			"presenter":"Kaye Moors and Lizzie Hamblin",
 			"bio":"",
-			"title":"Introduction to XR accessibility",
+			"title":"How many senses do you think you have?",
 			"description":"",
 			"videoId":"",
 			"social":[
@@ -295,12 +295,12 @@
 				}
 			]
 		},
-    {
+		{
 			"datetime":"September 12, 2024 18:00 UTC",
-			"multipleSpeakers":"true",
-			"presenter":"Kaye Moors and Lizzie Hamblin",
+			"multipleSpeakers":"false",
+			"presenter":"Joe Lamyman",
 			"bio":"",
-			"title":"How many senses do you think you have?",
+			"title":"Introduction to XR accessibility",
 			"description":"",
 			"videoId":"",
 			"social":[
