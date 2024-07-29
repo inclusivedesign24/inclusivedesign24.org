@@ -32,6 +32,16 @@ cite {
     font-style: normal;
 }
 
+dt, dd { margin-left: 0;}
+
+dt {
+    font-weight: bold;
+}
+
+dt, dd {
+    margin-left: 0;
+}
+
 /* inline SVG icons */
 
 svg.icon {
@@ -436,7 +446,7 @@ button, .session .videostream {
     outline: none;
 }
 
-#intro p, section p {
+#intro p, section p, section dl {
     line-height: 1.5;
     font-size: 0.9em;
 }
