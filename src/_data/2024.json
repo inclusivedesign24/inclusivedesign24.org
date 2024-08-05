@@ -427,14 +427,9 @@
 					"text":"@chanceyfleet"
 				},
 				{
-					"type":"web",
-					"url":"https://laurenrace.com",
-					"text":"laurenrace.com"
-				},
-				{
-					"type":"twitter",
-					"url":"https://x.com/Lauren_Race",
-					"text":"@Lauren_Race"
+					"type":"linkedin",
+					"url":"https://www.linkedin.com/in/lauren-race",
+					"text":"lauren-race"
 				}
 			]
 		},
