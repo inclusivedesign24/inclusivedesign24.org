@@ -614,11 +614,6 @@ table.id24local_sessions .session_time_offset {
         text-align: left;      
     }
 
-    header #mainnav #date {
-        text-align: right;
-        padding-right: 0;
-    }
-
     main > * {
         -ms-grid-column: 2;
         -ms-grid-row: 1;

@@ -84,17 +84,6 @@ header, main, footer, section, nav, main { display: block; }
         -ms-grid-row-align: end;
     }
 
-    header #mainnav #date {
-        padding-right: 0.75em;
-    }
-    
-    header #mainnav #date span {
-        font-weight: bold;
-        color: #ffe400;
-        background: #000;
-        padding: 0.25em 0.5em;
-    }
-
     footer {
         align-items: start;
     }
@@ -290,6 +279,17 @@ header #mainnav {
     font-size: 1.25rem;
     word-spacing: -0.1em;
     text-align: right;
+}
+
+header #mainnav #date {
+    padding-right: 0.75em;
+}
+
+header #mainnav #date span {
+    font-weight: bold;
+    color: #ffe400;
+    background: #000;
+    padding: 0.25em 0.5em;
 }
 
 header #mainnav ul,
@@ -692,7 +692,8 @@ table.id24u_sessions .session_time_offset {
         -ms-grid-column: 2;
         -ms-grid-row: 2;
         grid-column: 2;
-        grid-row: 2;      
+        grid-row: 2;   
+        text-align: left;   
     }
 
     main > * {
