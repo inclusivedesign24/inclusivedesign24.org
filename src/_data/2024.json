@@ -1,11 +1,11 @@
 {
-  "playlistId":"",
+  "playlistId":"PLn7dsvRdQEfFompoGO_CE5z-_HjEdgVit",
   "schedule":[
     {
       "datetime":"September 11, 2024 23:30",
       "title":"The pre-show / welcome",
       "description":"<p>Meet your hosts for the next 24 hours. We’ll be having a general chat about accessibility, inclusive design, and talking about the sessions we are most looking forward to in the upcoming 24 hours.</p>",
-      "videoId":""
+      "videoId":"RTzit_9geMg"
     },
     {
 			"datetime":"September 12, 2024 00:00 UTC",
@@ -14,7 +14,7 @@
 			"bio":"<p>Dr. Joel Snyder is known internationally as one of the world’s first “audio describers,” a pioneer in the field of Audio Description, a translation of visual images to vivid language for the benefit, primarily, of people who are blind or have a vision impairment.</p><p>Since 1981, Dr. Snyder has introduced audio description techniques in over 40 states and 64 countries and has made thousands of live events, media projects and museums accessible.  Most recently, Dr. Snyder was named a Fulbright Scholar to train audio describers in Greece and Ukraine over a four-week period in 2019.</p>",
 			"title":"Audio Description: Programmatic Accessibility as Inclusive Design",
 			"description":"<p>For many years, structural access to arts facilities by people who use wheelchairs/have mobility impairments has been a well-known and generally accepted practice. Less understood is how the programs within a facility can be made accessible for people who are blind and/or deaf. If a visitor or audience member is blind and/or deaf, how can they access the arts programs presented in a facility in meaningful ways?</p><p>Through the innovative and universal use of audio description, open captions, and sign language interpretation, arts organizations can become models of inclusivity.</p>",
-			"videoId":"",
+			"videoId":"p8VtF1LjGo8",
 			"social":[
 				{
 					"type":"web",
@@ -35,7 +35,7 @@
 			"bio":"<p>Charlii Parker is the Equitable Design and Research Lead at Intopia, where she champions inclusive design and accessibility. With extensive experience in usability testing, Charlii has played a pivotal role in developing accessible digital solutions for diverse user groups. Her passion for ensuring equitable access to technology drives her work and inspires her contributions to the field. Charlii frequently shares her insights and strategies at industry conferences, helping to advance the conversation on digital accessibility.</p><p>As an inclusive design researcher, Jacinta is passionate about creating products and experiences that are accessible and usable for everyone. With a background in community-based development and human-centred design, she brings a deep understanding of user needs and behaviours to her work.</p>",
 			"title":"Unlocking Insights: Moderated vs. Unmoderated Disability UX Testing",
 			"description":"Lets talk about the positives and the pitfalls of moderated vs unmoderated user testing with people with disabilities. Testing with users who have different access requirements and who use assistive technologies always adds an extra layer of complexity to any user study. So how do we best capture their feedback? This talk compares and contrasts moderated and unmoderated testing methods. Discussing the strengths and limitations of each for learning from users with disabilities. Gain insights to help you choose the best approach for your next research project.",
-			"videoId":"",
+			"videoId":"ygPBFjcRsWQ",
 			"social":[
 				{
 					"type":"web",
@@ -61,7 +61,7 @@
 			"bio":"<p>As a Design Research Lead at IDEO’s London studio, Annie applies qualitative and quantitative research to inspire design.</p><p>Passionate about social innovation, she aspires to use design to make the world more equitable and inclusive. Before joining IDEO, Annie led research on urban mobility and digital health in Berlin's tech start-up scene. Annie is also an insatiable traveller. She has taught Design Research in Peru, co-created curriculums with refugee women in Germany and researched healthcare access in Tanzania. At IDEO, she has designed inclusive spaces for hospitality chains and helped companies envision sustainable product strategy. When she is not working or travelling, she enjoys dancing, writing and having a laugh doing improv.</p><p>Annie holds a Research MA in Social Sciences from Humboldt University, a MA in Design Anthropology from UCL, and a BA in International Business from National Taiwan University.</p>",
 			"title":"Practising Inclusive Design in Consultancy: A Case Study",
 			"description":"<p>How do we incorporate the inclusive design lens into projects when that's not the core request from clients?</p><p>Passionate about inclusive design, I actively seek opportunities to make every project more inclusive. However, it's not always easy to balance the client's business objectives and our limited time and resources on a project.</p><p>In this talk, I will share a case study and lessons learned from how my team and I identified opportunities on a project, navigated the client organisation to get buy-ins, and made our design more inclusive through research and design.</p><p>I will provide practical guidance on how to activate inclusive design in your work. While this will be a case study in a consultancy/agency context, the tips and tricks will apply to in-house practitioners working with internal stakeholders. </p>",
-			"videoId":"",
+			"videoId":"HtkBU6DK44A",
 			"social":[
 				{
 					"type":"linkedin",
@@ -77,7 +77,7 @@
 			"bio":"Anh Duong wears multiple hats in all her roles. Practising in different disciplines has helped her see how accessibility ties into every part of the product lifecycle. Anh is passionate about helping others and is always looking beyond the rules and standards of UX or WCAG to find practical ways to create awesome accessible web designs. She has delivered web accessibility training and audits to many clients and actively participates in creating and maintaining a culture of accessibility and inclusive design throughout the company. Anh is proudly made in Vietnam with a healthy obsession with Banh Mi and Ca Phe Sua Da.",
 			"title":"How to consider non-native English speakers in UX",
 			"description":"Anh Duong drew on her proud Vietnamese heritage to explore how UX practitioners and advocates can consider non-native English speakers in UX. Anh shared her personal experiences to show and discuss how empathizing with people who don’t have English as their first language in your UX approach can really make a difference. This fun and interactive talk surfaced some really valuable takeaways including how considering a non-native English speaking point of view in your UX can actually improve digital experiences for everyone.",
-			"videoId":"",
+			"videoId":"kraqhhFs3C8",
 			"social":[
 				{
 					"type":"linkedin",
@@ -93,7 +93,7 @@
 			"bio":"Michelle isn't your typical design researcher or accessibility specialist; she's on a mission to make the digital world more inclusive. With expertise in mobile and TV accessibility, Michelle ensures all digital experiences meet diverse needs of everyone. Through inclusive design and research, she ensures no voice is unheard. She goes beyond compliance, to advocate for inclusivity at every step. Join Michelle to learn how she's shaping a more inclusive digital future!",
 			"title":"Accessible Big Screen: Designing the Future of Inclusive Viewing",
 			"description":"In this talk we'll explore the ever-evolving landscape of TV accessibility. You will learn about the essential principles for designing an inclusive TV experience and explore practical techniques for assessing accessibility, ensuring that your designs are truly inclusive. Whether you're a designer, developer, tester or media producer, this session will equip you with tools and knowledge on TV accessibility and pave the way for a more inclusive future of television.",
-			"videoId":"",
+			"videoId":"lBX2Pd40oC4",
 			"social":[
 				{
 					"type":"linkedin",
@@ -109,7 +109,7 @@
 			"bio":"Dom Parker (she/her) is a digital accessibility consultant at Intopia with a passion for video games and audio design. She has provided quality assurance and audio design for a number of games (under NDA) through the lens of accessibility. Dom uses her mix of technical audio skills and game design knowledge to assist developers in creating inclusive games. Her audio design has been ranked 7th in the world for itch.io jams since 2021. Additionally, Dom is a skilled double bass performer, having performed at UNSW and traveled the world to represent Australian music in Japan, the USA, Thailand, and London.",
 			"title":"Inclusive Game Design: Accessible Mechanics & UI",
 			"description":"Join Dom Parker as she explores how game mechanics and UI design can enhance accessibility in gaming. Gain practical insights and examples to create inclusive gaming experiences for all players.",
-			"videoId":"",
+			"videoId":"9Fgapv9ad-Y",
 			"social":[
 				{
 					"type":"web",
@@ -125,7 +125,7 @@
 			"bio":"<p>Joe is a Senior Accessibility Specialist at TetraLogical. Over the past few years, he has been working to understand how we can make XR experiences more accessible, authoring blog posts about 3D model viewers and augmented reality.</p><p>In addition to his familiarity with WCAG through his role at TetraLogical, Joe has a keen interest in developing websites and personalisation. He utilised these interests and skills to create an accessible, personalisable, toilet roll selling website as part of his MSc by Research degree.</p>",
 			"title":"Introduction to XR accessibility",
 			"description":"How does accessibility apply to extended reality (XR) experiences? In this talk, we'll explore the W3C's XR Accessibility User Requirements, addressing challenges and key considerations for designing inclusive immersive environments. You'll gain an understanding of general practices for making augmented reality (AR) and virtual reality (VR) experiences accessible to as many people as possible!",
-			"videoId":"",
+			"videoId":"5XGwY5PSsb8",
 			"social":[
 				{
 					"type":"web",
@@ -146,7 +146,7 @@
 			"bio":"Interviewing persons with low vision for her day job at the assistive tech development company Hope Tech Plus, Laura is learning more about barriers every day. And enthusiastic about sharing it! With a special interest in all things accessibility (both online and offline) she's enthusiastic to talk about braille keyboards, inaccessible trashcans and bad urban planning, how blindness is a spectum, and most importandly: That web accessibility is a tool to build an inclusive society.",
 			"title":"Invisible Stigma and its influence on UX Research for Accessiblity",
 			"description":"<p>Social desireablility bias is a well-know fiend in the UX Reserach field. But when doing research with persons with disabilities, there’s a new threat coming into play: Stigma.</p><p>Stigma can affect participants’ self reporting and reserach results. Participants with disabilities might be reluctant to disclose the extend of some barriers they encounter daily, out of subconscious fear of being stigmatized.</p><p>And here’s the catch with invisible stigma: You may already encounter participants with invisible disabilities, who are trying their best to compensate and conceal them to fit in. 15% of the world population have a disability, then how likely is it, that you never interviewed a user with a disability before?</p><p>Get to know this enemy to unravel covert insights hidden in plain sight!</p>",
-			"videoId":"",
+			"videoId":"FsZ-kS9Ahmo",
 			"social":[
 				{
 					"type":"web",
@@ -167,7 +167,7 @@
 			"bio":"Elizabeth is a UX consultant and independent researcher who specialises in design for older adults and for transcendent experiences. In almost five decades in industry she has contributed to the UX of websites, mobile apps, kiosks, and control systems, for audiences from NASA controllers to the worldwide general public. Elizabeth is passionate about adapting academic research methods to UX practice, promoting design to be inclusive of older adults, and singing medieval polyphony. She holds a PhD in design research from Northumbria University.",
 			"title":"Older Adults: Are We Really Designing for Our Future Selves?",
 			"description":"<p>Advice on design for older adults urges us to think of our future selves. This promotes empathy with older users but hints that the design challenges for today’s older people will be the same in 20 or 50 years.</p><p>Some issues will remain: body and mind do change with age. Issues begin at different ages and proceed at different rates, and design must always consider them. Other issues depend on knowledge. What YOU know when you’re older will differ from what today’s older people know.</p><p>This talk will explain the differences and how to handle them.</p>",
-			"videoId":"",
+			"videoId":"G2URp-_zZok",
 			"social":[
 				{
 					"type":"web",
@@ -198,7 +198,7 @@
 			"bio":"<p>Malin is a senior UX Designer and Accessibility Specialist at the Funka Foundation with over a decade of experience. Malin collaborates with both public and private sector clients to create inclusive products and services. A Certified Professional in Web Accessibility (CPWA) by the International Association of Accessibility Professionals (IAAP), she is dedicated to ensuring equal digital access for all. Malin specializes in Accessibility, Inclusive Design, and Usability. An experienced speaker, she has led numerous events and courses, sharing her expertise and passion for creating truly inclusive digital experiences.</p><p>Sara Kjellstrand is a Research Strategist at the Funka Foundation with a long experience of managing research projects and studies on accessibility, digital inclusion and equality. Sara has in the past five years led a series of research initiatives on cognitive accessibility on the web, with funding from the EU and national grants in Sweden and Norway. She is a Certified Professional in Accessibility Core Competencies (CPACC) through the International Association of Accessibility Professionals (IAAP) and is frequently giving lectures and training on cognitive accessibility and digital inclusion.</p>",
 			"title":"Digital serenity: How to reduce user stress with brain-friendly web design",
 			"description":"<p>Have you ever felt stressed out when conducting an errand online? You are not alone. Many users find themselves overwhelmed by complex and unstructured interfaces.</p><p>In this talk, accessibility experts from the Funka Foundation will explore what triggers stress in the digital environment and discuss the impact of stress on users of different abilities. Concrete examples of stress-relieving design features will be shared, along with key insights and tips for brain-friendly web design, based on case studies and research.</p>",
-			"videoId":"",
+			"videoId":"QZR7vT_7uRg",
 			"social":[
 				{
 					"type":"linkedin",
@@ -219,7 +219,7 @@
 			"bio":"Ross is director of CANAXESS and works with private industry and government improving their accessibility efforts with auditing, training, and consulting. He presents and writes regularly on digital accessibility in current and emerging technology, creates digital accessibility courses for Udemy and Pluralsight, and likes to really unpick the true intent of WCAG success criteria.",
 			"title":"Mastering Accessibility Acceptance Criteria for better user stories",
 			"description":"<p>Creating user stories with included accessibility information is hard. Do you cram so much detail into each story describing how a developer creates it? or just reference WCAG and hope that by luck the requirements appear in the finished feature?</p><p>Accessibility Acceptance Criteria are one solution.</p><p>They're broad accessibility criteria applied when user stories are created. They’re BA focused describing key behaviours a finished feature needs to display – an outcome, but don’t go so far as in specifying how to do it.</p><p>Instead, acting as guard rails they allow a developer the flexibility to implement the feature in any number of ways, if the outcome is met.</p>",
-			"videoId":"",
+			"videoId":"2p8-DKsRx4A",
 			"social":[
 				{
 					"type":"web",
@@ -240,7 +240,7 @@
 			"bio":"<p>Alessandro Carducci, founder of Cardeis Art. Artist, animator, Game dev and video creator, Since 2014, he has been a partner of Channel Frederator Network and creates digital drawing, animation and video game content.</p><p>He is teacher of Animation and Computer Games at the Academy of Fine Arts in Catanzaro and Teacher of 3D Modeling at the Academy of Fine Arts in Pisa.</p><p>He is co-author of XS2Animation, Inclusive Design Toolkit to make animation accessible. He is the author of the Robin Tech game currently in development by Cardeis Art.</p>",
 			"title":"Visual and audio alternatives in video games",
 			"description":"During the talk, the video game Robin Tech will be shown and the visual and auditory alternatives implemented in the game will be discussed as well as the Game Accessibility Guidelines.",
-			"videoId":"",
+			"videoId":"1S2lJ4FB2TA",
 			"social":[
 				{
 					"type":"web",
@@ -261,7 +261,7 @@
 			"bio":"Janaki Konar IAAP WAS is an Accessibility Testing QA Lead at BarrierBreak with over 7 years of experience in the field of Accessibility. Janaki Konar has mentored multiple people within the company. Due to her keen interest in understanding how differently-abled people access digital content, she entered the space of Accessibility. Apart from exploring different accessibility standards and guidelines, she is also implementing those understandings in audits on different platforms.",
 			"title":"Switch Control in Action: Enhancing Accessibility",
 			"description":"<p>As the digital world keeps on expanding, ensuring accessibility for all users is paramount. This talk delves into the advanced features and applications of Switch Control, moving beyond the basics to explore how impactful this tool can be to transform the digital experience for individuals with physical and motor disabilities.</p><p>Switch Control is a robust accessibility feature available inbuilt on various platforms like MACOS, Android and iOS, that allows users to control their devices using switches—whether they are physical buttons, joysticks, or even head movements. Windows as well support compatibility with Switch Devices that could be connected via Bluetooth.</p><p>A brief overview of Switch Control will be discussed post which we will transition into some of the advanced customization techniques. Learning how to set up custom gestures, creating or editing complex recipes, and integrate multiple switch configurations to accommodate various needs and preferences. We will also delve into glimpses of information on use of third-party adaptive devices and software that can enhance the Switch Control experience, offering users more choices.</p><p>In addition, we will explore essential design considerations, implementation techniques, and best practices to ensure inclusivity and usability for users with limited mobility. Also, brief insights into accessibility requirements to keep in mind, ensuring your website or applications are Switch Control friendly.</p><p>Attendees will gain insights through a demo showcasing how to interact a webpage or an application using Switch Control settings. This talk is designed for beginners to advanced accessibility enthusiasts who wants to learn more about Switch Control.</p><p>By the end of this session, you will have a comprehensive understanding of what is Switch Control, the latest advancements in Switch Control, Switch Control in action and be equipped with knowledge around it. Join us to unlock the exploration of Switch Control and help drive the future of inclusive technology!</p>",
-			"videoId":"",
+			"videoId":"ZPFn7zMcs5E",
 			"social":[
 				{
 					"type":"twitter",
@@ -277,7 +277,7 @@
 			"bio":"Owen Niblock is a Software Engineer on GitHub's Accessibility Team and a member of Microsoft's Mental Health Tech Council. He's autistic and passionate about making the world a better place for as many people as possible. Special interests include stand-up comedy, Star Trek, his cats, Accessibility, Neurodivergence and his growing collection of fidget toys.",
 			"title":"Understanding the 'Why' Around Neurodivergent Inclusive Web Design",
 			"description":"Owen is autistic and hugely interested in how we can make the web a more accessible and inclusive place. Join us as we talk about some common considerations when designing websites to be neurodivergent friendly. We'll look at why it's important to think about these problems and how to approach web design with an open mind. A personal and thought provoking introduction to this deep and interesting topic.",
-			"videoId":"",
+			"videoId":"wlRPSpO_N9A",
 			"social":[
 				{
 					"type":"twitter",
@@ -293,7 +293,7 @@
 			"bio":"<p>I am a User Experience Researcher with a Master's degree in psychology. After gaining experience in academic research and mental health care, I have been helping create user-friendly websites and products, with a special interest in inclusive and trauma-informed design. For somebody who spent almost a decade supporting people, the aim to make this world more human-centred will always remain a priority for me with the skills I learned while working with vulnerable people.</p><p>I have extensive experience in academic, business and user experience research within different organisations, where I had the opportunity to work on a wide range of projects and to talk to hundreds of users. I also completed design tasks and was happy to take part in that phase of the design life-cycle.</p><p>In my free time, I am still passionately involved in mental-health-related activities and trying to increase awareness of the impact of trauma and the importance of self-awareness.</p>",
 			"title":"Trauma-informed Design: An Overlooked Aspect of Inclusive Design",
 			"description":"<p>Approximately 40-60% of your users and colleagues have experienced psychological trauma at some point in their lives. Many live with its long-term effects, which can significantly influence how they perceive and interact with information. Unfortunately, inclusive design often neglects this critical aspect.</p><p>Key Discussion Points:</p><dl><dt>Navigating the Line: Inconsiderate vs. Triggering Design Elements</dt><dd>Understanding the subtle differences between designs that are merely inconsiderate and those that can actively trigger trauma responses.</dd><dt>Case Studies: Products That Have Integrated Trauma-Informed Design</dt><dd>Highlighting products that have successfully considered psychological trauma in their design processes.</dd><dt>Research and Design Strategies: Best Practices for Tech Professionals</dt><dd>Essential research methodologies and design considerations that tech professionals can apply to create more inclusive and empathetic user experiences.</dd></dl><p>Through relatable everyday examples, this talk will shed light on this often-overlooked topic, providing actionable insights for incorporating trauma-informed principles into your design processes.</p>",
-			"videoId":"",
+			"videoId":"nz2MSaJVeIw",
 			"social":[
 				{
 					"type":"linkedin",
@@ -309,7 +309,7 @@
 			"bio":"Fahad Lambate is an Associate Accessibility Director at BarrierBreak! He is a Certified Professional in Web Accessibility (CPWA) with an experience of more than 8 years in accessibility space. He is passionate to make technology inclusive. He work determinedly to ensure that he provides the required guidance to the team to make digital space accessible. Fahad brings an approachable leadership style to the team, emphasizing the importance of accessibility. In his role, Fahad collaborates with various teams to make sure the digital offerings are equitable usage, experience along with ensuring the quality expectations and standards are met as per the organization.",
 			"title":"Levelling the Playing Field: Enhancing Gaming for People with Disabilities",
 			"description":"<p>As video games are becoming mainstream, it is essential that all players including people with disabilities can be engaged and participating fully to have an immersive experience. Making game inclusive involves integrating diverse accessibility requirements along with adaptive technologies to address various needs.</p><p>The commitment to inclusivity is reflected in the rise of accessibility-focused guidelines and resources. Although there’s no yet set standards like WCAG which caters to digital accessibility, there are standards established by the organisation like Microsoft such as the Xbox Accessibility Guidelines and the Accessible Player Experiences (APX) framework by the IGDA. These initiatives help developers with best practices and guidance to create more inclusive games.</p><p>Despite of gaming being made significant strides in recent years, there are several challenges that still persists. In this talk we will also have a glimpse of few of the core challenges that developers pose, it could range from roadmap for accessibility, budget constraints, accommodating different requirements keeping a balance of gameplay to lack of knowledge or awareness.</p><p>We will also go through some simple but impactful changes based on different users groups such as color requirements, visual cues, adjustable font size, customisable level of difficulty, subtitles, re-mappable keys/buttons, simplified user interfaces, tutorials and so on. This would give the gaming enthusiasts a starting point to embed accessibility within the games they design or develop.</p><p>It is also important to note that along with development, it is also required to verify the implementation via testing with a diverse group of users to help identify any potential accessibility challenges and improve the overall gameplay for everyone.</p><p>By prioritising accessibility, the gaming industry not only opens its doors to a broader audience but also enriches the gaming experience for everyone. This session will help to spread knowledge around gaming accessibility to the gaming enthusiasts.</p>",
-			"videoId":"",
+			"videoId":"aMlF_SeVZpc",
 			"social":[
 				{
 					"type":"web",
@@ -330,7 +330,7 @@
 			"bio":"<p>Kaye is MD of DRUM, an agency with a mission to craft accessible user experience, by overcoming barriers and inequality, for brands leading the way. Kaye set up the agency in 2006 and then suffered a few brain injuries resulting in both physical disabilities, but also sensory processing disorder and overload. This moment in time fuelled her passion for digital accessibility even further. Since then DRUM has been providing support, toolkits, talks and accessible design to help reshape the industry into an inclusive space.</p><p>Lizzie is Lead Designer at DRUM and has worked in UX/UI for 8 years. It is important to her to shift digital to be better for people and the planet. With several close family and friends having sensory digital accessibility needs, she has naturally become a disability inclusion ally. Having not been taught accessibility as part of her digital design training she is passionate in changing the mindset of design education.</p>",
 			"title":"How many senses do you think you have?",
 			"description":"<p>When designing sensory-friendly content, there are actually more than 5 senses to consider. With a third of the population experiencing sensory sensitivity or overload at some point in their lives, we explore how designers can balance creativity while being mindful of a users' health.</p><p>Drawing on insights from user testing, surveys, and personal experiences with vestibular disorders and sensory overload, we look at ways of designing to leave users feeling more relaxed and less drained.</p>",
-			"videoId":"",
+			"videoId":"3sTHvRWSXcA",
 			"social":[
 				{
 					"type":"web",
@@ -356,7 +356,7 @@
 			"bio":"<p>Simona is an ESRC post-doctoral fellow at the Department of Health Sciences and the Institute of Mental Health Research at the University of York. She is a researcher in interactive media specialised in participatory methods and co-design strategies to support communities in exploring how innovative digital technologies can be informed by their expressive needs and lived experience. Simona worked developing resources on the adaptation of digital platforms for autistic users as part of the research project Autistic Adults Online.</p><p>Belen has been an interaction designer and design researcher in the software industry since 2007, working within in-house teams, design agencies and as a consultant. After obtaining her PhD in 2021, she is now a Lecturer at City University. As part of the Autistic Adults Online project, Belen partnered with autistic people to figure out how to make social media better.</p>",
 			"title":"Neuro-diversifying tech: a toolkit for designing with autistic people",
 			"description":"Our digital technologies are mostly designed by and for neurotypicals. This means they are often unsuitable and challenging for autistic people. We believe things could be different. As part of the Autistic Adults Online project, we partnered with autistic people to rethink the design of social media. Out of that work came numerous suggestions for exciting new social media features, and a toolbox of methods and materials to engage autistic people in design. In this talk, we will present and explain the toolbox, which is available under a CC license: <a href='https://github.com/autisticadultsonline/autisticadultsonline/blob/main/Designers%20Toolkit%20Final%20Version.pdf'>Co-Designing online platforms with autistic users - A toolkit for UX designers, researchers, developers</a>",
-			"videoId":"",
+			"videoId":"_SxRSYzmHOE",
 			"social":[
 				{
 					"type":"web",
@@ -377,7 +377,7 @@
 			"bio":"Wilco is principal product owner of axe-core and axe DevTools at Deque Systems, based in The Netherlands. He has worked in accessibility for over 18 years. In this time he has worked in auditing, consulting, standards authoring, and accessibility tool development. Notable work includes project manager of WCAG 3.0, founding chair of ACT Rules Community, lead developer of axe Linter and WCAG-EM report tool, and industry advisor to the EU's Web Accessibility Directive Expert Group.",
 			"title":"Accessibility beyond WCAG: EAA & EN 301 549",
 			"description":"EN 301 549 is Europe's standard on ICT accessibility. It includes various requirements not covered by WCAG, including for non-web software, authoring tools, and electronic devices. The European Accessibility Act (EAA), starting June 2025 will mean many organizations across different industries needing to apply these requirements. So in this talk we'll introduce EN 301 549, and learn how it's different from WCAG.",
-			"videoId":"",
+			"videoId":"AHxasDBBskE",
 			"social":[
 				{
 					"type":"web",
@@ -398,7 +398,7 @@
 			"bio":"Heydon is a designer, front-end developer, technical writer, video producer, and dubious, self-appointed mascot for The Web. They have written several books about web accessibility and co-authored the CSS layout primer Every Layout with Andy Bell. Bulb Energy, The BBC, Spotify, and SpringerNature have all asked Heydon to help them develop their design systems. They play baritone guitar, synth, and theremin in a psychedelic punk and roll band.",
 			"title":"The Folly of Chasing Demographics",
 			"description":"People with disabilities are different. Not only different from those without disabilities but different from other people with disabilities and even different from other people with the same disabilities. Different experiences, different circumstances, different adaptations, different preferences, different everything. So why do we design for 'screen reader users' or 'keyboard users', for example, like they're all the same person? Are there less clumsy (and insulting!) ways to approach inclusion?",
-			"videoId":"",
+			"videoId":"XntrwuBjE5c",
 			"social":[
 				{
 					"type":"web",
@@ -419,7 +419,7 @@
 			"bio":"<p>Chancey Fleet is a Brooklyn-based tech educator and activist who identifies as Blind. Chancey is the Assistive Technology Coordinator at the New York Public Library. In that role, she curates accessible technology in the branch, collaborates across the NYPL system to improve equity of access, and coordinates a diverse team of staff and volunteers who provide one-to-one tech coaching and group workshops, free of charge and open to all. Through a 2017 NYPL Innovation grant, she founded and maintains the Dimensions Project, a free open lab for the exploration and creation of accessible images, models and data representations through tactile graphics, 3d models and nonvisual approaches to coding, CAD, and “visual” arts.</p><p>Lauren Race is an accessibility designer, researcher, and educator, working in academia and industry. Her process combines human-centered, multisensory, and co-design methods to remove barriers to information access. She earned her master’s from NYU’s Interactive Telecommunications Program (ITP) and currently works at the NYU Ability Project, a research lab dedicated to the intersection of disability and technology.</p>",
 			"title":"Inclusive Methods for Co-Design Between Blind and Sighted Designers",
 			"description":"Blind designers are underrepresented in a field where sighted designers routinely control the process on their behalf. This lack of representation is upheld by inaccessible tools that do not support nonvisual design. Co-design is an effective technique for Blind and sighted designers to circumvent inaccessible tools and reduce ableism in their work. This talk will introduce attendees to opportunities with current nonvisual design tools and inclusive methods for Blind and sighted designers who want to engage in inclusive co-design practices.",
-			"videoId":"",
+			"videoId":"IoNp-QvZm_o",
 			"social":[
 				{
 					"type":"twitter",
@@ -440,7 +440,7 @@
 			"bio":"Donna Bungard, an advocate for disability inclusion and accessibility, holds certifications in accessibility and brings extensive expertise to her role. As a member of the disabled community, she emphasizes the importance of inclusivity in all aspects of work. At Indeed, Donna plays a crucial role in embedding disability inclusion into the organization's fabric, ensuring that understanding the disability community is a core part of Indeed's perspective on job seekers.",
 			"title":"The Myth of the Accessibility Unicorn: Steps to Redefining A11y SMEs",
 			"description":"<p>In the world of disability inclusion and accessibility (a11y), much has been said about subject matter experts (SMEs) and their unique value. But what does it take to become an SME? How can you hire and upskill talent to ensure compliance and foster true inclusivity? How do you develop strategic leaders and innovative contributors?</p><p>This session will demystify the concept of the A11y SME, exploring roles, responsibilities, and skills. We'll emphasize “nothing about us without us” and discuss how rethinking job descriptions and focusing on skills-first hiring can create more impactful work. Join us for clarity and actionable insights on building an inclusive and effective accessibility strategy.</p>",
-			"videoId":"",
+			"videoId":"i4iVndHHDFk",
 			"social":[
 				{
 					"type":"linkedin",
@@ -456,7 +456,7 @@
 			"bio":"<p>Heather is the Founder of Equivalent, the leading global accessible graphics firm for advancing disability inclusion and equality. Her more than 20 years of leadership experience driving accessible design was ignited by challenges she experienced having motor and vision disabilities. As a designer, she’s been forced to adapt, by becoming both a voice control user, and using accessibility settings on her devices such as dark mode and contrast themes.</p><p>As a sought-after speaker, Ms Neff has graced numerous stages, captivating audiences with their engaging style, deep insights, and innovative approach to inclusive design. Her expertise spans across graphic design, web development and accessibility, making her a versatile and knowledgeable speaker on various fronts.</p><p>A natural storyteller and communicator, Heather Neff has the exceptional ability to connect with audiences, leaving a lasting impact with their compelling narratives, actionable advice, and thought-provoking ideas.</p>",
 			"title":"Smart SVGs: transforming the future of graphics",
 			"description":"Join Heather S. Neff for an insightful talk on Smart SVG technology and its transformative impact on accessibility for low vision and blind users. Discover how Smart SVGs adapt to personalized accessibility settings, including user-selected colors, to provide a tailored visual experience. Learn how these innovative graphics are fully keyboard navigable, indexable, and screen reader friendly. Heather will share real-world applications and success stories, illustrating how this technology is setting a new standard for accessible digital content.",
-			"videoId":"",
+			"videoId":"0A4lDKkv0vc",
 			"social":[
 				{
 					"type":"web",
@@ -482,7 +482,7 @@
 			"bio":"Kai Wong (she/they) believes in the transformative power of accessible technology for better health outcomes. At Teladoc Health, Kai is a Principal Manager of Digital Accessibility, founder of Accessibility Champions for Change, and serves on the leadership board for their disability-focused Business Resource Group (BRG). They are an inventor of a US patent pending, a recipient of the 2021 DC FemTech Award, and hold certifications in accessibility, health education, and quality assurance. Dubbed as a presenter who “could make stale bread interesting,” Kai’s strategy for advancing accessibility is simple: make it fun and inspire action.",
 			"title":"Influencing Without Authority: A Pep Talk for Accessibility Advocates",
 			"description":"Change happens when people make it happen. Accessibility is no different. You do not need authority or a fancy title to bring digital accessibility into your workflow, team, or company. In this motivational pep talk, you'll learn about influencing and driving change for accessibility through personal investment, relationship-building, and strategic action, all without relying on formal authority.",
-			"videoId":"",
+			"videoId":"Tzc0F9z8Zh0",
 			"social":[
 				{
 					"type":"linkedin",
@@ -495,7 +495,7 @@
 			"datetime":"September 13, 2024 00:00 UTC",
 			"title":"The after party / closing",
 			"description":"<p>Your hosts will discuss their favourite sessions from the last 24 hours, and might have a drink or two!</p>",
-			"videoId":""
+			"videoId":"5bBJGVQTyNw"
 		}
   ]
 }
