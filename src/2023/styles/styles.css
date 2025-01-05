@@ -7,7 +7,7 @@ body {
     margin: 0;
     font-family: Roboto Slab, Helvetica, Arial, sans-serif;
     font-weight: 300;
-    font-size: 1.25em;
+    font-size: 1.25rem;
     background: #242424;
     color: #ddd;
     overflow-anchor: none; /* suppress new scroll anchoring behavior that causes issues with disclosure widgets */
@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, h2 {
-    font-size: 1.5em;
+    font-size: 1.875rem;
 }
 
 abbr[title], acronym[title] {
@@ -244,7 +244,7 @@ em {
 
 #supporters h3 {
     text-transform: uppercase;
-    font-size: 0.75em;
+    font-size: 1rem;
 }
 
 #supporters h3 span {
@@ -444,7 +444,7 @@ button, .session .videostream {
 
 #intro p, section p {
     line-height: 1.5;
-    font-size: 0.9em;
+    font-size: 1.125rem;
 }
 
 main > p, main > div > p {
@@ -474,20 +474,20 @@ section {
 
 .session h2 {
     margin: 0 0 0.25em 0;
-    font-size: 1.2em;
+    font-size: 1.5rem;
     border: none;
     cursor: pointer
 }
 
 .session h3 {
-    font-size: 1em;
+    font-size: 1.25rem;
     color: #fcfcfc;
 }
 
 .session button, .session .videostream {
     border: none;
     background: transparent;
-    font-size: 0.8em;
+    font-size: 1rem;
     color: #ffe400;
 }
 
@@ -501,7 +501,7 @@ section {
     position: absolute;
     top: 0.85em;
     left: 0.25em;
-    font-size: 2em;
+    font-size: 3rem;
     font-weight: normal;
     line-height: 1;
 }
@@ -562,6 +562,10 @@ section {
     padding-left: 1em;
 }
 
+.session_details div {
+    font-size: 1.125rem;
+}
+
 .session_presenter,
 .session_title {
     display: block;
@@ -619,7 +623,8 @@ a.slides {
 }
 
 #countdown {
-    font-size: 1em;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.25rem;
     font-weight: bold;
     margin-top: 1.5em;
 }
@@ -710,7 +715,7 @@ a.slides {
     }
 
     h1 {
-        font-size: 1.25em;
+        font-size: 1.375rem;
     }
 
     h2 {

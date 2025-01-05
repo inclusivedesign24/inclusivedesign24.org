@@ -7,7 +7,7 @@ body {
     margin: 0;
     font-family: Roboto Slab, Helvetica, Arial, sans-serif;
     font-weight: 300;
-    font-size: 1.25em;
+    font-size: 1.25rem;
     background: #242424;
     color: #ddd;
     overflow-anchor: none; /* suppress new scroll anchoring behavior that causes issues with disclosure widgets */
@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, h2 {
-    font-size: 1.5em;
+    font-size: 1.875rem;
 }
 
 abbr[title], acronym[title] {
@@ -216,6 +216,18 @@ main {
     padding: 2em 0 4em 0;
 }
 
+strong {
+    color: #242424;
+    background: #ffe400;
+    padding: 0 0.25em;
+    white-space: nowrap;
+}
+
+em {
+    color: #ffe400;
+    font-style: normal;
+}
+
 #supporters {
     text-align: center;
     background-color: #282828;
@@ -232,7 +244,7 @@ main {
 
 #supporters h3 {
     text-transform: uppercase;
-    font-size: 0.75em;
+    font-size: 1rem;
 }
 
 #supporters h3 span {
@@ -432,7 +444,7 @@ button, .session .videostream {
 
 #intro p, section p {
     line-height: 1.5;
-    font-size: 0.9em;
+    font-size: 1.125rem;
 }
 
 main > p, main > div > p {
@@ -462,20 +474,20 @@ section {
 
 .session h2 {
     margin: 0 0 0.25em 0;
-    font-size: 1.2em;
+    font-size: 1.5rem;
     border: none;
     cursor: pointer
 }
 
 .session h3 {
-    font-size: 1em;
+    font-size: 1.25rem;
     color: #fcfcfc;
 }
 
 .session button, .session .videostream {
     border: none;
     background: transparent;
-    font-size: 0.8em;
+    font-size: 1rem;
     color: #ffe400;
 }
 
@@ -489,7 +501,7 @@ section {
     position: absolute;
     top: 0.85em;
     left: 0.25em;
-    font-size: 2em;
+    font-size: 3rem;
     font-weight: normal;
     line-height: 1;
 }
@@ -550,6 +562,10 @@ section {
     padding-left: 1em;
 }
 
+.session_details div {
+    font-size: 1.125rem;
+}
+
 .session_presenter,
 .session_title {
     display: block;
@@ -608,13 +624,12 @@ a.slides {
 
 #countdown {
     font-family: 'Nunito Sans', sans-serif;
-    font-size: 1em;
+    font-size: 1.25rem;
     font-weight: bold;
     margin-top: 1.5em;
 }
 
 #countdown_timer {
-    font-family: Roboto Slab, Helvetica, Arial, sans-serif;
     color: #242424;
     background: #ffe400;
     padding: 0 0.25em;
@@ -700,7 +715,7 @@ a.slides {
     }
 
     h1 {
-        font-size: 1.25em;
+        font-size: 1.375rem;
     }
 
     h2 {
@@ -762,30 +777,30 @@ a.slides {
 }
 
 @media (max-width: 35em) {
-	header #mainnav {
-	    margin: 0;
+    header #mainnav {
+        margin: 0;
         padding: 0;
         text-align: left;
-	}
+    }
 
-	header #mainnav a {
-	    display: block;
-	    margin-bottom: 10px; /* em/rem lead to pixel dancing/rounding issues :( */
-	}
+    header #mainnav a {
+        display: block;
+        margin-bottom: 10px; /* em/rem lead to pixel dancing/rounding issues :( */
+    }
 
-	header #mainnav a:focus,
-	header #mainnav a:hover,
+    header #mainnav a:focus,
+    header #mainnav a:hover,
     header #mainnav a:active,
     header #mainnav a[aria-current] {
         margin-bottom: 5px;
         border-bottom-width: 5px;
     }
 
-	header #mainnav ul, header #mainnav ul li {
-	    display: block;
-	    padding: 0;
-	    margin: 0;
-	    list-style: none;
+    header #mainnav ul, header #mainnav ul li {
+        display: block;
+        padding: 0;
+        margin: 0;
+        list-style: none;
     }
     
     .supporter_name img {
