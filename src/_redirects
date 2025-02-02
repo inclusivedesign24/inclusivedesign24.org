@@ -8,6 +8,12 @@
 /images/* /2024/images/:splat
 /favicon.ico /2024/favicon.ico
 
-# Error pages
+# Custom error pages
+# (in all other cases, the generic 404.html in src root will be used)
 
+/2020/* /2020/404.html 404
+/2021/* /2021/404.html 404
+/2022/* /2022/404.html 404
+/2023/* /2023/404.html 404
 /2024/* /2024/404.html 404
+/* /404.html 404
