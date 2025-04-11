@@ -75,12 +75,12 @@ svg.icon {
     }
 
     footer nav#footer-social {
-        grid-column: 4/8;
+        grid-column: 2/7;
         grid-row: 1;
     }
 
     footer nav#footer-ancilliary {
-        grid-column: 8/12;
+        grid-column: 7/12;
         grid-row: 1;
     }
 
@@ -135,6 +135,9 @@ footer {
 
 footer a {
     border-bottom: none;
+    font-size: 1.1em;
+    font-weight: 600;
+    line-height: 1.5;
 }
 
 a {
@@ -755,7 +758,7 @@ a.slides {
     header #mainnav a:hover,
     header #mainnav a:active,
     header #mainnav a[aria-current] {
-        margin-bottom: 5px;
+        margin-bottom: 6px;
         border-bottom-width: 5px;
     }
 
@@ -780,5 +783,13 @@ a.slides {
 
     .team dd {
         display: block;
+    }
+
+}
+
+@media (max-width: 380px) {
+    footer a {
+        font-size: 0.9em;
+        line-height: 1;
     }
 }
