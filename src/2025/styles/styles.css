@@ -302,14 +302,15 @@ ul#editions li svg {
 
 .session button, .session .videostream {
     font-family: 'Nunito Sans', sans-serif;
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-weight: 400;
     text-decoration: none;
-    display: inline;
+    display: inline-block;
     padding: 0 0.25em;
     border: none;
     background: transparent;
     color: #ffe400;
+    min-height: 24px;
 }
 
 .session h2:hover + button,
@@ -428,7 +429,6 @@ ul#editions li svg {
 /* supporters */
 
 #supporters {
-    text-align: center;
     background-color: #282828;
     border-top: 2px #444 solid;
     padding-bottom: 1em;
@@ -452,6 +452,7 @@ ul#editions li svg {
 }
 
 #supporters img {
+    width: 500px;
     max-height: 150px;
     max-width: 250px;
     vertical-align: middle;
@@ -567,109 +568,19 @@ ul#editions li svg {
     margin-right: 0.5em;
 }
 
-/* grid layout */
-
-@media (min-width: 64rem) {
-
-    header, footer  {
-        margin: 0;
-        display: grid;
-        grid-template-columns: minmax(1rem, 1fr) repeat(12, 4.25rem) minmax(1rem, 1fr);
-        grid-column-gap: 1rem;
-    }
-
-    header {
-        align-items: end;
-    }
-
-    header > *, footer > * {
-        grid-column: 2/14;
-    }
-
-    header #logo {
-        grid-column: 2/7;
-        grid-row: 1;
-    }
-
-    header #mainnav {
-        grid-column: 8/14;
-        grid-row: 1;
-    }
-
-    footer {
-        align-items: start;
-    }
-
-    footer nav#footer-social {
-        grid-column: 2/7;
-        grid-row: 1;
-    }
-
-    footer nav#footer-ancilliary {
-        grid-column: 7/12;
-        grid-row: 1;
-    }
-
-    footer #logo_hashtag {
-        grid-column: 12/14;
-        grid-row: 1;
-    }
-
-    main {
-        margin: 0;
-        display: grid;
-        grid-template-columns: minmax(1rem, 1fr) 62rem minmax(1rem, 1fr);
-        grid-column-gap: 1rem;
-    }
-
-    main > * {
-        grid-column: 2;
-    }
-}
 
 /* adaptations for smaller screens */
 
-@media (max-width: 64rem) {
+@media (max-width: 67rem) {
     body {
         font-size: 1.1em;
     }
 
-    /* grid layout (and no subgrids) */
-
-    header, main, footer {
-        display: grid;
-        grid-template-columns: 1rem 1fr 1rem;
-    }
-
-    header #logo {
-        grid-column: 2;
-        grid-row: 1;
-    }
-
     header #mainnav {
-        grid-column: 2;
-        grid-row: 2;
         text-align: left;      
     }
 
-    main > * {
-        grid-column: 2;
-        grid-row: 1;
-    }
-
-    footer nav#footer-social {
-        grid-column: 2;
-        grid-row: 1;
-    }
-
-    footer nav#footer-ancilliary {
-        grid-column: 2;
-        grid-row: 2;
-    }
-
     footer #logo_hashtag {
-        grid-column: 2;
-        grid-row: 3;
         text-align: right;
     }
 
@@ -787,5 +698,137 @@ ul#editions li svg {
     footer a {
         font-size: 0.9em;
         line-height: 1;
+    }
+}
+
+/* *********** */
+/* grid layout */
+/* *********** */
+
+/* base grid on body itself */
+
+body {
+    display: grid;
+    grid-column-gap: 1rem;
+}
+
+header,
+main,
+#supporters,
+footer {
+    display: grid;
+    grid-template-columns: subgrid;
+}
+
+@media (min-width: 67rem) {
+
+    body {
+        grid-template-columns: minmax(1rem, 1fr) repeat(12, 4.25rem) minmax(1rem, 1fr);
+    }
+
+    header {
+        grid-column: 1/15;
+        align-items: end;
+    }
+
+    header > *, footer > * {
+        grid-column: 2/14;
+    }
+
+    header #logo {
+        grid-column: 2/7;
+    }
+
+    header #mainnav {
+        grid-column: 8/14;
+    }
+
+    main {
+        grid-column: 1/15;
+    }
+
+    main > * {
+        grid-column: 2/14;
+    }
+
+    #supporters {
+        grid-column: 1/15;
+    }
+
+    #supporters > * {
+        grid-column: 2/14;
+        justify-self: center;
+    }
+
+    footer {
+        grid-column: 1/15;
+    }
+
+    footer nav#footer-social {
+        grid-column: 2/7;
+    }
+
+    footer nav#footer-ancilliary {
+        grid-column: 7/12;
+    }
+
+    footer #logo_hashtag {
+        grid-column: 12/14;
+    }
+
+}
+
+@media (max-width: 67rem) {
+
+    body {
+        grid-template-columns: 1rem 1fr 1rem;
+    }
+
+    header {
+        grid-column: 1/4;
+    }
+
+    header > *, footer > * {
+        grid-column: 2;
+    }
+
+    main {
+        grid-column: 1/4;
+    }
+
+    main > * {
+        grid-column: 2;
+    }
+
+    #supporters {
+        grid-column: 1/4;
+    }
+
+    #supporters > * {
+        grid-column: 2;
+        justify-self: center;
+    }
+
+    footer {
+        grid-column: 1/4;
+    }
+
+    footer nav#footer-social {
+        grid-column: 2;
+    }
+
+    footer nav#footer-ancilliary {
+        grid-column: 2;
+    }
+
+    footer #logo_hashtag {
+        grid-column: 2;
+    }
+
+}
+
+@media (max-width: 35em) {
+    body {
+        grid-template-columns: 0 1fr 0; /* note there's still the column-gap left and right */
     }
 }
