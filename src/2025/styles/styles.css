@@ -79,6 +79,7 @@ a {
 
 a, a:link, a:visited {
     color: #ffe400;
+    word-break: break-all; /* for long social media links */
 }
 
 a:focus, a:hover, a:active {
@@ -515,7 +516,6 @@ ul#editions li svg {
 @media (max-width: 28em) {
     .supporter-perks {
         display: inline-block;
-        width: calc(100vw - 2rem);
         overflow: auto;
     }
 
@@ -590,6 +590,11 @@ ul#editions li svg {
 
     h1 {
         font-size: 1.375rem;
+    }
+
+    #countdown {
+        font-size: 1.2rem;
+        white-space: normal;
     }
 
     h2 {
