@@ -176,15 +176,6 @@ footer nav a[aria-current] {
     border-bottom: 0.25em solid;
 }
 
-button, .session .videostream {
-    font-family: Roboto Slab, Helvetica, Arial, sans-serif;
-    font-size: 1em;
-    font-weight: bold;
-    text-decoration: none;
-    display: inline;
-    padding: 0 0.25em;
-}
-
 a.youtube {
     text-decoration: none;
 }
@@ -195,9 +186,9 @@ a.slides {
 
 #countdown {
     font-family: 'Nunito Sans', sans-serif;
-    font-size: 1.25rem;
+    font-size: 1.875rem;
     font-weight: bold;
-    margin-top: 1.5em;
+    margin: 1em 0;
 }
 
 #countdown_timer {
@@ -310,9 +301,14 @@ ul#editions li svg {
 }
 
 .session button, .session .videostream {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    text-decoration: none;
+    display: inline;
+    padding: 0 0.25em;
     border: none;
     background: transparent;
-    font-size: 1rem;
     color: #ffe400;
 }
 
