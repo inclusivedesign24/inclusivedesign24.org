@@ -79,7 +79,6 @@ a {
 
 a, a:link, a:visited {
     color: #ffe400;
-    word-break: break-all; /* for long social media links */
 }
 
 a:focus, a:hover, a:active {
@@ -88,6 +87,12 @@ a:focus, a:hover, a:active {
     padding: 0 2px; /* using px rather than em, as 0.25em / -0.25em seems to have rounding issues leading to subtle sub-pixel dancing */
     margin: 0 -2px;
     outline: none;
+}
+
+#team a,
+#footer-social a,
+.pres_info a {
+	word-break: break-all; /* for long social media links */
 }
 
 header {
@@ -558,11 +563,11 @@ ul#editions li svg {
 
 /* team */
 
-.team dt {
+#team dt {
     margin: 1em 0 0 0;
 }
 
-.team dd {
+#team dd {
     margin-inline-start: 0;
     display: inline;
     margin-right: 0.5em;
@@ -607,6 +612,12 @@ ul#editions li svg {
     
     div#logo img {
         max-width: 20rem;
+    }
+
+    footer nav#footer-social {
+        border-bottom: 1px solid #444;
+        padding: 0;
+        margin-bottom: 1em;
     }
 
     footer #logo_hashtag img {
@@ -693,7 +704,7 @@ ul#editions li svg {
         max-width: 80%;
     }
 
-    .team dd {
+    #team dd {
         display: block;
     }
 
