@@ -139,7 +139,7 @@ strong {
     color: #242424;
     background: #ffe400;
     padding: 0 0.25em;
-    white-space: nowrap;
+    /* white-space: nowrap; */
 }
 
 em {
