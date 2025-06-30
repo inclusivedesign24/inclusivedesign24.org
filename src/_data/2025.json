@@ -1,5 +1,521 @@
 {
   "playlistId":"",
   "schedule":[
+    {
+      "datetime":"September 24, 2025 23:30",
+      "title":"The pre-show / welcome",
+      "description":"<p>Meet your hosts for the next 24 hours. We’ll be having a general chat about accessibility, inclusive design, and talking about the sessions we are most looking forward to in the upcoming 24 hours.</p>",
+      "videoId":""
+    },
+    {
+      "datetime":"September 25, 2025 00:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Steve Barnett",
+      "bio":"",
+      "title":"Getting \"Accessibility Ready\" for a Design System",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 01:00 UTC",
+      "multipleSpeakers":"true",
+      "presenter":"Jan Maarten and Daniel Henderson-Ede",
+      "bio":"",
+      "title":"Accessibility Annotations Around the World",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 02:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"TBC",
+      "bio":"",
+      "title":"TBC",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 03:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Misaki Tanaka",
+      "bio":"",
+      "title":"Designing DEI from Within: Lessons from Panasonic’s Inclusive Journey",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 04:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Nic Chan",
+      "bio":"",
+      "title":"Audiom: Building inclusive maps as the token sighted developer",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 05:00 UTC",
+      "multipleSpeakers":"true",
+      "presenter":"Matthew Hallonbacka and Elina Niemelä",
+      "bio":"",
+      "title":"React Native: What accessibility professionals need to know",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 06:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Rubina Singh",
+      "bio":"",
+      "title":"Designing with Dignity: Design Justice-Centered Approaches to Inclusion",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 07:00 UTC",
+      "multipleSpeakers":"true",
+      "presenter":"Sam Kuo and Jo Chang",
+      "bio":"",
+      "title":"Digital Accessibility in Taiwan: How a Community Drives Change",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 08:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Sergei Kriger",
+      "bio":"",
+      "title":"Found an accessibility issue? Now what?",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 09:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Dom Parker",
+      "bio":"",
+      "title":"Press Start: Accessible Game Design and Cerebral Palsy",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 10:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Piper Hutson",
+      "bio":"",
+      "title":"Designing Neuro-Accessible Interfaces for Better User Engagement",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+        {
+      "datetime":"September 25, 2025 11:00 UTC",
+      "multipleSpeakers":"true",
+      "presenter":"John Paton and Sonali Rai",
+      "bio":"",
+      "title":"Synthetic Speech in Audio Description - is it ready?",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 12:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Victoria Nduka",
+      "bio":"",
+      "title":"Inclusive Teams Make Inclusive Products",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 13:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Andy Ronksley",
+      "bio":"",
+      "title":"Embedding accessibility into the next generation of BBC apps",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 14:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Kaye Moors",
+      "bio":"",
+      "title":"Brain Overload: The Silent Barrier to Inclusive Design",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+        {
+      "datetime":"September 25, 2025 15:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Lola Odelola",
+      "bio":"",
+      "title":"TBC Accessibility Support",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 16:00 UTC",
+      "multipleSpeakers":"true",
+      "presenter":"Mark Walker and Lui Asquith",
+      "bio":"",
+      "title":"TBC EAA",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 17:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Julia Undeutsch",
+      "bio":"",
+      "title":"Designing for Deaf Space: On the Example of Japan’s Starbucks Signing Store",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 18:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Reinaldo Ferraz",
+      "bio":"",
+      "title":"Advancing Web Accessibility: Standardization and Localization in Brazil  ",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+        {
+      "datetime":"September 25, 2025 19:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Hannah Wagner",
+      "bio":"",
+      "title":"Design as Care: Building What Speed Alone Can't Deliver",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 20:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"James Edwards",
+      "bio":"",
+      "title":"Losing control with JavaScript and ARIA",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 21:00 UTC",
+      "multipleSpeakers":"true",
+      "presenter":"Shawn Lawton Henry and Kevin White",
+      "bio":"",
+      "title":"W3C Web Accessibility Initiative (WAI) Update — What's in it for You",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 22:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Jonathan Zong",
+      "bio":"",
+      "title":"Accessible Data Visualization for Screen Reader Users",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 23:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Anthony Vasquez",
+      "bio":"",
+      "title":"Autonomous Vehicle accessibility: the Good, the Bad, and the Game Changing",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+			"datetime":"September 26, 2025 00:00 UTC",
+			"title":"The after party / closing",
+			"description":"<p>Your hosts will discuss their favourite sessions from the last 24 hours, and might have a drink or two!</p>",
+			"videoId":""
+		}
   ]
 }
