@@ -220,10 +220,10 @@
     {
       "datetime":"September 25, 2025 10:00 UTC",
       "multipleSpeakers":"false",
-      "presenter":"Piper Hutson",
-      "bio":"Piper A. Hutson, EdD, is a neuroarts researcher and arts and health specialist focused on cognitive accessibility, neurodiversity, and inclusive design. Her work bridges neuroscience, creativity, and technology to promote belonging and innovation in digital spaces. Piper advocates for sensory-aware, neuroinclusive frameworks that support diverse learning and engagement styles.",
-      "title":"Designing Neuro-Accessible Interfaces for Better User Engagement",
-      "description":"This talk explores how cognitive load theory can inform the design of digital tools that support a wider range of users. By understanding how working memory, attention, and information processing differ across individuals, we’ll examine practical ways to reduce cognitive overload through multi-sensory feedback, clear visual hierarchies, and adaptive user flows—improving engagement and usability for diverse thinking styles",
+      "presenter":"TBC",
+      "bio":"",
+      "title":"TBC",
+      "description":"",
       "videoId":"",
       "social":[
         {
@@ -238,7 +238,7 @@
         }
       ]
     },
-        {
+    {
       "datetime":"September 25, 2025 11:00 UTC",
       "multipleSpeakers":"true",
       "presenter":"John Paton and Sonali Rai",
@@ -304,10 +304,10 @@
     {
       "datetime":"September 25, 2025 14:00 UTC",
       "multipleSpeakers":"false",
-      "presenter":"TBC",
-      "bio":"",
-      "title":"TBC",
-      "description":"",
+      "presenter":"Piper Hutson",
+      "bio":"Piper A. Hutson, EdD, is a neuroarts researcher and arts and health specialist focused on cognitive accessibility, neurodiversity, and inclusive design. Her work bridges neuroscience, creativity, and technology to promote belonging and innovation in digital spaces. Piper advocates for sensory-aware, neuroinclusive frameworks that support diverse learning and engagement styles.",
+      "title":"Designing Neuro-Accessible Interfaces for Better User Engagement",
+      "description":"This talk explores how cognitive load theory can inform the design of digital tools that support a wider range of users. By understanding how working memory, attention, and information processing differ across individuals, we’ll examine practical ways to reduce cognitive overload through multi-sensory feedback, clear visual hierarchies, and adaptive user flows—improving engagement and usability for diverse thinking styles",
       "videoId":"",
       "social":[
         {
@@ -322,7 +322,7 @@
         }
       ]
     },
-        {
+    {
       "datetime":"September 25, 2025 15:00 UTC",
       "multipleSpeakers":"false",
       "presenter":"Lola Odelola",
