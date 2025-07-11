@@ -18,13 +18,8 @@
       "social":[
         {
           "type":"web",
-          "url":"",
-          "text":""
-        },
-        {
-          "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://naga.co.za/",
+          "text":"naga.co.za"
         }
       ]
     },
@@ -37,15 +32,30 @@
       "description":"Annotating designs is a common practice for designers and developers to make experiences accessible for people with disabilities. But these libraries and plugins aren't one size fits all tools. In this session, two of the creators of the CVS Annotation Kits take you on a tour of how teams around the world adapt common annotation kits to suit their unique needs. With real world examples, they share challenges these teams face, the patterns they adapt, and the creative ways they tailor their kits to align with their goals, workflows, and systems.",
       "videoId":"",
       "social":[
-        {
+                {
           "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://janmaarten.com",
+          "text":"janmaarten.com"
+        },
+        {
+          "type":"bluesky",
+          "url":"https://bsky.app/profile/janmaarten.com",
+          "text":"@janmaarten.com"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/jmaarten/",
+          "text":"jmaarten"
         },
         {
           "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://daniel.hendersonede.com/",
+          "text":"daniel.hendersonede.com"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/danhendersonede/",
+          "text":"danhendersonede"
         }
       ]
     },
@@ -59,14 +69,9 @@
       "videoId":"",
       "social":[
         {
-          "type":"web",
-          "url":"",
-          "text":""
-        },
-        {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/dom-parker/",
+          "text":"dom-parker"
         }
       ]
     },
@@ -80,14 +85,9 @@
       "videoId":"",
       "social":[
         {
-          "type":"web",
-          "url":"",
-          "text":""
-        },
-        {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/misakitanaka826/",
+          "text":"misakitanaka826"
         }
       ]
     },
@@ -102,13 +102,13 @@
       "social":[
         {
           "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://nicchan.me/",
+          "text":"nicchan.me"
         },
         {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"mastodon",
+          "url":"https://indieweb.social/@NicMakesStuff",
+          "text":"@NicMakesStuff@indieweb.social"
         }
       ]
     },
@@ -123,13 +123,13 @@
       "social":[
         {
           "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://mallonbacka.com",
+          "text":"mallonbacka.com"
         },
         {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"mastodon",
+          "url":"https://hachyderm.io/@Mallonbacka",
+          "text":"@Mallonbacka@hachyderm.io"
         }
       ]
     },
@@ -143,14 +143,9 @@
       "videoId":"",
       "social":[
         {
-          "type":"web",
-          "url":"",
-          "text":""
-        },
-        {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/rubinasingh02/",
+          "text":"rubinasingh02"
         }
       ]
     },
@@ -164,14 +159,14 @@
       "videoId":"",
       "social":[
         {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/wenhsiukuo/",
+          "text":"wenhsiukuo"
         },
         {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/jochsuanyun/",
+          "text":"jochsuanyun"
         }
       ]
     },
@@ -186,13 +181,13 @@
       "social":[
         {
           "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://sergeikriger.com",
+          "text":"sergeikriger.com"
         },
         {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"bluesky",
+          "url":"https://bsky.app/profile/sergeikriger.com",
+          "text":"@sergeikriger.com"
         }
       ]
     },
@@ -206,14 +201,9 @@
       "videoId":"",
       "social":[
         {
-          "type":"web",
-          "url":"",
-          "text":""
-        },
-        {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/kaye-moors-cpacc-02bb203/",
+          "text":"kaye-moors-cpacc-02bb203"
         }
       ]
     },
@@ -224,19 +214,7 @@
       "bio":"",
       "title":"TBC",
       "description":"",
-      "videoId":"",
-      "social":[
-        {
-          "type":"web",
-          "url":"",
-          "text":""
-        },
-        {
-          "type":"web",
-          "url":"",
-          "text":""
-        }
-      ]
+      "videoId":""
     },
     {
       "datetime":"September 25, 2025 11:00 UTC",
@@ -249,13 +227,8 @@
       "social":[
         {
           "type":"web",
-          "url":"",
-          "text":""
-        },
-        {
-          "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://www.rnib.org.uk/",
+          "text":"rnib.org.uk"
         }
       ]
     },
@@ -270,13 +243,13 @@
       "social":[
         {
           "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://nwanduka.vzy.io",
+          "text":"nwanduka.vzy.io"
         },
         {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/victorianduka/",
+          "text":"victorianduka"
         }
       ]
     },
@@ -291,13 +264,13 @@
       "social":[
         {
           "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://www.bbc.co.uk/accessibility/forproducts/",
+          "text":".bbc.co.uk"
         },
         {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/andyronksley/",
+          "text":"andyronksley"
         }
       ]
     },
@@ -312,13 +285,13 @@
       "social":[
         {
           "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://www.researchgate.net/profile/Piper-Hutson/research",
+          "text":"researchgate.net"
         },
         {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/piper-hutson-77829925/",
+          "text":"piper-hutson-77829925"
         }
       ]
     },
@@ -333,13 +306,18 @@
       "social":[
         {
           "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://lolaslab.co/",
+          "text":"lolaslab.co"
         },
         {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"mastodon",
+          "url":"https://mastodon.social/@lolaodelola",
+          "text":"@lolaodelola@mastodon.social"
+        },
+        {
+          "type":"bluesky",
+          "url":"https://bsky.app/profile/lolaodelola.bsky.social",
+          "text":"@lolaodelola.bsky.social"
         }
       ]
     },
@@ -354,13 +332,23 @@
       "social":[
         {
           "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://abilitynet.org.uk/",
+          "text":"abilitynet.org.uk"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/markwalkerbrighton/",
+          "text":"markwalkerbrighton"
         },
         {
           "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://www.russell-cooke.co.uk/our-people/lui-asquith",
+          "text":"russell-cooke.co.uk"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/lui-asquith-b31650169/",
+          "text":"lui-asquith-b31650169"
         }
       ]
     },
@@ -375,13 +363,8 @@
       "social":[
         {
           "type":"web",
-          "url":"",
-          "text":""
-        },
-        {
-          "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://www.accessibilityfirst.at/",
+          "text":"accessibilityfirst.at"
         }
       ]
     },
@@ -396,13 +379,18 @@
       "social":[
         {
           "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://reinaldoferraz.com.br",
+          "text":"reinaldoferraz.com.br"
         },
         {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/reinaldoferraz/",
+          "text":"reinaldoferraz"
+        },
+        {
+          "type":"bluesky",
+          "url":"https://bsky.app/profile/reinaldoferraz.bsky.social",
+          "text":"@reinaldoferraz.bsky.social"
         }
       ]
     },
@@ -417,13 +405,8 @@
       "social":[
         {
           "type":"web",
-          "url":"",
-          "text":""
-        },
-        {
-          "type":"web",
-          "url":"",
-          "text":""
+          "url":"http://www.hannahwagnerdesign.com",
+          "text":"hannahwagnerdesign.com"
         }
       ]
     },
@@ -438,13 +421,13 @@
       "social":[
         {
           "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://www.tpgi.com/author/brothercake/",
+          "text":"tpgi.com"
         },
         {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"mastodon",
+          "url":"https://mastodon.world/@siblingpastry",
+          "text":"@siblingpastry@mastodon.world"
         }
       ]
     },
@@ -459,13 +442,18 @@
       "social":[
         {
           "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://www.w3.org/People/Shawn/",
+          "text":"w3.org/People/Shawn"
+        },
+        {
+          "type":"mastodon",
+          "url":"https://w3c.social/@shawna_slh",
+          "text":"@shawna_slh@w3c.social"
         },
         {
           "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://www.w3.org/People/kevin/",
+          "text":"w3.org/People/kevin"
         }
       ]
     },
@@ -480,13 +468,18 @@
       "social":[
         {
           "type":"web",
-          "url":"",
-          "text":""
+          "url":"https://jonathanzong.com",
+          "text":"jonathanzong.com"
         },
         {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/jonathanzong/",
+          "text":"jonathanzong"
+        },
+        {
+          "type":"bluesky",
+          "url":"https://bsky.app/profile/jonathanzong.com",
+          "text":"@jonathanzong.com"
         }
       ]
     },
@@ -500,14 +493,9 @@
       "videoId":"",
       "social":[
         {
-          "type":"web",
-          "url":"",
-          "text":""
-        },
-        {
-          "type":"web",
-          "url":"",
-          "text":""
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/antvasquez/",
+          "text":"antvasquez"
         }
       ]
     },
