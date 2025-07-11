@@ -210,11 +210,28 @@
     {
       "datetime":"September 25, 2025 10:00 UTC",
       "multipleSpeakers":"false",
-      "presenter":"TBC",
-      "bio":"",
+      "presenter":"Stewart Hay",
+      "bio":"<p>Stewart Hay is the Managing Director and co-founder of Intopia, a social enterprise focused on creating an inclusive digital world.</p>",
       "title":"TBC",
-      "description":"",
-      "videoId":""
+      "description":"TBC",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://intopia.digital/",
+          "text":"intopia.digital"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/stewarthay/",
+          "text":"stewarthay"
+        },
+        {
+          "type":"mastodon",
+          "url":"https://mastodon.social/@intopia",
+          "text":"@intopia@mastodon.social"
+        }
+      ]
     },
     {
       "datetime":"September 25, 2025 11:00 UTC",
