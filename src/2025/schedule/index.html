@@ -61,11 +61,14 @@ The event will start in <span id="countdown_timer"></span>
             {% for socialItem in session.social %}
                 <li>
                     <a href="{{ socialItem.url }}">
+                        {% if socialItem.type == "web" %}
+                            <svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg>
+                        {% endif %}
                         {% if socialItem.type == "twitter" %}
                             <svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg>
                         {% endif %}
-                        {% if socialItem.type == "web" %}
-                            <svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg>
+                        {% if socialItem.type == "bluesky" %}
+                            <svg viewBox="0 0 16 16" class="icon" role="img" aria-label="Bluesky: " focusable="false"><use xlink:href="#icon-bluesky"></use></svg>
                         {% endif %}
                         {% if socialItem.type == "linkedin" %}
                             <svg viewBox="0 0 24 24" class="icon" role="img" aria-label="LinkedIn: " focusable="false"><use xlink:href="#icon-linkedin"></use></svg>
