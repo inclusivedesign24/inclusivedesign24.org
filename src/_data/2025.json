@@ -424,6 +424,11 @@
           "type":"web",
           "url":"http://www.hannahwagnerdesign.com",
           "text":"hannahwagnerdesign.com"
+        },
+        {
+          "type":"linkedin",
+          "url":"http://www.linkedin.com/in/hannahwagner008",
+          "text":"hannahwagner008"
         }
       ]
     },
