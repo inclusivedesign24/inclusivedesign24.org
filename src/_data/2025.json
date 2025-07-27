@@ -1,5 +1,531 @@
 {
   "playlistId":"",
   "schedule":[
+    {
+      "datetime":"September 24, 2025 23:30",
+      "title":"The pre-show / welcome",
+      "description":"<p>Meet your hosts for the next 24 hours. We’ll be having a general chat about accessibility, inclusive design, and talking about the sessions we are most looking forward to in the upcoming 24 hours.</p>",
+      "videoId":""
+    },
+    {
+      "datetime":"September 25, 2025 00:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Steve Barnett",
+      "bio":"Steve is a human-centred front-end developer and user experience designer. He helps software teams have happier customers by making more user-friendly and engaging software. He’s been building things for the web professionally since 2005 (and built things for fun for a while before that). Accessibility has been a part of his work for many years, but now it’s part of his job title too! He makes sites and apps that everyone can use, regardless of their device, the network they’re on, or any disabilities they may have.",
+      "title":"Getting \"Accessibility Ready\" for a Design System",
+      "description":"<p>Design systems help teams make more accessible products and services. How do we ensure the components in our design system are as accessible as possible?</p><p>We'll use an example to show what \"Accessibility Ready\" means for components in a design system.</p><ul><li>What makes a good \"Accessibility Ready\" guidance document?</li><li>What are the minimum requirements for release, plus additional internal requirements for quality, to ensure a component is \"Accessibility Ready\"?</li><li>Why keep the document short? (Using the Supported Technology section as an example)</li></ul>",
+      "videoId":"",
+      "social":[
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/steve-barnett/",
+          "text":"steve-barnett"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 01:00 UTC",
+      "multipleSpeakers":"true",
+      "presenter":"Jan Maarten and Daniel Henderson-Ede",
+      "bio":"<p>Jan Maarten (he/him) is a designer and accessibility specialist living on unceded Duwamish lands. He has worn many hats, from full stack design and branding to strategy and IT operations. He is currently a Senior Accessibility Designer at GitHub, helping product teams shift left and improving design infrastructure.</p><p>Daniel Henderson-Ede (he/him) is a leading voice in accessible design at scale. He has built and evolved design systems at Pinterest and CVS Health, and his annotation toolkits are used by design teams around the world. Daniel is Principal Consultant at Mantis & Co. He helps organizations bring design and engineering together to embed accessibility into every layer of the product. He has spoken at Axecon, CSUN AT, AccessU, and Figma, sharing practical strategies that make accessibility efficient, impactful, and people centered.</p>",
+      "title":"Accessibility Annotations Around the World",
+      "description":"Annotating designs is a common practice for designers and developers to make experiences accessible for people with disabilities. But these libraries and plugins aren't one size fits all tools. In this session, two of the creators of the CVS Annotation Kits take you on a tour of how teams around the world adapt common annotation kits to suit their unique needs. With real world examples, they share challenges these teams face, the patterns they adapt, and the creative ways they tailor their kits to align with their goals, workflows, and systems.",
+      "videoId":"",
+      "social":[
+                {
+          "type":"web",
+          "url":"https://janmaarten.com",
+          "text":"janmaarten.com"
+        },
+        {
+          "type":"bluesky",
+          "url":"https://bsky.app/profile/janmaarten.com",
+          "text":"@janmaarten.com"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/jmaarten/",
+          "text":"jmaarten"
+        },
+        {
+          "type":"web",
+          "url":"https://daniel.hendersonede.com/",
+          "text":"daniel.hendersonede.com"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/danhendersonede/",
+          "text":"danhendersonede"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 02:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Dom Parker",
+      "bio":"Dom Parker (she/her) is an eLearning designer and accessible game specialist at Cerebral Palsy Alliance. Passionate about making digital experiences more inclusive, she collaborates with game developers, clinicians, and players with disabilities to create accessible learning content and video games.",
+      "title":"Press Start: Accessible Game Design and Cerebral Palsy",
+      "description":"Video games in therapy? It’s more likely than you think! In this talk, Dom Parker explores how accessible game design can bridge the gap between assistive technology, player experience, and therapeutic intervention. Learn how striking the right balance between customisable mechanics, adaptive controls, and evidence-based strategies can enhance motor skills, engagement, and social connection—pushing beyond inclusion to make games a true tool for therapy.",
+      "videoId":"",
+      "social":[
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/dom-parker/",
+          "text":"dom-parker"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 03:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Misaki Tanaka",
+      "bio":"Misaki Tanaka is a design leader and DEI practitioner working at Panasonic's Transformation Design Center, where she heads the DEI Design Division. With over a decade of experience in inclusive design, social entrepreneurship, and disaster response, she also leads SOLIT, a fashion brand pioneering co-creative and inclusive business. Her work bridges corporate innovation with social impact.",
+      "title":"Designing DEI from Within: Lessons from Panasonic’s Inclusive Journey",
+      "description":"Misaki Tanaka shares the ongoing journey of embedding DEI into Panasonic’s design and organisational culture—not as a top-down mandate, but as a co-created, lived experience. Through real-world examples, she explores how inclusive design practices rooted in empathy and collaboration can drive meaningful, systemic change from within.",
+      "videoId":"",
+      "social":[
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/misakitanaka826/",
+          "text":"misakitanaka826"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 04:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Nic Chan",
+      "bio":"Nic Chan is an independent front-end web developer and accessibility specialist from Hong Kong. She has recently co-founded Ultramarina, a digital studio which has just launched an accessible Shopify theme called Primavera.",
+      "title":"Audiom: Building inclusive maps as the token sighted developer",
+      "description":"In 2023, Nic Chan was invited to work on the accessible mapping software Audiom as the only sighted developer in a team of blind developers. This talk will explore what inclusive mapping software looks like, how it feels to finally be the token for once and the importance of diverse teams.",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://nicchan.me/",
+          "text":"nicchan.me"
+        },
+        {
+          "type":"mastodon",
+          "url":"https://indieweb.social/@NicMakesStuff",
+          "text":"@NicMakesStuff@indieweb.social"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 05:00 UTC",
+      "multipleSpeakers":"true",
+      "presenter":"Matthew Hallonbacka and Elina Niemelä",
+      "bio":"<p>Matthew has been in and around the disabled community for decades. He is currently responsible for digital accessibility at the S Group, Finland's biggest retail chain. Since 2020, his work has focused exclusively on digital accessibility, working with organizations in the scope of Europe’s new digital accessibility requirements, before joining the S Group last year. His work time is spent coaching the teams building digital products for the S Group through developing their own accessibility skills with a focus on understanding the needs of our disabled customers and colleagues.</p><p>Elina is a mobile developer at S Group, where she started her career four years ago as a junior mobile developer while still finishing her studies. Since then, she has been working with React Native, gaining hands-on experience in building cross-platform mobile applications. In 2022 her thesis on accessibility in React Native mobile applications sparked a lasting interest in mobile app accessibility. Today, she focuses on mobile development with a strong interest for accessibility and user experience, supporting both app development and accessibility efforts in her team. </p>",
+      "title":"React Native: What accessibility professionals need to know",
+      "description":"React Native promises to make it easy to build mobile apps, but does it cut accessibility corners to do so? We’ll cover what React Native does well accessibility-wise, where it can create extra work and where it risks excluding some disabled users altogether. We will use real-world examples from a service which 40,000 people use to buy groceries every week. ",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://mallonbacka.com",
+          "text":"mallonbacka.com"
+        },
+        {
+          "type":"mastodon",
+          "url":"https://hachyderm.io/@Mallonbacka",
+          "text":"@Mallonbacka@hachyderm.io"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 06:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Rubina Singh",
+      "bio":"Rubina Singh is a social designer and design justice practitioner based in New Delhi, India. She values designing programmes and co-learning experiences through a feminist, participatory, and intersectional lens. She currently works with <a href=\"https://www.ignitephilanthropy.org\" target=_blank>Ignite Philanthropy</a>, a global philanthropic fund dedicated to ending violence against children, where she leads network weaving across Asia, Africa, Europe and Latin America. Rubina is also one of the co-leads of Design Justice Network's India node and an advisor with the Inclusive Design Jam. She enjoys dabbling in projects that push the boundaries of conventional design like The Rights Market (a speculative design experiment), Rafunaama (facilitating textile art made in resistance), or <a href=\"https://www.thepolisproject.com/read/rafooghar-stitching-delhi-women/\" target=_blank>Rafooghar & Stitching Futures</a> (stitching-inspired community building projects).",
+      "title":"Designing with Dignity: Design Justice-Centered Approaches to Inclusion",
+      "description":"<p>How can we move beyond access to create spaces that honor every voice and challenge systemic inequities?</p><p>This talk explores the powerful intersection of trauma-informed inclusive design and design justice, drawing on my work with survivor-led communities at Ignite Philanthropy and grassroots initiatives with marginalised women in India.</p><p>Discover how centering empathy, cultural context, and lived experience enables meaningful participation for those most impacted by violence, discrimination, and exclusion. Through actionable strategies and stories, learn how co-creating with marginalized communities and sharing decision-making power can transform exclusion into empowerment—and build futures rooted in dignity, equity, and justice for all.</p>",
+      "videoId":"",
+      "social":[
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/rubinasingh02/",
+          "text":"rubinasingh02"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 07:00 UTC",
+      "multipleSpeakers":"true",
+      "presenter":"Sam Kuo and Jo Chang",
+      "bio":"<p>Sam is a product designer at a Japanese securities platform, dedicated to making investing intuitive and accessible. Early in her career, she discovered that screen-reader users couldn’t access her product’s core features, sparking her passion for accessibility. She then founded the A11y Village Project to fill a resource gap for Chinese readers in 2022—now drawing over 1,000 monthly reads.</p><p>Jo is a product designer in fintech, now based in the UK. She’s passionate about how digital technology can improve lives through great user experiences. That curiosity led her to dive into accessibility and join Coseeing, where she focuses on designing digital experiences that are truly inclusive for everyone.</p>",
+      "title":"Digital Accessibility in Taiwan: How a Community Drives Change",
+      "description":"We’re Coseeing, a grassroots community in Taiwan working to make digital accessibility a core value, not just an afterthought. Despite our world-class internet, inclusive design is often overlooked. We share practical knowledge, highlight disabled voices, develop tools like the A8M NVDA add-on for maths content, and run workshops where participants experience accessibility barriers first-hand. Join us to hear our story and help build a culture where accessibility thrives.",
+      "videoId":"",
+      "social":[
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/wenhsiukuo/",
+          "text":"wenhsiukuo"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/jochsuanyun/",
+          "text":"jochsuanyun"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 08:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Sergei Kriger",
+      "bio":"Sergei is a certified Web Accessibility Specialist (IAAP). He fell in love with web development at the high school level, then got a degree in Information Technologies from Haaga-Helia University in Helsinki and spent his professional career working for tech companies in Finland and Germany. Sergei's focus areas are UI development and digital accessibility.",
+      "title":"Found an accessibility issue? Now what?",
+      "description":"Congratulations, you've found an accessibility problem! But what are the chances that the issue you reported (of course you reported, I bet you did!) won't end up in the backlog of tickets nobody knows how to deal with? In this talk, I will share my experience in reporting accessibility issues to development teams and guide you on how to make these reports not only heard, but also understood and (possibly) implemented. Also, I will provide practical advice on how to make reports that aid teams in comprehending and addressing accessibility issues.",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://sergeikriger.com",
+          "text":"sergeikriger.com"
+        },
+        {
+          "type":"bluesky",
+          "url":"https://bsky.app/profile/sergeikriger.com",
+          "text":"@sergeikriger.com"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 09:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Kaye Moors",
+      "bio":"<p>Kaye is MD of DRUM, an agency with a mission to craft accessible user experience, by overcoming barriers and inequality, for brands leading the way. Kaye set up the agency in 2006 and then became disabled herself.</p><p>This fuelled her passion for digital accessibility. Since then DRUM has been providing support, toolkits, talks and accessible design to help reshape the industry into an inclusive space. In 2025, Kaye believes there should be an empathic inclusive, welcoming world wide web.</p>",
+      "title":"Brain Overload: The Silent Barrier to Inclusive Design",
+      "description":"<p>In this talk Kaye will discuss how to get stakeholder to buy in. The hidden problem in UX: Millions of people face daily challenges using digital products.</p><p>It is not because UX professionals mean to exclude them, it's either because accessibility isn’t a priority, or people don’t know where to start.</p><p>But here’s the catch: 24% of the population has a disability. Many users face temporary or situational limitations. Exclusion means lost engagement, revenue, and trust.</p><p>The reality: Small barriers = big consequences.</p><p>Frustration leads to drop-offs. Poor accessibility isn’t just bad UX—it’s bad business. The good news? You don’t need a big budget to fix it. Kaye Moors will show you:</p><ul><li>Quick, low-budget accessibility fixes to make your UX more inclusive</li><li>How to gain stakeholder buy-in without overwhelming your team</li><li>Simple tweaks that improve usability for everyone without slowing down your workflow</li></ul>",
+      "videoId":"",
+      "social":[
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/kaye-moors-cpacc-02bb203/",
+          "text":"kaye-moors-cpacc-02bb203"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 10:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Stewart Hay",
+      "bio":"<p>Stewart Hay is the Managing Director and one of the co-founders of Intopia, a specialist inclusive design and accessibility consultancy working towards creating a more inclusive digital world. He is also one of the original founders for A11y Bytes and A11y Camp Australia. He has made a career helping organisations to successfully embrace technology for improved business and social outcomes. Stewart has a passion in the convergence of topics around strategy, innovation, technology, culture, diversity and inclusion.</p>",
+      "title":"From Job Ads to First Day: Navigating the Inclusive Hiring Path",
+      "description":"People with disabilities represent the highest unemployed communities around the world. Whenever people focus on this issue they take a very narrow focus. They either focus on a particular disability or a single stage of the hiring process eg. job advertising platform. Lets go on an entertaining journey to look at how we can make all stages of the employment process inclusive for everyone. I’ll walk through the key stages of this journey including advertisements, content, hiring platforms, interviews and onboarding. I will also highlight how these each impact people differently.",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://intopia.digital/",
+          "text":"intopia.digital"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/stewarthay/",
+          "text":"stewarthay"
+        },
+        {
+          "type":"mastodon",
+          "url":"https://mastodon.social/@intopia",
+          "text":"@intopia@mastodon.social"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 11:00 UTC",
+      "multipleSpeakers":"true",
+      "presenter":"John Paton and Jonny Marshall",
+      "bio":"<p>John works on accessibility of media, broadcasting and gaming for blind and partially sighted people with a focus on technology and policy work. John has a wealth of experience of accessibility technology for people with sensory disabilities as he has worked at sensory loss charities for the last 18 years. He previously worked on accessibility and technology for RNID and the deafblindness charity Sense. He also has a Master’s Degree in Computer Systems Engineering and an interest in the accessibility potential of emerging technologies.</p><p>Jonny is a Research Officer in the Media, Culture and Immersive Technologies Team at RNIB. His main responsibility is to ensure that blind and partially sighted people have the best user experience. To achieve this, he runs research projects incorporating focus groups and interviews. This involves collaborating with industry professionals and regulators to ensure positive outcomes for end users. He also works with researchers to explore solutions that enhance user experience across various services and platforms.</p>",
+      "title":"Synthetic Speech in Audio Description - is it ready?",
+      "description":"Whilst there could be advantages to using synthetic speech for audio description it is not always popular with AD users. RNIB conducted a study alongside UK broadcasters to objectively determine whether the quality of synthetic speech is currently good enough to voice audio description. Using a MOS-based questionnaire and following up with a focus group we uncovered insights into how synthetic speech measures up to human voiced content and what the next steps might be to protect the quality of audio description.",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://www.rnib.org.uk/",
+          "text":"rnib.org.uk"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 12:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Victoria Nduka",
+      "bio":"<p>Victoria Nduka is a Nigerian UX designer, open source contributor and accessibility advocate. She has contributed to several open source projects, including Prometheus, caMicroscope, CHAOSS, Oppia, AsyncAPI, and Layer5, where her work has spanned design, UX research, accessibility improvements, and community management.</p><p>Outside of design, she writes, speaks, and shares her journey to encourage more representation in tech.</p>",
+      "title":"Inclusive Teams Make Inclusive Products",
+      "description":"<p>When we talk about inclusive design, we often jump straight into tools and checklists. But real inclusion starts much earlier—with who’s in the room when decisions are made.</p><p>This talk will explore why diverse and inclusive teams are key to building products that actually work for more people, especially those with disabilities or from underrepresented communities.</p><p>We’ll discuss the gaps that show up when teams all look or think the same, and how inclusion within teams creates space for more thoughtful, usable, and human-centered products.</p>",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://nwanduka.vzy.io",
+          "text":"nwanduka.vzy.io"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/victorianduka/",
+          "text":"victorianduka"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 13:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Andy Ronksley",
+      "bio":"Andy has a background in computer science, with an accessibility interest that started at university where he was fortunate to have professors researching in the space. Starting out as an assistive technology technician, he then moved into accessibility consulting at the Royal National Institute of Blind People (RNIB). He then spent time at Apple, before working freelance with clients such as Sainsbury’s and the Ministry of Justice. Now at BBC, he helps the organisation deliver on its accessibility goals and Royal Charter mission of providing output that meets the needs of and reflects the diverse communities of the United Kingdom.",
+      "title":"Embedding accessibility into the next generation of BBC apps",
+      "description":"Learn how the BBC, the world’s largest public sector broadcaster, approaches embedding accessibility at scale on six iOS and Android apps. We'll share details of our guiding principles and ways of working, the challenges of balancing accessibility, platform guidelines and six different brands, how native components can sometimes fall short on accessibility and how our work on products informs our accessibility guidelines.",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://www.bbc.co.uk/accessibility/forproducts/",
+          "text":".bbc.co.uk"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/andyronksley/",
+          "text":"andyronksley"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 14:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Piper Hutson",
+      "bio":"Piper A. Hutson, EdD, is a neuroarts researcher and arts and health specialist focused on cognitive accessibility, neurodiversity, and inclusive design. Her work bridges neuroscience, creativity, and technology to promote belonging and innovation in digital spaces. Piper advocates for sensory-aware, neuroinclusive frameworks that support diverse learning and engagement styles.",
+      "title":"Designing Neuro-Accessible Interfaces for Better User Engagement",
+      "description":"This talk explores how cognitive load theory can inform the design of digital tools that support a wider range of users. By understanding how working memory, attention, and information processing differ across individuals, we’ll examine practical ways to reduce cognitive overload through multi-sensory feedback, clear visual hierarchies, and adaptive user flows—improving engagement and usability for diverse thinking styles",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://www.researchgate.net/profile/Piper-Hutson/research",
+          "text":"researchgate.net"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/piper-hutson-77829925/",
+          "text":"piper-hutson-77829925"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 15:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Lola Odelola",
+      "bio":"Lola is a multidisciplinary artist and standards technologist. She contributes to open standards through the W3C Technical Architecture Group and serving as co-chair on the W3C Docs Community Group both as an invited expert. Lola is currently using photography and creative writing to explore themes that come up in her technical work.",
+      "title":"The Gaps we Inherit",
+      "description":"What does accessibility interoperability look like? This talk explores the edges of support between browsers, assistive tech, and specs.",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://lolaslab.co/",
+          "text":"lolaslab.co"
+        },
+        {
+          "type":"mastodon",
+          "url":"https://mastodon.social/@lolaodelola",
+          "text":"@lolaodelola@mastodon.social"
+        },
+        {
+          "type":"bluesky",
+          "url":"https://bsky.app/profile/lolaodelola.bsky.social",
+          "text":"@lolaodelola.bsky.social"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 16:00 UTC",
+      "multipleSpeakers":"true",
+      "presenter":"Mark Walker and Lui Asquith",
+      "bio":"<p>Mark is  Head of Marketing at AbilityNet, a £5m UK social enterprise that works with blue-chip companies in all sectors and runs a network of 500+ volunteers who help disabled people use technology.</p><p>Lui Asquith is a regulatory and public lawyer at Russell-Cooke LLP advising both claimants and defendants on all aspects of public law and regulatory matters. They have a particular interest in public interest issues and litigation. They are the lead on files relating to the European Accessibility Act at the R-C.</p>",
+      "title":"The European Accessibility Act (EAA) and what it means for you",
+      "description":"The European Accessibility Act (EAA) became law in all EU member states on 28 June 2025 and applies to any organisation that provides products and services to consumers in the EU, including businesses and public bodies in the UK. In this session, we'll look at testing, documentation, and what it means for developers and their organisations to be EAA compliant.",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://abilitynet.org.uk/",
+          "text":"abilitynet.org.uk"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/markwalkerbrighton/",
+          "text":"markwalkerbrighton"
+        },
+        {
+          "type":"web",
+          "url":"https://www.russell-cooke.co.uk/our-people/lui-asquith",
+          "text":"russell-cooke.co.uk"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/lui-asquith-b31650169/",
+          "text":"lui-asquith-b31650169"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 17:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Julia Undeutsch",
+      "bio":"<p>I am Dev & UX Accessibility Specialist at Atos. After graduating University in Musicology and Japanese Studies in summer 2020, I started learning front-end development and specialized in the topic of web accessibility early on. Since then, I take every opportunity to spread awareness on the topic by regularly creating content in form of writing blog articles and such.</p><p>I have been certified by IAAP as a Professional in Accessibility Core Competencies (CPACC) in 2022 and got accepted in the Google Developer Expert Program in 2023.</p>",
+      "title":"Designing for Deaf Space: On the Example of Japan’s Starbucks Signing Store",
+      "description":"Last year, I visited Starbucks Japan’s Signing Store in Tokyo—a café designed by and for deaf and hard-of-hearing employees. More than just a coffee shop, it’s a powerful example of how design, technology, and communication can come together to create an inclusive, accessible space. In this talk, I’ll explore what we can learn from it when designing for Deaf Space and inclusive customer experiences.",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://www.accessibilityfirst.at/",
+          "text":"accessibilityfirst.at"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 18:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Reinaldo Ferraz",
+      "bio":"Graduated in design and graphic computing, with a postgraduate degree in hypermedia design from Anhembi Morumbi University in São Paulo. Has worked in web development since 1998. Leads web accessibility initiatives at NIC.br, including ABNT standards and WCAG 2.2 translation to Brazilian Portuguese. Teaches an extension course at PUC-SP on Accessible Interface Design and has authored four books, two focusing on Web Accessibility.",
+      "title":"Advancing Web Accessibility: Standardization and Localization in Brazil  ",
+      "description":"<p>In March 2025, Brazil took a major step forward in digital inclusion with two groundbreaking projects I had the privilege to coordinate: the Web Accessibility Technical Standard, based on WCAG 2.2, and the official Brazilian Portuguese translation of WCAG 2.2.</p><p>Bringing these initiatives to life was a complex but rewarding challenge. In this talk, I’ll share details of the process, the obstacles we overcame, and the impact of these efforts. My goal is to inspire people from other countries—especially non-English-speaking ones—to take similar steps toward a more accessible web for all.</p>",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://reinaldoferraz.com.br",
+          "text":"reinaldoferraz.com.br"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/reinaldoferraz/",
+          "text":"reinaldoferraz"
+        },
+        {
+          "type":"bluesky",
+          "url":"https://bsky.app/profile/reinaldoferraz.bsky.social",
+          "text":"@reinaldoferraz.bsky.social"
+        }
+      ]
+    },
+        {
+      "datetime":"September 25, 2025 19:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Hannah Wagner",
+      "bio":"Hannah is a UX leader and accessibility strategist with over a decade of experience designing inclusive digital products. She helps organizations—from civil service teams to companies like GM—scale accessibility through empathy, systems thinking, and a commitment to lasting impact.",
+      "title":"Design as Care: Building What Speed Alone Can't Deliver",
+      "description":"Silicon Valley says move fast and break things. But when you break access, trust, or safety, you’ve already failed. This talk reframes design as care—and explores how accessibility work builds what speed alone can’t: resilience, equity, and long-term value. In a high-speed industry, careful design isn’t slow—it’s strategic.",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"http://www.hannahwagnerdesign.com",
+          "text":"hannahwagnerdesign.com"
+        },
+        {
+          "type":"linkedin",
+          "url":"http://www.linkedin.com/in/hannahwagner008",
+          "text":"hannahwagner008"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 20:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"James Edwards",
+      "bio":"James Edwards is a technical specialist at TPGi, primarily responsible for developing knowledge base content and other educational resources, and providing internal consulting on questions of conformance and best practice. He develops, researches, and writes about all aspects of accessible front-end development, with a particular specialism in accessible JavaScript.",
+      "title":"Losing control with JavaScript and ARIA",
+      "description":"<p>Creating custom widgets with JavaScript and ARIA is like building a mechanical clock where half the cogs can’t be controlled, where you’ll never know who’s using the clock, and you’re not even sure it’s a clock.</p><p>The key to creating interactivity that’s actually usable, rather than merely functional, is to embrace this lack of knowledge and control, by designing and programming interactions that don’t need it.</p><p>What does that mean in practice? This talk will examine various techniques that can be used to create accessible widgets and other interactive content, which don’t rely on hard assumptions about who’s using it.</p><p>How do we handle events from assistive technologies like screen readers and voice control, when we don’t (and shouldn’t) know if assistive technology is being used? How do we unify visual and non-visual state information, color and non-color signifiers, when we don’t have much idea of what the user actually perceives? How do we integrate keyboard, pointer and touch interactions, so that any combination can be used at any time? What on earth is caret browsing? These questions and more will be discussed.</p>",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://www.tpgi.com/author/brothercake/",
+          "text":"tpgi.com"
+        },
+        {
+          "type":"mastodon",
+          "url":"https://mastodon.world/@siblingpastry",
+          "text":"@siblingpastry@mastodon.world"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 21:00 UTC",
+      "multipleSpeakers":"true",
+      "presenter":"Shawn Lawton Henry and Kevin White",
+      "bio":"<p>Shawn is Director of the W3C Web Accessibility Initiative (WAI) and leads worldwide education and outreach activities promoting digital accessibility. Shawn focuses her personal passion for accessibility on bringing together the needs of individuals and the goals of organizations in designing human-computer interfaces. Her book 'Just Ask: Integrating Accessibility Throughout Design' offers an approach for developing products that are more usable for everyone.</p><p>Kevin is Senior Principal Accessibility Specialist at the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) and leads W3C's accessibility technical work. In this role, he contributes to internationally recognized standards that support accessibility. Kevin provides support and oversight of the accessibility working groups and is the staff contact for the Accessibility Guidelines Working Group that develops Web Content Accessibility Guidelines (WCAG).</p>",
+      "title":"W3C Web Accessibility Initiative (WAI) Update — What's in it for You",
+      "description":"Join us to learn about continuing work on Web Content Accessibility Guidelines (WCAG) 2, on WCAG 3 (it's a long way off), and activities between 2 and 3. We'll also highlight updated resources to put WCAG standards in perspective and focus on the user experiences of disabled people, as well as the benefits for all — users, product owners, society. Find out about resources and opportunities that support your efforts to advance digital accessibility in your organization and worldwide.",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://www.w3.org/People/Shawn/",
+          "text":"w3.org/People/Shawn"
+        },
+        {
+          "type":"mastodon",
+          "url":"https://w3c.social/@shawna_slh",
+          "text":"@shawna_slh@w3c.social"
+        },
+        {
+          "type":"web",
+          "url":"https://www.w3.org/People/kevin/",
+          "text":"w3.org/People/kevin"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 22:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Jonathan Zong",
+      "bio":"Jonathan Zong is an Assistant Professor in Information Science at University of Colorado Boulder, where he leads the Data & Design Group. In his research, Jonathan partners with blind collaborators and study participants to co-design interfaces for non-visual data exploration. Jonathan's work has been recognized by the MIT Morningside Academy for Design Fellowship, the Paul and Daisy Soros Fellowship for New Americans, and Forbes 30 Under 30 Scientists.",
+      "title":"Accessible Data Visualization for Screen Reader Users",
+      "description":"As we increasingly rely on visualization to communicate about data, lack of equitable information access for blind and low vision (BLV) people can exclude people from important conversations. I work with blind and low-vision collaborators and study participants to design systems that support BLV users to independently conduct data exploration without sighted assistance. In this talk, I will discuss our work on designing richer screen reader experiences and accessible interfaces for creating multimodal data representations.",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://jonathanzong.com",
+          "text":"jonathanzong.com"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/jonathanzong/",
+          "text":"jonathanzong"
+        },
+        {
+          "type":"bluesky",
+          "url":"https://bsky.app/profile/jonathanzong.com",
+          "text":"@jonathanzong.com"
+        }
+      ]
+    },
+    {
+      "datetime":"September 25, 2025 23:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Anthony Vasquez",
+      "bio":"Anthony Vasquez is among the first blind Americans to study Mandarin in university.  He worked with Knowbility from 2014-2023 as an accessibility tester and communications specialist. Between 2017-2022, he taught journalism at Cal State Long Beach. He has a master’s degree in East Asian Studies from Stanford University and bachelor’s degrees in journalism and Chinese studies from Cal State Long Beach. He lives in Southern California and enjoys hiking, exploring new restaurants, and traveling.",
+      "title":"Autonomous Vehicle accessibility: the Good, the Bad, and the Game Changing",
+      "description":"William Gibson said, “The future is already here. It’s just not evenly distributed yet.” The presence of autonomous vehicles is proof of this. For disabled people generally, and blind people specifically, getting to move about a large city without a human driver is both exhilarating and a bit frightening. Anthony Vasquez shares firsthand experiences of traveling in a Waymo robotaxi. Learn about the accessibility of the Waymo One iOS app, barriers inside the vehicle, and the freedom that this new technology may bring to disabled travelers.",
+      "videoId":"",
+      "social":[
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/antvasquez/",
+          "text":"antvasquez"
+        }
+      ]
+    },
+    {
+			"datetime":"September 26, 2025 00:00 UTC",
+			"title":"The after party / closing",
+			"description":"<p>Your hosts will discuss their favourite sessions from the last 24 hours, and might have a drink or two!</p>",
+			"videoId":""
+		}
   ]
 }
