@@ -444,7 +444,9 @@ ul#editions li svg {
     list-style: none;
     margin: 0;
     padding: 0;
-    display: inline;
+    display: flex; /* extra flexbox to center at smaller viewports */
+    flex-flow: row wrap;
+    justify-content: center;
 }
 
 #supporters h3 {
