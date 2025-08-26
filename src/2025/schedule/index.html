@@ -46,7 +46,7 @@ The event will start in <span id="countdown_timer"></span>
         </span>
     </h2>
     {% if session.videoId and session.videoId != "" %}
-    <a class="videostream" target="_blank" rel="noopener" href="https://www.youtube.com/watch?v={{ session.videoId }}&list={{ 2025.playlistId }}" aria-describedby="talk{{ forloop.index0 }}"><svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>
+    <a class="videostream" target="_blank" rel="noopener" href="https://www.youtube.com/watch?v={{ session.videoId }}&list={{ 2025.playlistId }}" aria-describedby="talk{{ forloop.index0 }}"><svg viewBox="0 0 16 16" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-player"></use></svg> View video/stream</a>
     {% endif %}
     <div class="session_details">
         <div class="session_abstract">
@@ -62,19 +62,19 @@ The event will start in <span id="countdown_timer"></span>
                 <li>
                     <a href="{{ socialItem.url }}">
                         {% if socialItem.type == "web" %}
-                            <svg viewBox="0 0 24 24" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg>
+                            <svg viewBox="0 0 16 16" class="icon" aria-hidden="true" focusable="false"><use xlink:href="#icon-earth"></use></svg>
                         {% endif %}
                         {% if socialItem.type == "twitter" %}
-                            <svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg>
+                            <svg viewBox="0 0 16 16" class="icon" role="img" aria-label="Twitter: " focusable="false"><use xlink:href="#icon-twitter"></use></svg>
                         {% endif %}
                         {% if socialItem.type == "bluesky" %}
                             <svg viewBox="0 0 16 16" class="icon" role="img" aria-label="Bluesky: " focusable="false"><use xlink:href="#icon-bluesky"></use></svg>
                         {% endif %}
                         {% if socialItem.type == "linkedin" %}
-                            <svg viewBox="0 0 24 24" class="icon" role="img" aria-label="LinkedIn: " focusable="false"><use xlink:href="#icon-linkedin"></use></svg>
+                            <svg viewBox="0 0 16 16" class="icon" role="img" aria-label="LinkedIn: " focusable="false"><use xlink:href="#icon-linkedin"></use></svg>
                         {% endif %}
                         {% if socialItem.type == "instagram" %}
-                            <svg viewBox="0 0 24 24" class="icon" role="img" aria-label="Instagram: " focusable="false"><use xlink:href="#icon-instagram"></use></svg>
+                            <svg viewBox="0 0 16 16" class="icon" role="img" aria-label="Instagram: " focusable="false"><use xlink:href="#icon-instagram"></use></svg>
                         {% endif %}
                         {% if socialItem.type == "mastodon" %}
                             <svg viewBox="0 0 16 16" class="icon" role="img" aria-label="Mastodon: " focusable="false"><use xlink:href="#icon-mastodon"></use></svg>
