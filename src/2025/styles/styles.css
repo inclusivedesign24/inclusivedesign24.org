@@ -89,7 +89,7 @@ a:focus, a:hover, a:active {
     outline: none;
 }
 
-#team a,
+.team a,
 #footer-social a,
 .pres_info a {
 	word-break: break-all; /* for long social media links */
@@ -706,7 +706,7 @@ ul#editions li svg {
         max-width: 80%;
     }
 
-    #team dd {
+    .team dd {
         display: block;
     }
 
