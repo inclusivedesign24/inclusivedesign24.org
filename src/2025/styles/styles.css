@@ -32,6 +32,11 @@ cite {
     font-style: normal;
 }
 
+::selection {
+    color: black;
+    background: #ffe400;
+}
+
 /* inline SVG icons */
 
 svg.icon {
