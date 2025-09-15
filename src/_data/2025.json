@@ -519,23 +519,10 @@
     {
       "datetime":"September 25, 2025 20:00 UTC",
       "multipleSpeakers":"false",
-      "presenter":"James Edwards",
-      "bio":"James Edwards is a technical specialist at TPGi, primarily responsible for developing knowledge base content and other educational resources, and providing internal consulting on questions of conformance and best practice. He develops, researches, and writes about all aspects of accessible front-end development, with a particular specialism in accessible JavaScript.",
-      "title":"Losing control with JavaScript and ARIA",
-      "description":"<p>Creating custom widgets with JavaScript and ARIA is like building a mechanical clock where half the cogs can’t be controlled, where you’ll never know who’s using the clock, and you’re not even sure it’s a clock.</p><p>The key to creating interactivity that’s actually usable, rather than merely functional, is to embrace this lack of knowledge and control, by designing and programming interactions that don’t need it.</p><p>What does that mean in practice? This talk will examine various techniques that can be used to create accessible widgets and other interactive content, which don’t rely on hard assumptions about who’s using it.</p><p>How do we handle events from assistive technologies like screen readers and voice control, when we don’t (and shouldn’t) know if assistive technology is being used? How do we unify visual and non-visual state information, color and non-color signifiers, when we don’t have much idea of what the user actually perceives? How do we integrate keyboard, pointer and touch interactions, so that any combination can be used at any time? What on earth is caret browsing? These questions and more will be discussed.</p>",
+      "presenter":"",
+      "title":"To be confirmed",
+      "description":"As the original speaker had to pull out, we're currently working on organising a replacement session. Watch this space.",
       "videoId":"",
-      "social":[
-        {
-          "type":"web",
-          "url":"https://www.tpgi.com/author/brothercake/",
-          "text":"tpgi.com"
-        },
-        {
-          "type":"mastodon",
-          "url":"https://mastodon.world/@siblingpastry",
-          "text":"@siblingpastry@mastodon.world"
-        }
-      ],
       "hosts": {
         "team": ["Hans", "Ian", "Stewart"],
         "guest": ["Terence Eden"]
