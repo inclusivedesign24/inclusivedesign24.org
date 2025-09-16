@@ -518,11 +518,29 @@
     },
     {
       "datetime":"September 25, 2025 20:00 UTC",
-      "multipleSpeakers":"false",
-      "presenter":"",
-      "title":"To be confirmed",
-      "description":"As the original speaker had to pull out, we're currently working on organising a replacement session. Watch this space.",
+      "multipleSpeakers":"true",
+      "presenter":"Sarah Heinzen and Ivana Ilic",
+      "bio":"",
+      "title":"The Synergy of Human Factors and Inclusive Design at Microsoft",
+      "description":"In this session, we will explore how inclusive design and human factors engineering come together to create more intuitive, human-centered technology at Microsoft. Through real-world case studies and candid reflections, they’ll share how co-creation, ergonomics, and empathy work in tandem to drive better product outcomes. Attendees will leave with practical strategies for embedding inclusion into any phase of development—regardless of team size, budget, or industry.",
       "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"https://www.microsoft.com/en-us/inclusive-tech-lab",
+          "text":"microsoft.com/en-us/inclusive-tech-lab"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/sarah-heinzen-742911155/",
+          "text":"sarah-heinzen-742911155"
+        },
+        {
+          "type":"linkedin",
+          "url":"https://www.linkedin.com/in/ivanailic11818/",
+          "text":"ivanailic11818"
+        }
+      ],
       "hosts": {
         "team": ["Hans", "Ian", "Stewart"],
         "guest": ["Terence Eden"]
