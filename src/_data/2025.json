@@ -518,27 +518,22 @@
     },
     {
       "datetime":"September 25, 2025 20:00 UTC",
-      "multipleSpeakers":"true",
-      "presenter":"Sarah Heinzen and Ivana Ilic",
-      "bio":"<p>Sarah Heinzen is an Inclusive Product Designer at Microsoft, where she brings human diversity to the center of innovation by designing accessible, empowering experiences across Windows + Devices. With a background in mixed reality, robotics, and game design, Sarah supports a wide range of physical, sensory, and cognitive needs through thoughtful, inclusive solutions. At the Inclusive Tech Lab, Sarah works across disciplines to develop hardware and software informed directly by the lived experiences of disabled users. Her approach blends creativity, technical expertise, and deep user collaboration to ensure that inclusive design is not only possible, but deeply embedded in the product-making process. Beyond her design work, Sarah is passionate about reshaping how the industry thinks about play, participation, and access. She regularly partners with disability advocates, tech companies, and community programs to help build tools and spaces where everyone can thrive.</p><p> Ivana Ilic is a Senior Human Factors Engineer at Microsoft, where she delves into the intricate interactions between humans and technology to craft outstanding user experiences across all Windows + Devices products. With a background in Cognitive Psychology and Neuroscience, Ivana is equipped with the ability to innovate and inspire designs that maximize human capabilities and experiences. In her current role at Microsoft, Ivana applies her deep understanding of human behavior to create inclusive and human-centered products. Known for her interdisciplinary approach, Ivana combines knowledge from psychology, neuroscience, and human factors to approach problems from multiple angles, leading to products that are grounded in human needs. In addition to her professional work, Ivana is passionate about empowering underprivileged youth to achieve their full potential. She regularly participates in community outreach programs and collaborates with local organizations in the greater Seattle area to mentor and support young individuals, fostering self-belief and resilience.</p>",
-      "title":"The Synergy of Human Factors and Inclusive Design at Microsoft",
-      "description":"In this session, we will explore how inclusive design and human factors engineering come together to create more intuitive, human-centered technology at Microsoft. Through real-world case studies and candid reflections, they’ll share how co-creation, ergonomics, and empathy work in tandem to drive better product outcomes. Attendees will leave with practical strategies for embedding inclusion into any phase of development—regardless of team size, budget, or industry.",
+      "multipleSpeakers":"false",
+      "presenter":"Beau Vass",
+      "bio":"Beau is the Technical Lead for TTC Global's Digital Accessibility Practice, and formerly the Lead Auditing and Testing consultant for the digital accessibility team at Vision Australia. Beau has been working in digital for 20 years, as an accessibility consultant since 2019, and formerly as a Web Developer and Senior/Lead Front End Developer for digital agencies in Melbourne.",
+      "title":"A false sense of accessibility: What automated testing tools are missing",
+      "description":"It’s commonly understood that automated accessibility testing tools can find around 20-30% of accessibility issues, but what does this actually mean in practice? Beau takes a closer look at these tools using specific examples, demonstrating the types of accessibility issues automated testing tools won't find, why that is the case, and how they could be giving you a false sense of accessibility.",
       "videoId":"",
       "social":[
         {
           "type":"web",
-          "url":"https://www.microsoft.com/en-us/inclusive-tech-lab",
-          "text":"microsoft.com/en-us/inclusive-tech-lab"
+          "url":"https://accessibility.ttcglobal.com/",
+          "text":"accessibility.ttcglobal.com"
         },
         {
           "type":"linkedin",
-          "url":"https://www.linkedin.com/in/sarah-heinzen-742911155/",
-          "text":"sarah-heinzen-742911155"
-        },
-        {
-          "type":"linkedin",
-          "url":"https://www.linkedin.com/in/ivanailic11818/",
-          "text":"ivanailic11818"
+          "url":"https://www.linkedin.com/in/beau-vass-0b7b9a3a/",
+          "text":"beau-vass-0b7b9a3a"
         }
       ],
       "hosts": {
