@@ -95,7 +95,7 @@
       "datetime":"September 25, 2025 03:00 UTC",
       "multipleSpeakers":"false",
       "presenter":"Misaki Tanaka",
-      "bio":"Misaki Tanaka is a design leader and DEI practitioner working at Panasonic's Transformation Design Center, where she heads the DEI Design Division. With over a decade of experience in inclusive design, social entrepreneurship, and disaster response, she also leads SOLIT, a fashion brand pioneering co-creative and inclusive business. Her work bridges corporate innovation with social impact.",
+      "bio":"Misaki Tanaka is a design leader and DEI practitioner working at Panasonic’s Transformation Design Center, where she heads the DEI Design Division. With over a decade of experience in inclusive design, social entrepreneurship, and disaster response, she also leads SOLIT, a fashion brand pioneering co-creative and inclusive business. Her work bridges corporate innovation with social impact.",
       "title":"Designing DEI from Within: Lessons from Panasonic’s Inclusive Journey",
       "description":"Misaki Tanaka shares the ongoing journey of embedding DEI into Panasonic’s design and organisational culture—not as a top-down mandate, but as a co-created, lived experience. Through real-world examples, she explores how inclusive design practices rooted in empathy and collaboration can drive meaningful, systemic change from within.",
       "videoId":"",
@@ -286,7 +286,7 @@
       "multipleSpeakers":"true",
       "presenter":"John Paton and Jonny Marshall",
       "bio":"<p>John works on accessibility of media, broadcasting and gaming for blind and partially sighted people with a focus on technology and policy work. John has a wealth of experience of accessibility technology for people with sensory disabilities as he has worked at sensory loss charities for the last 18 years. He previously worked on accessibility and technology for RNID and the deafblindness charity Sense. He also has a Master’s Degree in Computer Systems Engineering and an interest in the accessibility potential of emerging technologies.</p><p>Jonny is a Research Officer in the Media, Culture and Immersive Technologies Team at RNIB. His main responsibility is to ensure that blind and partially sighted people have the best user experience. To achieve this, he runs research projects incorporating focus groups and interviews. This involves collaborating with industry professionals and regulators to ensure positive outcomes for end users. He also works with researchers to explore solutions that enhance user experience across various services and platforms.</p>",
-      "title":"Synthetic Speech in Audio Description - is it ready?",
+      "title":"Synthetic Speech in Audio Description – is it ready?",
       "description":"Whilst there could be advantages to using synthetic speech for audio description it is not always popular with AD users. RNIB conducted a study alongside UK broadcasters to objectively determine whether the quality of synthetic speech is currently good enough to voice audio description. Using a MOS-based questionnaire and following up with a focus group we uncovered insights into how synthetic speech measures up to human voiced content and what the next steps might be to protect the quality of audio description.",
       "videoId":"",
       "social":[
@@ -496,7 +496,7 @@
       "multipleSpeakers":"false",
       "presenter":"Hannah Wagner",
       "bio":"Hannah is a UX leader and accessibility strategist with over a decade of experience designing inclusive digital products. She helps organizations—from civil service teams to companies like GM—scale accessibility through empathy, systems thinking, and a commitment to lasting impact.",
-      "title":"Design as Care: Building What Speed Alone Can't Deliver",
+      "title":"Design as Care: Building What Speed Alone Can’t Deliver",
       "description":"Silicon Valley says move fast and break things. But when you break access, trust, or safety, you’ve already failed. This talk reframes design as care—and explores how accessibility work builds what speed alone can’t: resilience, equity, and long-term value. In a high-speed industry, careful design isn’t slow—it’s strategic.",
       "videoId":"",
       "social":[
@@ -546,7 +546,7 @@
       "multipleSpeakers":"true",
       "presenter":"Shawn Lawton Henry and Kevin White",
       "bio":"<p>Shawn is Director of the W3C Web Accessibility Initiative (WAI) and leads worldwide education and outreach activities promoting digital accessibility. Shawn focuses her personal passion for accessibility on bringing together the needs of individuals and the goals of organizations in designing human-computer interfaces. Her book 'Just Ask: Integrating Accessibility Throughout Design' offers an approach for developing products that are more usable for everyone.</p><p>Kevin is Senior Principal Accessibility Specialist at the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) and leads W3C's accessibility technical work. In this role, he contributes to internationally recognized standards that support accessibility. Kevin provides support and oversight of the accessibility working groups and is the staff contact for the Accessibility Guidelines Working Group that develops Web Content Accessibility Guidelines (WCAG).</p>",
-      "title":"W3C Web Accessibility Initiative (WAI) Update — What's in it for You",
+      "title":"W3C Web Accessibility Initiative (WAI) Update – What’s in it for You",
       "description":"Join us to learn about continuing work on Web Content Accessibility Guidelines (WCAG) 2, on WCAG 3 (it's a long way off), and activities between 2 and 3. We'll also highlight updated resources to put WCAG standards in perspective and focus on the user experiences of disabled people, as well as the benefits for all — users, product owners, society. Find out about resources and opportunities that support your efforts to advance digital accessibility in your organization and worldwide.",
       "videoId":"",
       "social":[
