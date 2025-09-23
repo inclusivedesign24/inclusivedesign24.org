@@ -16,7 +16,7 @@
       "multipleSpeakers":"false",
       "presenter":"Steve Barnett",
       "bio":"Steve is a human-centred front-end developer and user experience designer. He helps software teams have happier customers by making more user-friendly and engaging software. He’s been building things for the web professionally since 2005 (and built things for fun for a while before that). Accessibility has been a part of his work for many years, but now it’s part of his job title too! He makes sites and apps that everyone can use, regardless of their device, the network they’re on, or any disabilities they may have.",
-      "title":"Getting \"Accessibility Ready\" for a Design System",
+      "title":"Getting “Accessibility Ready” for a Design System",
       "description":"<p>Design systems help teams make more accessible products and services. How do we ensure the components in our design system are as accessible as possible?</p><p>We'll use an example to show what \"Accessibility Ready\" means for components in a design system.</p><ul><li>What makes a good \"Accessibility Ready\" guidance document?</li><li>What are the minimum requirements for release, plus additional internal requirements for quality, to ensure a component is \"Accessibility Ready\"?</li><li>Why keep the document short? (Using the Supported Technology section as an example)</li></ul>",
       "videoId":"",
       "social":[
