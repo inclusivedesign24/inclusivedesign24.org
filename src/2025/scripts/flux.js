@@ -85,7 +85,7 @@ function pad(num, size) {
                 session.classList.add("now");
                 var span_now = document.createElement("span");
                 span_now.classList.add("now");
-                span_now.innerHTML = "Now playing:"
+                span_now.innerHTML = "Now playing&nbsp;"
                 session.querySelector("h2>span").insertBefore(span_now, session.querySelector("span.session_time"));
             }
         }

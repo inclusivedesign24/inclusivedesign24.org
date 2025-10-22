@@ -306,6 +306,10 @@ ul#editions li svg {
     cursor: pointer
 }
 
+.session h2 .now {
+    display: block;
+}
+
 .session h3 {
     font-size: 1.25rem;
     color: #fcfcfc;
@@ -380,14 +384,6 @@ ul#editions li svg {
 #time_machine {
     color: #ffe400;
     margin-bottom: 0.5em;
-}
-
-.session_time .now {
-    display: block;
-    font-size: 0.3em;
-    color: #ffe400;
-    font-weight: bold;
-    margin: 0.85em 0 -0.55em 0;
 }
 
 .session_details {
@@ -647,9 +643,8 @@ ul#editions li svg {
         margin: 0;
     }
 
-    .session.now {
-        padding-left: 0.75rem;
-        left: -0.75rem;
+    .session h2 .now {
+        color: #ffe400;
     }
 
     .session_time {
