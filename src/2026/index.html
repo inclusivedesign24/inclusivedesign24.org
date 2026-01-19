@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Inclusive Design 24 (#id24) 24 September 2026</title>
+    {% include '2026/meta.html' %}
+</head>
+<body>
+{% include '2026/inline-svg.html' %}
+{% include '2026/header.html' %}
+<main>
+<div>
+<h1>Save the date!<br><cite>#id24</cite> will return on <em>24 September 2026</em></h1>
+
+<p><cite>Inclusive Design 24</cite> (#id24) is a free 24-hour online event for the global community. It celebrates inclusive design and shares knowledge and ideas from analogue to digital, from design to development, from planners to practitioners, and everything and everyone in between.</p>
+
+<section id="cfp">
+<h2>Call for presentations</h2>
+
+<p>Have a great idea for a talk? Want to present at #id24? Great! Our call for presentations is now open.</p>
+
+<p><a id="submit" href="https://docs.google.com/forms/d/1HvDshghFG2QiyTCz7O7-_3ATAZnx4cTkevoT7LBR2fc/">Submit a talk</a></p>
+
+<p>The call for presentations closes on <em>31 May 2026</em>. Selected speakers will be notified the week of <em>22 June 2026</em>.</p>
+<p>Have a great talk in mind, but English is not your first language? No problem – we're happy to accept submissions for <strong>talks in other languages</strong>. For sessions that are not in English, we will include secondary translated captions in English after the event.</p>
+<p>Have any questions? Just drop us an email at <a href="mailto:hello@inclusivedesign24.org">hello@inclusivedesign24.org</a></p>
+</section>
+
+<!-- <section id="cfp">
+<h2>Call for presentations closed</h2>
+
+<p>Thank you to all the people who submitted talk proposals. We are currently finalizing the schedule. Watch this space for a full rundown of planned presentations, as well as instructions on how to virtually attend our free event.</p>
+
+<p>Selected speakers will be notified the week of <em>23 June 2026</em></p>
+<p>Have any questions? Just drop us an email at <a href="mailto:hello@inclusivedesign24.org">hello@inclusivedesign24.org</a></p>
+</section> -->
+
+<!-- <section id="countdown" class="hidden" aria-live="polite" aria-atomic="true">
+  The event will start in <span id="countdown_timer"></span>
+</section> -->
+
+<section id="info">
+<h2>How to join</h2>
+
+<p>No sign-up. No registration. All sessions are streamed live and publicly on the <a href="https://www.youtube.com/inclusivedesign24">Inclusive Design 24 YouTube channel</a>{% if 2026.playlistId != blank %} – see the <a target="_blank" rel="noopener" href="https://www.youtube.com/playlist?list={{ 2026.playlistId }}">entire playlist for the event</a>{% endif %}.</p>
+<p>All sessions include automated live closed captions. After the event, these are replaced by manually edited closed captions. Unfortunately, we are not able to provide sign language interpreters for the event.</p>
+</section>
+
+</div>
+</main>
+
+{% include '2026/supporters.html' %}
+
+{% include '2026/footer.html' %}
+
+<script src="/2026/scripts/countdown.js"></script>
+<script>
+if (document.getElementById("countdown_timer")) {
+    countdown(new Date("Sept 24, 2026 23:30:00 UTC+0").getTime(), document.getElementById("countdown_timer"));
+}
+</script>
+
+{% include 'google.html' %}
+
+<script src="/2026/scripts/id24.js"></script>
+</body>
+</html>
