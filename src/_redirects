@@ -3,9 +3,15 @@
 # Redirect requests to the specific year's subdirectory (need to change this yearly)
 
 / /2026/
-/code-of-conduct/* /2026/code-of-conduct/:splat
-/resources/* /2026/resources/:splat
+/code-of-conduct/* /2026/code-of-conduct/
 /images/* /2026/images/:splat
+/presenters/* /2026/presenters/
+/resources/* /2026/resources/:splat
+/schedule/* /2026/schedule/
+/scripts/* /2026/scripts/:splat
+/styles/* /2026/styles/:splat
+/supporters/* /2026/supporters/:splat
+/team/* /2026/team/
 /favicon.ico /2026/favicon.ico
 
 # Custom error pages
