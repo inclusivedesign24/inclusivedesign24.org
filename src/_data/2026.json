@@ -1,0 +1,762 @@
+{
+  "playlistId":"",
+  "schedule":[
+    {
+      "datetime":"September 23, 2026 23:30",
+      "title":"The pre-show / welcome",
+      "description":"<p>Meet your hosts for the next 24 hours. We’ll be having a general chat about accessibility, inclusive design, and talking about the sessions we are most looking forward to in the upcoming 24 hours.</p>",
+      "videoId":""
+    },
+    {
+      "datetime":"September 24, 2026 00:00 UTC",
+      "multipleSpeakers":"true",
+      "presenter":"Lainey Feingold, Léonie Watson, Shilpi Kapoor, Meena Das, Jutta Treviranus, Sheri Byrne-Haber",
+      "bio":"",
+      "title":"Digital Accessibility Ethics: a new framework to advance accessibility",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 01:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Jacinta Gregory",
+      "bio":"",
+      "title":"Understanding Assistive Technology Usage in Australia and New Zealand",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 02:00 UTC",
+      "multipleSpeakers":"true",
+      "presenter":"Jamila Savoy",
+      "bio":"",
+      "title":"You can’t be accessible if people can’t understand you",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 03:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Ross Mullen",
+      "bio":"",
+      "title":"Designing for real speech, not perfect speech",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 04:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Manuel Matuzović",
+      "bio":"",
+      "title":"19½ Things You Didn’t Know about Accessibility in HTML and CSS",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 05:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Christoph Hassler",
+      "bio":"",
+      "title":"Decolonize Tech - How to design for all",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 06:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Hidde de Vries",
+      "bio":"",
+      "title":"How we want to make WCAG better",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 07:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Samantha Merrett",
+      "bio":"",
+      "title":"Accessible by Design: Documents That Work for Everyone",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 08:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Julia Undeutsch",
+      "bio":"",
+      "title":"Decoding Kanji Complexity for Digital Inclusion",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 09:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Simone De Vivo ",
+      "bio":"",
+      "title":"Designing autonomy at the table: restaurants and inclusive design",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 10:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Patrícia Mendes",
+      "bio":"",
+      "title":"Games for Blind Gamers Jam: It's (Almost) All Fun & Games",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 11:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Karimot Isiaka",
+      "bio":"",
+      "title":"Designing for Cognitive Difference: Reducing Friction in Digital Interfaces",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 12:00 UTC",
+      "multipleSpeakers":"true",
+      "presenter":"Cynthia Shelly and Delphinium Barta",
+      "bio":"",
+      "title":"Building the Next Generation of Accessibility Professionals",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 13:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Verónica Morales Beltrán",
+      "bio":"",
+      "title":"Designing for the Wanderer: Accessibility Lessons from a Life Abroad",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 14:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Wilco Fiers",
+      "bio":"",
+      "title":"Process matters: Europe's new Design for All standard",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 15:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Belen Barros Pena",
+      "bio":"",
+      "title":"The groanings, travails and weepings of teaching accessibility in HE",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 16:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Rebecca Adda",
+      "bio":"",
+      "title":"Sensory Mapping: Co-creating Towards a Neuro-Inclusive Environment ",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 17:00 UTC",
+      "multipleSpeakers":"true",
+      "presenter":"Catherine Collins and Sherry Shannon",
+      "bio":"",
+      "title":"Who Gets to Decide? People with Lived Experience Redesign a $68M System",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 18:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Michel Joanisse",
+      "bio":"",
+      "title":"Easier and Better Accessibility for Complex Experiences",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 19:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Nevin Bednarz",
+      "bio":"",
+      "title":"Inklusion – die ersten 100 Jahre",
+      "titleLanguage": "de",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 20:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Hitomi Yokota",
+      "bio":"",
+      "title":"Trauma-Informed Design Research for Inclusive Practice",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 21:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Leonie Theißen",
+      "bio":"",
+      "title":"Beyond ticking boxes -  How to build an inclusive image language",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 22:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Neha Pandit",
+      "bio":"",
+      "title":"Building for People in the Age of AI Agents",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+      "datetime":"September 24, 2026 23:00 UTC",
+      "multipleSpeakers":"false",
+      "presenter":"Crystal Preston-Watson",
+      "bio":"",
+      "title":"Broke with Accessible Taste: The Economics of Access",
+      "description":"",
+      "videoId":"",
+      "social":[
+        {
+          "type":"web",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"mastodon",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"bluesky",
+          "url":"",
+          "text":""
+        },
+        {
+          "type":"linkedin",
+          "url":"",
+          "text":""
+        }
+      ]
+    },
+    {
+			"datetime":"September 25, 2026 00:00 UTC",
+			"title":"The after party / closing",
+			"description":"<p>Your hosts will discuss their favourite sessions from the last 24 hours, and might have a drink or two!</p>",
+			"videoId":""
+		}
+  ]
+}
