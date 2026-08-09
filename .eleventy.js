@@ -4,7 +4,7 @@ module.exports = config => {
     config.addPassthroughCopy('./src/_redirects');
     config.addPassthroughCopy('./src/robots.txt');
     config.addPassthroughCopy('./src/site.webmanifest');
-    config.setTemplateFormats("html,css,js,liquid,ejs,md,hbs,mustache,haml,pug,njk,jpg,jpeg,gif,png,svg,webp,ico,pdf,ppt,pptx,doc,docx,zip");
+    config.setTemplateFormats("html,css,js,liquid,ejs,md,hbs,mustache,haml,pug,njk,jpg,jpeg,gif,png,svg,webp,ico,pdf,ppt,pptx,doc,docx,zip,ttf,woff,woff2");
 
     // Ad-hoc markdown filter
     const md = new markdownIt({
