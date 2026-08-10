@@ -11,7 +11,7 @@
       "datetime":"September 24, 2026 00:00 UTC",
       "multipleSpeakers":"true",
       "presenter":"Lainey Feingold, Léonie Watson, Shilpi Kapoor, Meena Das, Jutta Treviranus, Sheri Byrne-Haber",
-      "bio":"<p>Lainey Feingold is a US-based disability rights lawyer, author, and international speaker who has worked in the digital accessibility space since 1995. She helped negotiate the first web accessibility agreement in the US in 2000 and has worked with dozens of companies on accessibility initiatives since then, all without filing any lawsuits. She is a co-editor, and one of 39 authors from 10 countries, of Digital Accessibility Ethics: Disability Inclusion in All Things Tech (2026). Lainey’s first book is Structured Negotiation: A Winning Alternative to Lawsuits, 2d Edition 2021 (English) and 2024 (Spanish).</p>",
+      "bio":"<p>Lainey Feingold is a US-based disability rights lawyer, author, and international speaker who has worked in the digital accessibility space since 1995. She helped negotiate the first web accessibility agreement in the US in 2000 and has worked with dozens of companies on accessibility initiatives since then, all without filing any lawsuits. She is a co-editor, and one of 39 authors from 10 countries, of Digital Accessibility Ethics: Disability Inclusion in All Things Tech (2026). Lainey’s first book is Structured Negotiation: A Winning Alternative to Lawsuits, 2d Edition 2021 (English) and 2024 (Spanish).</p><p>Léonie Watson has spent almost 30 years making the web work better for everyone. She is co-founder and Director of TetraLogical, Chair of the World Wide Web Consortium (W3C)  Board of Directors, and co-chair of the W3C Web Applications Working Group. Léonie is also co-creator of the Inclusive Design Principles and co-author of Digital Accessibility Ethics: Disability Inclusion in All Things Tech.</p><p>Shilpi Kapoor is a serial entrepreneur passionate about technology and disability inclusion, driving digital accessibility as a business priority. Founder of <a href=\"http://www.barrierbreak.com/\">BarrierBreak</a> and <a href=\"http://www.247accessibledocuments.com/\">247 Accessible Documents</a>, and Chair of <a href=\"http://www.g3ict.org/\">G3ict</a>, she is focused on advancing digital accessibility and helping organizations create inclusive digital experiences for persons with disabilities. An Ashoka Fellow and recipient of the NCPEDP-Shell Helen Keller Award (2008), she has been recognized among NITI Aayog's Top 15 Women Transforming India (2019) and Business Today's Top 20 Most Powerful Women in Business (2017). </p><p>Jutta Treviranus is the Director of the Inclusive Design Research Centre (IDRC) and professor at OCAD University in Toronto. Jutta established the IDRC in 1993 as the nexus of a growing global community that proactively works to ensure that our digitally transformed society is co-designed inclusively. Dr. Treviranus also founded an innovative graduate program in Inclusive Design. She is recognized for her work in AI by Women in AI and Women in AI Ethics. Among her many roles, she is the chair of the <a href=\"https://accessible.canada.ca/standards-and-technical-guides/standards-and-technical-guides-database/can-asc-en-301-5492024-accessibility-requirements-ict-products-and-services-en-301-5492021-idt/4-functional-performance\">Accessibility Standards Canada committee on accessible and equitable AI</a>.</p>",
       "title":"Digital Accessibility Ethics: a new framework to advance accessibility",
       "description":"This session will introduce the Digital Accessibility Ethics Framework and show how it is applied to several aspects of tech and accessibility.  These include procurement, development, leadership, speech to text, and more. The Framework is a 3-part actionable strategy made up of values, actions, and questions. It is the subject of a book published this year called Digital Accessibility Ethics: Disability Inclusion in All Things Tech.  All presenters are authors in the book.",
       "videoId":"",
@@ -35,6 +35,26 @@
           "type":"linkedin",
           "url":"https://www.linkedin.com/in/laineyfeingold/  ",
           "text":"laineyfeingold"
+        },
+        {
+          "type":"web",
+          "url":"https://tetralogical.com/",
+          "text":"tetralogical.com"
+        },
+        {
+          "type":"web",
+          "url":"http://www.barrierbreak.com",
+          "text":"barrierbreak.com"
+        },
+        {
+          "type":"web",
+          "url":"https://idrc.ocadu.ca/",
+          "text":"idrc.ocadu.ca"
+        },
+        {
+          "type":"web",
+          "url":"https://wecount.inclusivedesign.ca/",
+          "text":"wecount.inclusivedesign.ca"
         }
       ]
     },
@@ -221,7 +241,7 @@
       "datetime":"September 24, 2026 10:00 UTC",
       "multipleSpeakers":"false",
       "presenter":"Patrícia Mendes",
-      "bio":"Patrícia Mendes is a web accessibility consultant and a co-host of the annual Games for Blind Gamers Jam. Master in Museology and Museography (Faculty of FIne-Arts, University of Lisbon), with a dissertation on museum website’s accessibility and usability, Web Accessibility Facilitator (ARTE) and Trusted Tester (U.S. Department of Homeland Security), she is dedicated to professional and personal projects that raise awareness about accessibility in the arts and culture.",
+      "bio":"Patrícia Mendes is a web accessibility consultant and a co-host of the annual Games for Blind Gamers Jam. Master in Museology and Museography (Faculty of FIne-Arts, University of Lisbon), with a dissertation on museum websites’ accessibility and usability, Web Accessibility Facilitator (ARTE) and Trusted Tester (U.S. Department of Homeland Security), she is dedicated to professional and personal projects that raise awareness about accessibility in the arts and culture.",
       "title":"Games for Blind Gamers Jam: It's (Almost) All Fun & Games",
       "description":"What makes a game blind-accessible and fun for everyone? The Games for Blind Gamers Jam is an annual event hosted on itch.io since 2021 with a mission: to grow awareness about blind accessibility in gaming and to support developers in making them. With a supportive community where blind and sighted creators work together, the jam has had 140 game entries over 5 editions and keeps growing as a hub for creativity and innovation in blind-accessible gaming. In this talk, Patrícia, a co-host of the Games for Blind Gamers Jam, will talk about the jam’s history, highlight some of its creations, and talk about blind-accessible game design.",
       "videoId":"",
