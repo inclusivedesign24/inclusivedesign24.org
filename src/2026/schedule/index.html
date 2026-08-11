@@ -42,7 +42,7 @@ The event will start in <span id="countdown_timer"></span>
             <span class="visually-hidden"><br></span>
             <span class="session_presenter">{{ session.presenter }}</span>
             <span class="visually-hidden">&nbsp;/&nbsp;</span>
-            <span class="session_title">{{ session.title }}</span>
+            <span class="session_title"{% if session.titleLanguage %} lang="{{ session.titleLanguage }}"{% endif %}>{{ session.title }}</span>
         </span>
     </h2>
     {% if session.videoId and session.videoId != "" %}
