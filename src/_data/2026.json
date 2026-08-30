@@ -1,11 +1,11 @@
 {
-  "playlistId":"",
+  "playlistId":"PLFbG3UWnuE3U",
   "schedule":[
     {
       "datetime":"September 23, 2026 23:30",
       "title":"The pre-show / welcome",
       "description":"<p>Meet your hosts for the next 24 hours. We’ll be having a general chat about accessibility, inclusive design, and talking about the sessions we are most looking forward to in the upcoming 24 hours.</p>",
-      "videoId":""
+      "videoId":"IS6BRLZN6fk"
     },
     {
       "datetime":"September 24, 2026 00:00 UTC",
@@ -14,7 +14,7 @@
       "bio":"<p>Lainey Feingold is a US-based disability rights lawyer, author, and international speaker who has worked in the digital accessibility space since 1995. She helped negotiate the first web accessibility agreement in the US in 2000 and has worked with dozens of companies on accessibility initiatives since then, all without filing any lawsuits. She is a co-editor, and one of 39 authors from 10 countries, of Digital Accessibility Ethics: Disability Inclusion in All Things Tech (2026). Lainey’s first book is Structured Negotiation: A Winning Alternative to Lawsuits, 2d Edition 2021 (English) and 2024 (Spanish).</p><p>Léonie Watson has spent almost 30 years making the web work better for everyone. She is co-founder and Director of TetraLogical, Chair of the World Wide Web Consortium (W3C)  Board of Directors, and co-chair of the W3C Web Applications Working Group. Léonie is also co-creator of the Inclusive Design Principles and co-author of Digital Accessibility Ethics: Disability Inclusion in All Things Tech.</p><p>Shilpi Kapoor is a serial entrepreneur passionate about technology and disability inclusion, driving digital accessibility as a business priority. Founder of <a href=\"http://www.barrierbreak.com/\">BarrierBreak</a> and <a href=\"http://www.247accessibledocuments.com/\">247 Accessible Documents</a>, and Chair of <a href=\"http://www.g3ict.org/\">G3ict</a>, she is focused on advancing digital accessibility and helping organizations create inclusive digital experiences for persons with disabilities. An Ashoka Fellow and recipient of the NCPEDP-Shell Helen Keller Award (2008), she has been recognized among NITI Aayog's Top 15 Women Transforming India (2019) and Business Today's Top 20 Most Powerful Women in Business (2017).</p><p>Meenakshi \"Meena\" Das, is a software engineer at Microsoft with a unique perspective on disability inclusion. Meena is a powerhouse advocate for accessible design, having co-founded the Working with Disabilities Support Group and actively promoting disability inclusion at Microsoft and through her work with Teach Access.</p><p>Jutta Treviranus is the Director of the Inclusive Design Research Centre (IDRC) and professor at OCAD University in Toronto. Jutta established the IDRC in 1993 as the nexus of a growing global community that proactively works to ensure that our digitally transformed society is co-designed inclusively. Dr. Treviranus also founded an innovative graduate program in Inclusive Design. She is recognized for her work in AI by Women in AI and Women in AI Ethics. Among her many roles, she is the chair of the <a href=\"https://accessible.canada.ca/standards-and-technical-guides/standards-and-technical-guides-database/can-asc-en-301-5492024-accessibility-requirements-ict-products-and-services-en-301-5492021-idt/4-functional-performance\">Accessibility Standards Canada committee on accessible and equitable AI</a>.</p><p>Sheri Byrne-Haber is a globally recognized accessibility leader who launched digital accessibility programs at McDonald’s, Albertsons, and VMware.  She now serves as Director of Accessibility Strategy and Projects at AccessAbility Officer. Named a 2022 LinkedIn Top Voice for Social Impact and UX Collective’s 2020 Author of the Year, she is a frequent conference speaker, author of “Giving a Damn About Accessibility,” and an active member of accessibility standards committees and disability nonprofits.</p>",
       "title":"Digital Accessibility Ethics: a new framework to advance accessibility",
       "description":"This session will introduce the Digital Accessibility Ethics Framework and show how it is applied to several aspects of tech and accessibility.  These include procurement, development, leadership, speech to text, and more. The Framework is a 3-part actionable strategy made up of values, actions, and questions. It is the subject of a book published this year called <a href=\"https://www.lflegal.com/book/digital-accessibility-ethics/\">Digital Accessibility Ethics: Disability Inclusion in All Things Tech</a>. All presenters are co-authors in the book.",
-      "videoId":"",
+      "videoId":"gVTGHP5m0a8",
       "social":[
         {
           "type":"web",
@@ -70,7 +70,7 @@
       "bio":"Jacinta Gregory is an Inclusive Research Consultant at Intopia, specialising in research with people with disabilities and diverse communities. She led the end-to-end delivery of the Assistive Technology Survey 2025.",
       "title":"Understanding Assistive Technology Usage in Australia and New Zealand",
       "description":"Intopia's Assistive Technology Survey 2025 captured a snapshot of assistive tech use across Australia and New Zealand. Join Jacinta Gregory as she walks through the research process and explores the results.",
-      "videoId":"",
+      "videoId":"mD4aZC12KzQ",
       "social":[
         {
           "type":"web",
@@ -91,7 +91,7 @@
       "bio":"<p>For nearly 20 years, I’ve helped organisations communicate clearly and accessibly, whether it's rewriting dense policy, shaping public health messages or coaching teams to write with confidence and purpose. At work and at home (with my young kids), I break down complex ideas into language that’s easy to understand, without talking down to people. I’m a grammar nerd who drinks too much coffee, refuses to use unnecessary capital letters and firmly believes that PowerPoint should be a last resort. I live for good conversations, plain language and the joy of seeing someone finally get it.</p><p>Words have the power to change everything. Finding the right ones can lead to better understanding, trust and respect. I’ve seen how important this is, as a proud first-generation Australian, living in one of the most culturally diverse cities in the world. I’ve written content for the web, social media, letters, surveys, newsletters, emails, strategies and reports. In roles across the private, public and not-for-profit sectors. And I’ve never seen a piece of communication that can’t be improved with plain language. It just works, every time.</p>",
       "title":"You can’t be accessible if people can’t understand you",
       "description":"Accessibility doesn’t stop at code. You can meet every technical standard and still leave people confused. This session explores why unclear language is one of the most overlooked accessibility barriers. Through practical examples and real-world insights, we’ll show how plain language improves understanding, reduces cognitive load and helps people actually use information. Because if people can’t understand it, it isn’t accessible.",
-      "videoId":"",
+      "videoId":"hTtS34JwO7o",
       "social":[
         {
           "type":"web",
@@ -107,7 +107,7 @@
       "bio":"Ross is the director of digital accessibility company CANAXESS, and works with private industry and government worldwide to make accessibility more effective and sustainable. His work spans accessibility assessments, training and consulting. And has a strong focus on understanding the code and interaction patterns to work out whether things actually work for users. He regularly presents and writes on accessibility in current and emerging technology. Creates popular accessibility courses for Udemy. He describes himself as pragmatic and cautiously optimistic about AI’s potential for accessibility sitting somewhere in between being sceptical and an overly enthusiastic early adopter.",
       "title":"Designing for real speech, not perfect speech",
       "description":"<p>Principles for voice based and conversational UX design are lacking. Fluency disorders such as stuttering mean a users speech can sometimes be different or disjointed and unless this is understood and supported, UX interfaces where speech is the primary method of interaction will become an additional barrier for people.</p><p>Can a different way of thinking about voice based UX improve the experience? I think so. I'll share how techniques I use to reduce the effects of my stutter can be applied into digital technology both as training aids and support mechanisms. Leading to a set of principles to follow when designing for voice based UX systems.</p>",
-      "videoId":"",
+      "videoId":"875_xrNqgnk",
       "social":[
         {
           "type":"web",
@@ -128,7 +128,7 @@
       "bio":"Manuel is a freelance frontend developer, accessibility auditor, teacher, author, and consultant who’s passionate about the web. He writes about accessibility, HTML, and CSS on his personal blog <a href=\"https://matuzo.at\">matuzo.at</a> and on <a href=\"https://htmhell.dev\">htmhell.dev</a>.",
       "title":"19½ Things You Didn’t Know about Accessibility in HTML and CSS",
       "description":"Manuel skips the \"Alt Text\" lectures and dives straight into the deep end, exploring the hidden mechanics of the Popover API, keyboard navigation, and ARIA.",
-      "videoId":"",
+      "videoId":"h3JhFyOyzK0",
       "social":[
         {
           "type":"web",
@@ -154,7 +154,7 @@
       "bio":"Christoph has been working as a designer in the field of digital products since the early 2000s, centering humanity in his work. His most recent topics of concern are the decolonization of technology, as well as the risks and opportunities that increasing digitization entails for the marginalized. He works as a freelance designer and consultant in the area of Inclusion and works as teacher for design ethic and strategy.",
       "title":"Decolonize Tech - How to design for all",
       "description":"The promises of Silicon Valley, to innovate for a better future have failed. Let’s discuss the state of current tech and design best practices and take a look at more inclusive and pluriveral viewpoints, inspired by practitioners outside of the dominant western paradigm.",
-      "videoId":"",
+      "videoId":"TKlPGWD64mg",
       "social":[
         {
           "type":"web",
@@ -170,7 +170,7 @@
       "bio":"<p>Hidde de Vries (@hdv@front-end.social) is a web standards and digital accessibility specialist (CPWA) at the Dutch government.</p><p>He is interested in making the web work for humans in the broadest sense of the word. Previously, he worked for Mozilla, the World Wide Web Consortium (W3C) and Sanity.</p>Hidde is a co-editor of WCAG 3 and WCAG-EM, contributor to the Web Sustainability Guidelines and a member of the W3C’s Advisory Board.</p><p>His favourite programming language is CSS, his interest in AI is mostly in the philosophical aspects of it, and he believes there is still plenty of work to do to ensure the web is for everyone. Hidde writes about these things and more on his blog. In his free time, he works on a coffee table book covering the video conferencing applications of our decade.</p>",
       "title":"How we want to make WCAG better",
       "description":"WCAG is a standard most digital accessibility professionals will have used in one way or another. Many have thoughts on how to make it better. The good news is: a new version is in progress. In this talk, you'll hear more about the transition from WCAG 2 to WCAG 3, and find out what's not working today and how a new standard attempts to close the gaps.",
-      "videoId":"",
+      "videoId":"tDvdzcbo_tU",
       "social":[
         {
           "type":"web",
@@ -191,7 +191,7 @@
       "bio":"Samantha Merrett is a Senior Accessibility Specialist at the Ministry of Justice, leading cross‑government work on digital and document accessibility. She delivers training, reviews, and community initiatives that help teams remove barriers, create accessible documents and build more inclusive services.",
       "title":"Accessible by Design: Documents That Work for Everyone",
       "description":"<p>Creating accessible documents isn’t just a technical requirement—it’s a fundamental part of inclusive design. Yet many everyday documents—reports, PDFs, forms, and presentations—still create unnecessary barriers for people with disabilities, often without their creators even realising it. When accessibility is treated as an afterthought, the result is content that excludes, frustrates, or simply fails to work for a large part of its audience.</p><p>In this session, we’ll explore what it really means to design documents with accessibility in mind from the very beginning. Rather than relying on checklists or last-minute fixes, we’ll focus on building accessibility into workflows so it becomes a natural part of how content is created on a routine basis.</p><p>I will teach practical, tool-agnostic techniques to improve document structure, reading order, and visual clarity, as well as how to ensure compatibility with assistive technologies such as screen readers. We’ll look at common pitfalls—like missing headings, unclear link text, complex tables, poor colour contrast, and inaccessible PDFs—and how to fix them quickly and effectively without slowing down work.</p><p>Grounded in real-world examples, this session will highlight how small design decisions can have a big impact on usability and inclusion. Whether the audience is a designer, content creator, policymaker, or anyone who produces documents, they will leave with a clearer understanding of how to create content that is not only compliant, but genuinely usable.</p><p>By the end, attendees should leave with simple, actionable steps to start creating documents that are more inclusive, more effective, and truly designed for everyone.</p>",
-      "videoId":"",
+      "videoId":"7uz1HxQWml4",
       "social":[
         {
           "type":"linkedin",
@@ -207,7 +207,7 @@
       "bio":"<p>I am Dev & UX Accessibility Specialist at Atos. After graduating University in Musicology and Japanese Studies in summer 2020, I started learning front-end development and specialized in the topic of web accessibility early on. Since then, I take every opportunity to spread awareness on the topic by regularly creating content in form of writing blog articles and such.</p><p>I have been certified by IAAP as a Professional in Accessibility Core Competencies (CPACC) in 2022, Web Accessibility Specialist (WAS) in 2025, and got accepted in the Google Developer Expert Program in 2023.</p>",
       "title":"Decoding Kanji Complexity for Digital Inclusion",
       "description":"<p>Accessibility is often discussed through the lens of Western, alphabetic scripts. But what happens when a single character can have five different meanings and three different pronunciations depending on its neighbor? In the Japanese digital landscape, Kanji (logographic characters) present a unique challenge for inclusive design.</p><p>This session dives into the technical and cognitive hurdles of the Japanese writing system. Attendees will leave with a new perspective on internationalization (i18n) and practical strategies to handle multi-layered scripts without sacrificing semantics.</p>",
-      "videoId":"",
+      "videoId":"DY2usvDHKlo",
       "social":[
         {
           "type":"web",
@@ -228,7 +228,7 @@
       "bio":"Simone De Vivo is an Italian-born, Sweden-based designer focused on accessibility, inclusive design, and social regeneration through design. His work explores care and systemic barriers through co-design, including his BFA thesis, Cosmethic Access, which reimagines cosmetic packaging with visually impaired participants, and Kroglabbet, a platform co-designing with restaurants and visually impaired participants to make dining spaces more accessible. He is particularly interested in how different knowledges can work together to leave the world better than we found it. Food and shared experiences are central to his process, guiding inclusive and empathetic solutions.",
       "title":"Designing autonomy at the table: restaurants and inclusive design",
       "description":"This talk shares insights from Kroglabbet, a design research project on accessibility in restaurant environments in Gothenburg, Sweden, developed through co-design with people with visual impairments and collaboration with local restaurants. Through interviews and workshops based on shared meals, the project explores real situations such as reading menus, ordering, navigating the space, and interacting with staff. The talk reflects on how inclusive design takes shape in practice, and how small, realistic changes can support autonomy in everyday service environments.",
-      "videoId":"",
+      "videoId":"D7Jd2zgfD0Q",
       "social":[
         {
           "type":"web",
@@ -249,7 +249,7 @@
       "bio":"Patrícia Mendes is a web accessibility consultant and a co-host of the annual Games for Blind Gamers Jam. Master in Museology and Museography (Faculty of FIne-Arts, University of Lisbon), with a dissertation on museum websites’ accessibility and usability, Web Accessibility Facilitator (ARTE) and Trusted Tester (U.S. Department of Homeland Security), she is dedicated to professional and personal projects that raise awareness about accessibility in the arts and culture.",
       "title":"Games for Blind Gamers Jam: It's (Almost) All Fun & Games",
       "description":"What makes a game blind-accessible and fun for everyone? The Games for Blind Gamers Jam is an annual event hosted on itch.io since 2021 with a mission: to grow awareness about blind accessibility in gaming and to support developers in making them. With a supportive community where blind and sighted creators work together, the jam has had 140 game entries over 5 editions and keeps growing as a hub for creativity and innovation in blind-accessible gaming. In this talk, Patrícia, a co-host of the Games for Blind Gamers Jam, will talk about the jam’s history, highlight some of its creations, and talk about blind-accessible game design.",
-      "videoId":"",
+      "videoId":"we-FMrl1RBo",
       "social":[
         {
           "type":"web",
@@ -270,7 +270,7 @@
       "bio":"Karimot is a Product Designer specialising in accessibility and inclusive design. As a past Outreachy Intern at the Wikimedia Foundation, she designed accessible reading experiences for Wikipedia's global user base, including features for users with cognitive, visual, and motor differences. With experience across humanitarian and SaaS platforms, she brings research-backed, user-centered thought process to designing interfaces that work for everyone.",
       "title":"Designing for Cognitive Difference: Reducing Friction in Digital Interfaces",
       "description":"<p>Every web page exists for a purpose, but whether a user can fulfill it depends on how the interface is designed. For people with cognitive differences, that decision means the difference between access and exclusion.</p><p>According to Northwestern Medicine, 15–20% of the world's population shows signs of neurodivergence, yet most interfaces are built for a narrow cognitive norm.</p><p>This session equips designers, developers, and product teams with practical strategies to reduce friction and build inclusively, grounded in real Wikipedia accessibility project experience.</p>",
-      "videoId":"",
+      "videoId":"JfUr791MgLI",
       "social":[
         {
           "type":"web",
@@ -291,7 +291,7 @@
       "bio":"<p>Cynthia Shelly has worked in Digital Accessibility since 2000, when she joined the WCAG 2.0 working group after trying to implement WCAG 1.0 on MSN.com (um, this says it has to work without javascript?). She has been a developer, program manager, strategist and product manager at Microsoft, Starbucks and Google, all focused on different aspects of Accessibility. She recently founded Scaled Accessibility Consulting in Amsterdam, with junior partner (and offspring) Delphinium Barta.</p><p>Delphinium Barta is the junior partner at Scaled Accessibility Consulting in Amsterdam.</p>",
       "title":"Building the Next Generation of Accessibility Professionals",
       "description":"What happens when a long-time accessibility expert leaves big tech, moves to a different country, and founds a family-business accessibility consultancy? We have some funny stories, but we also have a serious subject - how to retain the digital accessibility knowledge built over the last 30 years, and pass it down to the next generation of professionals",
-      "videoId":"",
+      "videoId":"2wzdoEjjsvw",
       "social":[
         {
           "type":"web",
@@ -307,7 +307,7 @@
       "bio":"<p>I am a professional digital accessibility consultant committed to delivering high-quality, engaging, inclusive and accessible experiences for a diverse and global audience.</p><p>With over 12 years of experience in the gaming and localization industry including leadership positions, I have a strong background in leading multicultural teams, optimizing processes, resources, and costs. My work focuses on the end consumer, providing them with accessible user experiences through accessibility and inclusive language.</p><p>As a CPACC, ADS, Section 508 certified I can identify and address challenges and opportunities for improvement around digital accessibility environments. I am also an Accessible Player Experiences Practitioner by AbleGamers.</p>",
       "title":"Designing for the Wanderer: Accessibility Lessons from a Life Abroad",
       "description":"Explore how accessibility transcends borders. A journey through the UX of several countries. We’ll examine why the most successful interfaces are those that refuse to leave anyone behind, proving accessibility is the ultimate design win.",
-      "videoId":"",
+      "videoId":"de-jP7yYHy8",
       "social":[
         {
           "type":"linkedin",
@@ -323,7 +323,7 @@
       "bio":"Director of accessibility automation at Deque. Wilco works on Axe-core, Axe advanced rules, Axe automated guided tests, and Axe linter. He has a leading role at the W3C as Deque’s advisory committee representative, facilitator of the ACT Task Force, and former project manager of WCAG 3.0. Wilco managed the EU-funded accessibility projects WAI-Tools & WAI-Coop, and regularly does public speaking on various topics related to digital accessibility.",
       "title":"Process matters: Europe's new Design for All standard",
       "description":"WCAG is fantastic, but it has the weaknesses all product standards have. EN 17161 Design for All adds a new dimension to accessibility compliance. One that works in the reality of bugs, of compliance over time, and that understands user needs aren't static or perfectly definable. Security has paved the way for process compliance. Accessibility should follow.",
-      "videoId":"",
+      "videoId":"VFtAYNrgAjg",
       "social":[
         {
           "type":"web",
@@ -344,7 +344,7 @@
       "bio":"I have been an interaction designer and design researcher for almost two decades. In 2017 I had the crazy idea of starting a PhD, which I completed in 2021. Since then, I've been working in academia. I am currently a lecturer in HCI at City St George's, University of London, where I teach a course on inclusive design to masters students.",
       "title":"The groanings, travails and weepings of teaching accessibility in HE",
       "description":"In 2023 I was asked to take over the course on Inclusive Design for masters students that is currently offered at City St George's, University of London. This course is one of the longest-running and one of the very few dedicated Inclusive Design university courses in the UK. In most higher-education institutions, accessibility is covered in scattered lectures across courses, or not at all. Speaking to colleagues in other universities about why this is so, they tell me their deans and heads of department believe accessibility is not \"sexy\" (whatever the hell that means), and that students would not be interested in it. I am not sure I have polite adjectives to describe this state of affairs, but I do know it needs to change. In this presentation, I will speak about the challenges we face teaching accessibility and inclusive design to higher education students in the UK; and how our industry colleagues could help.",
-      "videoId":"",
+      "videoId":"_fupTnI4NVs",
       "social":[
         {
           "type":"web",
@@ -365,7 +365,7 @@
       "bio":"Rebecca Adda is an Inclusive Design Specialist at Buro Happold, who specialises in sensory-inclusive design and equitable wayfinding. She has most recently been a contributor to Buro Happold's research, 'Sensory mapping: The design and use of sensory maps for the built environment'. Before joining Buro Happold, Rebecca worked in the Office of Accessibility at the Metropolitan Museum of Art, researching and designing sensory-friendly wayfinding tools and art interpretation for neurodivergent visitors. Rebecca’s approach prioritises the impacts of co-creation as a means towards neuro-inclusive accessibility in the built environment and beyond.",
       "title":"Sensory Mapping: Co-creating Towards a Neuro-Inclusive Environment ",
       "description":"Sensory mapping offers advance information about noise, lighting, crowding, smells and rest areas, helping neurodivergent people anticipate and navigate spaces with confidence. Although use of sensory maps is growing (particularly in museums and cultural spaces), their design and broader application remain under‑explored. Buro Happold’s research  involved co-creative workshops, a survey and a literature review with 293 participants across 11 neurotypes, and sought to explore how sensory maps can better reflect lived experience and support fuller participation in the built environment.",
-      "videoId":"",
+      "videoId":"1Y8-4cM0liY",
       "social":[
         {
           "type":"linkedin",
@@ -381,7 +381,7 @@
       "bio":"<p>Sherry is a founding member of the Street Song Choir and runs the community lunches at Central Lutheran Church. Sherry has collaborated on several housing initiatives ranging from the stadium collaboration, and DHS project with Moxie to serving as a founding member of Envision Community. Sherry was a recipient of the Dorothy Richardson Award for community leadership in 2019.</p><p>Catherine believes those most affected by a problem should lead (not just participate in) the design of services, products and systems. She's the founder of Moxie, a social impact participatory design agency helping teams center people with lived experience in co-design and decision-making. Her work spans homelessness, early childhood education, technology and employment for immigrants. Catherine has led award-winning design programs and has taught at The Royal College of Art, Minneapolis College of Art and Design, and Design Thinkers Academy.</p>",
       "title":"Who Gets to Decide? People with Lived Experience Redesign a $68M System",
       "description":"A paid cohort of people with lived experience of homelessness co-designed a $68M housing grant administration process for a Minnesota state agency. This changed not just what the process looked like, but who held power in shaping it. This talk is honest about the tensions. Between creating trust with a state agency and the community. Between the instinct to \"just\" implement and the slower work of prototyping to minimize harm. We reflect on what shifts and methods were helpful to move from performative co-creation toward genuine power-sharing.",
-      "videoId":"",
+      "videoId":"GjVaSy4jmr4",
       "social":[
         {
           "type":"web",
@@ -407,7 +407,7 @@
       "bio":"A fluently bilingual advocate for digital equity, I’m a Technical Lead at Digital Museums Canada (Canadian Museum of History). My practice sits at the intersection of UX design and web accessibility. My goal is to guide creative and technical teams toward digital excellence, championing inclusive strategies that impact a broader, more diverse audience.",
       "title":"Easier and Better Accessibility for Complex Experiences",
       "description":"Ever wondered how to make a virtual experience an accessible one? Or how about a gamification experience? Or, maybe a 360-degree video that includes interactivity. Not just WCAG checkboxes accessible, experience accessible. Something someone with a temporal, circumstantial, or permanent barrier to access can pragmatically use. This talk explores what accessibility can mean in the context of complex experiences without sacrificing ingenuity. The shared knowledge is based on 18+ years experience and 50+ unique medium and large budget projects as a designer, developer, and technical lead. As a technical lead I provide guidance to other technical experts with a particular focus on pragmatic, human-centred, and accessible design solutions. I’ll talk about workflows at all stages (prep, planning, and production). The talk is understandable to a technical and non-technical audience. Attendees will walk away from this talk with theoretical knowledge and practical examples all based on successfully tried, tested, and deployed solutions.",
-      "videoId":"",
+      "videoId":"ahJiVlRoOms",
       "social":[
         {
           "type":"web",
@@ -424,7 +424,7 @@
       "title":"Inklusion – die ersten 100 Jahre",
       "titleLanguage": "de",
       "description":"<p>The year is 2026, and the <span lang=\"de\">»Marktüberwachungsstelle der Länder für die Barrierefreiheit von Produkten und Dienstleistungen - Anstalt öffentlichen Rechts«</span> has just been recruiting people with <span lang=\"de\">»Interesse an Fragestellungen zur Barrierefreiheit«</span>.</p><p>Hey ho! We sure know and like our wordy words here in Germany.</p><p>Starting in 1926 with Otto Perl’s <span lang=\"de\">»Krüppeltum und Gesellschaft im Wandel der Zeit«</span>, we’ll travel back and fourth through an extremely embarrassing century of German history. There be content warnings. And a bibliography.</p><p>After establishing a solid foundation for the word <span lang=\"de\">»Bringschuld«</span> when it comes to disability, we’ll have a hard look at European legal acts in general, their German implementations in particular, and the useless convoluted mess that accessibility as a business has become in the process.</p><p>This talk will inevitably be held in German, but everybody is invited to learn from our mistakes, and set course for a different future. Or, at least, become a luddite.</p>",
-      "videoId":"",
+      "videoId":"ODbEzQsbe1A",
       "social":[
         {
           "type":"web",
@@ -440,7 +440,7 @@
       "bio":"Hitomi Yokota is a Service Design leader, licensed Psychotherapist, and Educator bridging design research and mental health. After a decade leading equity-driven service design projects across public and private sectors, she became a Psychotherapist to deepen her ability to support individuals, teams, and organizations. Seeing the growing need for trauma-informed practice, she founded Cocoro Colab and now teaches trauma-informed design research for sensitive and complex contexts.",
       "title":"Trauma-Informed Design Research for Inclusive Practice",
       "description":"Inclusive design requires more than accessibility—it also asks us to consider emotional safety, power, and lived experience. In this session, participants will explore how trauma shapes people’s experiences of user research engagement, particularly in complex and sensitive topics. The talk introduces core concepts of trauma-informed design research, including nervous system awareness, recognizing signs of distress, and practical ways to create safer and more inclusive research experiences.",
-      "videoId":"",
+      "videoId":"dUw7F95ympM",
       "social":[
         {
           "type":"web",
@@ -461,7 +461,7 @@
       "bio":"With over 20 years of experience working as a brand and communication designer, but also from leading a support group and serving as a representative for disabled employees at my former company, I have developed a strong passion for inclusion, communication, knowledge sharing and accessibility. Also for trying to play every escape room under the sun, but that's on a different page.",
       "title":"Beyond ticking boxes -  How to build an inclusive image language",
       "description":"<p>Who do you show on your websites and what does that say about your brand? Who is going to feel invited to interact with your brand, to use your product or to apply at your company, and who isn't?</p><p>Who we show in our image language often seems like a trivial choice: a happy, smiley person, job done.</p><p>But who these people are and what they represent matters greatly to your audience! And whether we like it or not, the bias in our choices is strong, especially when budget and performance matters.</p><p>Let me show you ways on how to build an image language for your brand that is truly inclusive, inviting and feels natural. Which shows diversity without the tokenism.</p><p>Let's give your image language an inclusive makeover!</p>",
-      "videoId":"",
+      "videoId":"Sctx7dsYb_c",
       "social":[
         {
           "type":"web",
@@ -482,7 +482,7 @@
       "bio":"I'm a Data Scientist at Deque Systems, working at the intersection of AI and accessibility. I build tools that bring automated accessibility testing to developers, making expert-level accessibility knowledge more accessible to everyone. Outside of work, I like to sketch, play sports and I'm always tinkering on a new side project.",
       "title":"Building for People in the Age of AI Agents",
       "description":"<p>AI agents are changing how we interact with the web — browsing, clicking, and completing tasks on our behalf. But in doing so, they’re running into a familiar problem: the web was never truly built for every user.</p><p>The same foundations that make the web usable for people — semantic HTML, meaningful structure, keyboard navigation are exactly what AI agents depend on to function.</p><p>This talk explores the overlap between accessibility and agentic AI. We'll look at why agents and assistive technologies need the same things from a webpage, what that tells us about how we've been building the web, and why this moment of renewed attention on structure and semantics is an opportunity we can't afford to waste</p><p>But through all of it, one thing stays constant: this is about people. Agents are a new lens on an old problem. The goal has always been a web that works for every kind of user and that goal hasn't changed.</p><p>Accessibility isn't new. But the spotlight is. Let's make sure it lands in the right place.</p>",
-      "videoId":"",
+      "videoId":"b4bD5v3-0FA",
       "social":[
         {
           "type":"linkedin",
@@ -498,7 +498,7 @@
       "bio":"Crystal Preston-Watson is an accessibility and quality engineer based in Denver, Colorado. Born in the late 20th century, she's built a career that spans journalism, web development, and enterprise software, with a consistent focus on disability rights and digital equity.",
       "title":"Broke with Accessible Taste: The Economics of Access",
       "description":"Accessibility doesn't begin when a disabled person opens an app or visits a website; it begins with income, employment, broadband access, and the cost of assistive technology. With 1.3 billion people experiencing significant disability worldwide (WHO), this 2026 update revisits the economic journey toward digital access across the globe: contested subminimum-wage rules, the unraveling of broadband subsidies, the impact of artificial intelligence on assistive tech, and the repercussions of overlooking the role of socioeconomic factors in digital accessibility.",
-      "videoId":"",
+      "videoId":"6sAYPl_y5S4",
       "social":[
         {
           "type":"web",
@@ -511,7 +511,7 @@
 			"datetime":"September 25, 2026 00:00 UTC",
 			"title":"The after party / closing",
 			"description":"<p>Your hosts will discuss their favourite sessions from the last 24 hours, and might have a drink or two!</p>",
-			"videoId":""
+			"videoId":"LScoJqy4GVU"
 		}
   ]
 }
