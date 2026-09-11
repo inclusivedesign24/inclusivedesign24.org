@@ -5,7 +5,12 @@
       "datetime":"September 23, 2026 23:30",
       "title":"The pre-show / welcome",
       "description":"<p>Meet your hosts for the next 24 hours. We’ll be having a general chat about accessibility, inclusive design, and talking about the sessions we are most looking forward to in the upcoming 24 hours.</p>",
-      "videoId":"IS6BRLZN6fk"
+      "videoId":"IS6BRLZN6fk",
+      "hosts": {
+        "tech": ["Patrick"],
+        "host": ["Patrick"],
+        "guest": []
+      }
     },
     {
       "datetime":"September 24, 2026 00:00 UTC",
@@ -61,7 +66,12 @@
           "url":"https://wecount.inclusivedesign.ca/",
           "text":"wecount.inclusivedesign.ca"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Patrick"],
+        "host": ["Patrick"],
+        "guest": []
+      }
     },
     {
       "datetime":"September 24, 2026 01:00 UTC",
@@ -82,7 +92,12 @@
           "url":"https://www.linkedin.com/in/jjgdesign/",
           "text":"jjgdesign"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Adrian"],
+        "host": ["Eric"],
+        "guest": ["Jaunita Flessas"]
+      }
     },
     {
       "datetime":"September 24, 2026 02:00 UTC",
@@ -98,7 +113,12 @@
           "url":"https://www.plainlanguagematters.org/",
           "text":"plainlanguagematters.org"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Adrian"],
+        "host": ["Eric"],
+        "guest": ["Jaunita Flessas"]
+      }
     },
     {
       "datetime":"September 24, 2026 03:00 UTC",
@@ -119,7 +139,12 @@
           "url":"https://www.linkedin.com/in/rossmullen/",
           "text":"rossmullen"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Adrian"],
+        "host": ["Eric"],
+        "guest": ["Sara Soueidan"]
+      }
     },
     {
       "datetime":"September 24, 2026 04:00 UTC",
@@ -145,7 +170,12 @@
           "url":"https://bsky.app/profile/matuzo.at",
           "text":"matuzo.at"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Hans"],
+        "host": ["Kathleen"],
+        "guest": ["Sara Soueidan"]
+      }
     },
     {
       "datetime":"September 24, 2026 05:00 UTC",
@@ -161,7 +191,12 @@
           "url":"https://www.hasslerdei.com/",
           "text":"hasslerdei.com"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Hans"],
+        "host": ["Kathleen"],
+        "guest": ["Peyton Menzies"]
+      }
     },
     {
       "datetime":"September 24, 2026 06:00 UTC",
@@ -182,7 +217,12 @@
           "url":"https://front-end.social/@hdv",
           "text":"@hdv@front-end.social"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Hans"],
+        "host": ["Kathleen"],
+        "guest": ["Peyton Menzies"]
+      }
     },
     {
       "datetime":"September 24, 2026 07:00 UTC",
@@ -198,7 +238,12 @@
           "url":"https://www.linkedin.com/in/samantha-merrett/",
           "text":"samantha-merrett"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Ian"],
+        "host": ["Hans"],
+        "guest": ["Nic Chan"]
+      }
     },
     {
       "datetime":"September 24, 2026 08:00 UTC",
@@ -219,7 +264,12 @@
           "url":"https://www.linkedin.com/in/juliaundeutsch/",
           "text":"juliaundeutsch"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Ian"],
+        "host": ["Hans"],
+        "guest": ["Nic Chan"]
+      }
     },
     {
       "datetime":"September 24, 2026 09:00 UTC",
@@ -240,7 +290,12 @@
           "url":"https://www.linkedin.com/in/simonedevivo/",
           "text":"simonedevivo"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Ian"],
+        "host": ["Léonie"],
+        "guest": ["Michelle Chu"]
+      }
     },
     {
       "datetime":"September 24, 2026 10:00 UTC",
@@ -261,7 +316,12 @@
           "url":"https://www.linkedin.com/in/patriciamendes-pt/",
           "text":"patriciamendes-pt"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Patrick"],
+        "host": ["Léonie"],
+        "guest": ["Michelle Chu"]
+      }
     },
     {
       "datetime":"September 24, 2026 11:00 UTC",
@@ -282,7 +342,12 @@
           "url":"https://www.linkedin.com/in/karimotisiaka/",
           "text":"karimotisiaka"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Patrick"],
+        "host": ["Léonie"],
+        "guest": ["Michelle Chu"]
+      }
     },
     {
       "datetime":"September 24, 2026 12:00 UTC",
@@ -298,7 +363,12 @@
           "url":"https://scaleda11y.com/",
           "text":"scaleda11y.com"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Patrick"],
+        "host": ["Ian"],
+        "guest": ["Natalie Patrice Tucker"]
+      }
     },
     {
       "datetime":"September 24, 2026 13:00 UTC",
@@ -314,7 +384,12 @@
           "url":"https://www.linkedin.com/in/veronica-morales-beltran/",
           "text":"veronica-morales-beltran"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Patrick"],
+        "host": ["Ian"],
+        "guest": ["Natalie Patrice Tucker"]
+      }
     },
     {
       "datetime":"September 24, 2026 14:00 UTC",
@@ -335,7 +410,12 @@
           "url":"https://www.linkedin.com/in/wilcofiers/",
           "text":"wilcofiers"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Patrick"],
+        "host": ["Ian"],
+        "guest": ["Florence Okoye"]
+      }
     },
     {
       "datetime":"September 24, 2026 15:00 UTC",
@@ -356,7 +436,12 @@
           "url":"https://social.ei8fdb.org/@lendo",
           "text":"@lendo@ocial.ei8fdb.org"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Patrick"],
+        "host": ["Adrian"],
+        "guest": ["Florence Okoye"]
+      }
     },
     {
       "datetime":"September 24, 2026 16:00 UTC",
@@ -372,7 +457,12 @@
           "url":"https://www.linkedin.com/in/rebecca-adda-7120231a3/",
           "text":"rebecca-adda-7120231a3"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Patrick"],
+        "host": ["Adrian"],
+        "guest": ["Layshi Curbelo"]
+      }
     },
     {
       "datetime":"September 24, 2026 17:00 UTC",
@@ -398,7 +488,12 @@
           "url":"https://www.youtube.com/watch?v=PFkS46_SlJI",
           "text":"YouTube: Meet Sherry Shannon"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Ian"],
+        "host": ["Adrian"],
+        "guest": ["Layshi Curbelo"]
+      }
     },
     {
       "datetime":"September 24, 2026 18:00 UTC",
@@ -414,7 +509,12 @@
           "url":"https://www.micheljoanisse.ca/",
           "text":"micheljoanisse.ca"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Ian"],
+        "host": [],
+        "guest": ["Layshi Curbelo"]
+      }
     },
     {
       "datetime":"September 24, 2026 19:00 UTC",
@@ -431,7 +531,12 @@
           "url":"https://nevin.bednarz.dev/",
           "text":"nevin.bednarz.dev"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Eric"],
+        "host": ["Léonie"],
+        "guest": ["Kai Wong"]
+      }
     },
     {
       "datetime":"September 24, 2026 20:00 UTC",
@@ -452,7 +557,12 @@
           "url":"https://www.linkedin.com/in/hitomiyokota/",
           "text":"hitomiyokota"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Eric"],
+        "host": ["Léonie"],
+        "guest": ["Kai Wong"]
+      }
     },
     {
       "datetime":"September 24, 2026 21:00 UTC",
@@ -473,7 +583,12 @@
           "url":"https://www.linkedin.com/in/leonie-theissen-699786189",
           "text":"leonie-theissen-699786189"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Patrick"],
+        "host": ["Hans"],
+        "guest": ["Kai Wong"]
+      }
     },
     {
       "datetime":"September 24, 2026 22:00 UTC",
@@ -489,7 +604,12 @@
           "url":"https://www.linkedin.com/in/nehapandit007/",
           "text":"nehapandit007"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Patrick"],
+        "host": ["Eric"],
+        "guest": ["Maya Sellon"]
+      }
     },
     {
       "datetime":"September 24, 2026 23:00 UTC",
@@ -505,13 +625,23 @@
           "url":"https://crystalprestonwatson.com/",
           "text":"crystalprestonwatson.com"
         }
-      ]
+      ],
+      "hosts": {
+        "tech": ["Patrick"],
+        "host": ["Adrian"],
+        "guest": ["Maya Sellon"]
+      }
     },
     {
 			"datetime":"September 25, 2026 00:00 UTC",
 			"title":"The after party / closing",
 			"description":"<p>Your hosts will discuss their favourite sessions from the last 24 hours, and might have a drink or two!</p>",
-			"videoId":"LScoJqy4GVU"
+			"videoId":"LScoJqy4GVU",
+      "hosts": {
+        "tech": ["Patrick"],
+        "host": ["Patrick"],
+        "guest": []
+      }
 		}
   ]
 }
