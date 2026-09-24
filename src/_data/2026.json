@@ -586,7 +586,7 @@
       ],
       "hosts": {
         "tech": ["Patrick"],
-        "host": ["Hans"],
+        "host": ["Patrick"],
         "guest": ["Kai Wong"]
       }
     },
