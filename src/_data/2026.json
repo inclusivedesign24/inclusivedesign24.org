@@ -367,7 +367,7 @@
       "hosts": {
         "tech": ["Patrick"],
         "host": ["Ian"],
-        "guest": ["Natalie Patrice Tucker"]
+        "guest": [""]
       }
     },
     {
@@ -388,7 +388,7 @@
       "hosts": {
         "tech": ["Patrick"],
         "host": ["Ian"],
-        "guest": ["Natalie Patrice Tucker"]
+        "guest": ["Adrian"]
       }
     },
     {
@@ -512,7 +512,7 @@
       ],
       "hosts": {
         "tech": ["Ian"],
-        "host": ["Léonie"],
+        "host": ["Adrian"],
         "guest": ["Layshi Curbelo"]
       }
     },
@@ -560,7 +560,7 @@
       ],
       "hosts": {
         "tech": ["Eric"],
-        "host": ["Léonie"],
+        "host": ["Adrian"],
         "guest": ["Kai Wong"]
       }
     },
